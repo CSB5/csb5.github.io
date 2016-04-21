@@ -1,64 +1,65 @@
 /*
-	Striped by HTML5 UP
+	Verti by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-form input[type="text"],
-form input[type="email"],
-form input[type="password"],
-form select,
-form textarea {
-	position: relative;
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");}
+/* Basic */
 
-input[type="button"],
-input[type="submit"],
-input[type="reset"],
-button,
-.button {
-	position: relative;
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");}
+	body {
+		background-color: #f0f0f0;
+	}
 
-.pagination .pages a {
-	position: relative;
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");
-}
+/* Image */
 
-.box.calendar td a, .box.calendar td span {
-	position: relative;
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");
-}
-
-.box.text-style1 .inner {
-	position: relative;
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");
-}
-
-#nav li a {
-	position: relative;
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");
-}
-
-.box.post .info {
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");
-}
-
-	.box.post .info .stats li a {
+	.image img {
 		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+/* Button */
+
+	input[type="button"],
+	input[type="submit"],
+	input[type="reset"],
+	.button,
+	button {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+/* Widgets */
+
+	.box,
+	.widget.contact ul li a {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+/* Header */
+
+	#logo h1 {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+/* Nav */
+
+	#nav ul li a, #nav ul li span {
+		position: relative;
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+	.dropotron {
+		border: solid 1px #eee;
 		box-shadow: none !important;
 		-ms-behavior: url("assets/js/ie/PIE.htc");
 	}
 
-#logo {
-	position: relative;
-	box-shadow: none !important;
-	-ms-behavior: url("assets/js/ie/PIE.htc");
-}
+		.dropotron.level-0 {
+			box-shadow: none !important;
+		}
+
+			.dropotron.level-0:before {
+				display: none;
+			}
