@@ -87,7 +87,7 @@
                 <img src="img/slides/3_group_photo.jpg" alt="" />
                 <div class="flex-caption">
                     <h3>Join Us</h3> 
-					<p>For internship, PhD and post-doctoral fellowships</p> 
+					<p>For internships, PhD and post-doctoral fellowships</p> 
 					<a href="#" class="btn btn-theme">Learn More</a>
                 </div>
               </li>
@@ -129,7 +129,7 @@
 		<div class="row">
 			<div class="col-lg-7">
 				  <h2><span>Welcome!</span></h2>
-				We are a group of computational and experimental researchers that are passionate about developing analytical tools and genomic technologies for the study of human diseases. We design robust, effective algorithms for analyzing massive genomic datasets, drawning on ideas from combinatorics, computational statistics and graph theory. An application area of particul interest is in the study of microbial communities resident in the human body and their role in human health and diseases. We draw on systems-biology approaches to understand the dynamics of microbial communities and their interaction with the host. Our goal is to identify biomarkers and therapies that restore the balance between host and microbiota.	
+				We are a group of computational and experimental researchers that are passionate about developing analytical tools and genomic technologies for the study of human diseases. We design robust, effective algorithms for analyzing massive genomic datasets, drawing on ideas from combinatorics, computational statistics and graph theory. An application area of particul interest is in the study of microbial communities resident in the human body and their role in human health and diseases. We leverage systems-biology approaches to understand the dynamics of microbial communities and their interaction with the host. Our goal is to identify biomarkers and therapies that restore the balance between host and microbiota.	
 			</div>
 			<div class="col-lg-5">
 			  <div class="alert alert-info">
