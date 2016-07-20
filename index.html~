@@ -96,7 +96,7 @@
 	<!-- end slider -->
 			</div>
 			<div class="col-lg-3">
-				<div class="widget">
+				<div style="width: 200px; height: 100px; overflow-y:scroll;">
 					<h5 class="widgetheading">Latest News</h5>
 					<ul class="recent">
 						<li>
@@ -109,6 +109,16 @@
 						<font color="red"><h10>April 15th 2016</h10></font>
 						<h6>GraphMap in Nature Comms</h6>
 						<h14><a href="http://www.nature.com/ncomms/2016/160415/ncomms11307/full/ncomms11307.html">read more</a></h14> 
+						</li>
+						<li>						
+						<img src="img/news/klebsiella.jpg" height="65" width="65" class="pull-left" alt="" />
+						<font color="red"><h10>April 1st 2016</h10></font>
+						<h6>CREM study launched</h6>
+						</li>
+						<li>						
+						<img src="img/news/klebsiella.jpg" height="65" width="65" class="pull-left" alt="" />
+						<font color="red"><h10>April 1st 2016</h10></font>
+						<h6>CREM study launched</h6>
 						</li>
 						<li>						
 						<img src="img/news/klebsiella.jpg" height="65" width="65" class="pull-left" alt="" />
@@ -229,7 +239,7 @@
 						<span class="overlay-img-thumb font-icon-plus"></span>
 						</a>
 						<!-- Thumb Image and Description -->
-						<img src="presentations/graphmap.pdf" alt="GraphMap">
+						<img src="presentations/graphmap.jpg" alt="GraphMap">
 						</div>
 						</li>
 						<!-- End Item Project -->
@@ -241,7 +251,7 @@
 						<span class="overlay-img-thumb font-icon-plus"></span>
 						</a>
 						<!-- Thumb Image and Description -->
-						<img src="presentations/malassezia.pdf" alt="Skin Mycobiome">
+						<img src="presentations/malassezia.jpg" alt="Skin Mycobiome">
 						</li>
 						<!-- End Item Project -->
 					</ul>
