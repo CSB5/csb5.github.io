@@ -103,13 +103,13 @@
 		<table style="width:100%">
 		  <tr>						
 		    <td><img src="img/news/AD.jpg" height="65" width="65" class="pull-left" alt="" /></td>
-		    <td><font color="red"><h10>May 12th 2016</h10></font>
+		    <td><font color="red"><h10>July 11th 2016</h10></font>
 		      <h6>Eczema microbiome study in Nature Microbiology
 		      <a href="http://www.nature.com/articles/nmicrobiol2016106">read more</a></h6>
 		    </td>
 		  </tr>
 		  <tr>						
-		    <td><img src="img/news/EBioMedicine.png" height="65" width="65" class="pull-left" alt="" /></td>
+		    <td><img src="img/news/EBioMedicine.jpg" height="65" width="65" class="pull-left" alt="" /></td>
 		    <td><font color="red"><h10>June 6th 2016</h10></font>
 		      <h6>Cancer microbiome study in EBioMedicine
 		      <a href="http://www.ebiomedicine.com/article/S2352-3964(16)30177-3/abstract">read more</a></h6>

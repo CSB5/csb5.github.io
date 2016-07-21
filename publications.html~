@@ -74,838 +74,420 @@
 	<!-- add page specific text here -->
 
 	<section id="content">
-	  <div class="container">
-	    
-	    <h5>2016</h5>
+	  <div class="container">	    
+
+	    <h4>2016</h4>
 	    <ol>
+
               <li>
 		Sović I, Šikić M, Wilm A, Fenlon SN, Chen S, <b>Nagarajan N<sup>#</sup></b> "Fast and sensitive mapping of nanopore sequencing reads with GraphMap." <i>Nat Commun</i> 2016 ; 7 : 11307 
                 <br/>                                
                 <a href='http://www.ncbi.nlm.nih.gov/pubmed/27079541?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-              </li>
+              </li>&nbsp;
+	      
               <li>
 		Lim KM, Li C, Chng KR, <b>Nagarajan N<sup>#</sup></b> "@MInter: automated text-mining of microbial interactions." <i>Bioinformatics</i> 2016 Jun 16  Epub 2016 Jun 16 
                 <br />                                
                 <a href='http://www.ncbi.nlm.nih.gov/pubmed/27312413?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-	      </li>
+	      </li>&nbsp;
+
 	      <li>
 		Li C, Lim KM, Chng KR, <b>Nagarajan N<sup>#</sup></b> "Predicting microbial interactions through computational approaches." <i>Methods</i> 2016 Jun 1 ; 102 : 12-9  Epub 2016 Mar 26 
               <br />                                
               <a href='http://www.ncbi.nlm.nih.gov/pubmed/27025964?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-              </li>
+              </li>&nbsp;
+
 	      <li>
-		Aw JG, Shen Y, Wilm A, Sun M, Lim XN, Boon KL, Tapsin S, Chan YS, Tan CP, Sim AY, Zhang T, Susanto TT, Fu Z, <b>Nagarajan N<sup>#</sup></b>, Wan Y<sup>#</sup> "In Vivo Mapping of Eukaryotic RNA Interactomes Reveals Principles of Higher-Order Organization and Regulation." Mol Cell 2016 May 19 ; 62(4) : 603-17  Epub 2016 May 12 
+		Aw JG, Shen Y, Wilm A, Sun M, Lim XN, Boon KL, Tapsin S, Chan YS, Tan CP, Sim AY, Zhang T, Susanto TT, Fu Z, <b>Nagarajan N<sup>#</sup></b>, Wan Y<sup>#</sup> "In Vivo Mapping of Eukaryotic RNA Interactomes Reveals Principles of Higher-Order Organization and Regulation." <i>Mol Cell</i> 2016 May 19 ; 62(4) : 603-17  Epub 2016 May 12 
                 <br />                                
                 <a href='http://www.ncbi.nlm.nih.gov/pubmed/27184079 ?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Gao S, Bertrand D, Chia BK, <b>Nagarajan N<sup>#</sup></b> "OPERA-LG: efficient and exact scaffolding of large, repeat-rich eukaryotic genomes with performance guarantees." Genome Biol 2016 ; 17(1) : 102  Epub 2016 May 11 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/27169502?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Yamamoto Y, Wang X, Bertrand D, Kern F, Zhang T, Duleba M, Srivastava S, Khor CC, Hu Y, Wilson LH, Blaszyk H, Rolshud D, Teh M, Liu J, Howitt BE, Vincent M, Crum CP, <b>Nagarajan N</b>, Ho KY, McKeon F, Xian W "Mutational spectrum of Barrett\'s stem cells suggests paths to initiation of a precancerous lesion." Nat Commun 2016 ; 7 : 10380 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/ 26783136?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Verzotto D, M Teo AS, Hillmer AM, <b>Nagarajan N<sup>#</sup></b> "OPTIMA: sensitive and accurate whole-genome alignment of error-prone genomic maps by combinatorial indexing and technology-agnostic statistical analysis." Gigascience 2016 ; 5 : 2  Epub 2016 Jan 19 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26793302?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Chng KR, Tay ASL, Li C, Ng AHQ, Wang J, Suri BK, Matta AS, McGovern N, Janela B, Wong XFC, Sio YY, Au BV, Wilm A, De Sessions PF, Lim TC, Tang MBY, Ginhoux F, Connolly JE, Lane EB, Chew FT, Common JEA<sup>#</sup>,  <b>Nagarajan N<sup>#</sup></b> "Whole metagenome profiling reveals skin microbiome-dependent susceptibility to atopic dermatitis flare" Nat Microbiol 2016 
-                                            <br />                                
-                                            <a href='Whole metagenome analysis has the potential to reveal functional triggers of skin diseases, but issues of cost, robustness and sampling efficacy have limited its application. Here, we have established an alternative, clinically practical and robust metagenomic analysis protocol and applied it to 80 skin microbiome samples epidemiologically stratified for atopic dermatitis (AD). We have identified distinct non-flare, baseline skin microbiome signatures enriched for Streptococcus and Gemella but depleted for Dermacoccus in AD-prone versus normal healthy skin. Bacterial challenge assays using keratinocytes and monocyte-derived dendritic cells established distinct IL-1-mediated, innate and Th1-mediated adaptive immune responses with Staphylococcus aureus and Staphylococcus epidermidis. Bacterial differences were complemented by perturbations in the eukaryotic community and functional shifts in the microbiome-wide gene repertoire, which could exacerbate a dry and alkaline phenotype primed for pathogen growth and inflammation in AD-susceptible skin. These findings provide insights into how the skin microbial community, skin surface microenvironment and immune system cross-modulate each other, escalating the destructive feedback cycle between them that leads to AD flare.' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Chng KR, Chan SH, Ng AHQ, Li C, Jusakul A, Bertrand D, Wilm A, Choo SP, Tan DMY, Lim KH, Soetinko R, Ong CK, Duda DG, Dima S, Popescu I, Wongkham C, Feng Z, Yeoh KH, Teh BT, Yongvanit P, Wongkham S,  Bhudhisawasdi V, Khuntikeo N, Tan P, Pairojkul C<sup>#</sup>, Ngeow J<sup>#</sup>,  <b>Nagarajan N<sup>#</sup></b> "Tissue microbiome profiling identifies an enrichment of specific enteric bacteria In Opisthorchis viverrini associated cholangiocarcinoma" EBioMedicine 2016 8:12-13 
-                                            <br />                                
-                                            &nbsp;                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Bertrand D, Chng KR, Sherbaf FG, Kiesel A, Chia BK, Sia YY, Huang SK, Hoon DS, Liu ET, Hillmer A, <b>Nagarajan N<sup>#</sup></b> "Patient-specific driver gene prediction and risk assessment through integrated network analysis of cancer omics profiles." <i>Nucleic Acids Res</i> 2015 Jan 8 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25572314?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Yao F, Kausalya JP, Sia YY, Teo AS, Lee WH, Ong AG, Zhang Z, Tan JH, Li G, Bertrand D, Liu X, Poh HM, Guan P, Zhu F, Pathiraja TN, Ariyaratne PN, Rao J, Woo XY, Cai S, Mulawadi FH, Poh WT, Veeravalli L, Chan CS, Lim SS, Leong ST, Neo SC, Choi PS, Chew EG, <b>Nagarajan N</b>, Jacques PÉ, So JB, Ruan X, Yeoh KG, Tan P, Sung WK, Hunziker W, Ruan Y, Hillmer AM "Recurrent Fusion Genes in Gastric Cancer: CLDN18-ARHGAP26 Induces Loss of Epithelial Integrity." <i>Cell Rep</i> 2015 Jul 14 ; 12(2) : 272-85  Epub 2015 Jul 2 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26146084?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Tan IB, Malik S, Ramnarayanan K, McPherson JR, Ho DL, Suzuki Y, Ng SB, Yan S, Lim KH, Koh D, Hoe CM, Chan CY, Ten R, Goh BK, Chung AY, Tan J, Chan CX, Tay ST, Alexander L, <b>Nagarajan N</b>, Hillmer AM, Tang CL, Chua C, Teh BT, Rozen S, Tan P "High-depth sequencing of over 750 genes supports linear progression of primary tumors and metastases in most patients with liver-limited metastatic colorectal cancer." <i>Genome Biol</i> 2015 ; 16(1) : 32  Epub 2015 Feb 12 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25808843?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Wang X, Yamamoto Y, Wilson LH, Zhang T, Howitt BE, Farrow MA, Kern F, Ning G, Hong Y, Khor CC, Chevalier B, Bertrand D, Wu L, <b>Nagarajan N</b>, Sylvester FA, Hyams JS, Devers T, Bronson R, Lacy DB, Ho KY, Crum CP, McKeon F, Xian W "Cloning and variation of ground state intestinal stem cells." <i>Nature</i> 2015 Jun 11 ; 522(7555) : 173-8  Epub 2015 Jun 3 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26040716?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Verzotto D, Hillmer AM, Teo ASM, <b>Nagarajan N<sup>#</sup></b> "Index-based map-to-sequence alignment in large eukaryotic genomes." <i>RECOMB-Seq</i> 2015 http://biorxiv.org/content/early/2015/03/27/017194 
-                                            <br />                                
-                                            <a href='Resolution of complex repeat structures and rearrangements in the assembly and analysis of large eukaryotic genomes is often aided by a combination of high-throughput sequencing and mapping technologies (e.g. optical restriction mapping). In particular, mapping technologies can generate sparse maps of large DNA fragments (150 kbp--2 Mbp) and thus provide a unique source of information for disambiguating complex rearrangements in cancer genomes. Despite their utility, combining high-throughput sequencing and mapping technologies has been challenging due to the lack of efficient and freely available software for robustly aligning maps to sequences. Here we introduce two new map-to-sequence alignment algorithms that efficiently and accurately align high-throughput mapping datasets to large, eukaryotic genomes while accounting for high error rates. In order to do so, these methods (OPTIMA for glocal and OPTIMA-Overlap for overlap alignment) exploit the ability to create efficient data structures that index continuous-valued mapping data while accounting for errors. We also introduce an approach for evaluating the significance of alignments that avoids expensive permutation-based tests while being agnostic to technology-dependent error rates. Our benchmarking results suggest that OPTIMA and OPTIMA-Overlap outperform state-of-the-art approaches in sensitivity (1.6--2X improvement) while simultaneously being more efficient (170--200%) and precise in their alignments (99% precision). These advantages are independent of the quality of the data, suggesting that our indexing approach and statistical evaluation are robust and provide improved sensitivity while guaranteeing high precision.
+              </li>&nbsp;
+
+              <li>
+		Gao S, Bertrand D, Chia BK, <b>Nagarajan N<sup>#</sup></b> "OPERA-LG: efficient and exact scaffolding of large, repeat-rich eukaryotic genomes with performance guarantees." Genome Biol 2016 ; 17(1) : 102  Epub 2016 May 11 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/27169502?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+
+              <li>
+		Yamamoto Y, Wang X, Bertrand D, Kern F, Zhang T, Duleba M, Srivastava S, Khor CC, Hu Y, Wilson LH, Blaszyk H, Rolshud D, Teh M, Liu J, Howitt BE, Vincent M, Crum CP, <b>Nagarajan N</b>, Ho KY, McKeon F, Xian W "Mutational spectrum of Barrett\'s stem cells suggests paths to initiation of a precancerous lesion." Nat Commun 2016 ; 7 : 10380 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/ 26783136?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+
+	      <li>
+		Verzotto D, M Teo AS, Hillmer AM, <b>Nagarajan N<sup>#</sup></b> "OPTIMA: sensitive and accurate whole-genome alignment of error-prone genomic maps by combinatorial indexing and technology-agnostic statistical analysis." <i>GigaScience</i> 2016 ; 5 : 2  Epub 2016 Jan 19 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26793302?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;                                                      
+	
+	      <li>
+                Chng KR, Tay ASL, Li C, Ng AHQ, Wang J, Suri BK, Matta AS, McGovern N, Janela B, Wong XFC, Sio YY, Au BV, Wilm A, De Sessions PF, Lim TC, Tang MBY, Ginhoux F, Connolly JE, Lane EB, Chew FT, Common JEA<sup>#</sup>,  <b>Nagarajan N<sup>#</sup></b> "Whole metagenome profiling reveals skin microbiome-dependent susceptibility to atopic dermatitis flare" <i>Nat Microbiol</i> 2016 1:16106 doi:10.1038/nmicrobiol.2016.106 
+                <br />                                
+                <a href='Whole metagenome analysis has the potential to reveal functional triggers of skin diseases, but issues of cost, robustness and sampling efficacy have limited its application. Here, we have established an alternative, clinically practical and robust metagenomic analysis protocol and applied it to 80 skin microbiome samples epidemiologically stratified for atopic dermatitis (AD). We have identified distinct non-flare, baseline skin microbiome signatures enriched for Streptococcus and Gemella but depleted for Dermacoccus in AD-prone versus normal healthy skin. Bacterial challenge assays using keratinocytes and monocyte-derived dendritic cells established distinct IL-1-mediated, innate and Th1-mediated adaptive immune responses with Staphylococcus aureus and Staphylococcus epidermidis. Bacterial differences were complemented by perturbations in the eukaryotic community and functional shifts in the microbiome-wide gene repertoire, which could exacerbate a dry and alkaline phenotype primed for pathogen growth and inflammation in AD-susceptible skin. These findings provide insights into how the skin microbial community, skin surface microenvironment and immune system cross-modulate each other, escalating the destructive feedback cycle between them that leads to AD flare.' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+	    
+	      <li>
+		Chng KR, Chan SH, Ng AHQ, Li C, Jusakul A, Bertrand D, Wilm A, Choo SP, Tan DMY, Lim KH, Soetinko R, Ong CK, Duda DG, Dima S, Popescu I, Wongkham C, Feng Z, Yeoh KH, Teh BT, Yongvanit P, Wongkham S,  Bhudhisawasdi V, Khuntikeo N, Tan P, Pairojkul C<sup>#</sup>, Ngeow J<sup>#</sup>,  <b>Nagarajan N<sup>#</sup></b> "Tissue microbiome profiling identifies an enrichment of specific enteric bacteria In Opisthorchis viverrini associated cholangiocarcinoma" <i>EBioMedicine</i> 2016 8:12-13 
+              </li>&nbsp; 
+	    </ol>
+
+	    <h4>2015</h4>
+            <ol>
+	      <li>
+		Bertrand D, Chng KR, Sherbaf FG, Kiesel A, Chia BK, Sia YY, Huang SK, Hoon DS, Liu ET, Hillmer A, <b>Nagarajan N<sup>#</sup></b> "Patient-specific driver gene prediction and risk assessment through integrated network analysis of cancer omics profiles." <i>Nucleic Acids Res</i> 2015 Jan 8 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25572314?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+              
+	      <li>
+		Yao F, Kausalya JP, Sia YY, Teo AS, Lee WH, Ong AG, Zhang Z, Tan JH, Li G, Bertrand D, Liu X, Poh HM, Guan P, Zhu F, Pathiraja TN, Ariyaratne PN, Rao J, Woo XY, Cai S, Mulawadi FH, Poh WT, Veeravalli L, Chan CS, Lim SS, Leong ST, Neo SC, Choi PS, Chew EG, <b>Nagarajan N</b>, Jacques PÉ, So JB, Ruan X, Yeoh KG, Tan P, Sung WK, Hunziker W, Ruan Y, Hillmer AM "Recurrent Fusion Genes in Gastric Cancer: CLDN18-ARHGAP26 Induces Loss of Epithelial Integrity." <i>Cell Rep</i> 2015 Jul 14 ; 12(2) : 272-85  Epub 2015 Jul 2 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26146084?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+		Tan IB, Malik S, Ramnarayanan K, McPherson JR, Ho DL, Suzuki Y, Ng SB, Yan S, Lim KH, Koh D, Hoe CM, Chan CY, Ten R, Goh BK, Chung AY, Tan J, Chan CX, Tay ST, Alexander L, <b>Nagarajan N</b>, Hillmer AM, Tang CL, Chua C, Teh BT, Rozen S, Tan P "High-depth sequencing of over 750 genes supports linear progression of primary tumors and metastases in most patients with liver-limited metastatic colorectal cancer." <i>Genome Biol</i> 2015 ; 16(1) : 32  Epub 2015 Feb 12 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25808843?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+               
+	      <li>
+		Wang X, Yamamoto Y, Wilson LH, Zhang T, Howitt BE, Farrow MA, Kern F, Ning G, Hong Y, Khor CC, Chevalier B, Bertrand D, Wu L, <b>Nagarajan N</b>, Sylvester FA, Hyams JS, Devers T, Bronson R, Lacy DB, Ho KY, Crum CP, McKeon F, Xian W "Cloning and variation of ground state intestinal stem cells." <i>Nature</i> 2015 Jun 11 ; 522(7555) : 173-8  Epub 2015 Jun 3 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26040716?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+ 
+	      <li>
+		Verzotto D, Hillmer AM, Teo ASM, <b>Nagarajan N<sup>#</sup></b> "Index-based map-to-sequence alignment in large eukaryotic genomes." <i>RECOMB-Seq</i> 2015 http://biorxiv.org/content/early/2015/03/27/017194 
+                <br />                                
+                <a href='Resolution of complex repeat structures and rearrangements in the assembly and analysis of large eukaryotic genomes is often aided by a combination of high-throughput sequencing and mapping technologies (e.g. optical restriction mapping). In particular, mapping technologies can generate sparse maps of large DNA fragments (150 kbp--2 Mbp) and thus provide a unique source of information for disambiguating complex rearrangements in cancer genomes. Despite their utility, combining high-throughput sequencing and mapping technologies has been challenging due to the lack of efficient and freely available software for robustly aligning maps to sequences. Here we introduce two new map-to-sequence alignment algorithms that efficiently and accurately align high-throughput mapping datasets to large, eukaryotic genomes while accounting for high error rates. In order to do so, these methods (OPTIMA for glocal and OPTIMA-Overlap for overlap alignment) exploit the ability to create efficient data structures that index continuous-valued mapping data while accounting for errors. We also introduce an approach for evaluating the significance of alignments that avoids expensive permutation-based tests while being agnostic to technology-dependent error rates. Our benchmarking results suggest that OPTIMA and OPTIMA-Overlap outperform state-of-the-art approaches in sensitivity (1.6--2X improvement) while simultaneously being more efficient (170--200%) and precise in their alignments (99% precision). These advantages are independent of the quality of the data, suggesting that our indexing approach and statistical evaluation are robust and provide improved sensitivity while guaranteeing high precision.
 ' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
+              </li>&nbsp; 
+                                                         
+	      <li>
+		Sessions OM, Wilm A, Kamaraj US, Choy MM, Chow A, Chong Y, Ong XM, <b>Nagarajan N</b>, Cook AR, Ooi EE "Analysis of Dengue Virus Genetic Diversity during Human and Mosquito Infection Reveals Genetic Constraints." <i>PLoS Negl Trop Dis</i> 2015 Sep ; 9(9) : e0004044  Epub 2015 Sep 1 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26327586?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                                         
+	      <li>
+		Sim S, Aw PP, Wilm A, Teoh G, Hue KD, Nguyen NM, <b>Nagarajan N</b>, Simmons CP, Hibberd ML "Tracking Dengue Virus Intra-host Genetic Diversity during Human-to-Mosquito Transmission." <i>PLoS Negl Trop Dis</i> 2015 Sep ; 9(9) : e0004052  Epub 2015 Sep 1 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26325059?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+ 
+	      <li>
+                Do LA, Wilm A, van Doorn HR, Lam HM, Sim S, Sukumaran R, Tran AT, Nguyen BH, Tran TT, Tran QH, Vo QB, Tran Dac NA, Trinh HN, Nguyen TT, Le Binh BT, Le K, Nguyen MT, Thai QT, Vo TV, Ngo NQ, Dang TK, Cao NH, Tran TV, Ho LV, Farrar J, De Jong M, Chen S, <b>Nagarajan N</b>, Bryant JE, Hibberd ML "Direct whole-genome deep-sequencing of human respiratory syncytial virus A and B from Vietnamese children identifies distinct patterns of inter- and intra-host evolution." <i>J Gen Virol</i> 2015 Sep 25 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26407694?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+		Teo AS, Verzotto D, Yao F, <b>Nagarajan N</b>, Hillmer AM "Single-molecule optical genome mapping of a human HapMap and a colorectal cancer cell line." <i>GigaScience</i> 2015 ; 4 : 65  Epub 2015 Dec 29 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26719794?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+
+	      <li>
+		Wu G, Zhao H, Li C, Rajapakse MP, Wong WC, Xu J, Saunders CW, Reeder NL, Reilman RA, Scheynius A, Sun S, Billmyre BR, Li W, Averette AF, Mieczkowski P, Heitman J, Theelen B, Schröder MS, De Sessions PF, Butler G, Maurer-Stroh S, Boekhout T, <b>Nagarajan N<sup>#</sup></b>, Dawson TL<sup>#</sup> "Genus-Wide Comparative Genomics of Malassezia Delineates Its Phylogeny, Physiology, and Niche Adaptation on Human Skin." <i>PLoS Genet</i> 2015 Nov ; 11(11) : e1005614  Epub 2015 Nov 5 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26539826?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+              
+	      <li>
+		Yamamoto Y, Ning G, Howitt BE, Mehra K, Wu L, Wang X, Hong Y, Kern F, Wei TS, Zhang T, <b>Nagarajan N</b>, Basuli D, Torti S, Brewer M, Choolani M, McKeon F, Crum CP, Xian W "In Vitro and In Vivo Correlates of Physiologic and Neoplastic Human Fallopian Tube Stem Cells." <i>J Pathol</i> 2015 Sep 28 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/26415052?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;                         
+	      </ol>
+
+	    <h4>2014</h4>
+	    <ol>
+
+	      <li>
+		Aw PP, de Sessions PF, Wilm A, Hoang LT, <b>Nagarajan N</b>, Sessions OM, Hibberd ML "Next-generation whole genome sequencing of dengue virus." <i>Methods Mol Biol</i> 2014 ; 1138 : 175-95 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/24696338?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                                         
+	      <li>
+		Wang S, Chng KR, Wilm A, Zhao S, Yang KL, <b>Nagarajan N<sup>#</sup></b>, He J<sup>#</sup> "Genomic characterization of three unique Dehalococcoides that respire on persistent polychlorinated biphenyls." <i>Proc Natl Acad Sci</i> USA 2014 Jul 15 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25028492?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+		Young ND*, <b>Nagarajan N*</b>, Lin SJ, Korhonen PK, Jex AR, Hall RS, Safavi-Hemami H, Kaewkong W, Bertrand D, Gao S, Seet Q, Wongkham S, Teh BT, Wongkham C, Intapan PM, Maleewong W, Yang X, Hu M, Wang Z, Hofmann A, Sternberg PW, Tan P, Wang J, Gasser RB "The Opisthorchis viverrini genome provides insights into life in the bile duct." <i>Nat Commun</i> 2014 ; 5 : 4378 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25007141?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+ 
+	      <li>
+		Inaki K, Menghi F, Woo XY, Wagner JP, Jacques PE, Lee YF, Shreckengast PT, Soon WW, Malhotra A, Teo AS, Hillmer AM, Khng AJ, Ruan X, Ong SH, Bertrand D, <b>Nagarajan N</b>, Karuturi RK, Hidalgo Miranda A, Liu ET "Systems consequences of amplicon formation in human breast cancer." <i>Genome Res</i> 2014 Sep 3 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25186909?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
+                                 
+	      <li>
+		Wang S, Chng KR, Wu C, Wilm A, <b>Nagarajan N</b>, He J "Draft Genome Sequence of Polychlorinated Biphenyl-Dechlorinating Dehalococcoides mccartyi Strain SG1, Which Carries a Circular Putative Plasmid." <i>Genome Announc</i> 2014 ; 2(5) : 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25278523?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+		Hong LZ, Hong S, Wong H, Aw P, Yan C, Wilm A, de Sessions PF, Lim S, <b>Nagarajan N</b>, Hibberd ML, Quake SR, Burkholder WF "BAsE-Seq: a method for obtaining long viral haplotypes from short sequence reads." <i>Genome Biol</i> 2014 Nov 19 ; 15(11) : 517  Epub 2014 Nov 19 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25406369?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                                         
+	      <li>
+		Luo H, Li J, Chia BK, Robson P, <b>Nagarajan N<sup>#</sup></b> "The importance of study design for detecting differentially abundant features in high-throughput experiments." <i>Genome Biol</i> 2014 ; 15(12) : 527  Epub 2014 Dec 3 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/25517037?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+            </ol>  
+              
+	    <h4>2013</h4>
+	    <ol>
+	      <li>
+		<b>Nagarajan N</b>, Pop M "Sequence assembly demystified." <i>Nat Rev Genet</i> 2013 Jan 29  Epub 2013 Jan 29 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/23358380?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+		Ong SH, Kukkillaya VU, Wilm A, Lay C, Ho EX, Low L, Hibberd ML, <b>Nagarajan N<sup>#</sup></b> "Species Identification and Profiling of Complex Microbial Communities Using Shotgun Illumina Sequencing of 16S rRNA Amplicon Sequences." <i>PLoS One</i> 2013 ; 8(4) : e60811  Epub 2013 Apr 8 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/23579286?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp;
                                 
-				    <li>
-				      <td align="justify">
-                                            
-                                            Sessions OM, Wilm A, Kamaraj US, Choy MM, Chow A, Chong Y, Ong XM, <b>Nagarajan N</b>, Cook AR, Ooi EE "Analysis of Dengue Virus Genetic Diversity during Human and Mosquito Infection Reveals Genetic Constraints." <i>PLoS Negl Trop Dis</i> 2015 Sep ; 9(9) : e0004044  Epub 2015 Sep 1 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26327586?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
+	      <li>
+		Bishop-Lilly KA, Ge H, Butani A, Osborne B, Verratti K, Mokashi V, <b>Nagarajan N</b>, Pop M, Read TD, Richards AL "Genome Sequencing of Four Strains of Rickettsia prowazekii, the Causative Agent of Epidemic Typhus, Including One Flying Squirrel Isolate." <i>Genome Announc</i> 2013 ; 1(3) : 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/23814035?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                                          
+	      <li>
+		<b>Nagarajan N</b>, Navajas-Pérez R "Papaya Repeat Database."  <i>Genetics and Genomics of Papaya</i> 2013, 225-240 
+                <br />                                
+                </li>&nbsp;                                          
+	    </ol>
+
+	    <h4>2012</h4>
+	    <ol>                                     
+	      <li>
+		Ng KP, Hillmer AM, Chuah CT, Juan WC, Ko TK, Teo AS, Ariyaratne PN, Takahashi N, Sawada K, Fei Y, Soh S, Lee WH, Huang JW, Allen JC, Woo XY, <b>Nagarajan N</b>, Kumar V, Thalamuthu A, Poh WT, Ang AL, Mya HT, How GF, Yang LY, Koh LP, Chowbay B, Chang CT, Nadarajan VS, Chng WJ, Than H, Lim LC, Goh YT, Zhang S, Poh D, Tan P, Seet JE, Ang MK, Chau NM, Ng QS, Tan DS, Soda M, Isobe K, Nöthen MM, Wong TY, Shahab A, Ruan X, Cacheux-Rataboul V, Sung WK, Tan EH, Yatabe Y, Mano H, Soo RA, Chin TM, Lim WT, Ruan Y, Ong ST "A common BIM deletion polymorphism mediates intrinsic resistance and inferior responses to tyrosine kinase inhibitors in cancer." <i>Nat Med</i> 2012 ; 18(4) : 521-8  Epub 2012 Mar 18 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/22426421?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
                                 
-				    <li>
-				      <td align="justify">
+	      <li>
+		Zang ZJ, Cutcutache I, Poon SL, Zhang SL, McPherson JR, Tao J, Rajasegaran V, Heng HL, Deng N, Gan A, Lim KH, Ong CK, Huang D, Chin SY, Tan IB, Ng CC, Yu W, Wu Y, Lee M, Wu J, Poh D, Wan WK, Rha SY, So J, Salto-Tellez M, Yeoh KG, Wong WK, Zhu YJ, Futreal PA, Pang B, Ruan Y, Hillmer AM, Bertrand D, <b>Nagarajan N</b>, Rozen S, Teh BT, Tan P "Exome sequencing of gastric adenocarcinoma identifies recurrent somatic mutations in cell adhesion and chromatin remodeling genes." <i>Nat Genet</i> 2012 Apr 8  Epub 2012 Apr 8 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/22484628?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+		Lam ET, Hastie A, Lin C, Ehrlich D, Das SK, Austin MD, Deshpande P, Cao H, <b>Nagarajan N</b>, Xiao M, Kwok PY "Genome mapping on nanochannel arrays for structural variation analysis and sequence assembly." <i>Nat Biotechnol</i> 2012 Jul 15  Epub 2012 Jul 15 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/22797562?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+		Nguyet NM, Chau TN, Lam PK, Kien DT, Huy HL, Farrar J, Quyen TH, Hien TT, Van Vinh Chau N, Merson L, Long HT, Hibberd ML, Aw PP, Wilm A, <b>Nagarajan N</b>, Dung NT, Mai PP, Truong NT, Javanbaht H, Klumpp K, Hammond J, Petric R, Wolbers M, Chinh NT, Simmons CP "A randomized, double-blind placebo controlled trial of balapiravir, a polymerase inhibitor, in adult dengue patients." <i>J Infect Dis</i> 2012 Jul 17 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/22807519?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+                Gao S, Bertrand D, <b>Nagarajan N<sup>#</sup></b> (2012) "FinIS: Improved in silico finishing using an exact quadratic programming formulation." <i>WABI</i> 2012 and <i>Algorithms in Bioinformatics</i> 7534:314-325 
+                <br />                                
+              </li>&nbsp; 
+                                              
+	      <li>
+		Wilm A, Aw PP, Bertrand D, Yeo GH, Ong SH, Wong CH, Khor CC, Petric R, Hibberd ML, <b>Nagarajan N<sup>#</sup></b> "LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering cell-population heterogeneity from high-throughput sequencing datasets." <i>Nucleic Acids Res</i> 2012 Oct 12 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/23066108?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+		Yao F, Ariyaratne PN, Hillmer AM, Lee WH, Li G, Teo AS, Woo XY, Zhang Z, Chen JP, Poh WT, Zawack KF, Chan CS, Leong ST, Neo SC, Choi PS, Gao S, <b>Nagarajan N</b>, Thoreau H, Shahab A, Ruan X, Cacheux-Rataboul V, Wei CL, Bourque G, Sung WK, Liu ET, Ruan Y "Long Span DNA Paired-End-Tag (DNA-PET) Sequencing Strategy for the Interrogation of Genomic Structural Mutations and Fusion-Point-Guided Reconstruction of Amplicons." <i>PLoS One</i> 2012 ; 7(9) : e46152  Epub 2012 Sep 28 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/23029419?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+		Xu Q, Chen LL, Ruan X, Chen D, Zhu A, Chen C, Bertrand D, Jiao WB, Hao BH, Lyon MP, Chen J, Gao S, Xing F, Lan H, Chang JW, Ge X, Lei Y, Hu Q, Miao Y, Wang L, Xiao S, Biswas MK, Zeng W, Guo F, Cao H, Yang X, Xu XW, Cheng YJ, Xu J, Liu JH, Luo OJ, Tang Z, Guo WW, Kuang H, Zhang HY, Roose ML, <b>Nagarajan N</b>, Deng XX, Ruan Y "The draft genome of sweet orange (Citrus sinensis)." <i>Nat Genet</i> 2012 Dec 16 ; 45(1) : 59-66  Epub 2012 Nov 25 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/23179022?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+		<b>Nagarajan N<sup>#</sup></b>, Bertrand D*, Hillmer AM*, Zang ZJ*, Yao F, Jacques PE, Teo AS, Cutcutache I, Zhang Z, Lee WH, Sia YY, Gao S, Ariyaratne PN, Ho A, Woo XY, Veeravali L, Ong CK, Deng N, Desai KV, Khor CC, Hibberd ML, Shahab A, Rao J, Wu M, Teh M, Zhu F, Chin SY, Pang B, So JB, Bourque G, Soong R, Sung WK, Teh BT, Rozen S, Ruan X, Yeoh KG, Tan PB<sup>#</sup>, Ruan Y<sup>#</sup> "Whole-genome reconstruction and mutational signatures in gastric cancer." <i>Genome Biol</i> 2012 Dec 13 ; 13(12) : R115  Epub 2012 Dec 13 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/23237666?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+            </ol>
+
+	    <h4>2011</h4>
+	    <ol>
+	      <li>
+		Hillmer AM, Yao F, Inaki K, Lee WH, Ariyaratne PN, Teo AS, Woo XY, Zhang Z, Zhao H, Ukil L, Chen JP, Zhu F, So JB, Salto-Tellez M, Poh WT, Zawack KF, <b>Nagarajan N</b>, Gao S, Li G, Kum ar V, Lim HP, Sia YY, Chan CS, Leong ST, Neo SC, Choi PS, Thoreau H, Tan PB, Shahab A, Ruan X, Bergh J, Hall P, Cacheux-Rataboul V, Wei CL, Yeoh KG, Sung WK, Bourque G, Liu ET, Ruan Y "Comprehensive long-span paired-end-tag mapping reveals characteristic patterns of structural variations in epithelial cancer genomes." <i>Genome Res</i> 2011 May ; 21(5) : 665-75  Epub 2011 Apr 5 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/21467267?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+		Gao S, Sung WK, <b>Nagarajan N<sup>#</sup></b> "Opera: Reconstructing Optimal Genomic Scaffolds with High-Throughput Paired-End Sequences." <i>J Comput Biol</i> 2011 Sep 19 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/21929371?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+            </ol>
+
+	    <h4>2010</h4>                         
+            <ol>         
+	      <li>
+		Chen PE, Cook C, Stewart AC, <b>Nagarajan N</b>, Sommer DD, Pop M, Thomason B, Kiley MP, Lentz S, Nolan N, Sozhamannan S, Sulakvelidze A, Mateczun A, Du L, Zwick ME, Read TD "Genomic characterization of the Yersinia genus." <i>Genome Biol</i> 2010 Jan 4 ; 11(1) : R1  Epub 2010 Jan 4 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/20047673?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+                White JR, Navlakha S, <b>Nagarajan N</b>, Ghodsi MR, Kingsford C, Pop M "Alignment and clustering of phylogenetic markers - implications for microbial diversity studies." <i>BMC Bioinformatics</i> 2010 Mar 24 ; 11(1) : 152  Epub 2010 Mar 24 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/20334679?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+              
+	      <li>
+		<b>Nagarajan N</b>, Cook C, Di Bonaventura M, Ge H, Richards A, Bishop-Lilly KA, Desalle R, Read TD, Pop M "Finishing genomes with limited resources: lessons from an ensemble of microbial genomes." <i>BMC Genomics</i> 2010 Apr 16 ; 11(1) : 242  Epub 2010 Apr 16 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/20398345?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+		<b>Nagarajan N</b>, Pop M "Sequencing and genome assembly using next-generation technologies." <i>Methods Mol Biol</i> 2010 ; 673 : 1-17 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/20835789?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+                                              
+	      <li>
+		<b>Nagarajan N<sup>#</sup></b>, Kingsford C "GiRaF: robust, computational identification of influenza reassortments via graph mining." <i>Nucleic Acids Res</i> 2010 Dec 21 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/21177643?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+              </li>&nbsp; 
+            </ol>
+	    
+	    <h4>2009 and earlier </h4>
+	    <ol>
+	    <li>
+		Kingsford C*, <b>Nagarajan N*</b>, Salzberg SL "2009 Swine-origin influenza A (H1N1) resembles previous influenza isolates." <i>PLoS ONE</i> 2009 ; 4(7) : e6402  Epub 2009 Jul 28. 
+                <br />                                
+                <a href='http://www.ncbi.nlm.nih.gov/pubmed/19636415?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
+            
+	    <li>
+	      <b>Nagarajan N</b>, Pop M "Parametric complexity of sequence assembly: theory and applications to next generation sequencing." <i>J Comput Biol</i> 2009 Jul ; 16(7) : 897-908 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/19580519?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Sim S, Aw PP, Wilm A, Teoh G, Hue KD, Nguyen NM, <b>Nagarajan N</b>, Simmons CP, Hibberd ML "Tracking Dengue Virus Intra-host Genetic Diversity during Human-to-Mosquito Transmission." <i>PLoS Negl Trop Dis</i> 2015 Sep ; 9(9) : e0004052  Epub 2015 Sep 1 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26325059?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      Di Bonaventura MP, DeSalle R, Pop M, <b>Nagarajan N</b>, Figurski DH, Fine DH, Kaplan JB, Planet PJ "Complete genome sequence of Aggregatibacter (Haemophilus) aphrophilus NJ8700." <i>J Bacteriol</i> 2009 Jul ; 191(14) : 4693-4  Epub 2009 May 15 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/19447908?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Do LA, Wilm A, van Doorn HR, Lam HM, Sim S, Sukumaran R, Tran AT, Nguyen BH, Tran TT, Tran QH, Vo QB, Tran Dac NA, Trinh HN, Nguyen TT, Le Binh BT, Le K, Nguyen MT, Thai QT, Vo TV, Ngo NQ, Dang TK, Cao NH, Tran TV, Ho LV, Farrar J, De Jong M, Chen S, <b>Nagarajan N</b>, Bryant JE, Hibberd ML "Direct whole-genome deep-sequencing of human respiratory syncytial virus A and B from Vietnamese children identifies distinct patterns of inter- and intra-host evolution." <i>J Gen Virol</i> 2015 Sep 25 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26407694?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      White JR, <b>Nagarajan N</b>, Pop M "Statistical methods for detecting differentially abundant features in clinical metagenomic samples." <i>PLoS Comput Biol</i> 2009 Apr ; 5(4) : e1000352  Epub 2009 Apr 10 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/19360128?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Teo AS, Verzotto D, Yao F, <b>Nagarajan N</b>, Hillmer AM "Single-molecule optical genome mapping of a human HapMap and a colorectal cancer cell line." <i>Gigascience</i> 2015 ; 4 : 65  Epub 2015 Dec 29 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26719794?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      Navlakha S, White JR, <b>Nagarajan N</b>, Pop M, Kingsford C "Finding biologically accurate clusterings in hierarchical decompostions using the variation of information." <i>RECOMB</i> 2009  
+              <br />                                
+              <a href='http://www.springerlink.com/content/3w1h578532113270/' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Wu G, Zhao H, Li C, Rajapakse MP, Wong WC, Xu J, Saunders CW, Reeder NL, Reilman RA, Scheynius A, Sun S, Billmyre BR, Li W, Averette AF, Mieczkowski P, Heitman J, Theelen B, Schröder MS, De Sessions PF, Butler G, Maurer-Stroh S, Boekhout T, <b>Nagarajan N<sup>#</sup></b>, Dawson TL<sup>#</sup> "Genus-Wide Comparative Genomics of Malassezia Delineates Its Phylogeny, Physiology, and Niche Adaptation on Human Skin." <i>PLoS Genet</i> 2015 Nov ; 11(11) : e1005614  Epub 2015 Nov 5 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26539826?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b>, Keich U "Reliability and efficiency of algorithms for computing the significance of the Mann-Whitney test." <i>Computational Statistics</i> 2009 24:4 605-622  
+              <br />                                
+              <a href='http://www.springerlink.com/content/9w7755m718224h71/' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Yamamoto Y, Ning G, Howitt BE, Mehra K, Wu L, Wang X, Hong Y, Kern F, Wei TS, Zhang T, <b>Nagarajan N</b>, Basuli D, Torti S, Brewer M, Choolani M, McKeon F, Crum CP, Xian W "In Vitro and In Vivo Correlates of Physiologic and Neoplastic Human Fallopian Tube Stem Cells." <i>J Pathol</i> 2015 Sep 28 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/26415052?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      Ming R, Hou S, Feng Y, Yu Q, Dionne-Laporte A, … , <b>Nagarajan N</b>, … , Shippen DE, dePamphilis CW, Palmer JD, Freeling M, Paterson AH, Gonsalves D, Wang L, Alam M "The draft genome of the transgenic tropical fruit tree papaya (Carica papaya Linnaeus)." <i>Nature</i> 2008 Apr 24 ; 452(7190) : 991-6 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/18432245?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Aw PP, de Sessions PF, Wilm A, Hoang LT, <b>Nagarajan N</b>, Sessions OM, Hibberd ML "Next-generation whole genome sequencing of dengue virus." <i>Methods Mol Biol</i> 2014 ; 1138 : 175-95 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/24696338?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b>, Read TD, Pop M "Scaffolding and validation of bacterial genome assemblies using optical restriction maps." <i>Bioinformatics</i> 2008 May 15 ; 24(10) : 1229-35  Epub 2008 Mar 20 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/18356192?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Wang S, Chng KR, Wilm A, Zhao S, Yang KL, <b>Nagarajan N<sup>#</sup></b>, He J<sup>#</sup> "Genomic characterization of three unique Dehalococcoides that respire on persistent polychlorinated biphenyls." <i>Proc Natl Acad Sci</i> USA 2014 Jul 15 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25028492?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b>, Keich U "FAST: Fourier transform based algorithms for significance testing of ungapped multiple alignments." <i>Bioinformatics</i> 2008 Feb 15 ; 24(4) : 577-8  Epub 2008 Jan 6 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/18180239?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Young ND*, <b>Nagarajan N*</b>, Lin SJ, Korhonen PK, Jex AR, Hall RS, Safavi-Hemami H, Kaewkong W, Bertrand D, Gao S, Seet Q, Wongkham S, Teh BT, Wongkham C, Intapan PM, Maleewong W, Yang X, Hu M, Wang Z, Hofmann A, Sternberg PW, Tan P, Wang J, Gasser RB "The Opisthorchis viverrini genome provides insights into life in the bile duct." <i>Nat Commun</i> 2014 ; 5 : 4378 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25007141?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b> and Kingsford C "Uncovering genomic reassortments among Influenza strains by enumerating maximal bicliques." <i>IEEE BIMB</i> 2008. 
+              <br />                                
+              <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanKingsfordBIBM08.pdf' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Inaki K, Menghi F, Woo XY, Wagner JP, Jacques PE, Lee YF, Shreckengast PT, Soon WW, Malhotra A, Teo AS, Hillmer AM, Khng AJ, Ruan X, Ong SH, Bertrand D, <b>Nagarajan N</b>, Karuturi RK, Hidalgo Miranda A, Liu ET "Systems consequences of amplicon formation in human breast cancer." <i>Genome Res</i> 2014 Sep 3 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25186909?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b>, Navajas-Perez R, Pop M, Alam M, Ming R, Paterson AH and Salzberg SL "Genome-wide analysis of repetitive elements in papaya." <i>Tropical Plant Biology</i> 2008 ; 1(3-4) : 191-201 
+              <br />                                
+              <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanTPB08.pdf' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
+            
+	    <li>
+	      Ng P, <b>Nagarajan N</b>, Jones N, Keich U "Apples to apples: improving the performance of motif finders and their significance analysis in the Twilight Zone." <i>Bioinformatics</i> 2006 Jul 15 ; 22(14) : e393-401 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/16873498?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Wang S, Chng KR, Wu C, Wilm A, <b>Nagarajan N</b>, He J "Draft Genome Sequence of Polychlorinated Biphenyl-Dechlorinating Dehalococcoides mccartyi Strain SG1, Which Carries a Circular Putative Plasmid." <i>Genome Announc</i> 2014 ; 2(5) : 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25278523?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b>, Ng P, Keich U "Refining motif finders with E-value calculations." <i>RECOMB Regulatory Genomics</i> 2006 
+              <br />                                
+              <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanNgKeichRECOMBRG06.pdf' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Hong LZ, Hong S, Wong H, Aw P, Yan C, Wilm A, de Sessions PF, Lim S, <b>Nagarajan N</b>, Hibberd ML, Quake SR, Burkholder WF "BAsE-Seq: a method for obtaining long viral haplotypes from short sequence reads." <i>Genome Biol</i> 2014 Nov 19 ; 15(11) : 517  Epub 2014 Nov 19 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25406369?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      Keich U, <b>Nagarajan N</b> "A fast and numerically robust method for exact multinomial goodness-of-fit test." <i>Journal of Computational and Graphical Statistics</i> 2006 ; 15(4) : 779-802  
+              <br />                                
+              <a href='http://cbcb.umd.edu/~niranjan/papers/KeichNagarajanJCGS06.pdf' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Luo H, Li J, Chia BK, Robson P, <b>Nagarajan N<sup>#</sup></b> "The importance of study design for detecting differentially abundant features in high-throughput experiments." <i>Genome Biol</i> 2014 ; 15(12) : 527  Epub 2014 Dec 3 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/25517037?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b>, Jones N, Keich U "Computing the P-value of the information content from an alignment of multiple sequences." <i>Bioinformatics</i> 2005 Jun ; 21 Suppl 1 : i311-8 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/15961473?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            <b>Nagarajan N</b>, Pop M "Sequence assembly demystified." <i>Nat Rev Genet</i> 2013 Jan 29  Epub 2013 Jan 29 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/23358380?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      <b>Nagarajan N</b>, Yona G "Automatic prediction of protein domains from sequence information using a hybrid learning system." <i>Bioinformatics</i> 2004 Jun 12 ; 20(9) : 1335-60  Epub 1970 Jan 1 
+              <br />                                
+              <a href='http://www.ncbi.nlm.nih.gov/pubmed/14962932?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Ong SH, Kukkillaya VU, Wilm A, Lay C, Ho EX, Low L, Hibberd ML, <b>Nagarajan N<sup>#</sup></b> "Species Identification and Profiling of Complex Microbial Communities Using Shotgun Illumina Sequencing of 16S rRNA Amplicon Sequences." <i>PLoS One</i> 2013 ; 8(4) : e60811  Epub 2013 Apr 8 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/23579286?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
+	    <li>
+	      Keich U, <b>Nagarajan N</b> "A faster reliable algorithm to estimate the p-value of the multinomial LLR statistic." <i>WABI</i> 2004 
+              <br />                                
+              <a href='http://cbcb.umd.edu/~niranjan/papers/KeichNagarajanWABI04.pdf' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
                                             
-                                            Bishop-Lilly KA, Ge H, Butani A, Osborne B, Verratti K, Mokashi V, <b>Nagarajan N</b>, Pop M, Read TD, Richards AL "Genome Sequencing of Four Strains of Rickettsia prowazekii, the Causative Agent of Epidemic Typhus, Including One Flying Squirrel Isolate." <i>Genome Announc</i> 2013 ; 1(3) : 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/23814035?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Navajas-Pérez R "Papaya Repeat Database."  <i>Genetics and Genomics of Papaya</i> 2013, 225-240 
-                                            <br />                                
-                                            &nbsp;                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Ng KP, Hillmer AM, Chuah CT, Juan WC, Ko TK, Teo AS, Ariyaratne PN, Takahashi N, Sawada K, Fei Y, Soh S, Lee WH, Huang JW, Allen JC, Woo XY, <b>Nagarajan N</b>, Kumar V, Thalamuthu A, Poh WT, Ang AL, Mya HT, How GF, Yang LY, Koh LP, Chowbay B, Chang CT, Nadarajan VS, Chng WJ, Than H, Lim LC, Goh YT, Zhang S, Poh D, Tan P, Seet JE, Ang MK, Chau NM, Ng QS, Tan DS, Soda M, Isobe K, Nöthen MM, Wong TY, Shahab A, Ruan X, Cacheux-Rataboul V, Sung WK, Tan EH, Yatabe Y, Mano H, Soo RA, Chin TM, Lim WT, Ruan Y, Ong ST "A common BIM deletion polymorphism mediates intrinsic resistance and inferior responses to tyrosine kinase inhibitors in cancer." <i>Nat Med</i> 2012 ; 18(4) : 521-8  Epub 2012 Mar 18 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/22426421?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Zang ZJ, Cutcutache I, Poon SL, Zhang SL, McPherson JR, Tao J, Rajasegaran V, Heng HL, Deng N, Gan A, Lim KH, Ong CK, Huang D, Chin SY, Tan IB, Ng CC, Yu W, Wu Y, Lee M, Wu J, Poh D, Wan WK, Rha SY, So J, Salto-Tellez M, Yeoh KG, Wong WK, Zhu YJ, Futreal PA, Pang B, Ruan Y, Hillmer AM, Bertrand D, <b>Nagarajan N</b>, Rozen S, Teh BT, Tan P "Exome sequencing of gastric adenocarcinoma identifies recurrent somatic mutations in cell adhesion and chromatin remodeling genes." <i>Nat Genet</i> 2012 Apr 8  Epub 2012 Apr 8 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/22484628?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Lam ET, Hastie A, Lin C, Ehrlich D, Das SK, Austin MD, Deshpande P, Cao H, <b>Nagarajan N</b>, Xiao M, Kwok PY "Genome mapping on nanochannel arrays for structural variation analysis and sequence assembly." <i>Nat Biotechnol</i> 2012 Jul 15  Epub 2012 Jul 15 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/22797562?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Nguyet NM, Chau TN, Lam PK, Kien DT, Huy HL, Farrar J, Quyen TH, Hien TT, Van Vinh Chau N, Merson L, Long HT, Hibberd ML, Aw PP, Wilm A, <b>Nagarajan N</b>, Dung NT, Mai PP, Truong NT, Javanbaht H, Klumpp K, Hammond J, Petric R, Wolbers M, Chinh NT, Simmons CP "A randomized, double-blind placebo controlled trial of balapiravir, a polymerase inhibitor, in adult dengue patients." <i>J Infect Dis</i> 2012 Jul 17 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/22807519?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Gao S, Bertrand D, <b>Nagarajan N<sup>#</sup></b> (2012) "FinIS: Improved in silico finishing using an exact quadratic programming formulation." <i>WABI</i> 2012 and <i>Algorithms in Bioinformatics</i> 7534:314-325 
-                                            <br />                                
-                                            &nbsp;                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Wilm A, Aw PP, Bertrand D, Yeo GH, Ong SH, Wong CH, Khor CC, Petric R, Hibberd ML, <b>Nagarajan N<sup>#</sup></b> "LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering cell-population heterogeneity from high-throughput sequencing datasets." <i>Nucleic Acids Res</i> 2012 Oct 12 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/23066108?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Yao F, Ariyaratne PN, Hillmer AM, Lee WH, Li G, Teo AS, Woo XY, Zhang Z, Chen JP, Poh WT, Zawack KF, Chan CS, Leong ST, Neo SC, Choi PS, Gao S, <b>Nagarajan N</b>, Thoreau H, Shahab A, Ruan X, Cacheux-Rataboul V, Wei CL, Bourque G, Sung WK, Liu ET, Ruan Y "Long Span DNA Paired-End-Tag (DNA-PET) Sequencing Strategy for the Interrogation of Genomic Structural Mutations and Fusion-Point-Guided Reconstruction of Amplicons." <i>PLoS One</i> 2012 ; 7(9) : e46152  Epub 2012 Sep 28 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/23029419?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Xu Q, Chen LL, Ruan X, Chen D, Zhu A, Chen C, Bertrand D, Jiao WB, Hao BH, Lyon MP, Chen J, Gao S, Xing F, Lan H, Chang JW, Ge X, Lei Y, Hu Q, Miao Y, Wang L, Xiao S, Biswas MK, Zeng W, Guo F, Cao H, Yang X, Xu XW, Cheng YJ, Xu J, Liu JH, Luo OJ, Tang Z, Guo WW, Kuang H, Zhang HY, Roose ML, <b>Nagarajan N</b>, Deng XX, Ruan Y "The draft genome of sweet orange (Citrus sinensis)." <i>Nat Genet</i> 2012 Dec 16 ; 45(1) : 59-66  Epub 2012 Nov 25 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/23179022?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N<sup>#</sup></b>, Bertrand D*, Hillmer AM*, Zang ZJ*, Yao F, Jacques PE, Teo AS, Cutcutache I, Zhang Z, Lee WH, Sia YY, Gao S, Ariyaratne PN, Ho A, Woo XY, Veeravali L, Ong CK, Deng N, Desai KV, Khor CC, Hibberd ML, Shahab A, Rao J, Wu M, Teh M, Zhu F, Chin SY, Pang B, So JB, Bourque G, Soong R, Sung WK, Teh BT, Rozen S, Ruan X, Yeoh KG, Tan PB<sup>#</sup>, Ruan Y<sup>#</sup> "Whole-genome reconstruction and mutational signatures in gastric cancer." <i>Genome Biol</i> 2012 Dec 13 ; 13(12) : R115  Epub 2012 Dec 13 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/23237666?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Hillmer AM, Yao F, Inaki K, Lee WH, Ariyaratne PN, Teo AS, Woo XY, Zhang Z, Zhao H, Ukil L, Chen JP, Zhu F, So JB, Salto-Tellez M, Poh WT, Zawack KF, <b>Nagarajan N</b>, Gao S, Li G, Kum ar V, Lim HP, Sia YY, Chan CS, Leong ST, Neo SC, Choi PS, Thoreau H, Tan PB, Shahab A, Ruan X, Bergh J, Hall P, Cacheux-Rataboul V, Wei CL, Yeoh KG, Sung WK, Bourque G, Liu ET, Ruan Y "Comprehensive long-span paired-end-tag mapping reveals characteristic patterns of structural variations in epithelial cancer genomes." <i>Genome Res</i> 2011 May ; 21(5) : 665-75  Epub 2011 Apr 5 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/21467267?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Gao S, Sung WK, <b>Nagarajan N<sup>#</sup></b> "Opera: Reconstructing Optimal Genomic Scaffolds with High-Throughput Paired-End Sequences." <i>J Comput Biol</i> 2011 Sep 19 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/21929371?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Chen PE, Cook C, Stewart AC, <b>Nagarajan N</b>, Sommer DD, Pop M, Thomason B, Kiley MP, Lentz S, Nolan N, Sozhamannan S, Sulakvelidze A, Mateczun A, Du L, Zwick ME, Read TD "Genomic characterization of the Yersinia genus." <i>Genome Biol</i> 2010 Jan 4 ; 11(1) : R1  Epub 2010 Jan 4 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/20047673?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            White JR, Navlakha S, <b>Nagarajan N</b>, Ghodsi MR, Kingsford C, Pop M "Alignment and clustering of phylogenetic markers - implications for microbial diversity studies." <i>BMC Bioinformatics</i> 2010 Mar 24 ; 11(1) : 152  Epub 2010 Mar 24 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/20334679?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Cook C, Di Bonaventura M, Ge H, Richards A, Bishop-Lilly KA, Desalle R, Read TD, Pop M "Finishing genomes with limited resources: lessons from an ensemble of microbial genomes." <i>BMC Genomics</i> 2010 Apr 16 ; 11(1) : 242  Epub 2010 Apr 16 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/20398345?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Pop M "Sequencing and genome assembly using next-generation technologies." <i>Methods Mol Biol</i> 2010 ; 673 : 1-17 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/20835789?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N<sup>#</sup></b>, Kingsford C "GiRaF: robust, computational identification of influenza reassortments via graph mining." <i>Nucleic Acids Res</i> 2010 Dec 21 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/21177643?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Kingsford C*, <b>Nagarajan N*</b>, Salzberg SL "2009 Swine-origin influenza A (H1N1) resembles previous influenza isolates." <i>PLoS ONE</i> 2009 ; 4(7) : e6402  Epub 2009 Jul 28. 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/19636415?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Pop M "Parametric complexity of sequence assembly: theory and applications to next generation sequencing." <i>J Comput Biol</i> 2009 Jul ; 16(7) : 897-908 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/19580519?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Di Bonaventura MP, DeSalle R, Pop M, <b>Nagarajan N</b>, Figurski DH, Fine DH, Kaplan JB, Planet PJ "Complete genome sequence of Aggregatibacter (Haemophilus) aphrophilus NJ8700." <i>J Bacteriol</i> 2009 Jul ; 191(14) : 4693-4  Epub 2009 May 15 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/19447908?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            White JR, <b>Nagarajan N</b>, Pop M "Statistical methods for detecting differentially abundant features in clinical metagenomic samples." <i>PLoS Comput Biol</i> 2009 Apr ; 5(4) : e1000352  Epub 2009 Apr 10 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/19360128?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Navlakha S, White JR, <b>Nagarajan N</b>, Pop M, Kingsford C "Finding biologically accurate clusterings in hierarchical decompostions using the variation of information." <i>RECOMB</i> 2009  
-                                            <br />                                
-                                            <a href='http://www.springerlink.com/content/3w1h578532113270/' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Keich U "Reliability and efficiency of algorithms for computing the significance of the Mann-Whitney test." <i>Computational Statistics</i> 2009 24:4 605-622  
-                                            <br />                                
-                                            <a href='http://www.springerlink.com/content/9w7755m718224h71/' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Ming R, Hou S, Feng Y, Yu Q, Dionne-Laporte A, … , <b>Nagarajan N</b>, … , Shippen DE, dePamphilis CW, Palmer JD, Freeling M, Paterson AH, Gonsalves D, Wang L, Alam M "The draft genome of the transgenic tropical fruit tree papaya (Carica papaya Linnaeus)." <i>Nature</i> 2008 Apr 24 ; 452(7190) : 991-6 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/18432245?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Read TD, Pop M "Scaffolding and validation of bacterial genome assemblies using optical restriction maps." <i>Bioinformatics</i> 2008 May 15 ; 24(10) : 1229-35  Epub 2008 Mar 20 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/18356192?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Keich U "FAST: Fourier transform based algorithms for significance testing of ungapped multiple alignments." <i>Bioinformatics</i> 2008 Feb 15 ; 24(4) : 577-8  Epub 2008 Jan 6 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/18180239?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b> and Kingsford C "Uncovering genomic reassortments among Influenza strains by enumerating maximal bicliques." <i>IEEE BIMB</i> 2008. 
-                                            <br />                                
-                                            <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanKingsfordBIBM08.pdf' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Navajas-Perez R, Pop M, Alam M, Ming R, Paterson AH and Salzberg SL "Genome-wide analysis of repetitive elements in papaya." <i>Tropical Plant Biology</i> 2008 ; 1(3-4) : 191-201 
-                                            <br />                                
-                                            <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanTPB08.pdf' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Ng P, <b>Nagarajan N</b>, Jones N, Keich U "Apples to apples: improving the performance of motif finders and their significance analysis in the Twilight Zone." <i>Bioinformatics</i> 2006 Jul 15 ; 22(14) : e393-401 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/16873498?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Ng P, Keich U "Refining motif finders with E-value calculations." <i>RECOMB Regulatory Genomics</i> 2006 
-                                            <br />                                
-                                            <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanNgKeichRECOMBRG06.pdf' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Keich U, <b>Nagarajan N</b> "A fast and numerically robust method for exact multinomial goodness-of-fit test." <i>Journal of Computational and Graphical Statistics</i> 2006 ; 15(4) : 779-802  
-                                            <br />                                
-                                            <a href='http://cbcb.umd.edu/~niranjan/papers/KeichNagarajanJCGS06.pdf' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Jones N, Keich U "Computing the P-value of the information content from an alignment of multiple sequences." <i>Bioinformatics</i> 2005 Jun ; 21 Suppl 1 : i311-8 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/15961473?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            <b>Nagarajan N</b>, Yona G "Automatic prediction of protein domains from sequence information using a hybrid learning system." <i>Bioinformatics</i> 2004 Jun 12 ; 20(9) : 1335-60  Epub 1970 Jan 1 
-                                            <br />                                
-                                            <a href='http://www.ncbi.nlm.nih.gov/pubmed/14962932?dopt=Abstract&holding=f1000,f1000m,isrctn' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      <td align="justify">
-                                            
-                                            Keich U, <b>Nagarajan N</b> "A faster reliable algorithm to estimate the p-value of the multinomial LLR statistic." <i>WABI</i> 2004 
-                                            <br />                                
-                                            <a href='http://cbcb.umd.edu/~niranjan/papers/KeichNagarajanWABI04.pdf' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					    </td>               
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;</td>               
-                                    </li>
-                                
-				    <li>
-				      
-                                            
-                                            <b>Nagarajan N</b>, Yona G "A multi-expert system for the automatic detection of protein domains from sequence information." <i>RECOMB</i> 2003 
-                                            <br />                                
-                                            <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanYonaRECOMB03.pdf' class='' target='_blank'>Abstract</a>                          
-                                                                                
-					                   
-				      </li> 
-                                    <tr>
-                                        <td>&nbsp;               
-                                    </li>
-                                                       
-                            <tr>
-                                <td>&nbsp;
-                            </li>                     
-			    </tbody></table>
-		  
-		</li>
-	      </tbody>
-	    </table>
+	    <li>
+	      <b>Nagarajan N</b>, Yona G "A multi-expert system for the automatic detection of protein domains from sequence information." <i>RECOMB</i> 2003 
+              <br />                                
+              <a href='http://cbcb.umd.edu/~niranjan/papers/NagarajanYonaRECOMB03.pdf' class='' target='_blank'>Abstract</a>                          
+            </li>&nbsp; 
+            </ol>
 
 	  </div>
 	</section>

@@ -75,15 +75,6 @@
 
 	<section id="content">
 	  <div class="container">
-	    <ul class="nav nav-tabs">
-	      <li class="active"><a href="#Current" data-toggle="tab"><i class="icon-briefcase"></i> Current Members</a></li>
-	      <li><a href="#Former" data-toggle="tab">Former Members</a></li>
-	      <li><a href="#Interns" data-toggle="tab">Interns</a></li>
-	    </ul>
-
-	    <div class="tab-content">
-	    
-	    <div class="tab-pane active" id="Current">
 	    <table>
 	      <col width="150">
 	      <col width="450">
@@ -141,44 +132,9 @@
 	      </tr>
 
 	    </table>
-	    </div>
 
-	    <div class="tab-pane" id="Former">
+	    <h4>Former Members</h4>
 	    <table>
-	      <col width="400">
-	      <col width="400">
-	      <col width="400">
-	      <tr>
-		<td><img src="img/people/song.jpg" height="100" width="100" class="pull-left" alt="" />
-		<b>Gao Song (Graduate Student)</b><br/>
-		Current Position: <a href="https://www.sahmri.com/our-research/themes/heart-health/theme/our-team/dr-song-gao">EMBL Australia post-doctoral researcher</a></td>
-
-		<td><img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
-		<b>Andreas Wilm (Post-doctoral Fellow)</b><br/>
-		Current Position: Team Leader (RPD; GIS)</td>
-
-		<td><img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
-		<b>Chng Kern Rei (Research Fellow)</b><br/>
-		Current Position: MOHH</td>
-	      </tr>
-	    </table>
-	    </div>
-
-	    <div class="tab-pane" id="Interns">
-	      <table>
-	      <col width="300">
-	      <col width="300">
-	      <col width="300">
-	      <col width="300">
-		<tr>
-		  <td><img src="img/people/grace.jpg" height="70" width="70" class="pull-left"><b><a href="http://cgs.csail.mit.edu/team/">Grace Yeo</a></b><br/>(B.S. in Johns Hopkins; PhD in MIT)</td>
-		  <td><img src="img/people/scholar.jpg" height="70" width="70" class="pull-left"><b>Sibyl Drissler</b><br/>(Univ. of British Columbia)</td>
-		  <td><img src="img/people/ankica.jpg" height="70" width="70" class="pull-left"><b>Ankica Gogić</b><br/>(Univ. of Zagreb)</td>
-		  <td><img src="img/people/vinutha.jpg" height="70" width="70" class="pull-left"><b>Vinutha Kukkilaya</b><br/>(NTU Masters)</td>
-		</tr>
-	      </table>
-	    </div>
-
 	  </div>
 	</section>
 
