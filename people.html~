@@ -84,105 +84,99 @@
 	    <div class="tab-content">
 	    
 	    <div class="tab-pane active" id="Current">
-	      <div class="row">
-		<div class="col-lg-6">
-		  <img src="img/people/niranjan.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Niranjan Nagarajan (Principal Investigator)</b><br/> 
-		  B.A. in Computer Sci. & Mathematics (<a href="http://www.owu.edu">Ohio Wesleyan</a>, 2000)<br/>
-		  Ph.D. in <a href="http://www.cs.cornell.edu">Computer Sci.</a> (<a href="http://www.cornell.edu">Cornell Univ.</a>, 2006; Advisor: <a href="http://www.maths.usyd.edu.au/u/uri/">Uri Keich</a>)<br/> 
-		  Postdoctoral Fellowship in <a href="http://www.cbcb.umd.edu">CBCB</a> (UMD, Advisor: <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>)<br/>
-		  Profiles: <a href="https://scholar.google.com/citations?user=s65iHisAAAAJ&hl=en">Google Scholar</a>, <a href="https://sg.linkedin.com/in/niranjan-nagarajan-765151ba">LinkedIn</a>
-		</div>
-		
-		<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Denis Bertrand (Staff Scientist)</b><br/> 
-		</div>
-	      </div>
+	    <table>
+	      <col width="150">
+	      <col width="450">
+	      <col width="150">
+	      <col width="450">
+	      <tr>
+		<td><img src="img/people/niranjan.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Niranjan Nagarajan (Principal Investigator)</b><br/> 
+		       B.A. in Computer Sci. & Mathematics (<a href="http://www.owu.edu">Ohio Wesleyan</a>, 2000)<br/>
+		       Ph.D. in <a href="http://www.cs.cornell.edu">Computer Sci.</a> (<a href="http://www.cornell.edu">Cornell Univ.</a>, 2006; Advisor: <a href="http://www.maths.usyd.edu.au/u/uri/">Uri Keich</a>)<br/> 
+		       Postdoctoral Fellowship in <a href="http://www.cbcb.umd.edu">CBCB</a> (UMD, Advisor: <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>)<br/>
+		       Profiles: <a href="https://scholar.google.com/citations?user=s65iHisAAAAJ&hl=en">Google Scholar</a>, <a href="https://sg.linkedin.com/in/niranjan-nagarajan-765151ba">LinkedIn</a>
+		</td>
 
-	      <div class="row">
-	      	<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Davide Verzotto (Post-doctoral Fellow)</b><br/> 
-		</div>
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Denis Bertrand (Staff Scientist)</b><br/> 
+		</td>
+	      </tr>
 
-		<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Tarini Ghosh (Post-doctoral Fellow)</b><br/> 
-		</div>
-	      </div>
+	      <tr>
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Davide Verzotto (Post-doctoral Fellow)</b><br/> 
+		</td>
 
-	      <div class="row">
-		<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Li Chenhao (Graduate Student)</b><br/> 
-		</div>
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Tarini Ghosh (Post-doctoral Fellow)</b><br/> 
+		</td>
+	      </tr>
 
-		<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Suphavilai Chayaporn (Graduate Student)</b><br/> 
-		</div>
-	      </div>
+	      <tr>
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Li Chenhao (Graduate Student)</b><br/> 
+		</td>
 
-	      <div class="row">
-		<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Ng Hui Qi Amanda (Research Officer)</b><br/> 
-		</div>
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Suphavilai Chayaporn (Graduate Student)</b><br/> 
+		</td>
+	      </tr>
 
-		<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Boey Jia Hui Esther (Research Officer)</b><br/> 
-		</div>
-	      </div>
 
-	      <div class="row">
-		<div class="col-lg-6">
-		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
-		  <b>Koh Jia Yu Jayce (Bioinformatics Analyst)</b><br/> 
-		</div>
-	      </div>
+	      <tr>
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Ng Hui Qi Amanda (Research Officer)</b><br/> 
+		</td>
+
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Boey Jia Hui Esther (Research Officer)</b><br/> 
+		</td>
+	      </tr>
+
+	      <tr>
+		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
+		<td><b>Koh Jia Yu Jayce (Bioinformatics Analyst)</b><br/> 
+		</td>
+	      </tr>
 
 	    </table>
 	    </div>
 
 	    <div class="tab-pane" id="Former">
-	      <div class="row">
-		<div class="col-lg-4">
-		  <img src="img/people/song.jpg" height="100" width="100" class="pull-left" alt="" />
-		  <b>Gao Song (Graduate Student)</b><br/>
-		  Current Position: <a href="https://www.sahmri.com/our-research/themes/heart-health/theme/our-team/dr-song-gao">EMBL Australia post-doctoral researcher</a>
-		</div>
+	    <table>
+	      <col width="400">
+	      <col width="400">
+	      <col width="400">
+	      <tr>
+		<td><img src="img/people/song.jpg" height="100" width="100" class="pull-left" alt="" />
+		<b>Gao Song (Graduate Student)</b><br/>
+		Current Position: <a href="https://www.sahmri.com/our-research/themes/heart-health/theme/our-team/dr-song-gao">EMBL Australia post-doctoral researcher</a></td>
 
-		<div class="col-lg-4">
-		  <img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
-		  <b>Andreas Wilm (Post-doctoral Fellow)</b><br/>
-		  Current Position: Team Leader (RPD; GIS)
-		</div>
+		<td><img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
+		<b>Andreas Wilm (Post-doctoral Fellow)</b><br/>
+		Current Position: Team Leader (RPD; GIS)</td>
 
-		<div class="col-lg-4">
-		  <img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
-		  <b>Chng Kern Rei (Research Fellow)</b><br/>
-		  Current Position: MOHH
-		</div>
-	      </div>
+		<td><img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
+		<b>Chng Kern Rei (Research Fellow)</b><br/>
+		Current Position: MOHH</td>
+	      </tr>
+	    </table>
 	    </div>
 
 	    <div class="tab-pane" id="Interns">
-	      <div class="row">
-		  <div class="col-lg-3">
-		    <img src="img/people/grace.jpg" height="70" width="70" class="pull-left"><b><a href="http://cgs.csail.mit.edu/team/">Grace Yeo</a></b><br/>(B.S. in Johns Hopkins; PhD in MIT)
-		  </div>
-		  <div class="col-lg-3">
-		    <img src="img/people/scholar.jpg" height="70" width="70" class="pull-left"><b>Sibyl Drissler</b><br/>(Univ. of British Columbia)
-		  </div>
-		  <div class="col-lg-3">
-		    <img src="img/people/ankica.jpg" height="70" width="70" class="pull-left"><b>Ankica Gogić</b><br/>(Univ. of Zagreb)
-		  </div>
-		  <div class="col-lg-3">
-		    <img src="img/people/vinutha.jpg" height="70" width="70" class="pull-left"><b>Vinutha Kukkilaya</b><br/>(NTU Masters)
-		  </div>
-	      </div>
+	      <table>
+	      <col width="300">
+	      <col width="300">
+	      <col width="300">
+	      <col width="300">
+		<tr>
+		  <td><img src="img/people/grace.jpg" height="70" width="70" class="pull-left"><b><a href="http://cgs.csail.mit.edu/team/">Grace Yeo</a></b><br/>(B.S. in Johns Hopkins; PhD in MIT)</td>
+		  <td><img src="img/people/scholar.jpg" height="70" width="70" class="pull-left"><b>Sibyl Drissler</b><br/>(Univ. of British Columbia)</td>
+		  <td><img src="img/people/ankica.jpg" height="70" width="70" class="pull-left"><b>Ankica Gogić</b><br/>(Univ. of Zagreb)</td>
+		  <td><img src="img/people/vinutha.jpg" height="70" width="70" class="pull-left"><b>Vinutha Kukkilaya</b><br/>(NTU Masters)</td>
+		</tr>
+	      </table>
 	    </div>
 
 	  </div>
