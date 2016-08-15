@@ -79,104 +79,203 @@
 	      <li class="active"><a href="#Current" data-toggle="tab"><i class="icon-briefcase"></i> Current Members</a></li>
 	      <li><a href="#Former" data-toggle="tab">Former Members</a></li>
 	      <li><a href="#Interns" data-toggle="tab">Interns</a></li>
+	      <li><a href="#Jobs" data-toggle="tab">Open Positions</a></li>
 	    </ul>
 
 	    <div class="tab-content">
 	    
 	    <div class="tab-pane active" id="Current">
-	    <table>
-	      <col width="150">
-	      <col width="450">
-	      <col width="150">
-	      <col width="450">
-	      <tr>
-		<td><img src="img/people/niranjan.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Niranjan Nagarajan (Principal Investigator)</b><br/> 
-		       B.A. in Computer Sci. & Mathematics (<a href="http://www.owu.edu">Ohio Wesleyan</a>, 2000)<br/>
-		       Ph.D. in <a href="http://www.cs.cornell.edu">Computer Sci.</a> (<a href="http://www.cornell.edu">Cornell Univ.</a>, 2006; Advisor: <a href="http://www.maths.usyd.edu.au/u/uri/">Uri Keich</a>)<br/> 
-		       Postdoctoral Fellowship in <a href="http://www.cbcb.umd.edu">CBCB</a> (UMD, Advisor: <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>)<br/>
-		       Profiles: <a href="https://scholar.google.com/citations?user=s65iHisAAAAJ&hl=en">Google Scholar</a>, <a href="https://sg.linkedin.com/in/niranjan-nagarajan-765151ba">LinkedIn</a>
-		</td>
+	      <div class="row">
+		<div class="col-xs-12 col-lg-6">
+		  <img src="img/people/niranjan.jpg" height="140" width="140" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		    <li><b>Niranjan Nagarajan (Principal Investigator)</b></li> 
+		    <li>B.A. in Computer Sci. & Mathematics (<a href="http://www.owu.edu">Ohio Wesleyan</a>, 2000)</li>
+		    <li>Ph.D. in <a href="http://www.cs.cornell.edu">Comp. Sci.</a> (<a href="http://www.cornell.edu">Cornell Univ.</a>, 2006; Advisor: <a href="http://www.maths.usyd.edu.au/u/uri/">Uri Keich</a>)</li> 
+		    <li>Postdoctoral Fellowship in <a href="http://www.cbcb.umd.edu">CBCB</a> (UMD, Advisor: <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>)</li>
+		    <li>Profiles: <a href="https://scholar.google.com/citations?user=s65iHisAAAAJ&hl=en">Google Scholar</a>, <a href="https://sg.linkedin.com/in/niranjan-nagarajan-765151ba">LinkedIn</a></li>
+		  </ul>
+		</div>
+		
+		<div class="col-xs-12 col-lg-6">
+		  <img src="img/people/denis.jpg" height="140" width="140" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		    <li><b>Denis Bertrand (Staff Scientist)</b></li>
+		    <li>M.S. in Computer Sci. (<a href="http://www.fdsweb.univ-montp2.fr/">UM2</a>, 2002)</li>
+		    <li>Ph.D. in <a href="http://www.lirmm.fr/lirmm_eng">Comp. Biol.</a> (<a href="http://www.fdsweb.univ-montp2.fr">UM2</a>, 2005; Advisor: <a href="https://research.pasteur.fr/en/member/olivier-gascuel/">Olivier Gascuel</a>)</li> 
+		    <li>Postdoctoral Fellowship in <a href="http://en.diro.umontreal.ca/home/">DIRO</a> (<a href="http://www.umontreal.ca/english/index.html">UDM</a>, Advisor: <a href="http://www.iro.umontreal.ca/~mabrouk/index-anglais.html">Nadia El-Mabrouk</a>)</li>
+		    <li>Profiles: <a href="https://scholar.google.fr/citations?hl=fr&user=s31gtXkAAAAJ&sortby=pubdate">Google Scholar</a></li>
+		  </ul>
+		</div>
+	      </div>
 
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Denis Bertrand (Staff Scientist)</b><br/> 
-		</td>
-	      </tr>
+	      <div class="row">
+	      	<div class="col-xs-12 col-lg-6">
+		  <img src="img/people/davide.jpg" height="140" width="140" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		    <li><b>Davide Verzotto (Post-doctoral Fellow)</b></li>
+                    <li>B.S. and M.S. in Computer. Sci. & Eng. (<a href="http://www.unipd.it">Univ. of Padova</a>, 2006 and 2008)</li>
+                    <li>Ph.D. in <a href="http://www.dei.unipd.it">Information Eng.</a> (<a href="http://www.unipd.it">Univ. of Padova</a>, 2012; Advisor: <a href="http://www.dei.unipd.it/~ciompin">Matteo Comin</a>)</li>
+                    <li>Profiles: <a href="https://scholar.google.com.sg/citations?user=QBQR50sAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.linkedin.com/in/davideverzotto">LinkedIn</a>, <a href="https://twitter.com/davideverzotto">Twitter</a></li>
+		  </ul>
+		</div>
 
-	      <tr>
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Davide Verzotto (Post-doctoral Fellow)</b><br/> 
-		</td>
+		<div class="col-xs-12 col-lg-6">
+		  <img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		  <li><b>Tarini Ghosh (Post-doctoral Fellow)</b> </li>
+		  </ul>
+		</div>
+	      </div>
 
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Tarini Ghosh (Post-doctoral Fellow)</b><br/> 
-		</td>
-	      </tr>
+	      <div class="row">
+		<div class="col-xs-12 col-lg-6">
+		  <img src="img/people/chenhao.jpg" height="140" width="140" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		  <li><b>Li Chenhao (Graduate Student)</b></li>
+		  <li>B.S. (Hons.) in Comp. Biol. (<a href="http://www.nus.edu.sg/">NUS</a>, 2014)</li>
+	          <li>Ph.D. in Computer Sci., (<a href="http://www.comp.nus.edu.sg/">NUS SoC</a>, 2015-present)</li>
+		  </ul>
+		</div>
 
-	      <tr>
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Li Chenhao (Graduate Student)</b><br/> 
-		</td>
+		<div class="col-xs-12 col-lg-6">
+		<img src="img/people/nok.jpg" height="140" width="140" class="pull-left" alt="" />
+		<ul style="list-style-type:none">
+		  <li><b>Suphavilai Chayaporn (Graduate Student)</b></li>
+		  <li>B.S. in Computer Sci. (<a href="http://www.ku.ac.th/">Kasetsart University</a>, 2011)</li>
+		  <li>M.S. in Computer Sci. (<a href="http://cs.iupui.edu/">Purdue University</a>, 2014)</li>
+		  <li>Ph.D. in Computer Sci. (<a href="http://www.comp.nus.edu.sg/">NUS SoC</a>, 2015-present) </li>
+		</ul>
+		</div>
+	      </div>
 
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Suphavilai Chayaporn (Graduate Student)</b><br/> 
-		</td>
-	      </tr>
+	      <div class="row">
+		<div class="col-xs-12 col-lg-6">
+		  <img src="img/people/amanda.jpg" height="140" width="140" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		  <li><b>Ng Hui Qi Amanda (Research Officer)</b><li>
+		  <li>B.S. (Hons.) in Biological Sci. (<a href="http://www.ntu.edu.sg/Pages/home.aspx">NTU</a>, 2013)</li>
+		  </ul>
+		</div>
 
+		<div class="col-xs-12 col-lg-6">
+		  <img src="img/people/esther.png" height="140" width="140" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		  <li><b>Boey Jia Hui Esther (Research Officer)</b><li>
+		  <li>B.S. in Biochemistry & Microbiology (<a href=”http://www.bsc.unimelb.edu.au”>University of Melbourne</a>, 2009)</li>
+                  <li>B.S. (Hons.) in Biochemistry & Molecular Biology (<a href=”http://www.bsc.unimelb.edu.au/biochemistry-molecular-biology”>University of Melbourne</a>, 2010)</li>
+		  <li>Profiles: <a href=”https://www.linkedin.com/in/esther-boey-278b4751”>LinkedIn</a>, <a href=”https://www.researchgate.net/profile/Esther_Boey”>ResearchGate</a></li>
+		  </ul>
+		</div>
+	      </div>
 
-	      <tr>
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Ng Hui Qi Amanda (Research Officer)</b><br/> 
-		</td>
-
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Boey Jia Hui Esther (Research Officer)</b><br/> 
-		</td>
-	      </tr>
-
-	      <tr>
-		<td><img src="img/people/scholar.jpg" height="140" width="140" class="pull-left" alt="" /></td>
-		<td><b>Koh Jia Yu Jayce (Bioinformatics Analyst)</b><br/> 
-		</td>
-	      </tr>
-
-	    </table>
+		<div class="row">
+                <div class="col-xs-12 col-lg-6">
+                  <img src="img/people/jayce.jpg" height="140" width="140" class="pull-left" alt="" />
+                  <ul style="list-style-type:none">
+                    <li><b>Koh Jia Yu Jayce (Bioinformatics Analyst)</b></li>
+                    <li>B.Eng. in Bioengineering (<a href="http://www.nus.edu.sg/">NUS</a>, 2010)</li>
+                    <li>M.S. in Statistics (<a href="http://www.nus.edu.sg">NUS</a>, 2013)</li>
+                   </ul>
+                </div>
+              </div>
 	    </div>
 
 	    <div class="tab-pane" id="Former">
-	    <table>
-	      <col width="400">
-	      <col width="400">
-	      <col width="400">
-	      <tr>
-		<td><img src="img/people/song.jpg" height="100" width="100" class="pull-left" alt="" />
-		<b>Gao Song (Graduate Student)</b><br/>
-		Current Position: <a href="https://www.sahmri.com/our-research/themes/heart-health/theme/our-team/dr-song-gao">EMBL Australia post-doctoral researcher</a></td>
+	      <div class="row">
+		<div class="col-xs-12 col-sm-6 col-lg-4">
+		  <img src="img/people/song.jpg" height="100" width="100" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">		  
+		    <li><b>Gao Song (Graduate Student)</b></li>
+		    <li>Current Position: <a href="https://www.sahmri.com/our-research/themes/heart-health/theme/our-team/dr-song-gao" target="_blank">EMBL Australia post-doctoral researcher</a></li>
+		  </ul>
+		</div>
 
-		<td><img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
-		<b>Andreas Wilm (Post-doctoral Fellow)</b><br/>
-		Current Position: Team Leader (RPD; GIS)</td>
+		<div class="col-xs-12 col-sm-6 col-lg-4">
+		  <img src="img/people/andreas.jpg" height="100" width="100" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		    <li><b>Andreas Wilm (Post-doctoral Fellow)</b></li>
+		    <li>Current Position: <a href="https://scholar.google.com/citations?user=V8Ueo9cAAAAJ" target="_blank">Team Leader (RPD, GIS)</a></li>
+		  </ul>
+		</div>
 
-		<td><img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
-		<b>Chng Kern Rei (Research Fellow)</b><br/>
-		Current Position: MOHH</td>
-	      </tr>
-	    </table>
+		<div class="col-xs-12 col-sm-6 col-lg-4">
+		  <img src="img/people/scholar.jpg" height="100" width="100" class="pull-left" alt="" />
+		  <ul style="list-style-type:none">
+		    <li><b>Chng Kern Rei (Research Fellow)</b><br/></li>
+		    <li>Current Position: MOHH</li>
+		  </ul>
+		</div>
+	      </div>
 	    </div>
 
 	    <div class="tab-pane" id="Interns">
-	      <table>
-	      <col width="300">
-	      <col width="300">
-	      <col width="300">
-	      <col width="300">
-		<tr>
-		  <td><img src="img/people/grace.jpg" height="70" width="70" class="pull-left"><b><a href="http://cgs.csail.mit.edu/team/">Grace Yeo</a></b><br/>(B.S. in Johns Hopkins; PhD in MIT)</td>
-		  <td><img src="img/people/scholar.jpg" height="70" width="70" class="pull-left"><b>Sibyl Drissler</b><br/>(Univ. of British Columbia)</td>
-		  <td><img src="img/people/ankica.jpg" height="70" width="70" class="pull-left"><b>Ankica Gogić</b><br/>(Univ. of Zagreb)</td>
-		  <td><img src="img/people/vinutha.jpg" height="70" width="70" class="pull-left"><b>Vinutha Kukkilaya</b><br/>(NTU Masters)</td>
-		</tr>
-	      </table>
+	      <div class="row">
+		  <div class="col-xs-12 col-sm-4 col-lg-3">
+		    <img src="img/people/grace.jpg" height="70" width="70" class="pull-left">
+		    <ul style="list-style-type:none">
+		      <li><b><a href="http://cgs.csail.mit.edu/team/" target="_blank">Grace Yeo</a></b></li>
+		      <li>B.S. in Johns Hopkins; PhD in MIT</li>
+		    </ul>
+		  </div>
+		  <div class="col-xs-12 col-sm-4 col-lg-3">
+		    <img src="img/people/scholar.jpg" height="70" width="70" class="pull-left">
+		    <ul style="list-style-type:none">
+		      <li><b>Sibyl Drissler</b></li>
+		      <li>Univ. of British Columbia</li>
+		    </ul>
+		  </div>
+		  <div class="col-xs-12 col-sm-4 col-lg-3">
+		    <img src="img/people/ankica.jpg" height="70" width="70" class="pull-left">
+		    <ul style="list-style-type:none">
+		      <li><b>Ankica Gogić</b></li>
+		      <li>Univ. of Zagreb</li>
+		    </ul>
+		  </div>
+		  <div class="col-xs-12 col-sm-4 col-lg-3">
+		    <img src="img/people/vinutha.jpg" height="70" width="70" class="pull-left">
+		    <ul style="list-style-type:none">
+		      <li><b>Vinutha Kukkilaya</b></li>
+		      <li>NTU Masters</li>
+		    </ul>
+		  </div>
+	      </div>
+	    </div>
+
+	    <div class="tab-pane" id="Jobs">
+	      <div class="row">
+		<div class="col-sm-4">
+		  <img src="img/news/SPLASH.jpg" heigh="200" width="200">
+		</div>
+		<div class="col-sm-8">
+		  <b5>Post-doctoral Fellowship in RNA Structural Genomics</b5>
+We are seeking highly qualified computational scientists with expertise/interest in RNA structure and biology. The Nagarajan Lab, in collaboration with the Wan Lab at the Genome Institute of Singapore are looking for applicants to direct collaborative projects involving the development of new algorithms and the analyis of novel high-throughput, genome-scale RNA structure datasets. Successfull candidates will work in a highly inter-disciplinary environment to apply cutting edge techniques in computational and experimental genomics with a view to developing applications that advance human health and well-being. RNA structure is fundamental to its function in almost every cellular process and for understanding disease biology. We have developed new approaches to probe RNA secondary and tertiary structure genome-wide [1, 3] and are now applying these for a range of applications including (i) identification of new targets for developing antibiotics against extremely drug-resistant pathogens (ii) understanding host-microbial interactions in diseases and (iii) identifying structural switches that control gene regulation during stem-cell differentiation and oncogenesis. We are seeking exceptional researchers who will join us in harnessing this unique opportunity for significant basic and translational advances in RNA genomics.
+
+References
+
+Wan Y, Qu K, Ouyang Z, Kertesz M, Li J, Tibshirani R, Makino DL, Nutter RC, Segal E, Chang HY "Genome-wide measurement of RNA folding energies." Mol Cell 2012 Oct 26 ; 48(2) : 169-81 Epub 2012 Sep 13
+
+
+
+
+Qualifications
+-——————————
+- PhD in Computational Biology/Computer Science/Applied Mathematics/Genomics
+- Strong analytical and programming skills (C/C++, perl/python, UNIX environment). Candidates with significant experience in RNA structure prediction will be strongly preferred.
+How To Apply: E-mail CV…		  
+
+
+We are looking for talented computational scientists and computational biologists who are interested in analyzing big data. In collaboration with biology groups, we develop new cutting edge high throughput sequencing strategies and generate novel datasets that aim to illuminate how RNA interacts with itself and with other RNAs in a genome-wide manner. The hired computational scientist will get to analyze these novel datasets first-hand, as well as to learn and explore new ways to interpret large datasets produced by high-end technologies. This work is highly interdisciplinary and benefits from extensive crosstalk between computational and experimental biologists.
+		  
+		  Requirements :
+
+		  Ph.D. in Biomedical Sciences or other relevant disciplines Excellent track record of scientific achievement and demonstrated creative abilities
+		  Good knowledge of at least one scripting language (Python or Perl)
+		  Ability to work both independently and as a part of the team
+		  
+		  Interested candidates are invited to send a cover letter, curriculum vitae, and the contact details of at least three references to Niranjan Nagarajan (nagarajann@gis.a-star.edu.sg) and Wan Yue (wany@gis.a-star.edu.sg) 
+		</div>
+	      </div>
 	    </div>
 
 	  </div>
