@@ -396,6 +396,9 @@ section.callaction {
 	text-decoration: none;
 }
 
+.boxed {
+       border: 1px solid green;
+} 
 
 /* ===================================
 9. Section: Bottom
