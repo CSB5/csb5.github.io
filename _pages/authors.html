@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our Authors
+title: Our Lab Members
 permalink: /authors/
 ---
 
@@ -20,10 +20,12 @@ permalink: /authors/
           <div class="authors__info">
             <a class="authors__image" href="{{ author.url }}"><img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}"></a>
             <h2 class="authors__name"><a class="authors__link" href="{{ author.url }}">{{ author.name }}</a></h2>
-            {% if post_count.size >= 1 %}
+            <!-- {% if post_count.size >= 1 %}
               <div class="authors__posts__count">{{ post_count.size }} {% if post_count.size < 2 %}Post{% else %}Posts{% endif %}</div>
-            {% endif %}
-            <p class="authors__description">{{ author.content }}</p>
+            {% endif %} -->
+            
+            <!-- <p class="authors__description">{{ author.content }}</p> -->
+            <h3>{{ author.position }}</h3>
           </div>
         </div>
         {% endfor %}
