@@ -11,7 +11,9 @@
   <div class="row grid">
     {% if site.posts.size > 0 %}
       {% for post in paginator.posts %}
-        {% include article.html %}
+        {% if post.featured != true %}
+          {% include article.html %}
+        {% endif %}
       {% endfor %}
     {% endif %}
   </div>

@@ -1,9 +1,7 @@
 ---
 username: admin
-name: Dann Kanigan
-image: '/images/01-1.jpg'
-website: https://www.google.com
-twitter: https://twitter.com
-facebook: https://www.facebook.com
+name: Niranjan Nagarajan
+position: Principal Investigator
+image: 'https://pbs.twimg.com/profile_images/492209283371520000/XGi7L_94_400x400.jpeg'
+twitter: https://x.com/NiranjanTW
 ---
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior.

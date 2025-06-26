@@ -8,9 +8,9 @@ description: Multipurpose Jekyll Blog Theme
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: MTMS
+  author__name: Laboratory of Metagenomic Technologies and Microbial Systems @ A*STAR
   author__bio: We develop metagenomic technologies and systems biology techniques to study the role of microbial communities in the transmission of antimicrobial resistance.
-  author__avatar: /images/01-1.jpg
+  author__avatar: 'https://pbs.twimg.com/profile_images/492209283371520000/XGi7L_94_400x400.jpeg'
 
 
 #-------------------------------
@@ -19,14 +19,20 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Pages'
+    - title: 'Research'
+      url: '/research/'
+    - title: 'Publications'
+      url: '/publications/'
+    - title: 'Software'
+      url: '/software/'
+    - title: 'People'
       submenu:
-      - url: '/authors/'
-        title: 'Authors'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: '/members/'
+        title: 'Members'
+      - url: '/alumni/'
+        title: 'Alumni'
+      - url: '/open-positions/'
+        title: 'Open Positions'
     - title: 'Contact'
       url: '/contact/'
 
@@ -40,8 +46,7 @@ hero:
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Blog & Resources
-  blog__description: Find out how to set up a successful blog or how to make yours even better!
+  blog__title: Project Showcase
 
 
 #-------------------------------
@@ -55,7 +60,7 @@ tag:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__title: Get interesting news
   mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
@@ -72,14 +77,12 @@ footer__menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
+    - title: 'Research'
+      url: '/research/'
+    - title: 'People'
+      url: '/members/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Authors'
-      url: '/authors/'
-    - title: 'Elements'
-      url: '/elements/'
 
 
 # Social Links
@@ -110,7 +113,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
