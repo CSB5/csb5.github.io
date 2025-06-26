@@ -90,7 +90,7 @@
 .author {
   .author__content {
     margin: 20px 0 60px;
-    text-align: center;
+    text-align: left;
 
     p {
       max-width: 740px;
@@ -135,8 +135,8 @@
 
   .author__info {
     display: flex;
-    align-items: left;
-    justify-content: left;
+    align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
     margin-top: 24px;
     margin-bottom: 32px;

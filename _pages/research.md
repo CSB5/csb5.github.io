@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Hey! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada.
-permalink: /about/
+permalink: /research/
 image: '/images/01-2.jpg'
 image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
 ---
