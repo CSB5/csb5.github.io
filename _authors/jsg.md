@@ -3,6 +3,7 @@ username: jsg
 name: Jean-Sébastien Gounot
 image: '/images/jsg.jpg'
 twitter: https://bsky.app/profile/jsgounot.bsky.social
+github: https://github.com/jsgounot
 position: Senior postdoctoral fellow
 ---
 

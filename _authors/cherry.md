@@ -4,6 +4,7 @@ name: Cherry Li Chengchen
 image: '/images/Cherry.JPG'
 image_fun: '/images/Cherry_fun.jpg'
 twitter: https://bsky.app/profile/cherrychengchenli.bsky.social 
+linkedin: https://linkedin.com/in/chengchen-cherry-li
 position: Graduate Student
 ---
 
