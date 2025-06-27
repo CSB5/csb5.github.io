@@ -4,6 +4,7 @@ layout: default
 
 <!-- begin author -->
 <section class="author">
+  {% assign post_count = site.posts | where: 'author', page.username %}
 
 
   <div class="post-head{{videoPost}}">
@@ -38,8 +39,14 @@ layout: default
             <span class="author__social__item"><i class="ion ion-md-pin"></i></span>
           {% endif %}
           
+          {% if page.email %}
+            <a class="author__social__item" href="mailto:{{ page.email }}" aria-label="EMail"><i class="ion ion-ios-mail"></i></a>
+          {% endif %}
           {% if page.website %}
             <a class="author__social__item" href="{{ page.website }}" aria-label="Website link"><i class="ion ion-ios-link"></i></a>
+          {% endif %}
+          {% if page.scholar %}
+            <a class="author__social__item" href="{{ page.scholar }}" aria-label="Scholar link"><i class="ion ion-ios-school"></i></a>
           {% endif %}
           {% if page.twitter %}
             <a class="author__social__item" href="{{ page.twitter }}" aria-label="Twitter link"><i class="ion ion-logo-twitter"></i></a>

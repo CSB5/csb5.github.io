@@ -1,7 +1,8 @@
 ---
 username: jsg
 name: Jean-Sébastien Gounot
-image: '/images/jsg.jpg'
+image: '/images/members/jsg.jpg'
+email: jean-sebastien@a-star.edu.sg
 twitter: https://bsky.app/profile/jsgounot.bsky.social
 github: https://github.com/jsgounot
 position: Senior postdoctoral fellow

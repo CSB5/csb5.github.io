@@ -7,3 +7,6 @@ featured: true
 ---
 
 The skin is an important interface between the human body and the environment and harbors diverse microbial communities across different sites. We have pioneered new approaches to study the function of skin microbes in vivo [cite], identified distinct dermotypes across individuals through population-scale metagenomics with the Asian Skin Microbiome program  [cite, link to ASMP], and identified key microbes that play a role in skin conditions such as eczema and malodor [cite]. 
+
+
+{% assign post_count = site.posts | where: 'author', page.username %}
