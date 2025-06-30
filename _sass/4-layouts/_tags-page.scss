@@ -1,4 +1,52 @@
 /* Tags */
+.tag__head {
+  margin-bottom: 60px;
+
+  .row {
+    row-gap: 32px;
+  }
+
+  .tag__link {
+    display: block;
+    padding: 22px 32px;;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 60px;
+    color: var(--button-color);
+    background: var(--button-background-color);
+    transition: $global-transition;
+
+    &:hover {
+      background: var(--button-background-hover);
+    }
+  }
+
+  @media (max-width: $desktop) {
+    margin-bottom: 44px;
+
+    .col {
+      flex-grow: 1;
+    }
+  }
+
+  @media (max-width: $tablet) {
+    .row {
+      row-gap: 12px;
+    }
+
+    .tag__link {
+      padding: 20px;
+      font-size: inherit;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    margin-bottom: 28px;
+  }
+}
+
 .tags__inner {
 
   &.is-hidden {

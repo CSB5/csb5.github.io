@@ -32,7 +32,7 @@ menu__settings:
       - url: '/alumni/'
         title: 'Alumni'
       - url: '/open-positions/'
-        title: 'Open Positions'
+        title: 'Join us'
     - title: 'Contact'
       url: '/contact/'
 
@@ -87,13 +87,8 @@ footer__menu__settings:
 
 # Social Links
 social:
-- {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", color: "#3b5999", name: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", color: "#bd081c", name: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", color: "#ea4c89", name: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", color: "#e4405f", name: Instagram, link: "https://instagram.com"}
-- {icon: "ion-logo-github", color: "#000000", name: GitHub, link: "https://github.com"}
-- {icon: "ion-logo-linkedin", color: "#0077b5", name: LinkedIn, link: "https://linkedin.com"}
+- {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://x.com/NiranjanTW"}
+- {icon: "ion-logo-github", color: "#000000", name: GitHub, link: "https://github.com/CSB5"}
 
 
 

@@ -3,7 +3,7 @@ layout: post
 title: Skin Microbiome Dermotypes
 description: We present the largest- to-date skin microbiome dataset and establish dermotypes as a key organizing principle of skin microbial ecology.
 image: 'https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=4096x4096'
-tags: [skin microbiome, asmp]
+tags: [Skin Microbiome, ASMP]
 author: cherry
 featured: false
 ---
