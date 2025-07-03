@@ -4,13 +4,12 @@ title: Skin Microbiome Dermotypes
 description: We present the largest- to-date skin microbiome dataset and establish dermotypes as a key organizing principle of skin microbial ecology.
 image: 'https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=4096x4096'
 tags: [Skin Microbiome, ASMP]
+preprint: https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1
+code: https://github.com/CSB5/ASMP_Dermotype
 author: cherry
 featured: false
 ---
 
-View our preprint here: [https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1](https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1)!
-
-----
 
 
 Super thrilled to share our labor of love from the Asian Skin Microbiome Program! Collected >3,500 skin samples, built metagenomic libraries w/ >70 billion reads and >10TB of data to study population heterogeneity in skin microbiome (200 adults, 18 sites).

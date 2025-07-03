@@ -83,12 +83,28 @@ layout: default
 
   <article class="post">
     <div class="pagination">
-    <button class="button button--primary" onclick="location.href='http://www.google.com'" type="button">Preprint</button>
-  </div>
-
-  <button class="button" onClick="window.open('http://www.google.com');">
-     <span class="icon">Open</span>
-</button>
+    {% if page.preprint %}
+    
+      <button class="button button--primary" onClick="window.open('{{ page.preprint }}');">
+        <span>View Preprint</span>
+      </button>
+    
+    {% endif %} 
+    {% if page.paper %}
+    
+      <button class="button button--primary" onClick="window.open('{{ page.paper }}');">
+        <span>View Paper</span>
+      </button>
+    
+    {% endif %}
+    {% if page.code %}
+    
+      <button class="button button--primary" onClick="window.open('{{ page.code }}');">
+        <span>Code Repository</span>
+      </button>
+    
+    {% endif %}
+    </div>
 
     <div class="post__content">
       {{ content }}
