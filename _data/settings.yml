@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 title: MTMS
-logo: /images/MTMSlogo_words.png # You can add own logo. For example "/images/logo.png".
-description: Multipurpose Jekyll Blog Theme
+logo: /images/misc/MTMSlogo.png # You can add own logo. For example "/images/logo.png".
+description: Laboratory of Metagenomic Technologies and Microbial Systems
 
 
 #-------------------------------

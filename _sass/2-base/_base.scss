@@ -41,6 +41,7 @@ h5,
 h6 {
   font-family: $heading-font-family;
   font-weight: $heading-font-weight;
+  // font-style: italic;
   line-height: $heading-line-height;
   letter-spacing: $heading-letter-spacing;
   color: var(--heading-font-color);
