@@ -6,7 +6,9 @@
 
         <div class="logo">
           <a class="logo__link" href="{{ site.baseurl }}/">
-          {% if site.data.settings.logo %}
+          {% if page.url == "/" and site.data.settings.logo_dark %}
+            <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo_dark }}" alt="{{ site.data.settings.title }}">
+          {% elsif site.data.settings.logo %}
             <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
           {% else %}
             {{ site.data.settings.title }}
