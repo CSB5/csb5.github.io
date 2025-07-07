@@ -12,6 +12,10 @@
   --dark: #121315;
   --dark-blue: #121315;
 
+  --astar-blue: #033189;
+  --astar-dark-blue: #011335;
+  --astar-red: #da2915;
+
   --image-gradient-color: linear-gradient(180deg, rgba(52, 97, 121, 0.85) 0%, rgba(20, 58, 78, 0.85) 100%); // To change the color of the gradient, add an RGB color code. For example - "65, 85, 230" and "195, 55, 100" (You can generate any color here - https://htmlcolorcodes.com).
 
   --background-color: var(--white);
@@ -28,7 +32,7 @@
 
   --button-color: var(--white);
   --button-background-color: var(--dark);
-  --button-background-hover: var(--primary-color);
+  --button-background-hover: var(--astar-blue);
 
   --border-color: var(--light-gray);
   --border-second-color: var(--darken-gray);
