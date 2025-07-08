@@ -10,9 +10,15 @@
 
         <div class="col col-6 col-d-12">
           <div class="widget-footer widget-author">
+            {% if site.data.settings.logo_footer %}
+            <div>
+              <img class="logo__image__large" src="{{ site.baseurl }}{{ site.data.settings.logo_footer }}" alt="{{ site.data.settings.title }}">
+            </div>
+            {% else %}
             <div class="widget-author__avatar">
               <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
             </div>
+            {% endif %}
             <h3 class="widget-author__title">{{ site.data.settings.author.author__name }}</h3>
             {% if site.data.settings.author.author__bio %}
             <p class="widget-author__bio">{{site.data.settings.author.author__bio}}</p>
