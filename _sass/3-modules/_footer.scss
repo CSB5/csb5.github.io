@@ -79,6 +79,10 @@
   margin-bottom: 12px;
   font-size: 28px;
   color: var(--white);
+
+  @media (max-width: $mobile) {
+    font-size: 24px;
+  }
 }
 
 .widget-author__bio {
