@@ -9,9 +9,6 @@ code: https://github.com/CSB5/ASMP_Dermotype
 author: cherry
 featured: false
 ---
-
-
-
 Super thrilled to share our labor of love from the Asian Skin Microbiome Program! Collected >3,500 skin samples, built metagenomic libraries w/ >70 billion reads and >10TB of data to study population heterogeneity in skin microbiome (200 adults, 18 sites).
 
 Many exciting results to follow-up on:

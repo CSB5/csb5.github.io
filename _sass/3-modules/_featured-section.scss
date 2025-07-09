@@ -40,6 +40,7 @@
 .slider-controls {
   display: flex;
   align-items: center;
+  pointer-events: auto;
 
   .prev,
   .next {
