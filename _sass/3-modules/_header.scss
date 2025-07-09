@@ -115,6 +115,10 @@
 .logo__image__large {
   max-height: 85px;
   margin-bottom: 20px;
+
+  @media (max-width: $mobile) {
+    max-height: 75px;
+  }
 }
 
 /* Nav */
