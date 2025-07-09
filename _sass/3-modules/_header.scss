@@ -3,7 +3,7 @@
 
   &.header--dark {
     color: var(--white);
-    background-color: var(--astar-dark-blue);
+    //background-color: var(--dark);
 
     .hamburger div,
     .hamburger div:after,
@@ -102,6 +102,11 @@
 
 .logo__image {
   max-height: 50px;
+}
+
+.logo__image__large {
+  max-height: 85px;
+  margin-bottom: 20px;
 }
 
 /* Nav */

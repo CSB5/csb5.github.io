@@ -227,8 +227,6 @@ table td {
 .button {
   display: inline-block;
   padding: 22px 32px;
-  margin-left: 12px;
-  margin-right: 12px;
   font-size: 18px;
   font-weight: 700;
   line-height: 1;
@@ -242,6 +240,10 @@ table td {
   background: var(--dark);
 
   &--primary {
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+    margin-bottom: 12px;
     &:hover {
       background: var(--button-background-hover);
     }

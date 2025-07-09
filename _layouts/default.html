@@ -11,7 +11,9 @@
   <!-- begin global wrap -->
   <div class="global-wrap">
 
-    {% include header.html %}
+    {% if page.url != '/' %}
+      {% include header.html %}
+    {% endif %}
   
     <!-- begin content -->
     <main class="content" aria-label="Content">
