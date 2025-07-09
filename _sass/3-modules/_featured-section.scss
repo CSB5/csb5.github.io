@@ -1,6 +1,8 @@
 /* Featured Section */
 .featured-section {
   margin-bottom: 226px;
+  position: relative; /* or absolute/fixed/sticky */
+  z-index: 1;
 
   @media (max-width: $desktop) {
     margin-bottom: 210px;
@@ -40,7 +42,6 @@
 .slider-controls {
   display: flex;
   align-items: center;
-  pointer-events: auto;
 
   .prev,
   .next {

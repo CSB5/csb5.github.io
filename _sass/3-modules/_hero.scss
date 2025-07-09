@@ -28,9 +28,6 @@
   padding: 80px 0 0;
   margin-bottom: 96px;
   color: var(--white);
-  position: relative; /* or absolute/fixed/sticky */
-  z-index: 1;
-  pointer-events: none;
   //background-color: var(--dark);
 
   @media (max-width: $desktop) {
@@ -49,6 +46,7 @@
   max-width: 1160px;
   margin-bottom: 96px;
 
+
   @media (max-width: $desktop) {
     margin-bottom: 80px;
   }
@@ -64,6 +62,9 @@
   font-weight: 600;
   line-height: 1.4;
   color: var(--white);
+  position: relative; /* or absolute/fixed/sticky */
+  z-index: 1;
+  pointer-events: none;
 
   @media (max-width: $desktop) {
     font-size: 40px;
