@@ -92,6 +92,14 @@
     margin: 20px 0 60px;
     text-align: left;
 
+    h2 {
+      font-size: 28px;
+
+      @media(max-width: $mobile) {
+        font-size: 22px;
+      }
+    }
+
     p {
       max-width: 740px;
       margin: 0 auto 0;

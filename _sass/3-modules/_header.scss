@@ -102,6 +102,14 @@
 
 .logo__image {
   max-height: 50px;
+
+  @media (max-width: $tablet) {
+    max-height: 45px;
+  }
+
+  @media (max-width: $mobile) {
+    max-height: 40px;
+  }
 }
 
 .logo__image__large {
