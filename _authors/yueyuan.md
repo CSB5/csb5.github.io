@@ -1,8 +1,8 @@
 ---
 username: yueyuan
 name: On Yue Yuan
-image: '/images/members/Yue Yuan_fun.jpeg'
-image_fun: '/images/members/Yue Yuan_fun.jpeg'
+image: '/images/members/Yue_Yuan_enlarge.jpg'
+image_fun: '/images/members/Yue_Yuan_fun.jpg'
 email: onyy@gis.a-star.edu.sg
 linkedin: http://linkedin.com/in/yue-yuan-on-a20a14112
 position: Postdoctoral researcher
