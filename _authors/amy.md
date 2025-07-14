@@ -10,7 +10,6 @@ position: PhD Researcher, ARAP Awardee
 
 **MEng** &nbsp;&nbsp; / &nbsp;&nbsp; Univeristy of Sheffield
 
-
------
+<br/>
 
 I am a PhD researcher in the Nagarajan Research Group and an ARAP Awardee, working with the Pandhal Research Group at the University of Sheffield. My research applies bioinformatics to track the adaptive evolution of marine microbial communities—mainly algae and bacteria—using metagenomics, metaproteomics, and metatranscriptomics. I aim to engineer these communities to break down carcinogenic pollutants like benzene from ship exhaust. 

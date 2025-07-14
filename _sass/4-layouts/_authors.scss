@@ -103,7 +103,7 @@
     p {
       max-width: 740px;
       margin: 0 auto 0;
-      font-size: 21px;
+      font-size: 20px;
     }
   }
 
@@ -143,19 +143,22 @@
 
   .author__info {
     display: flex;
-    align-items: center;
-    justify-content: center;
     flex-wrap: wrap;
     margin-top: 48px;
     margin-bottom: 32px;
 
+    @media (max-width: $mobile) {
+      align-items: center;
+      justify-content: center;
+    }
+
     .author__social__item {
-      padding: 12px 24px;
+      padding: 15px 18px;
       margin-right: 12px;
-      margin-bottom: 0;
+      margin-bottom: 12px;
       font-size: 20px;
       line-height: 1;
-      border-radius: 60px;
+      border-radius: 30px;
       color: var(--link-color);
       background-color: var(--light-gray);
 
@@ -165,6 +168,10 @@
 
       &:hover {
         background-color: var(--darken-gray);
+      }
+
+      @media (max-width: $mobile) {
+        padding: 10px 14px;
       }
     }
   }

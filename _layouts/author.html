@@ -38,27 +38,34 @@ layout: default
           {% if page.location %}
             <span class="author__social__item"><i class="ion ion-md-pin"></i></span>
           {% endif %}
-          
           {% if page.email %}
             <a class="author__social__item" href="mailto:{{ page.email }}" aria-label="EMail"><i class="ion ion-ios-mail"></i></a>
           {% endif %}
           {% if page.website %}
-            <a class="author__social__item" href="{{ page.website }}" aria-label="Website link"><i class="ion ion-ios-link"></i></a>
+            <a class="author__social__item" href="{{ page.website }}" target="_blank" aria-label="Website link"><i class="ion ion-ios-link"></i></a>
           {% endif %}
+          <!-- Academic Links -->
           {% if page.scholar %}
-            <a class="author__social__item" href="{{ page.scholar }}" aria-label="Scholar link"><i class="ion ion-ios-school"></i></a>
+            <a class="author__social__item" href="{{ page.scholar }}" target="_blank" aria-label="Scholar link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/googlescholar.svg" /></a>
           {% endif %}
-          {% if page.twitter %}
-            <a class="author__social__item" href="{{ page.twitter }}" aria-label="Twitter link"><i class="ion ion-logo-twitter"></i></a>
+          {% if page.research_gate %}
+            <a class="author__social__item" href="{{ page.research_gate }}" target="_blank" aria-label="Research Gate link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/researchgate.svg" /></a>
           {% endif %}
-          {% if page.facebook %}
-            <a class="author__social__item" href="{{ page.facebook }}" aria-label="Facebook link"><i class="ion ion-logo-facebook"></i></a>
-          {% endif %}
-          {% if page.linkedin %}
-            <a class="author__social__item" href="{{ page.linkedin }}" aria-label="LinkedIn link"><i class="ion ion-logo-linkedin"></i></a>
+          {% if page.orcid %}
+            <a class="author__social__item" href="{{ page.orcid }}" target="_blank" aria-label="Orcid link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/orcid.svg" /></a>
           {% endif %}
           {% if page.github %}
-            <a class="author__social__item" href="{{ page.github }}" aria-label="GitHub link"><i class="ion ion-logo-github"></i></a>
+            <a class="author__social__item" href="{{ page.github }}" target="_blank" aria-label="GitHub link"><i class="ion ion-logo-github"></i></a>
+          {% endif %}
+          <!-- Social Links -->
+          {% if page.X %}
+            <a class="author__social__item" href="{{ page.X }}" target="_blank" aria-label="X link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" /></a>
+          {% endif %}
+          {% if page.bluesky %}
+            <a class="author__social__item" href="{{ page.bluesky }}" target="_blank" aria-label="X link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg" /></a>
+          {% endif %}
+          {% if page.linkedin %}
+            <a class="author__social__item" href="{{ page.linkedin }}" target="_blank" aria-label="LinkedIn link"><i class="ion ion-logo-linkedin"></i></a>
           {% endif %}
           </div>
 

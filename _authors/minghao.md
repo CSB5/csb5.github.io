@@ -14,7 +14,7 @@ position: GIS-BII Fellow
 
 **BSc** &nbsp;&nbsp; / &nbsp;&nbsp; University College London
 
------
+<br/>
 
 I want to make sense of large quantities of data to generate insights about human health and biology. This involves asking testable hypotheses, generating high quality data and using appropriate statistical and computational methods. 
 
