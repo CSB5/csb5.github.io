@@ -42,8 +42,9 @@ layout: default
               {% if author %}
                 <a class="post__author__name" href="{{ author.url }}">{{ author.name }}</a>
                 <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
-              {% else %}
-                <!-- <a class="post__author__name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a> -->
+              {% elsif page.featured != true %}
+                 <!-- <a class="post__author__name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a> -->
+                  <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
               {% endif %}
             </div>
           </div>

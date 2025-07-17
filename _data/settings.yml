@@ -55,8 +55,8 @@ blog:
 # Recommended Tag Settings
 tag:
   enable: true
-  tag__title: Recommended
-  tag__name: Motivation
+  tag__title: Lab activities
+  tag__name: Lab activities
 
 
 #-------------------------------

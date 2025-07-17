@@ -1,0 +1,37 @@
+---
+layout: post
+title: Barbecue at Pasir Ris Park
+description: We had a memorable barbeque at the Pasir Ris park! But traditions must be upheld...
+tag: ["Lab activities"]
+image: '/images/activities/2025-04-25-barbecue/bbq_in_rain.jpg'
+featured: false
+lab_activity: true
+---
+
+![](/images/activities/2025-04-25-barbecue/group_photo.jpg#wide)
+*Group photo!*
+
+![](/images/activities/2025-04-25-barbecue/happy_birthday.jpg)
+
+
+![](/images/activities/2025-04-25-barbecue/js_cake.jpg)
+
+Happy birthday, Jean-Sebastien!
+
+![](/images/activities/2025-04-25-barbecue/in_rain.jpg)
+
+And it started raining, again... Everyone's trying to save our barbecue :-).
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/activities/2025-04-25-barbecue/amy.jpg" loading="lazy">
+    <img src="/images/activities/2025-04-25-barbecue/hr_qy.jpg" loading="lazy">
+    <img src="/images/activities/2025-04-25-barbecue/sarah_clarice.jpg" loading="lazy">
+    <img src="/images/activities/2025-04-25-barbecue/yueyuan_js_aarthi.jpg" loading="lazy">
+    <img src="/images/activities/2025-04-25-barbecue/mh_lh_js.jpg" loading="lazy">
+    <img src="/images/activities/2025-04-25-barbecue/cooking.jpg" loading="lazy">
+  </div>
+  <em>Lab members having fun. Credit: Jon.</em>
+</div>
+
+Thanks Jean-Sebastien for organizing, and thanks everyone for joining, bringing materials and helping out!
