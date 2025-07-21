@@ -21,11 +21,21 @@ lab_activity: true
     <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/aarthi.jpg" loading="lazy">
     <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/zhenhao.jpg" loading="lazy">
     <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/seeusi.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/making_pasta_everyone.jpeg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/making_pasta_smiling.jpeg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/pasta_shapes.jpg" loading="lazy">
   </div>
-  <em>It was a lot of fun!</em>
+  <em>It was a lot of fun! Credit: Zhenhao, Jon, Seeu Si.</em>
 </div>
 
-![](/images/activities/2025-07-17-pasta-making-durian-tasting/pasta_shapes.jpg)
+<video width="100%" controls>
+  <source src="/images/activities/2025-07-17-pasta-making-durian-tasting/pasta_out.mp4" type="video/mp4">
+</video>
+
+<br>Jean-Sebastien's pasta machine was doing wonders!
+
+
+![](/images/activities/2025-07-17-pasta-making-durian-tasting/js_amy_taha.jpeg)
 
 ![](/images/activities/2025-07-17-pasta-making-durian-tasting/made_pasta.jpg)
 *Our pasta come in all shapes.*
@@ -38,7 +48,7 @@ After trying out our cooked pasta, we are treated with durian tasting! We tried 
 
 ![](/images/activities/2025-07-17-pasta-making-durian-tasting/durian_shop.jpg)
 
-![](/images/activities/2025-07-17-pasta-making-durian-tasting/durian_eating.jpg)
+![](/images/activities/2025-07-17-pasta-making-durian-tasting/durian_tasting.jpeg)
 
 
 Thanks Jon for organizing, and thanks everyone for joining and helping out!

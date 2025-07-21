@@ -40,7 +40,7 @@ Our algorithm takes linear time with respect to the length of the consensus, mak
 
 ![](/images/posts/2025-02-13-finding-consensus-sequences/real-datasets.png)
 
-Finally, the *k*-th order Markov chain also outputs a joint probability of observing the consensus sequence, which can be used to calculate a confidence score to judge whether the output consensus sequence is reliable or not, aiding in building a fast and reliable consensus finding workflow.
+Finally, the *k*-th order Markov chain also outputs a joint probability of observing the consensus sequence, which can be used to calculate a confidence score to judge the correctness of output consensus sequence, aiding in building a fast and reliable consensus finding workflow.
 
 ![](https://www.biorxiv.org/content/biorxiv/early/2025/04/21/2025.04.16.644694/F7.large.jpg?width=800&height=600&carousel=1)
 
