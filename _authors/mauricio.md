@@ -3,7 +3,7 @@ username: mauricio
 name: Mauricio Lisboa Perez
 image: '/images/members/mauricio.jpg'
 image_fun: '/images/members/mauricio_fun.jpg'
-email: mauriciolp@gis.a-star.edu.sg
+email: mauriciolp@a-star.edu.sg
 github: https://github.com/mauriciolp
 linkedin: https://www.linkedin.com/in/mauricio-l-perez
 X: https://x.com/mlisboaperez

@@ -3,7 +3,7 @@ username: amy
 name: Amy Birss
 image: '/images/members/Amy.jpeg'
 image_fun: '/images/members/Amy_fun.jpg'
-email: birssar@gis.a-star.edu.sg
+email: birssar@a-star.edu.sg
 linkedin: https://www.linkedin.com/in/amy-rose-birss-b443a41b8/ 
 position: PhD Researcher, ARAP Awardee
 ---

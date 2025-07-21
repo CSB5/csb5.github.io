@@ -3,7 +3,7 @@ username: zhenhao
 name: Gu Zhenhao
 image: '/images/members/zhenhao.jpg'
 image_fun: '/images/members/zhenhao_fun.jpg'
-email: zhenhao.gu@u.nus.edu
+email: GU_Zhenhao@a-star.edu.sg
 github: https://github.com/GZHoffie
 bluesky: https://bsky.app/profile/guzhenhao.bsky.social
 position: Graduate Student

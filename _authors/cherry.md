@@ -3,7 +3,7 @@ username: cherry
 name: Cherry Li Chengchen
 image: '/images/members/Cherry.JPG'
 image_fun: '/images/members/Cherry_fun.jpg'
-email: cherry_li@gis.a-star.edu.sg
+email: cherry_li@a-star.edu.sg
 bluesky: https://bsky.app/profile/cherrychengchenli.bsky.social 
 linkedin: https://linkedin.com/in/chengchen-cherry-li
 position: Graduate Student
