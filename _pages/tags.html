@@ -14,15 +14,15 @@ permalink: /tags/
   <div class="tag__head">
     
     <div class="container">
-      <h1 class="post__title">{{ page.title | escape }}</h1>
+      <h1 class="tag__title">{{ page.title | escape }}</h1>
       {% if page.description %}
-      <p class="post__description">{{ page.description }}</p>
+      <p class="tag__description">{{ page.description }}</p>
       {% endif %}
       <div class="row">
       {% for item in (0..site.tags.size) %}
         {% unless forloop.last %}
           {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-            <a href="#{{ this_word | cgi_escape | url_decode }}" class="tag__link">{{ this_word }} ({{ site.tags[this_word].size }})</a>
+            <a href="#{{ this_word | cgi_escape | url_decode }}" class="tag__link"><b>{{ this_word }}</b> &nbsp;·&nbsp; {{ site.tags[this_word].size }}</a>
         {% endunless %}
       {% endfor %}
       </div>
