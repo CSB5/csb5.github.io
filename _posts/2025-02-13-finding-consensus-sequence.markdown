@@ -2,7 +2,8 @@
 layout: post
 title: Constructing Consensus Sequences, Fast
 description: We designed a new algorithm for finding consensus of multiple DNA sequences, which operates in linear time with respect to the length of the consensus.
-image: https://www.biorxiv.org/content/biorxiv/early/2025/04/21/2025.04.16.644694/F2.large.jpg?width=800&height=600&carousel=1
+image: /images/posts/2025-02-13-finding-consensus-sequences/logo.png
+image_caption: Beam Search lights up the way.
 date: 2025-02-13
 tags: [Algorithms, Metagenomic Technologies]
 preprint: https://www.biorxiv.org/content/10.1101/2025.04.16.644694v1
@@ -23,9 +24,10 @@ Current reconstruction algorithms typically rely on pairwise or multiple sequenc
 
 However, it is well known that the sequencing error rate may vary within each read and across different datasets [[1]](#1). Finding the optimal scoring scheme that accomodates all these variations is not easy.
 
-We therefore propose a new problem definition. Instead of assuming the error rates and finding the optimal alignment, we imagine that the sequences are observations of an unknown generative model, and try to **predict the most probable next observation of the model**. Under certain assumptions, we can show that the consensus is indeed the most probable next observation.
+We therefore propose a new problem definition. Instead of assuming the error rates and finding the optimal alignment, we imagine that the sequences are observations of an unknown generative model, and try to **predict the most probable next observation of the model**.
 
 ![](/images/posts/2025-02-13-finding-consensus-sequences/problem_definition.png)
+*The most probable next observation is regarded as the consensus.*
 
 In this work, we assume the model to be a *k*-th order Markov chain, whose parameters can be easily learned via *k*-mer counting. The parameters essentially encodes the **position-specific error rates**, making the alignment highly accurate. A novel algorithm, *Bidirectional Beam Search* (BBS), is used to infer the most probable output.
 
