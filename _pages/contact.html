@@ -1,29 +1,62 @@
 ---
-layout: page
+layout: default
 title: Contact
-description: 'Dann comes with a built-in contact form, that you can use with Formspree service to handle up to 50
-submissions per month for free. You could also easily switch to another contact form service if you want.'
 permalink: /contact/
-image: '/images/111.jpg'
-image_caption: 'Photo by [Brad Neathery](https://unsplash.com/photos/XrSzacdYbtQ) on [Unsplash](https://unsplash.com/)'
 ---
+<div class="post-head{{videoPost}}">
+  <div class="container">
+    <div class="row">
 
-<div class="form-box">
-  <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-name">Your Name</label>
-      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
+      <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
+        <div class="post__info{{videoInfo}}">
+
+          <h1 class="post__title">{{ page.title | escape }}</h1>
+
+          <!-- Location -->
+          <div class="contact__container">
+            <div class="logo__container">
+              <i class="ion ion-md-pin"></i>
+            </div>
+            <div class="text__container">
+              Genome Building #02-01<br>
+              60 Biopolis Street<br>
+              Singapore 138672
+            </div>
+          </div>
+
+          <!-- Phone -->
+          <div class="contact__container">
+            <div class="logo__container">
+              <i class="ion ion-md-call"></i>
+            </div>
+            <div class="text__container">
+              +65 6808-8071
+            </div>
+          </div>
+
+          <!-- Email -->
+          <div class="contact__container">
+            <div class="logo__container">
+              <i class="ion ion-ios-mail"></i>
+            </div>
+            <div class="text__container">
+              nagarajann@a-star.edu.sg
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+
+
+
+      <div class="col col-5 push-1 col-d-12 push-d-0">
+        <div class="post-image">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6601.234955252614!2d103.79264760000001!3d1.3026845999999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a46a88725cd%3A0x9d27cec9775be342!2sGenome%20Institute%20of%20Singapore%20(GIS)!5e1!3m2!1sen!2ssg!4v1753099409963!5m2!1sen!2ssg" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+
+
     </div>
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-email">Your Email</label>
-      <input class="form__input" id="form-email" type="email" name="_replyto" placeholder="Email" required>
-    </div>
-    <div class="form__group">
-      <label class="form__label screen-reader-text" for="form-text">Your Message</label>
-      <textarea class="form__input" id="form-text" name="text" rows="7" placeholder="Message" required></textarea>
-    </div>
-    <div class="form__group">
-      <button class="button button--primary" type="submit">Send Message</button>
-    </div>
-  </form>
+  </div>
 </div>

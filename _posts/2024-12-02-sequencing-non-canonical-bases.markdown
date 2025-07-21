@@ -5,7 +5,7 @@ description: We developed a fast and accurate DNA sequencing method that reads c
 image: '/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/XNA_Basecaller_Overview.png'
 image_caption: DNA containing non-canonical bases can be directly sequenced using nanopore devices and AI
 date: 2024-12-02
-tags: [Synthetic Biology, Nanopore, AI & ML, Metagenomic Technologies]
+tags: [Metagenomic Technologies, AI & ML, Synthetic Biology, Nanopore]
 preprint: https://biorxiv.org/cgi/content/short/2024.12.02.625113
 code: https://github.com/CSB5/XNA_Basecaller/
 author: mauricio

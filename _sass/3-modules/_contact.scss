@@ -32,3 +32,33 @@
     background-color: var(--darken-gray);
   }
 }
+
+.contact__container {
+  display: flex;
+  align-items: center;
+  margin-top: 32px;
+  font-size: 24px;
+
+  .logo__container {
+    margin-right: 35px;
+    margin-left: 35px;
+    font-size: inherit;
+    color: var(--primary-color);
+
+    @media (max-width: $tablet) {
+      margin-right: 20px;
+      margin-left: 20px;
+    }
+  }
+
+  .text__container {
+    font-size: inherit;
+    line-height: 1.4;
+
+  }
+
+  @media (max-width: $tablet) {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+}

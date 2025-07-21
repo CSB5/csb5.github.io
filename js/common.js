@@ -119,26 +119,23 @@ document.addEventListener("DOMContentLoaded", function() {
   // Smooth scroll to the tags page
   ================================= */
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  anchor.addEventListener('click', function(e) {
-    e.preventDefault();
+    anchor.addEventListener('click', function(e) {
+      e.preventDefault();
 
-    // 1. Figure out the real ID (decode percent‑escapes)
-    const rawHash = this.hash;                        // e.g. "#Skin%20Microbiome"
-    const id      = decodeURIComponent(rawHash.slice(1));
+      // Figure out the real ID (decode percent‑escapes)
+      const rawHash = this.hash;
+      const id = decodeURIComponent(rawHash.slice(1));
 
-    // 2. Scroll into view
-    const target = document.getElementById(id);
-    if (!target) return;
-    target.scrollIntoView({ behavior: 'smooth' });
+      // Scroll into view
+      const target = document.getElementById(id);
+      if (!target) return;
+      target.scrollIntoView({ behavior: 'smooth' });
 
-    // 3a. Add to history (one more back‑step)
-    history.pushState(null, '', '#' + encodeURIComponent(id));
-    // — or —
-
-    // 3b. Replace the current entry (no extra back‑step)
-    // history.replaceState(null, '', '#' + encodeURIComponent(id));
+      // Add to history (one more back‑step)
+      history.pushState(null, '', '#' + encodeURIComponent(id));
+      // history.replaceState(null, '', '#' + encodeURIComponent(id));
+    });
   });
-});
 
 
   /* ======================================
