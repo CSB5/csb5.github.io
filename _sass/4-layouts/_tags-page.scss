@@ -2,6 +2,34 @@
 .tag__head {
   margin-bottom: 60px;
 
+  .tag__title {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 52px;
+    line-height: 1.4;
+
+    @media (max-width: $tablet) {
+      margin-bottom: 16px;
+      font-size: 40px;
+    }
+
+
+    @media (max-width: $mobile) {
+      font-size: 32px;
+    }
+  }
+
+  .tag__description {
+    margin-bottom: 24px;
+    font-size: 24px;
+    line-height: 1.4;
+
+    @media (max-width: $tablet) {
+      margin-bottom: 16px;
+      font-size: inherit;
+    }
+  }
+
   .tag__link {
     display: block;
     padding: 22px 32px;
