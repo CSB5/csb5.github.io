@@ -1,6 +1,7 @@
 <!-- begin pagination -->
 <div class="container animate">
-  {% assign postCount = site.posts | size %}
+  {% assign filteredPosts = site.posts | where_exp: "post", "post.featured != true and post.lab_activities != true" %}
+  {% assign postCount = filteredPosts | size %}
   {% assign postsCovered = site.paginate | plus:offset %}
   {% if postsCovered < postCount %}
   <div class="pagination">

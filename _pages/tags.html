@@ -15,8 +15,7 @@ permalink: /tags/
         <div class="post__info{{videoInfo}}">
 
 
-          <h1 class="post__title">{{ page.title | escape }}</h1>
-
+          <h1 class="tag__title">{{ page.title | escape }}</h1>
           {% if page.description %}
           <p class="post__description">{{ page.description }}</p>
           {% endif %}
@@ -50,9 +49,7 @@ permalink: /tags/
       {% for item in (0..site.tags.size) %}
         {% unless forloop.last %}
           {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-          <div class="col col-4 col-d-6 col-t-12">
             <a href="#{{ this_word | cgi_escape | url_decode }}" class="tag__link">{{ this_word }} ({{ site.tags[this_word].size }})</a>
-          </div>
         {% endunless %}
       {% endfor %}
       </div>

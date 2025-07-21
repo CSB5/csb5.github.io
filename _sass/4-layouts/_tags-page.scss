@@ -2,48 +2,28 @@
 .tag__head {
   margin-bottom: 60px;
 
-  .row {
-    row-gap: 32px;
-  }
-
   .tag__link {
     display: block;
-    padding: 22px 32px;;
+    padding: 22px 32px;
     font-size: 18px;
     line-height: 1;
     font-weight: 700;
     text-align: center;
     border-radius: 60px;
-    color: var(--button-color);
-    background: var(--button-background-color);
+    color: var(--dark);
+    background-color: var(--light-gray);
     transition: $global-transition;
+    margin: 12px 12px;
+
+    @media (max-width: $mobile) {
+      font-size: 13px;
+      padding: 12px 20px;
+      margin: 5px 5px;
+    }
 
     &:hover {
-      background: var(--button-background-hover);
+      background-color: var(--darken-gray);
     }
-  }
-
-  @media (max-width: $desktop) {
-    margin-bottom: 44px;
-
-    .col {
-      flex-grow: 1;
-    }
-  }
-
-  @media (max-width: $tablet) {
-    .row {
-      row-gap: 12px;
-    }
-
-    .tag__link {
-      padding: 20px;
-      font-size: inherit;
-    }
-  }
-
-  @media (max-width: $mobile) {
-    margin-bottom: 28px;
   }
 }
 
