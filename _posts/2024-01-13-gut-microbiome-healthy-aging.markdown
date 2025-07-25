@@ -38,4 +38,4 @@ Leveraging the power of our unique large cohort of elderly, we identified severa
 
 ![](https://pbs.twimg.com/media/GXFZ34QasAAgwS6?format=jpg&name=medium)
 
-Our study is one of the largest gut #microbiome analyses in Asian octogenarians, highlighting key microbes involved in healthy aging.
+Our study is one of the largest gut microbiome analyses in Asian octogenarians, highlighting key microbes involved in healthy aging.
