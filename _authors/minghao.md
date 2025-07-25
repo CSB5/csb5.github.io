@@ -1,6 +1,7 @@
 ---
 username: minghao
 name: Minghao Chia
+nick_name: Minghao
 image: '/images/members/minghao.jpg'
 image_fun: '/images/members/minghao_fun.png'
 email: chia_minghao@a-star.edu.sg

@@ -1,6 +1,7 @@
 ---
 username: zhenhao
 name: Gu Zhenhao
+nick_name: Zhenhao
 image: '/images/members/zhenhao.jpg'
 image_fun: '/images/members/zhenhao_fun.jpg'
 email: GU_Zhenhao@a-star.edu.sg

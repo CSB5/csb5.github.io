@@ -1,6 +1,7 @@
 ---
 username: seeusi
 name: Seeu Si Ong
+nick_name: Seeu Si
 position: Postdoctoral researcher
 image: '/images/members/seeusi_enlarge.jpg'
 image_fun: '/images/members/seeusi.jpg'

@@ -1,6 +1,7 @@
 ---
 username: amanda
 name: Amanda Ng
+nick_name: Amanda
 image: '/images/members/Amanda.png'
 image_fun: '/images/members/Amanda_FUN.jpg'
 email: nghqa@a-star.edu.sg

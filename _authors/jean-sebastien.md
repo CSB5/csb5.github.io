@@ -1,6 +1,7 @@
 ---
 username: jsg
 name: Jean-Sébastien Gounot
+nick_name: Jean-Sébastien
 image: '/images/members/jsg.jpg'
 email: jean-sebastien@a-star.edu.sg
 bluesky: https://bsky.app/profile/jsgounot.bsky.social

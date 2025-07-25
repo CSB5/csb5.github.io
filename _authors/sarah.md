@@ -1,6 +1,7 @@
 ---
 username: sarah
 name: Sarah Catherine Geiger
+nick_name: Sarah
 image: '/images/members/sarah.jpeg'
 image_fun: '/images/members/sarah_fun.JPG'
 linkedin: https://www.linkedin.com/in/scgeiger-phd/

@@ -1,6 +1,7 @@
 ---
 username: amy
 name: Amy Birss
+nick_name: Amy
 image: '/images/members/Amy.jpeg'
 image_fun: '/images/members/Amy_fun.jpg'
 email: birssar@a-star.edu.sg
