@@ -6,7 +6,7 @@ image: '/images/members/sarah.jpeg'
 image_fun: '/images/members/sarah_fun.JPG'
 linkedin: https://www.linkedin.com/in/scgeiger-phd/
 email: sarah_catherine_geiger@a-star.edu.sg
-position: Postdoctoral researcher
+position: Postdoctoral Researcher
 ---
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; National University of Singapore<br>

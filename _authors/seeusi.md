@@ -2,7 +2,7 @@
 username: seeusi
 name: Seeu Si Ong
 nick_name: Seeu Si
-position: Postdoctoral researcher
+position: Postdoctoral Researcher
 image: '/images/members/seeusi_enlarge.jpg'
 image_fun: '/images/members/seeusi.jpg'
 email: ong_seeu_si@a-star.edu.sg

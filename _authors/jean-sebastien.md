@@ -6,7 +6,7 @@ image: '/images/members/jsg.jpg'
 email: jean-sebastien@a-star.edu.sg
 bluesky: https://bsky.app/profile/jsgounot.bsky.social
 github: https://github.com/jsgounot
-position: Senior postdoctoral fellow
+position: Senior Postdoctoral Fellow
 ---
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; Strasbourg University

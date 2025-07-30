@@ -10,7 +10,7 @@ linkedin: https://www.linkedin.com/in/mauricio-l-perez
 X: https://x.com/mlisboaperez
 bluesky: https://bsky.app/profile/mlisboaperez.bsky.social
 scholar: https://scholar.google.com/citations?user=Wozp7_gAAAAJ
-position: Postdoctoral researcher
+position: Postdoctoral Researcher
 ---
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; Nanyang Technological University<br>
