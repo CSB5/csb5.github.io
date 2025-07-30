@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Our Lab Members
-permalink: /members/
+title: Our Alumni
+permalink: /alumni/
 ---
 
 <!-- begin authors -->
@@ -15,7 +15,7 @@ permalink: /members/
     <div class="container">
       <div class="row">
         {% for author in site.authors %}
-          {% if author.next_position == null %}
+          {% if author.next_position != null %}
             {% assign post_count = site.posts | where:"author", author.username %}
             <div class="col col-4 col-d-6 col-t-12">
               <div class="authors__info">
@@ -26,7 +26,7 @@ permalink: /members/
                 {% endif %} -->
                 
                 <!-- <p class="authors__description">{{ author.content }}</p> -->
-                {{ author.position }}
+                <b>Next position</b>: {{ author.next_position }}
               </div>
             </div>
           {% endif %}
