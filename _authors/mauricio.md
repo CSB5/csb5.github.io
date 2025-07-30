@@ -1,6 +1,7 @@
 ---
 username: mauricio
 name: Mauricio Lisboa Perez
+nick_name: Mauricio
 image: '/images/members/mauricio.jpg'
 image_fun: '/images/members/mauricio_fun.jpg'
 email: mauriciolp@a-star.edu.sg

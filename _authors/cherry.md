@@ -1,6 +1,7 @@
 ---
 username: cherry
 name: Cherry Li Chengchen
+nick_name: Cherry
 image: '/images/members/Cherry.JPG'
 image_fun: '/images/members/Cherry_fun.jpg'
 email: cherry_li@a-star.edu.sg

@@ -8,7 +8,7 @@ date: 2024-12-02
 tags: [Metagenomic Technologies, AI & ML, Synthetic Biology, Nanopore]
 preprint: https://biorxiv.org/cgi/content/short/2024.12.02.625113
 code: https://github.com/CSB5/XNA_Basecaller/
-author: mauricio
+author: [mauricio, nok, rafael, niranjan]
 ---
 
 Excited to share our latest work, where we show how to achieve high-throughput sequencing of DNA containing non-canonical bases using nanopore sequencing and de novo basecalling enabled by spliced-based data-augmentation. 

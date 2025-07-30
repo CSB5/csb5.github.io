@@ -1,6 +1,7 @@
 ---
 username: yueyuan
 name: On Yue Yuan
+nick_name: Yue Yuan
 image: '/images/members/Yue_Yuan_enlarge.jpg'
 image_fun: '/images/members/Yue_Yuan_fun.jpg'
 email: onyy@a-star.edu.sg
