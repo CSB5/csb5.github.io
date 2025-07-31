@@ -6,7 +6,8 @@ image: '/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/XNA_Bas
 image_caption: DNA containing non-canonical bases can be directly sequenced using nanopore devices and AI
 date: 2024-12-02
 tags: [Metagenomic Technologies, AI & ML, Synthetic Biology, Nanopore]
-preprint: https://biorxiv.org/cgi/content/short/2024.12.02.625113
+paper: https://doi.org/10.1038/s41467-025-62347-z
+publication: Nature Communications
 code: https://github.com/CSB5/XNA_Basecaller/
 author: [mauricio, nok, rafael, niranjan]
 ---

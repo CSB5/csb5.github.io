@@ -102,10 +102,15 @@ layout: default
     
     {% endif %} 
     {% if page.paper %}
-    
+      {% if page.publication %}
+      <button class="button button--primary" onClick="window.open('{{ page.paper }}');">
+        <span>Paper on <i>{{ page.publication }}</i></span>
+      </button>
+      {% else %}
       <button class="button button--primary" onClick="window.open('{{ page.paper }}');">
         <span>Paper</span>
       </button>
+      {% endif %}
     
     {% endif %}
     {% if page.code %}
