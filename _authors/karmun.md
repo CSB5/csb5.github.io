@@ -3,7 +3,7 @@ username: karmun
 name: Karmun Lim
 nick_name: Karmun
 position: Senior Research Officer
-image: '/images/members/Karmun.png'
+image: '/images/members/Karmun.jpg'
 image_fun: '/images/members/Karmun_Fun.jpeg'
 email: lim_kar_mun@a-star.edu.sg
 linkedin: https://www.linkedin.com/in/karmunlim/
