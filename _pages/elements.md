@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Elements
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
+description: List of styles that can be used in a blog post.
 permalink: /elements/
-image: '/images/17.jpg'
 ---
 
-A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
+**Refer to [this source file](https://github.com/csb5-page/csb5-page.github.io/blob/main/_pages/elements.md?plain=1) to see how to use those styles in a markdown file.**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in sem imperdiet, semper lectus nec, pharetra nibh. Vestibulum volutpat fringilla leo, nec mollis ante gravida eu. Duis et tortor a dui tristique rhoncus. Nullam vitae commodo orci. Curabitur sed nibh quis quam condimentum volutpat. Morbi orci ex, ullamcorper et consequat vitae, volutpat nec ante. Pellentesque ultricies ligula porttitor lorem aliquet suscipit. Maecenas hendrerit metus ac suscipit viverra. Duis sed fermentum lorem, ac egestas massa. Donec quis orci placerat, blandit lacus quis, ornare dolor. Morbi et luctus velit. Proin tincidunt magna a nisi ultrices fermentum. Nam dictum iaculis orci, sed ultricies nibh aliquet in. Donec eget quam dolor. Aliquam quis metus et urna finibus ultricies.
 
 ***
 
@@ -109,37 +110,37 @@ li {
 
 ## Images
 
-![Man]({{site.baseurl}}/images/21.jpg#wide)
-*Photo by [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)*
+![](/images/activities/2025-04-25-barbecue/group_photo.jpg)
+*A regular image.*
+
+![](/images/activities/2025-04-25-barbecue/group_photo.jpg#wide)
+*A large image.*
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02-2.jpg" loading="lazy">
-    <img src="/images/03-2.jpg" loading="lazy">
-    <img src="/images/16-2.jpg" loading="lazy">
-    <img src="/images/09.jpg" loading="lazy">
-    <img src="/images/06.jpg" loading="lazy">
-    <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/16.jpg" loading="lazy">
-    <img src="/images/17-1.jpg" loading="lazy">
-    <img src="/images/19.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/resting_dough.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/making_pasta.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/pasta_machine.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/aarthi.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/zhenhao.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/seeusi.jpg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/making_pasta_everyone.jpeg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/making_pasta_smiling.jpeg" loading="lazy">
+    <img src="/images/activities/2025-07-17-pasta-making-durian-tasting/pasta_shapes.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>A grid of many images.</em>
 </div>
-
-![Man]({{site.baseurl}}/images/01-2.jpg)
-*Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)*
 
 ***
 
 ## Youtube Embed
 
-<p><iframe src="https://www.youtube.com/embed/NFTstL115nY" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/7VoGbMaiaI8" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ***
 
-## Vimeo Embed
+## Video Embed
 
-<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
-
-***
+<video width="100%" controls>
+  <source src="/images/activities/2025-07-17-pasta-making-durian-tasting/pasta_out.mp4" type="video/mp4">
+</video>
