@@ -8,7 +8,7 @@ date: 2025-02-13
 tags: [Algorithms, Metagenomic Technologies]
 preprint: https://www.biorxiv.org/content/10.1101/2025.04.16.644694v1
 code: https://github.com/GZHoffie/bbs
-author: zhenhao
+author: [zhenhao, niranjan]
 ---
 
 
@@ -22,7 +22,7 @@ Current reconstruction algorithms typically rely on pairwise or multiple sequenc
 ![](https://www.biorxiv.org/content/biorxiv/early/2025/04/21/2025.04.16.644694/F1.large.jpg?width=800&height=600&carousel=1)
 *Different scoring metrics may yield different MSA.*
 
-However, it is well known that the sequencing error rate may vary within each read and across different datasets [[1]](#1). Finding the optimal scoring scheme that accomodates all these variations is not easy.
+However, it is well known that the sequencing error rate may vary within each read and across different datasets [[1]](#1). Finding the optimal scoring scheme that accommodates all these variations is not easy.
 
 We therefore propose a new problem definition. Instead of assuming the error rates and finding the optimal alignment, we imagine that the sequences are observations of an unknown generative model, and try to **predict the most probable next observation of the model**.
 

@@ -6,7 +6,7 @@ image: '/images/members/Yue Yuan.jpeg'
 image_fun: '/images/members/Yue_Yuan_fun.jpg'
 email: onyy@a-star.edu.sg
 linkedin: http://linkedin.com/in/yue-yuan-on-a20a14112
-position: Postdoctoral researcher
+position: Postdoctoral Researcher
 ---
 
 

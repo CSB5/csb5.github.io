@@ -4,7 +4,7 @@ name: Seeu Si Ong
 nick_name: Seeu Si
 position: Postdoctoral Researcher
 image: '/images/members/seeusi_enlarge.jpg'
-image_fun: '/images/members/seeusi.jpg'
+image_fun: '/images/members/seeusi_fun.jpg'
 email: ong_seeu_si@a-star.edu.sg
 linkedin: https://www.linkedin.com/in/ss-ong/
 scholar: https://scholar.google.com.hk/citations?user=cU2XBWcAAAAJ
