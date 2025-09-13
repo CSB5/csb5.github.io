@@ -10,8 +10,8 @@ description: Laboratory of Metagenomic Technologies and Microbial Systems
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Laboratory of Metagenomic Technologies and Microbial Systems @ A*STAR
-  author__bio: We develop metagenomic technologies and systems biology techniques to study the role of microbial communities in the transmission of antimicrobial resistance.
+  author__name: Laboratory of Metagenomic Technologies and Microbial Systems @ A*STAR GIS
+  author__bio: 
   author__avatar: 'https://pbs.twimg.com/profile_images/492209283371520000/XGi7L_94_400x400.jpeg'
 
 
@@ -42,7 +42,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: We develop metagenomic technologies and systems biology techniques to study the role of microbial communities in the transmission of antimicrobial resistance.
+  hero__title: Laboratory of Metagenomic Technologies and Microbial Systems @ A*STAR GIS
+  hero__description: We develop metagenomic technologies and systems biology techniques to study the role of microbial communities in the transmission of antimicrobial resistance
 
 
 #-------------------------------

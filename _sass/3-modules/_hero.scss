@@ -3,7 +3,7 @@
 #particles-js{ 
   position: absolute;
   width: 100%;
-  height: 1050px;
+  height: 950px;
   background-color: #121315;
   background-repeat: no-repeat; 
   background-size: cover; 
@@ -44,7 +44,6 @@
 }
 
 .hero__inner {
-  display: flex;
   align-items: center;
   max-width: 1160px;
   margin-bottom: 96px;
@@ -60,9 +59,9 @@
 }
 
 .hero__title {
-  margin-bottom: 0;
-  font-size: 52px;
-  font-weight: 600;
+  margin-bottom: 20px;
+  font-size: 46px;
+  font-weight: 800;
   line-height: 1.4;
   color: var(--white);
 
@@ -76,5 +75,25 @@
 
   @media (max-width: $mobile) {
     font-size: 28px;
+  }
+}
+
+.hero__description {
+  margin-bottom: 0;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--dark-gray);
+
+  @media (max-width: $desktop) {
+    font-size: 28px;
+  }
+
+  @media (max-width: $tablet) {
+    font-size: 24px;
+  }
+
+  @media (max-width: $mobile) {
+    font-size: 20px;
   }
 }
