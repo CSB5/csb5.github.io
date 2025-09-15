@@ -13,3 +13,7 @@ orcid: https://orcid.org/0000-0002-2065-4226
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; National University of Singapore<br>
 **BSc (Hons)** &nbsp;&nbsp; / &nbsp;&nbsp; Imperial College London
+
+<br/>
+
+I am an advocate for equity in science and health for women, by women. In characterising the female microbiome, I want to address previously unanswered questions about health conditions and health outcomes affecting women. I love fitness, running, sweet treats, and wildlife.

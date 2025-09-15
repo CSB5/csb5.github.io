@@ -10,13 +10,9 @@ permalink: /documentation/
 * [How to create or edit a blog post?](#edit_post)
 * [How to deploy my edits to the website?](#commit_changes)
 * [How to add images or videos to the posts?](#image_guideline)
+* [How to add links and citations?](#citation)
 * [How to add people to the lab?](#add_people)
-* [How to preview the website as I edit?](#command_line)
-
-
-
-
-
+* [How to edit and preview the content in Linux?](#command_line)
 
 
 
@@ -103,6 +99,38 @@ Under `images/posts/`, create a separate folder with the same name as the blog p
 Find out how to use different styles for fonts, images, and videos in your blog posts in [this demo](https://csb5-page.github.io/elements/) and its [source code](https://github.com/csb5-page/csb5-page.github.io/blob/main/_pages/elements.md?plain=1).
 
 
+<a id="citation"></a>
+
+## How to add links and citations?
+
+In the markdown file, you can include hyperlinks using the format `[Text](Link)`, 
+
+**Example**:
+
+```markdown
+[Preprint](https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1)
+```
+
+**Demo**: [Preprint](https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1)
+
+You can also include links that let you jump to another position in the page. The link would look like `[Text](#target_id)`, and the position you would jump to should be labeled with `<a id="target_id"></a>`. **Example**:
+
+```
+Here is our preprint [[1](#preprint)].
+
+### References
+
+<a id="preprint">[1]</a> Li, C., Ravikrishnan, A., Wijaya, I., Naim, A. N. M., Gounot, J. S., Wearne, S., ... & Nagarajan, N. (2025). Large-scale skin metagenomics reveals extensive prevalence, coordination, and functional adaptation of skin microbiome dermotypes across body sites. bioRxiv, 2025-04.
+```
+
+**Demo**: Here is our preprint [[1](#preprint)].
+
+### References
+
+<a id="preprint">[1]</a> Li, C., Ravikrishnan, A., Wijaya, I., Naim, A. N. M., Gounot, J. S., Wearne, S., ... & Nagarajan, N. (2025). Large-scale skin metagenomics reveals extensive prevalence, coordination, and functional adaptation of skin microbiome dermotypes across body sites. bioRxiv, 2025-04.
+
+
+
 <a id="add_people"></a>
 
 ## How to add people to the lab?
@@ -140,7 +168,7 @@ next_position: (optional) [If the person has left the lab, specify the next posi
 
 <a id="command_line"></a>
 
-## How to preview the website as I edit?
+## How to edit and preview the content in Linux?
 
 The following steps needs a linux command line.
 
@@ -167,3 +195,10 @@ http://localhost:4000
    to view the built webpage.
 
 1. After you update a file, click Ctrl+S to save the file, and refresh to see the updated webpage.
+1. Use `git commit` to save your edits, and
+
+   ```bash
+git push origin main
+   ```
+
+   to push your edits to your forked branch. Create a pull request in the GitHub webpage, so that your edits are deployed.

@@ -3,7 +3,8 @@ username: seeusi
 name: Clarice Pohan
 nick_name: Clarice
 position: Research Officer
-image: 'https://media.licdn.com/dms/image/v2/D5603AQG316_b-B4pwg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696002919044?e=1758153600&v=beta&t=N9xDj2ULrRzMtUNWudGBBq4Q0wnY1nNmFDjwF-yymf4'
+image: '/images/members/Clarice_enlarge.jpg'
+image_fun: '/images/members/Clarice.jpg'
 linkedin: http://linkedin.com/in/clarice-pohan-9a26661ab
 ---
 
