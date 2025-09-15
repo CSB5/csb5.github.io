@@ -10,28 +10,25 @@ code: https://github.com/CSB5/ASMP_Dermotype
 author: [cherry, aarthi, indrik, nazri, jsg, yueyuan, qiyan, minghao, amanda, niranjan]
 featured: false
 ---
-Super thrilled to share our labor of love from the Asian Skin Microbiome Program! Collected >3,500 skin samples, built metagenomic libraries w/ >70 billion reads and >10TB of data to study population heterogeneity in skin microbiome (200 adults, 18 sites).
+Which skin microbiome type do you have 🤔 Super thrilled to share our exciting work from the Asian Skin Microbiome Program! We collected >3,500 skin samples, built metagenomic libraries w/ >70 billion reads and >10TB of data to study population heterogeneity in skin microbiome (200 adults, 18 sites). 
 
-Many exciting results to follow-up on:
-
-1. The skin microbiome has unique “types” in every site - we call them dermotypes. The underarm has as many as 5 distinct ones defined by diverse microbes. We built ML classifiers to predict them w/ near-perfect accuracy with 5 species!
-
+Surveying this unpredecented scale of skin microbiome samples, we observed that the skin microbiome is organized into distinct "dermotypes" unique to each skin site! In the underarm alone, we identified 5 distinct dermotypes. Using machine learning, we can predict these dermotypes with just five key microbial species.
 
    ![](https://pbs.twimg.com/media/Gph3psHa4AAVgvm?format=jpg&name=large)
 
-
-2. Dermotypes are highly coordinated across sites. For some sites, we can predict the dermotype just by knowing dermotype of another site. Left and right sides of the body are also highly correlated, suggesting that individual intrinsic factors strongly shape the skin microbiome.
+What’s even more fascinating? Dermotypes are highly coordinated across different parts of the body. Left and right sides mirror each other closely — pointing to systematic coordinations. 
 
    ![](https://pbs.twimg.com/media/Gph5Q0Oa0AAyjZU?format=jpg&name=large)
 
-3. Microbes behave very differently across dermotypes in terms of who they co-occur with! We can confirm this with culture-based experiments that show that oxygen gradients and nutrient availability likely shape why we see distinct dermotypes in various individuals. 
+
+You might ask - why do these skin microbiome dermotypes emerge and does it matter to our skin health? 🤔 We observed that microbes behave differently depending on dermotype, forming unique co-occurrence networks. Culture-based experiments further suggest oxygen gradients and nutrient availability drive these patterns. 
 
    ![](https://pbs.twimg.com/media/Gph57YJaYAAZLmz?format=jpg&name=large)
 
-4. Dermotypes exhibit distinct associations w/ host, where ethnicity and gender play a role in some cases, while others are linked to skincare behaviors. Skin sensitivity, itch and eczema may be affected by dermotype function, highlighting utility for patient stratification & Tx
+Dermotypes aren’t just scientific curiosities — they matter for health. They’re linked to host factors like ethnicity, gender, and skincare habits. Some dermotypes even correlate with skin sensitivity, itch, and eczema risk, offering new opportunities for patient stratification and treatment innovation. 
 
    ![](https://pbs.twimg.com/media/Gph68riboAAj9Nd?format=jpg&name=medium)
 
-5. Exciting days ahead as we try to decipher the contributions of diverse factors that shape skin microbiome dermotypes, and in turn their influence on skin health!
+Exciting times ahead as we continue unraveling how diverse factors sculpt the skin microbiome, and how dermotypes influence skin health!
 
    ![](https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=4096x4096)
