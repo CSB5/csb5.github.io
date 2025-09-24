@@ -7,7 +7,7 @@ image_fun: '/images/members/yukkei_fun.jpg'
 email: wanyk@a-star.edu.sg
 linkedin: https://www.linkedin.com/in/yuk-kei-wan-779401338/
 github: https://github.com/yuukiiwa/
-position: Postdoctoral researcher
+position: Postdoctoral Researcher
 ---
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; National Univerisity of Singapore<br>
