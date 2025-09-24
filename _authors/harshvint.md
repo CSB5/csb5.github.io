@@ -6,7 +6,7 @@ position: Graduate Student
 image: '/images/members/Harshvint.jpg'
 image_fun: '/images/members/Harshvint_fun.jpg'
 email: ravichandranh@a-star.edu.sg
-linkedin: www.linkedin.com/in/harshvint
+linkedin: https://www.linkedin.com/in/harshvint
 ---
 
 **Bsc (Hons)** &nbsp;&nbsp; / &nbsp;&nbsp; National Univeristy of Malaysia

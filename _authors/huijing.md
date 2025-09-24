@@ -11,7 +11,7 @@ linkedin: https://www.linkedin.com/in/ng-hui-jing/
 
 
 **MPhil** &nbsp;&nbsp; / &nbsp;&nbsp; University of Technology Malaysia<br>
-**BSc (Hons)** &nbsp;&nbsp; / &nbsp;&nbsp; The National University of Malaysia
+**BSc (Hons)** &nbsp;&nbsp; / &nbsp;&nbsp; National University of Malaysia
 
 <br/>
 
