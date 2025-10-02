@@ -25,8 +25,14 @@ menu__settings:
       url: '/research/'
     - title: 'Publications'
       url: '/publications/'
-    - title: 'Software'
-      url: '/software/'
+    - title: 'Resources'
+      submenu:
+      - title: 'Software'
+        url: '/software/'
+      - title: 'Pipelines'
+        url: '/pipelines/'
+      - title: 'Datasets'
+        url: '/datasets/'
     - title: 'People'
       submenu:
       - url: '/members/'

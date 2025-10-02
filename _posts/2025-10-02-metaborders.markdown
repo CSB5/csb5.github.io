@@ -2,10 +2,10 @@
 layout: post
 title: Metaborders - Exploring the Invisible World at Singapore’s Borders
 description: We are conducting metagenomic surveillance of land, air, and sea checkpoints in Singapore to explore the hidden microbial ecosystems that exist at these gateways.
-image: '/images/posts/checkpoint_image.png'
+image: '/images/posts/2025-10-02-metaborders/checkpoint_image.png'
 image_caption: Woodlands Checkpoint in Singapore.
 date: 2025-10-02
-tags: [Environmental Microbiome, Borders]
+tags: [Environmental Microbiome]
 author: [jon]
 ---
 
@@ -25,6 +25,5 @@ Most of the microbes we expect to find are harmless, but together they create a 
 
 **The journey has just begun, and the microbes are already on the move. Follow us as we trace their hidden paths across Singapore’s borders.**  
 
-![](/images/posts/checkpoint_sampling_workflow.png)  
-
+![](/images/posts/2025-10-02-metaborders/checkpoint_sampling_workflow.png)
 *From checkpoint to lab: swabs and air samplers capture invisible life, which is then revealed through DNA sequencing.*  

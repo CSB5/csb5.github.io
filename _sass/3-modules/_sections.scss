@@ -1,5 +1,6 @@
 /* Sections */
 .section__head {
+  display: flex;
   padding-top: 32px;
   margin-bottom: 48px;
   border-top: 1px solid var(--border-alt-color);
