@@ -1,0 +1,37 @@
+---
+layout: default
+title: Resources
+permalink: /resources/
+---
+
+
+
+<div class="container">
+  <h1 class="section__title" id="top">Software Packages</h1>
+  {% for theme in site.data.resources.software_packages %}
+  <div class="row">
+    <div class="col col-12">
+      <div class="section__info">
+        <div class="section__head__small">
+          <img src="{{ theme.image }}" width="20" height="20">
+          <h1 class="section__title">{{ theme.theme }}</h1>
+          <a class="section__link top__link" href="#top">Return to top</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+      <div class="section__inner">
+        <div class="row">
+          {% for post in theme.items %}
+            {% if post.title != null %}
+              {% include resource.html %}
+            {% endif %}
+          {% endfor %}
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

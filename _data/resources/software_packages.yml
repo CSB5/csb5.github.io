@@ -1,0 +1,26 @@
+
+- theme: Genome Analysis
+  image: https://mtms-lab.github.io/img/software/dna.png
+  items:
+  - title: "OPERA-MS: Hybrid Metagenomic Assembler"
+    description: A hybrid metagenomic assembler which combines the advantages of short and long-read technologies to provide high quality assemblies, addressing issues of low contiguity for short-read only assemblies, and low base-pair quality for long-read only assemblies.
+    keywords:
+      - Genome Assembly
+      - Hybrid Assembly
+      - Metagenomics
+      - Illumina
+      - Nanopore
+      - PacBio
+    primary_link: https://github.com/CSB5/OPERA-MS
+    github: https://github.com/CSB5/OPERA-MS
+
+  - title: "LoFreq: High Sensitivity Variant Caller"
+    description: fast and sensitive variant-caller for inferring SNVs and indels from next-generation sequencing data. Sensitive to rare variants (<1%).
+    keywords:
+      - Variant Calling
+      - Cancer
+      - Metagenomics
+    primary_link: https://csb5.github.io/lofreq/
+    github: https://github.com/CSB5/lofreq
+    sourceforge: https://sourceforge.net/projects/lofreq/
+

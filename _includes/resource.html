@@ -1,0 +1,35 @@
+<div class="article col col-6 col-d-6 col-t-12 animate grid__post">
+  <div class="article__inner">
+    <div class="article__content">
+
+      {% if post.keywords.size >= 1 %}
+      <div class="article-tags__box">
+        {% for keyword in post.keywords %}
+          <a class="article__tag">{{ keyword }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <h2 class="article__title">
+        <a href="{{ post.primary_link }}" target="_blank">{{ post.title }}</a>
+      </h2>
+
+      <p class="article__excerpt">
+        {% if post.description %}{{ post.description }}{% else %}{{ post.content }}{% endif %}
+      </p>
+
+      <div class="author">
+      <div class="resource__info">
+      {% if post.github %}
+        <a class="resource__social__item" href="{{ post.github }}" target="_blank" aria-label="GitHub link"><i class="ion ion-logo-github"></i></a>
+      {% endif %}
+      {% if post.sourceforge %}
+        <a class="resource__social__item" href="{{ post.sourceforge }}" target="_blank" aria-label="SourceForge link"><img style="vertical-align: baseline;" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/sourceforge.svg" /></a>
+      {% endif %}
+      </div>
+    </div>
+    </div>
+    
+
+  </div>
+</div>
