@@ -1,0 +1,42 @@
+- title: "Shotgun Metagnomics Pipeline (Nextflow)"
+  description: A Nextflow re-implementation of the original pipeline used by MTMS at the Genome Institute of Singapore (GIS).
+  keywords:
+    - Metagenomics 
+    - Illumina 
+    - Nextflow 
+  primary_link: https://github.com/CSB5/shotgunmetagenomics-nf
+  github: https://github.com/CSB5/shotgunmetagenomics-nf
+
+- title: "GERMS 16S pipeline"
+  description: a remake of the original 16S pipeline developed with in the Genome Institute of Singapore, designed for Illumina shotgun sequencing of 16S rRNA amplicon sequences.
+  keywords:
+    - Metagenomics 
+    - Illumina
+    - 16S
+  primary_link: https://github.com/CSB5/GERMS_16S_pipeline
+  github: https://github.com/CSB5/GERMS_16S_pipeline
+
+- title: "ViPR2"
+  description: A collection of scripts used for the analysis of RNA viruses, based on LoFreq
+  keywords:
+    - Assembly 
+    - Virus 
+    - Amplicon 
+  primary_link: https://github.com/CSB5/ViPR2
+  github: https://github.com/CSB5/ViPR2
+
+- title: decont 
+  description: Decontaminate FastQ files by mapping with BWA-MEM against a given source.
+  keywords:
+    - bwa-mem 
+    - Decontamination
+  primary_link: https://github.com/CSB5/decont
+  github: https://github.com/CSB5/decont
+
+- title: "Cancer driver benchmarking"
+  description: Pipeline for mutation benchmarking of various softwares.
+  keywords:
+    - Cancer Driver 
+    - Benchmarking 
+  primary_link: https://github.com/CSB5/driver-benchmarking
+  github: https://github.com/CSB5/driver-benchmarking

@@ -1,0 +1,24 @@
+- title: Hospital Microbiome Explorer
+  description: a proof-of-concept 3D model to explore the hospital microbiome survey data
+  github: https://github.com/CSB5/hospital_microbiome_explorer
+  primary_link: https://github.com/CSB5/hospital_microbiome_explorer
+
+- title: AD-caregiver-manuscript
+  description: Shared signatures and divergence in skin microbiomes of children with atopic dermatitis and their adult caregivers
+  github: https://github.com/CSB5/AD-caregiver-manuscript
+  primary_link: https://github.com/CSB5/AD-caregiver-manuscript
+
+- title: Antibiotic recovery study
+  description: Metagenome-wide association analysis identifies microbial determinants of post-antibiotic ecological recovery in the gut
+  github: https://github.com/CSB5/Recovery_Determinants_Study
+  primary_link: https://github.com/CSB5/Recovery_Determinants_Study
+
+- title: Cancer driver evaluation
+  description: Evaluating cancer driver prediction methods and compare them against predictions obtained from 18 different existing methods on 15 TCGA cancer types
+  github: https://github.com/CSB5/driver_evaluation
+  primary_link: https://github.com/CSB5/driver_evaluation
+
+- title: SPLASH
+  description: Analyzing data from the SPLASH protocol for generating in vivo RNA interactome maps
+  primary_link: https://github.com/CSB5/splash
+  github: https://github.com/CSB5/splash

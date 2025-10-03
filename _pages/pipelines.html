@@ -1,0 +1,24 @@
+---
+layout: default
+title: Bioinformatic Pipelines
+permalink: /pipelines/
+---
+
+<div class="container">
+  <div class="tag__head">
+    <h1 class="tag__title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="tag__description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+  
+    <div class="section__inner">
+      <div class="row">
+        {% for post in site.data.resources.pipelines %}
+          {% if post.title != null %}
+            {% include resource.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+</div>
