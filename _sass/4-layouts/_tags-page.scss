@@ -3,29 +3,32 @@
   margin-bottom: 60px;
 
   .tag__title {
-    margin-top: 32px;
-    margin-bottom: 32px;
+    margin-top: 72px;
+    margin-bottom: 72px;
     font-size: 52px;
     line-height: 1.4;
 
     @media (max-width: $tablet) {
-      margin-bottom: 16px;
+      margin-top: 32px;
+      margin-bottom: 32px;
       font-size: 40px;
     }
 
 
     @media (max-width: $mobile) {
+      margin-top: 32px;
+      margin-bottom: 32px;
       font-size: 32px;
     }
   }
 
   .tag__description {
-    margin-bottom: 24px;
+    margin-bottom: 72px;
     font-size: 24px;
     line-height: 1.4;
 
     @media (max-width: $tablet) {
-      margin-bottom: 16px;
+      margin-bottom: 32px;
       font-size: inherit;
     }
   }

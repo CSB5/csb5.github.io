@@ -2,7 +2,6 @@
 layout: post
 title: Pasta Making + Durian Tasting
 description: We are treated to a feast of our hand made fresh pasta and authentic MSW durians.
-tag: ["Lab activities"]
 image: '/images/activities/2025-07-17-pasta-making-durian-tasting/home_made_pasta.jpg'
 featured: false
 lab_activity: true
