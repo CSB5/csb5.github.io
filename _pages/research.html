@@ -6,8 +6,11 @@ permalink: /research/
 
 <div class="container">
   <div class="tag__head">
+    
+    <div class="post">
     <h1 class="tag__title">{{ page.title }}</h1>
-    <p class="tag__description">We live in a microbial world with enormous genetic diversity (link to explain? Or number? Link to PREPARE). Only a handful of micro-organisms are pathogenic and yet the overuse of antimicrobials is tipping the world into an era where antibiotics no longer work (link to explain AMR, AMRITAS). By understanding how microbes interact and assemble, we want to find urgently needed solutions to address the antimicrobial resistance challenge. Our vision is to understand how natural microbial communities function and use this to design synthetic communities that address humanities grand challenges in health, sustainability, and climate change.</p>
+    <p class="post__content">We live in a microbial world with <a href="{{ site.baseurl }}/prepare">enormous genetic diversity</a>. Only a handful of micro-organisms are pathogenic and yet the overuse of antimicrobials is tipping the world into an era where <a href="{{ site.baseurl }}/amritas">antibiotics no longer work</a>. By understanding how microbes interact and assemble, we want to find urgently needed solutions to address the antimicrobial resistance challenge. Our vision is to understand how natural microbial communities function and use this to design synthetic communities that address humanities grand challenges in health, sustainability, and climate change.</p>
+    </div>
   </div>
   <hr>
   <p align="center">
@@ -18,7 +21,7 @@ permalink: /research/
 
 
 <hr>
-
+<a href="#tags_top" id="tags_top"></a>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
@@ -27,7 +30,7 @@ permalink: /research/
 
 <!-- begin tags -->
 <section class="tags">
-<a href="#tags_top" id="tags_top"></a>
+
   <div class="tag__head">
     
     <div class="container">

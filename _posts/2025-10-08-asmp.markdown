@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Uncovering the Secrets of the Skin Microbiome: Insights from the Asian Skin Microbiome Programme"
+description: Our skin is more than just a protective barrier — it’s home to a diverse community of microorganisms that play a vital role in maintaining its health. Over the past few years, scientists have begun to uncover just how deeply the skin microbiome is intertwined with skin function and immunity.
+image: '/images/posts/2025-10-08-asmp/image.png'
+date: 2025-10-08
+tags: [Skin Microbiome, ASMP]
+author: [aarthi]
+---
+
+Emerging research shows that microbes living on our skin constantly communicate with skin and immune cells. This intricate cross-talk helps the body in three key ways:
+
+1. **Maintaining the skin barrier**, which keeps harmful substances out;
+2. **Strengthening the body’s defense** against pathogens; and
+3. **Reducing excessive inflammation** that can damage tissue.
+
+Because of these essential roles, the skin microbiome is increasingly recognized as a critical factor in both **skin health** and **disease**. Conditions like **atopic dermatitis (AD)** and **psoriasis**, which affect up to 10–20% of people worldwide, have been linked to microbiome imbalances. Even common concerns like **dandruff** and **body odour** are influenced by microbial composition.
+
+Yet, despite growing awareness and advances in profiling skin microbes, translating this knowledge into effective **microbiome-based skincare solutions** remains challenging. One major hurdle has been the lack of reliable methods and model systems to study how the host and microbes interact. Another is the limited understanding of how **genetics**, **lifestyle**, and **environmental factors** shape the skin microbiome — especially within **Asian populations**, where studies are still scarce.
+
+### Introducing the Asian Skin Microbiome Programme (ASMP)
+
+To address these gaps, the **Asian Skin Microbiome Programme (ASMP)** was launched in Singapore, with **ASMP 1.0** running from **2018–2022**, followed by **ASMP 2.0** from **2022–2026**. This ambitious initiative brings together a multidisciplinary team of scientists and clinicians from A*STAR’s **Skin Research Labs *(*A*SRL), Genome Institute of Singapore (GIS), NTU’s Lee Kong Chian School of Medicine (LKCMedicine), Health for Life in Singapore (HELIOS) Study, School of Chemistry, Chemical Engineering and Biotechnology (CCEB), Singapore Centre for Environmental Life Sciences Engineering (SCELSE), National Skin Centre (NSC).
+
+The **core vision** of ASMP is to **enable rational modulation of the skin microbiome** — in other words, to develop science-backed strategies to maintain or restore healthy microbial balance. To achieve this, ASMP is building an integrated platform of tools and technologies to uncover how microbes influence skin health, barrier function, and inflammation, while also creating avenues to test new interventions in both laboratory and clinical settings.
+
+### ASMP 1.0: Building the Foundation
+
+During ASMP 1.0, our laboratory led efforts to create a suite of **analytical tools and technologies** for high-resolution studies of the skin microbiome. We focused on developing systematic methods to integrate diverse datasets, measure host and microbial responses, and study all microbial components — including **fungi**, which are often overlooked.
+
+One of our key achievements was constructing a **comprehensive skin microbiome resource** based on samples from **18 different body sites**, chosen to represent varying levels of moisture and sebum. With data from **800 individuals**, this project produced the **largest uniformly processed skin microbiome dataset in the world** — a global benchmark for exploring microbial diversity and function on healthy human skin.
+
+By optimizing protocols for **low biomass samples**, we were able to capture the subtle but important microbial signals that define skin health. This dataset now serves as a powerful in silico (computational) resource for researchers worldwide, enabling new discoveries into the **structure and function** of the skin microbiome.
+
+### ASMP 2.0: Moving from Description to Mechanism
+
+Building on this foundation, **ASMP 2.0** aims to go beyond mapping microbial communities — to truly understand **how** they interact with the human host. The focus now is on integrating **multi-omic datasets** (including human genetics, metabolomics, and lipidomics) to uncover the **mechanistic links** between microbiome composition and skin phenotypes.
+
+In essence, ASMP 2.0 seeks to answer high-value questions about how microbes and host factors co-regulate each other in real-world conditions. By doing so, it will pave the way for **next-generation skincare and therapeutic strategies** that work *with* our skin’s natural ecosystem, rather than against it.
