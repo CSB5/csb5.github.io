@@ -12,7 +12,7 @@ scholar:  https://scholar.google.com/citations?user=s65iHisAAAAJ&hl=en&oi=ao
 ---
 
 <h4>
-Associate Professor &nbsp; | &nbsp;  Yong Loo Lin School of Medicine, NUS <br> Associate Director &nbsp; | &nbsp;  Genome Institute of Singapore, A*STAR </h4>
+Associate Professor, Yong Loo Lin School of Medicine, NUS <br> Associate Director, Genome Institute of Singapore, A*STAR </h4>
 
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; Cornell University<br>
