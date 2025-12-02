@@ -2,7 +2,8 @@
 layout: post
 title: Environmental Microbiome
 description: We reveal enrichment of multi-drug resistant bacteria in hospital environment.
-image: 'https://ars.els-cdn.com/content/image/1-s2.0-S2949704323000318-gr2.jpg'
+image: 'https://andira.ca/wp-content/uploads/2025/02/Andira-Unveils-Breakthrough-Anti-Infective-Technology-to-Combat-AMR-Superbugs.jpg'
+image_caption: "Credit: andira.ca"
 featured: true
 ---
 

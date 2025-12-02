@@ -3,14 +3,14 @@
 title: MTMS
 logo: /images/misc/MTMSlogo.png # You can add own logo. For example "/images/logo.png".
 logo_dark: /images/misc/MTMSlogo_dark.png
-logo_footer: /images/misc/ASTARlogo.png
+logo_footer: /images/misc/ASTAR_NUS_logo.png
 description: Laboratory of Metagenomic Technologies and Microbial Systems
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Laboratory of Metagenomic Technologies and Microbial Systems @ A*STAR GIS
+  author__name: Lab of Metagenomic Tech & Microbial Systems
   author__bio: 
   author__avatar: 'https://pbs.twimg.com/profile_images/492209283371520000/XGi7L_94_400x400.jpeg'
 
@@ -41,14 +41,12 @@ menu__settings:
         title: 'Alumni'
       - url: '/open-positions/'
         title: 'Join us'
-    - title: 'Contact'
-      url: '/contact/'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Laboratory of Metagenomic Technologies and Microbial Systems @ A*STAR GIS
+  hero__title: Lab of Metagenomic Tech & Microbial Systems
   hero__description: We develop metagenomic technologies and systems biology techniques to study the role of microbial communities in the transmission of antimicrobial resistance
 
 

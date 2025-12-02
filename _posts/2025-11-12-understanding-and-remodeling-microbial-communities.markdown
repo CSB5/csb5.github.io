@@ -14,6 +14,7 @@ Microorganisms, with over a million species shaped by 4 billion years of evoluti
 # Objectives
 
 We aim to understand the organization of microbial communities to restore ecological functions and reduce human and environmental reservoirs of AMR pathogens through the following three objectives in a **Deconstruct–Model–Reconstruct** framework:
+
 1. **Deconstruct complex microbial communities into constituent strains, genomes, and functions**
    - Combine whole-genome sequencing from metagenomics with high-throughput microbial single-cell isolation.
    - Aim to obtain strains, genomes, and functional data for the community members.

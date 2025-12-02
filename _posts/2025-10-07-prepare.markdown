@@ -5,7 +5,7 @@ description: Finding viruses in environmental samples is a major public health c
 image: '/images/posts/2025-10-07-prepare/thumbnail.png'
 image_caption: Generated with Gemini.
 date: 2025-10-07
-tags: [Environmental Microbiome, AI & ML, Nanopore, Metagenomic Technologies]
+tags: [Environmental Microbiome]
 author: [rafael]
 ---
 

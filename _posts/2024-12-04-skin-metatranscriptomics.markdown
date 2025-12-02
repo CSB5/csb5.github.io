@@ -4,8 +4,9 @@ title: Skin Metatranscriptomics
 description: We developed a clinically tractable skin metatranscriptomics workflow that reveals the microbes whose activities play an outsized role in the community.
 image: '/images/posts/2024-12-04-skin-metatranscriptomics/combined_mtx.png'
 date: 2024-12-04
-tags: [Skin Microbiome, ASMP]
-preprint: https://www.biorxiv.org/content/10.1101/2024.12.02.626500v1.full
+tags: [Skin Microbiome]
+paper: https://www.nature.com/articles/s41587-025-02797-4
+publication: Nature Biotechnology
 code: https://github.com/CSB5/skin_metatranscriptome
 author: [minghao, amanda, aarthi, nazri, niranjan]
 ---
