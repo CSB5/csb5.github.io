@@ -4,7 +4,7 @@ title: Pasta Making + Durian Tasting
 description: We feasted on handmade pasta and fresh MSW durians for this team-building event.
 image: '/images/activities/2025-07-17-pasta-making-durian-tasting/home_made_pasta.jpg'
 featured: false
-lab_activity: true
+group_activity: true
 ---
 
 ![](/images/activities/2025-07-17-pasta-making-durian-tasting/jon_teaching.jpg)

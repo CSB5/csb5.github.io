@@ -1,6 +1,55 @@
 /* Author + Authors */
 
 // Authors Page
+.author-head {
+  margin-top: 20px;
+  margin-bottom: 60px;
+
+  &.author-head-video {
+    margin-bottom: 40px;
+  }
+
+  .row {
+    align-items: center;
+
+    .col {
+      flex-grow: 1;
+    }
+  }
+
+  @media (max-width: $desktop) {
+    margin-bottom: 40px;
+  }
+
+  @media (max-width: $mobile) {
+    margin-bottom: 32px;
+  }
+}
+
+.author-image {
+  position: relative;
+  transform: translate(0);
+  aspect-ratio: 1/1.25;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--background-alt-color);
+
+  @supports not (aspect-ratio: 1/1.25) {
+    padding-top: 125%;
+    min-height: 260px;
+  }
+
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    user-select: none;
+  }
+}
+
 .authors {
   .authors__head {
     margin: 20px 0 60px;
@@ -42,9 +91,21 @@
   }
 
   .authors__name {
-    font-size: 30px;
+    font-size: 28px;
     margin-bottom: 8px;
     line-height: 1.2;
+    
+    &:hover {
+      a {
+        text-decoration-color: var(--link-color-hover);
+      }
+    }
+
+    a {
+      text-decoration: underline;
+      text-decoration-color: transparent;
+      text-decoration-thickness: 2px;
+    }
   }
 
   .authors__posts__count {
@@ -139,6 +200,18 @@
     line-height: 1.2;
     font-weight: 700;
     color: var(--heading-font-color);
+  }
+
+  .author__description {
+    margin-bottom: 24px;
+    font-size: 30px;
+    text-align: justify;
+    line-height: 1.5;
+
+    @media (max-width: $tablet) {
+      margin-bottom: 16px;
+      font-size: inherit;
+    }
   }
 
   .author__info {

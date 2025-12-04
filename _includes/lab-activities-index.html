@@ -1,12 +1,12 @@
 <!-- begin section-tags -->
-{% assign activity_posts = site.posts | where_exp: "post", "post.lab_activity == true" %}
+{% assign activity_posts = site.posts | where_exp: "post", "post.group_activity == true" %}
 <section class="section section-tags">
   <div class="container">
     <div class="row">
       <div class="col col-12">
         <div class="section__head__small">
-          <h3 class="section__title">Lab activities</h3>
-          <a class="section__link" href="{{ site.baseurl }}/lab_activities">See all <i class="ion ion-ios-arrow-round-forward"></i></a>
+          <h3 class="section__title">Group activities</h3>
+          <a class="section__link" href="{{ site.baseurl }}/group_activities">See all <i class="ion ion-ios-arrow-round-forward"></i></a>
         </div>
       </div>
     </div>

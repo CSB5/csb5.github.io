@@ -53,15 +53,15 @@ hero:
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Project Showcase
+  blog__title: Projects
 
 
 #-------------------------------
 # Recommended Tag Settings
 tag:
   enable: true
-  tag__title: Lab activities
-  tag__name: Lab activities
+  tag__title: Group activities
+  tag__name: Group activities
 
 
 #-------------------------------

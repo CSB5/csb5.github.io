@@ -8,7 +8,7 @@
     </div>
   </div>
   <div class="row grid">
-    {% assign filtered_posts = site.posts | where_exp: "post", "post.title != null and post.featured != true and post.lab_activity != true" %}
+    {% assign filtered_posts = site.posts | where_exp: "post", "post.title != null and post.featured != true and post.group_activity != true" %}
     {% for post in filtered_posts limit:6 %}
       {% include article.html %}
     {% endfor %}
