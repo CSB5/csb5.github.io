@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indrik's Farewell Party
+title: Indrik's farewell party
 description: We had a little party to celebrate Indrik as he heads to the next big thing! 
 image: '/images/activities/2025-05-29-indrik-farewell-party/see_you_indrik.jpg'
 featured: false

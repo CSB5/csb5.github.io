@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AntiMicrobial resistance Research and Intervention Alliance Singapore (AMRITAS)"
+title: "Research and intervention of antimicrobial resistance"
 description:  The AMRITAS collaboration is working to identify improved treatments for severe carbapenem-resistant bacterial infections and prevent colonization of these opportunistic pathogens in the human gut
 image: '/images/posts/2025-10-07-AMRITAS/image.png'
 date: 2025-10-07

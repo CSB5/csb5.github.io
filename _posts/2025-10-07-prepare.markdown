@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "AI on the Hunt: Finding Tomorrow's Viruses Today"
+title: "AI on the hunt: finding tomorrow's viruses today"
 description: Finding viruses in environmental samples is a major public health challenge. Our SurVirAR platform uses Artificial Intelligence to identify viral sequences from complex data. These sequences are then assembled into complete genomes, creating a deployable early warning system for future pandemics.
 image: '/images/posts/2025-10-07-prepare/thumbnail.png'
 image_caption: Generated with Gemini.
 date: 2025-10-07
-tags: [Environmental Microbiome, Metagenomic Technologies]
+tags: [Environmental Microbiomes, Metagenomic Tech]
 author: [rafael]
 ---
 

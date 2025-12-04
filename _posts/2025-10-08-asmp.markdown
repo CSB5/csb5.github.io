@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uncovering the Secrets of the Skin Microbiome: Insights from the Asian Skin Microbiome Programme"
+title: "Uncovering the Secrets of the Skin Microbiome"
 description: Our skin is more than just a protective barrier — it’s home to a diverse community of microorganisms that play a vital role in maintaining its health. Over the past few years, scientists have begun to uncover just how deeply the skin microbiome is intertwined with skin function and immunity.
 image: '/images/posts/2025-10-08-asmp/image.png'
 date: 2025-10-08

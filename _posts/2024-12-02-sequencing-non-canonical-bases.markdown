@@ -1,11 +1,11 @@
 ---
 layout: post
-title: High-throughput Deconvolution of Non-canonical Bases
+title: High-throughput deconvolution of non-canonical bases
 description: We developed a fast and accurate DNA sequencing method that reads canonical and non-canonical bases using AI and nanopore technology. Enabling an expanded genetic alphabet for use in data storage, nucleic acid therapeutic, and synthetic biology.
 image: '/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/XNA_Basecaller_Overview.png'
 image_caption: DNA containing non-canonical bases can be directly sequenced using nanopore devices and AI
 date: 2024-12-02
-tags: [Metagenomic Technologies]
+tags: [Metagenomic Tech]
 paper: https://doi.org/10.1038/s41467-025-62347-z
 publication: Nature Communications
 code: https://github.com/CSB5/XNA_Basecaller/

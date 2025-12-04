@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metagenomic Technologies
+title: Metagenomic Tech
 description: We develop wet-lab and dry-lab technologies that unravel microbial genetic diversity and function at the whole-genome and systems level.
 image: 'https://hulab.ucf.edu/research/projects/metagenomics/images/fig8.jpg'
 featured: true

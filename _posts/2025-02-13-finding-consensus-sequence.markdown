@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Constructing Consensus Sequences, Fast
+title: Constructing consensus sequences, fast
 description: We designed a new algorithm for finding consensus of multiple DNA sequences, which operates in linear time with respect to the length of the consensus.
 image: /images/posts/2025-02-13-finding-consensus-sequences/logo.png
 image_caption: Beam Search lights up the way.
 date: 2025-02-13
-tags: [Metagenomic Technologies]
+tags: [Metagenomic Tech]
 paper: https://www.cell.com/iscience/fulltext/S2589-0042(25)02052-8
 publication: iScience
 code: https://github.com/GZHoffie/bbs
