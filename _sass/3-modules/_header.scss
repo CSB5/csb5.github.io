@@ -232,6 +232,10 @@
       text-decoration-color: transparent;
       transition: all .2s ease;
 
+      @media (max-width: $mobile) {
+        font-size: 18px;
+      }
+
       &.active-link {
         text-decoration-color: var(--link-color);
       }
