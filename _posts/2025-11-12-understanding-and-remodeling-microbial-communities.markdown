@@ -4,7 +4,7 @@ title: "Understanding and remodeling microbial communities"
 description: Our limited understanding of microbial community assembly and function prevents us from effectively designing them for therapeutic and biotechnological use. We are the first to propose a systematic deconstruct-model-reconstruct strategy aimed at uncovering the rules of microbial community assembly, with the goal of using this knowledge to prevent antimicrobial-resistant pathogen reservoirs.
 image: '/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/thumbnail.jpg'
 date: 2025-10-08
-tags: [Metagenomic Technologies]
+tags: [Metagenomic Tech]
 author: [yueyuan]
 ---
 

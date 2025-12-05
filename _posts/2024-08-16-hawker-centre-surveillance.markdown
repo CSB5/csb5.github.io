@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Metagenomic Surveillance of Hawker Centres in Singapore
+title: Metagenomic surveillance of hawker centres in Singapore
 description: We conducted city-wide metagenomic surveillance of food-centre microbiomes in Singapore (16 centres, n=240 samples) to provide a detailed map of microbial (bacteria, archaea, fungi, viruses) as well as non-microbial DNA abundances.
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hawker_Center%2C_Singapore.jpg/1920px-Hawker_Center%2C_Singapore.jpg'
 image_caption: A hawker center in Singapore (from wikipedia.org).
 date: 2024-08-16
-tags: [Environmental Microbiome]
+tags: [Environmental Microbiomes]
 preprint: https://www.medrxiv.org/content/10.1101/2024.07.28.24310840v1
 code: https://github.com/CSB5/food_centre_microbiome
 author: [jon, amanda, shaun, niranjan]

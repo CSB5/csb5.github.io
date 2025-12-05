@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skin Metatranscriptomics
+title: Skin metatranscriptomics
 description: We developed a clinically tractable skin metatranscriptomics workflow that reveals the microbes whose activities play an outsized role in the community.
 image: '/images/posts/2024-12-04-skin-metatranscriptomics/combined_mtx.png'
 date: 2024-12-04
