@@ -1,5 +1,7 @@
 ---
 username: niranjan
+title: Niranjan
+permalink: /niranjan
 name: Niranjan Nagarajan
 nick_name: Niranjan
 position: NRF Investigator
@@ -16,7 +18,7 @@ Associate Professor, Yong Loo Lin School of Medicine, NUS <br> Associate Directo
 
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; Cornell University<br>
-**MSc** &nbsp;&nbsp; / &nbsp;&nbsp;Cornell University<br>
+**MSc** &nbsp;&nbsp; / &nbsp;&nbsp; Cornell University<br>
 **BA** &nbsp;&nbsp; / &nbsp;&nbsp;  Ohio Wesleyan University
 
 <br/>

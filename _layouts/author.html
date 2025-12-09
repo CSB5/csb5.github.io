@@ -24,12 +24,14 @@ layout: default
           {% endif %}
 
           <h1 class="author__name">{{ page.name | escape }}</h1>
+          <div class="author__position">
           {% if page.position %}
               <h2>{{ page.position }}</h2>
           {% endif %}
           {% if page.next_position %}
               <p><b>Next position</b>: {{ page.next_position }}</p>
           {% endif %}
+          </div>
 
           <div class="author__description">{{ content }}</div>
 
@@ -95,9 +97,6 @@ layout: default
 
     </div>
   </div>
-  </div>
-  </div>
-
   <div class="container" style="margin-top: 40px; margin-bottom: 40px;">
     {% if post_count.size > 0 %}
       {% if page.nick_name %}
@@ -107,6 +106,10 @@ layout: default
       {% endif %}
     {% endif %}
   </div>
+  </div>
+  </div>
+
+  
 
   <div class="container animate">
     <div class="row">
