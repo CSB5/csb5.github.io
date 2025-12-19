@@ -18,7 +18,7 @@ To better capture skin microbial activity, we needed to look at their **RNA**. A
 Our protocol uses a relatively small number of skin swabs and optimizes RNA preservation and extraction to robustly deliver the first large-scale dataset on the skin metatranscriptome! We observed very high technical reproducibility (r>0.95).
 
 <div class="gallery-box">
-  <div class="gallery">
+  <div class="figure-gallery">
     <img src="https://pbs.twimg.com/media/GeGf1lKakAUXAL0?format=jpg&name=900x900" loading="lazy">
     <img src="https://pbs.twimg.com/media/GeGgkwOakAEI_FE?format=jpg&name=900x900" loading="lazy">
   </div>

@@ -21,28 +21,34 @@ author: [mauricio, nok, rafael, niranjan]
 
 &emsp;We validated that the Nanopore sequencer is capable of processing XNAs containing the Px-Ds unnatural base (UB) pair and assessed the distinguishability of their measured signals versus DNA control and the canonical bases.
 
-<div align="center">
-  <img height="260" alt="Comparing average signal level" src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/2-lineplot_level_comparison.png"/>
-  <img height="260" alt="Average signal fold-change" src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/3-signal_fold_changes-nat_bases-mean-boxplot-per_target_agg_kmer-XNA20-pub_ver.png"/>
+<div class="gallery-box">
+  <div class="figure-gallery">
+    <img src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/2-lineplot_level_comparison.png" loading="lazy">
+    <img src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/3-signal_fold_changes-nat_bases-mean-boxplot-per_target_agg_kmer-XNA20-pub_ver.png" loading="lazy">
+  </div>
 </div>
 
 &emsp;To obtain a machine learning model that can deconvolve these signals and basecall UBs along with natural bases, we developed an enzymatic framework to synthesize with high XNA purity (>90%) a library of 1,024 UB-containing oligonucleotides representing all 6,144 single-UB 6-mer contexts.
 
-<div align="center">
-  <img height="260" alt="XNA synthesis process" src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/4-synthesis_framework.png"/>
-  <img height="260" alt="Ds insertion efficiency" src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/5-insertion_efficiency_per_pool.png"/>
+<div class="gallery-box">
+  <div class="figure-gallery">
+    <img src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/4-synthesis_framework.png" loading="lazy">
+    <img src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/5-insertion_efficiency_per_pool.png" loading="lazy">
+  </div>
+  <em>Figure: Schematic overview of XNA synthesis process, via enzymatic single-nucleotide insertion of Ds. Two alternative strategies were explored, a 31-mer (Pa) and a 20-mer (mini-hairpin) template.</em>
 </div>
 
-*Figure: Schematic overview of XNA synthesis process, via enzymatic single-nucleotide insertion of Ds. Two alternative strategies were explored, a 31-mer (Pa) and a 20-mer (mini-hairpin) template.*
+
 
 &emsp;We leveraged our library by employing our data-augmentation technique based on splicing XNA/DNA signals to generate reads containing UBs in all contexts. Using these reads, we trained a generalizable model capable of sequencing UBs with high accuracy (>80%) and specificity (99%).
 
-<div align="center">
-  <img height="350" alt="Performance of the final model" src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/6-per_per_ctx-POC_with_CPLX-iter_samp-train_only.png"/>
-  <img height="350" alt="Basecalling confusion matrix" src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/7-confusion_matrix-XNA20_v2-split_model-full_read.png"/>
-  <br>
+
+<div class="gallery-box">
+  <div class="figure-gallery">
+    <img src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/6-per_per_ctx-POC_with_CPLX-iter_samp-train_only.png" loading="lazy">
+    <img src="/images/posts/2024-12-02-sequencing-non-canonical-bases.markdown/7-confusion_matrix-XNA20_v2-split_model-full_read.png" loading="lazy">
+  </div>
   <em> Figure: (Left) Performance of the final model, based on the complex and proof-of-concept libraries for testing with diverse templates and held-out reads. (Right) Basecalling confusion matrix for NCBs and canonical bases. The last column represents deletion errors.</em>
-  <br><br>
 </div>
 
 

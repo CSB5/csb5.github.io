@@ -7,7 +7,9 @@
   }
 }
 
-.gallery {
+// for figures that need to maintain aspect ratio
+// such as figures in a paper/post
+.figure-gallery {
   display: grid;
   grid-template-columns: repeat(3, auto);
   justify-content: center;
@@ -18,7 +20,11 @@
   img {
     margin-left: 24px;
     margin-bottom: 24px;
-    width: calc(100% - 24px);
+    //width: calc(100% - 24px);
+
+    // same height
+    height: 300px;
+    object-fit: contain;
   }
 
   @media only screen and (max-width: $desktop) {
@@ -31,4 +37,43 @@
       width: calc(100% - 12px);
     }
   }
+
+  @media only screen and (max-width: $mobile) {
+    grid-template-columns: repeat(1, auto);
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+// for figures that need to fill the space
+// such as photo galleries
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: center;
+  align-content: center;
+  margin-left: -24px;
+  margin-bottom: -24px;
+
+  img {
+    margin-left: 24px;
+    margin-bottom: 24px;
+    width: calc(100% - 24px);
+
+    // same height
+    height: 300px;
+    object-fit: cover;
+  }
+
+  @media only screen and (max-width: $mobile) {
+    grid-template-columns: repeat(1, auto);
+
+    img {
+      width: 100%;
+    }
+  }
+
+
 }
