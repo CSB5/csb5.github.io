@@ -1,0 +1,3417 @@
+- year: 2025
+  publications:
+  - title: Efficient trace reconstruction in DNA storage systems using bidirectional
+      beam search.
+    authors:
+    - Gu Z
+    - Xin H
+    - Sharma P
+    - Goh GY
+    - Wong L
+    - Nagarajan N
+    doi: 10.1016/j.isci.2025.113791
+    journal: iScience.
+    date: '2025-10-21'
+    keywords: []
+  - title: Comparative Genomics of DH5α-Inhibiting Escherichia coli Isolates from
+      Feces of Healthy Individuals Reveals Common Co-Occurrence of Bacteriocin Genes
+      with Virulence Factors and Antibiotic Resistance Genes.
+    authors:
+    - Er S
+    - Ding Y
+    - Tan LWL
+    - Teo YY
+    - Nagarajan N
+    - Seedorf H
+    doi: 10.3390/antibiotics14090860
+    journal: Antibiotics (Basel).
+    date: '2025-08-26'
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+  - title: Assessing Zoonotic Risks of Blastocystis Infection in Singapore.
+    authors:
+    - Aung TT
+    - How CKQ
+    - Chavatte JM
+    - Nazir NB
+    - Pena EM
+    - Ogden B
+    - Lim GR
+    - Paramastri YA
+    - Zitzow LA
+    - Chen H
+    - Nagarajan N
+    - Tan KSW
+    - Malleret B
+    doi: 10.3390/pathogens14080773
+    journal: Pathogens.
+    date: '2025-08-05'
+    keywords:
+    - gut microbiome
+    - metagenomics
+  - title: Skin metatranscriptomics reveals a landscape of variation in microbial
+      activity and gene expression across the human body.
+    authors:
+    - Chia M
+    - Ng AHQ
+    - Ravikrishnan A
+    - Mohamed Naim AN
+    - Wearne S
+    - Common J
+    - Nagarajan N
+    doi: 10.1038/s41587-025-02797-4
+    journal: Nat Biotechnol.
+    date: '2025-08-28'
+    keywords:
+    - metagenomics
+    - skin microbiome
+  - title: Challenges and Opportunities in Analyzing Cancer-Associated Microbiomes.
+    authors:
+    - Chia M
+    - Pop M
+    - Salzberg SL
+    - Nagarajan N
+    doi: 10.1158/0008-5472.CAN-24-3629
+    journal: Cancer Res.
+    date: '2025-10-01'
+    keywords:
+    - cancer genomics
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+    - skin microbiome
+  - title: Direct high-throughput deconvolution of non-canonical bases via nanopore
+      sequencing and bootstrapped learning.
+    authors:
+    - Perez M
+    - Kimoto M
+    - Rajakumar P
+    - Suphavilai C
+    - Peres da Silva R
+    - Tan HP
+    - Ong NTX
+    - Nicholas H
+    - Hirao I
+    - Chew WL
+    - Nagarajan N
+    doi: 10.1038/s41467-025-62347-z
+    journal: Nat Commun.
+    date: '2025-07-30'
+    keywords: []
+  - title: Citywide metagenomic surveillance of food centres reveals local microbial
+      signatures and antibiotic resistance gene enrichment.
+    authors:
+    - Teo JJY
+    - Ho EXP
+    - Ng AHQ
+    - How SHC
+    - Chng KR
+    - Ateş YC
+    - Fau'di MT
+    - Aung KT
+    - Nagarajan N
+    doi: 10.1038/s44259-025-00132-0
+    journal: NPJ Antimicrob Resist.
+    date: '2025-07-08'
+    keywords:
+    - environmental microbiomes
+    - metagenomics
+    - microbiome analysis
+  - title: Guidelines for preventing and reporting contamination in low-biomass microbiome
+      studies.
+    authors:
+    - Fierer N
+    - Leung PM
+    - Lappan R
+    - Eisenhofer R
+    - Ricci F
+    - Holland SI
+    - Dragone N
+    - Blackall LL
+    - Dong X
+    - Dorador C
+    - Ferrari BC
+    - Goordial J
+    - Holmes SP
+    - Inagaki F
+    - Korem T
+    - Li SS
+    - Makhalanyane TP
+    - Metcalf JL
+    - Nagarajan N
+    - Orsi WD
+    - Shanahan ER
+    - Walker AW
+    - Weyrich LS
+    - Gilbert JA
+    - Willis AD
+    - Callahan BJ
+    - Shade A
+    - Parkhill J
+    - Banfield JF
+    - Greening C
+    doi: 10.1038/s41564-025-02035-2
+    journal: Nat Microbiol.
+    date: 2025-07
+    keywords:
+    - environmental microbiomes
+    - metagenomics
+    - microbiome analysis
+  - title: 'CAN-Scan: A multi-omic phenotype-driven precision oncology platform identifies
+      prognostic biomarkers of therapy response for colorectal cancer.'
+    authors:
+    - Chia S
+    - Wen Seow JJ
+    - Peres da Silva R
+    - Suphavilai C
+    - Shirgaonkar N
+    - Murata-Hori M
+    - Zhang X
+    - Yong EY
+    - Pan J
+    - Thangavelu MT
+    - Periyasamy G
+    - Yap A
+    - Anand P
+    - Muliaditan D
+    - Chan YS
+    - Siyu W
+    - Yong CW
+    - Hong N
+    - Ran G
+    - Sim NL
+    - Guo YA
+    - Yi Teh AX
+    - Wei Ling CC
+    - Wei Tan EK
+    - Pei Cherylin FW
+    - Chang M
+    - Han S
+    - Seow-En I
+    - Chen Hui LR
+    - Hsia Gan AH
+    - Yap CK
+    - Ng HH
+    - Skanderup AJ
+    - Chinswangwatanakul V
+    - Riansuwan W
+    - Trakarnsanga A
+    - Pithukpakorn M
+    - Tanjak P
+    - Chaiboonchoe A
+    - Park D
+    - Kim DK
+    - Iyer NG
+    - Tsantoulis P
+    - Tejpar S
+    - Kim JE
+    - Kim TI
+    - Sampattavanich S
+    - Tan IB
+    - Nagarajan N
+    - DasGupta R
+    doi: 10.1016/j.xcrm.2025.102053
+    journal: Cell Rep Med.
+    date: '2025-04-15'
+    keywords:
+    - cancer genomics
+  - title: Leveraging wastewater sequencing to strengthen global public health surveillance.
+    authors:
+    - Gordeev V
+    - Hölzer M
+    - Desirò D
+    - Goraichuk IV
+    - Knyazev S
+    - Solo-Gabriele H
+    - Skums P
+    - Karthikeyan S
+    - Evans A
+    - Agrawal S
+    - Lucaci AG
+    - Mason CE
+    - Su JM
+    - Gibas C
+    - Nagarajan N
+    - Peres da Silva R
+    - Drabcinski N
+    - Munteanu V
+    - Zhan L
+    - Rubin J
+    - Wu NC
+    - Trister A
+    - Ciorba D
+    - Bostan V
+    - Lobiuc A
+    - Covasa M
+    - Ophoff RA
+    - Zelikovsky A
+    - Dimian M
+    - Mangul S
+    doi: 10.1186/s44263-025-00138-w
+    journal: BMC Glob Public Health.
+    date: '2025-03-21'
+    keywords: []
+  - title: 'Life stage impact on the human skin ecosystem: lipids and the microbial
+      community.'
+    authors:
+    - Pagac MP
+    - Davient B
+    - Plado LA
+    - Lam HYI
+    - Lee SM
+    - Ravikrishnan A
+    - Chua WLE
+    - Muralidharan S
+    - Sridharan A
+    - Irudayaswamy AS
+    - Srinivas R
+    - Wearne S
+    - Mohamed Naim AN
+    - Ho EXP
+    - Ng HQA
+    - Kwah JS
+    - Png E
+    - Bendt AK
+    - Wenk MR
+    - Torta F
+    - Nagarajan N
+    - Common J
+    - Chong YS
+    - Tham EH
+    - Shek LP
+    - Loo EXL
+    - Chambers J
+    - Yew YW
+    - Loh M
+    - Dawson TL Jr
+    doi: 10.1038/s41522-025-00652-7
+    journal: NPJ Biofilms Microbiomes.
+    date: '2025-01-13'
+    keywords:
+    - metagenomics
+    - microbiome analysis
+    - skin microbiome
+- year: 2024
+  publications:
+  - title: Gut metagenomes of Asian octogenarians reveal metabolic potential expansion
+      and distinct microbial species associated with aging phenotypes.
+    authors:
+    - Ravikrishnan A
+    - Wijaya I
+    - Png E
+    - Chng KR
+    - Ho EXP
+    - Ng AHQ
+    - Mohamed Naim AN
+    - Gounot JS
+    - Guan SP
+    - Hanqing JL
+    - Guan L
+    - Li C
+    - Koh JY
+    - de Sessions PF
+    - Koh WP
+    - Feng L
+    - Ng TP
+    - Larbi A
+    - Maier AB
+    - Kennedy BK
+    - Nagarajan N
+    doi: 10.1038/s41467-024-52097-9
+    journal: Nat Commun.
+    date: '2024-09-05'
+    keywords:
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+  - title: 'Detection and characterisation of a sixth Candida auris clade in Singapore:
+      a genomic and phenotypic study.'
+    authors:
+    - Suphavilai C
+    - Ko KKK
+    - Lim KM
+    - Tan MG
+    - Boonsimma P
+    - Chu JJK
+    - Goh SS
+    - Rajandran P
+    - Lee LC
+    - Tan KY
+    - Shaik Ismail BB
+    - Aung MK
+    - Yang Y
+    - Sim JXY
+    - Venkatachalam I
+    - Cherng BPZ
+    - Spruijtenburg B
+    - Chan KS
+    - Oon LLE
+    - Tan AL
+    - Tan YE
+    - Wijaya L
+    - Tan BH
+    - Ling ML
+    - Koh TH
+    - Meis JF
+    - Tsui CKM
+    - Nagarajan N
+    doi: 10.1016/S2666-5247(24)00101-0
+    journal: Lancet Microbe.
+    date: 2024-09
+    keywords:
+    - environmental microbiomes
+    - genome assembly
+  - title: 'Floria: fast and accurate strain haplotyping in metagenomes.'
+    authors:
+    - Shaw J
+    - Gounot JS
+    - Chen H
+    - Nagarajan N
+    - Yu YW
+    doi: 10.1093/bioinformatics/btae252
+    journal: Bioinformatics.
+    date: '2024-06-28'
+    keywords:
+    - genome assembly
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+  - title: 'Integrative genomic analyses of European intrahepatic cholangiocarcinoma:
+      Novel ROS1 fusion gene and PBX1 as prognostic marker.'
+    authors:
+    - Plum PS
+    - Hess T
+    - Bertrand D
+    - Morgenstern I
+    - Velazquez Camacho O
+    - Jonas C
+    - Alidousty C
+    - Wagner B
+    - Roessler S
+    - Albrecht T
+    - Becker J
+    - Richartz V
+    - Holz B
+    - Hoppe S
+    - Poh HM
+    - Chia BKH
+    - Chan CX
+    - Pathiraja T
+    - Teo AS
+    - Marquardt JU
+    - Khng A
+    - Heise M
+    - Fei Y
+    - Thieme R
+    - Klein S
+    - Hong JH
+    - Dima SO
+    - Popescu I
+    - Hoppe-Lotichius M
+    - Buettner R
+    - Lautem A
+    - Otto G
+    - Quaas A
+    - Nagarajan N
+    - Rozen S
+    - Teh BT
+    - Goeppert B
+    - Drebber U
+    - Lang H
+    - Tan P
+    - Gockel I
+    - Schumacher J
+    - Hillmer AM
+    doi: 10.1002/ctm2.1723
+    journal: Clin Transl Med.
+    date: 2024-06
+    keywords:
+    - cancer genomics
+    - environmental microbiomes
+  - title: Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny.
+    authors:
+    - Hunt M
+    - Hinrichs AS
+    - Anderson D
+    - Karim L
+    - Dearlove BL
+    - Knaggs J
+    - Constantinides B
+    - Fowler PW
+    - Rodger G
+    - Street T
+    - Lumley S
+    - Webster H
+    - Sanderson T
+    - Ruis C
+    - Kotzen B
+    - de Maio N
+    - Amenga-Etego LN
+    - Amuzu DSY
+    - Avaro M
+    - Awandare GA
+    - Ayivor-Djanie R
+    - Barkham T
+    - Bashton M
+    - Batty EM
+    - Bediako Y
+    - De Belder D
+    - Benedetti E
+    - Bergthaler A
+    - Boers SA
+    - Campos J
+    - Carr RAA
+    - Chen YYC
+    - Cuba F
+    - Dattero ME
+    - Dejnirattisai W
+    - Dilthey A
+    - Duedu KO
+    - Endler L
+    - Engelmann I
+    - Francisco NM
+    - Fuchs J
+    - Gnimpieba EZ
+    - Groc S
+    - Gyamfi J
+    - Heemskerk D
+    - Houwaart T
+    - Hsiao NY
+    - Huska M
+    - Hölzer M
+    - Iranzadeh A
+    - Jarva H
+    - Jeewandara C
+    - Jolly B
+    - Joseph R
+    - Kant R
+    - Ki KKK
+    - Kurkela S
+    - Lappalainen M
+    - Lataretu M
+    - Lemieux J
+    - Liu C
+    - Malavige GN
+    - Mashe T
+    - Mongkolsapaya J
+    - Montes B
+    - Mora JAM
+    - Morang'a CM
+    - Mvula B
+    - Nagarajan N
+    - Nelson A
+    - Ngoi JM
+    - da Paixão JP
+    - Panning M
+    - Poklepovich T
+    - Quashie PK
+    - Ranasinghe D
+    - Russo M
+    - San JE
+    - Sanderson ND
+    - Scaria V
+    - Screaton G
+    - Sessions OM
+    - Sironen T
+    - Sisay A
+    - Smith D
+    - Smura T
+    - Supasa P
+    - Suphavilai C
+    - Swann J
+    - Tegally H
+    - Tegomoh B
+    - Vapalahti O
+    - Walker A
+    - Wilkinson RJ
+    - Williamson C
+    - Zair X; IMSSC2 Laboratory Network Consortium; de Oliveira T
+    - Peto TE
+    - Crook D
+    - Corbett-Detig R
+    - Iqbal Z
+    doi: 10.1101/2024.04.29.591666
+    journal: bioRxiv [Preprint].
+    date: '2024-11-05'
+    keywords:
+    - genome assembly
+  - title: 'MetageNN: a memory-efficient neural network taxonomic classifier robust
+      to sequencing errors and missing genomes.'
+    authors:
+    - Peres da Silva R
+    - Suphavilai C
+    - Nagarajan N
+    doi: 10.1186/s12859-024-05760-3
+    journal: BMC Bioinformatics.
+    date: '2024-04-16'
+    keywords: []
+  - title: Hypervirulent Klebsiella pneumoniae employs genomic island encoded toxins
+      against bacterial competitors in the gut.
+    authors:
+    - Tan YH
+    - Arros P
+    - Berríos-Pastén C
+    - Wijaya I
+    - Chu WHW
+    - Chen Y
+    - Cheam G
+    - Mohamed Naim AN
+    - Marcoleta AE
+    - Ravikrishnan A
+    - Nagarajan N
+    - Lagos R
+    - Gan YH
+    doi: 10.1093/ismejo/wrae054
+    journal: ISME J.
+    date: '2024-01-08'
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+  - title: Comparison of tet(X4)-containing contigs assembled from metagenomic sequencing
+      data with plasmid sequences of isolates from a cohort of healthy subjects.
+    authors:
+    - Ding Y
+    - Er S
+    - Tan A
+    - Gounot J-S
+    - Saw W-Y
+    - Tan LWL
+    - Teo YY
+    - Nagarajan N
+    - Seedorf H
+    doi: 10.1128/spectrum.03969-23
+    journal: Microbiol Spectr.
+    date: '2024-04-02'
+    keywords:
+    - genome assembly
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+  - title: The skin microbiome in pediatric atopic dermatitis and food allergy.
+    authors:
+    - Tham EH
+    - Chia M
+    - Riggioni C
+    - Nagarajan N
+    - Common JEA
+    - Kong HH
+    doi: 10.1111/all.16044
+    journal: Allergy.
+    date: 2024-06
+    keywords:
+    - environmental microbiomes
+    - gut microbiome
+    - microbiome analysis
+    - skin microbiome
+  - title: ''
+    authors: []
+    doi: 10.1128/msphere.00781-23
+    journal: mSphere.
+    date: '2024-02-28'
+    keywords: []
+  - title: Comparative analysis of metagenomic classifiers for long-read sequencing
+      datasets.
+    authors:
+    - Marić J
+    - Križanović K
+    - Riondet S
+    - Nagarajan N
+    - Šikić M
+    doi: 10.1186/s12859-024-05634-8
+    journal: BMC Bioinformatics.
+    date: '2024-01-11'
+    keywords:
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+- year: 2023
+  publications:
+  - title: No evidence for a common blood microbiome based on a population study of
+      9,770 healthy humans.
+    authors:
+    - Tan CCS
+    - Ko KKK
+    - Chen H
+    - Liu J
+    - Loh M; SG10K_Health Consortium; Chia M
+    - Nagarajan N
+    doi: 10.1038/s41564-023-01350-w
+    journal: Nat Microbiol.
+    date: 2023-05
+    keywords:
+    - environmental microbiomes
+    - gut microbiome
+    - microbiome analysis
+  - title: Profiling Microbial Communities in Idiopathic Granulomatous Mastitis.
+    authors:
+    - Ong SS
+    - Xu J
+    - Sim CK
+    - Khng AJ
+    - Ho PJ
+    - Kwan PKW
+    - Ravikrishnan A
+    - Tan KB
+    - Tan QT
+    - Tan EY
+    - Tan SM
+    - Putti TC
+    - Lim SH
+    - Tang ELS
+    - Nagarajan N
+    - Karnani N
+    - Li J
+    - Hartman M
+    doi: 10.3390/ijms24021042
+    journal: Int J Mol Sci.
+    date: '2023-01-05'
+    keywords:
+    - metagenomics
+    - microbiome analysis
+    - skin microbiome
+  - title: 'CREAMMIST: an integrative probabilistic database for cancer drug response
+      prediction.'
+    authors:
+    - Yingtaweesittikul H
+    - Wu J
+    - Mongia A
+    - Peres R
+    - Ko K
+    - Nagarajan N
+    - Suphavilai C
+    doi: 10.1093/nar/gkac911
+    journal: Nucleic Acids Res.
+    date: '2023-01-06'
+    keywords:
+    - cancer genomics
+- year: 2022
+  publications:
+  - title: Genome-centric analysis of short and long read metagenomes reveals uncharacterized
+      microbiome diversity in Southeast Asians.
+    authors:
+    - Gounot JS
+    - Chia M
+    - Bertrand D
+    - Saw WY
+    - Ravikrishnan A
+    - Low A
+    - Ding Y
+    - Ng AHQ
+    - Tan LWL
+    - Teo YY
+    - Seedorf H
+    - Nagarajan N
+    doi: 10.1038/s41467-022-33782-z
+    journal: Nat Commun.
+    date: '2022-10-13'
+    keywords:
+    - genome assembly
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+  - title: Genome assembly and chemogenomic profiling of National Flower of Singapore
+      Papilionanthe Miss Joaquim 'Agnes' reveals metabolic pathways regulating floral
+      traits.
+    authors:
+    - Lim AH
+    - Low ZJ
+    - Shingate PN
+    - Hong JH
+    - Chong SC
+    - Ng CCY
+    - Liu W
+    - Vaser R
+    - Šikić M
+    - Sung WK
+    - Nagarajan N
+    - Tan P
+    - Teh BT
+    doi: 10.1038/s42003-022-03940-6
+    journal: Commun Biol.
+    date: '2022-09-15'
+    keywords:
+    - genome assembly
+    - skin microbiome
+  - title: Long-term ecological and evolutionary dynamics in the gut microbiomes of
+      carbapenemase-producing Enterobacteriaceae colonized subjects.
+    authors:
+    - Kang JTL
+    - Teo JJY
+    - Bertrand D
+    - Ng A
+    - Ravikrishnan A
+    - Yong M
+    - Ng OT
+    - Marimuthu K
+    - Chen SL
+    - Chng KR
+    - Gan YH
+    - Nagarajan N
+    doi: 10.1038/s41564-022-01221-w
+    journal: Nat Microbiol.
+    date: 2022-10
+    keywords:
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+  - title: Genomic patterns of divergence in the early and late steps of speciation
+      of the deep-sea vent thermophilic worms of the genus Alvinella.
+    authors:
+    - Thomas-Bulle C
+    - Bertrand D
+    - Nagarajan N
+    - Copley RR
+    - Corre E
+    - Hourdez S
+    - Bonnivard É
+    - Claridge-Chang A
+    - Jollivet D
+    doi: 10.1186/s12862-022-02057-y
+    journal: BMC Ecol Evol.
+    date: '2022-09-03'
+    keywords:
+    - genome assembly
+  - title: Clonal serotype 1c multidrug-resistant Shigella flexneri detected in multiple
+      institutions by sentinel-site sequencing.
+    authors:
+    - Ko KKK
+    - Chu JJK
+    - Lim KM
+    - Yingtaweesittikul H
+    - Huang W
+    - Tan SYL
+    - Goh KCM
+    - Tan SH
+    - Ng TY
+    - Maiwald M
+    - Chia JWZ
+    - Cao DY
+    - Tan YE
+    - Sim JHC
+    - Koh TH
+    - Nagarajan N
+    - Suphavilai C
+    doi: 10.3389/fmed.2022.964640
+    journal: Front Med (Lausanne).
+    date: '2022-08-01'
+    keywords:
+    - environmental microbiomes
+  - title: Dominant Carbapenemase-Encoding Plasmids in Clinical Enterobacterales Isolates
+      and Hypervirulent Klebsiella pneumoniae, Singapore.
+    authors:
+    - Yong M
+    - Chen Y
+    - Oo G
+    - Chang KC
+    - Chu WHW
+    - Teo J
+    - Venkatachalam I
+    - Thevasagayam NM
+    - Sridatta PSR
+    - Koh V
+    - Marcoleta AE
+    - Chen H
+    - Nagarajan N
+    - Kalisvar M
+    - Ng OT
+    - Gan YH
+    doi: 10.3201/eid2808.212542
+    journal: Emerg Infect Dis.
+    date: 2022-08
+    keywords: []
+  - title: Mutual Exclusion of Methanobrevibacter Species in the Human Gut Microbiota
+      Facilitates Directed Cultivation of a Candidatus Methanobrevibacter Intestini
+      Representative.
+    authors:
+    - Low A
+    - Lee JKY
+    - Gounot JS
+    - Ravikrishnan A
+    - Ding Y
+    - Saw WY
+    - Tan LWL
+    - Moong DKN
+    - Teo YY
+    - Nagarajan N
+    - Seedorf H
+    doi: 10.1128/spectrum.00849-22
+    journal: Microbiol Spectr.
+    date: '2022-08-31'
+    keywords:
+    - gut microbiome
+    - metagenomics
+  - title: Emergence of SARS-CoV-2 Spike Mutations during Prolonged Infection in Immunocompromised
+      Hosts.
+    authors:
+    - Ko KKK
+    - Yingtaweesittikul H
+    - Tan TT
+    - Wijaya L
+    - Cao DY
+    - Goh SS
+    - Abdul Rahman NB
+    - Chan KXL
+    - Tay HM
+    - Sim JHC
+    - Chan KS
+    - Oon LLE
+    - Nagarajan N
+    - Suphavilai C
+    doi: 10.1128/spectrum.00791-22
+    journal: Microbiol Spectr.
+    date: '2022-06-29'
+    keywords: []
+  - title: Gut microbiome responses to dietary intervention with hypocholesterolemic
+      vegetable oils.
+    authors:
+    - Lim RRX
+    - Park MA
+    - Wong LH
+    - Haldar S
+    - Lim KJ
+    - Nagarajan N
+    - Henry CJ
+    - Jiang YR
+    - Moskvin OV
+    doi: 10.1038/s41522-022-00287-y
+    journal: NPJ Biofilms Microbiomes.
+    date: '2022-04-11'
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+  - title: 'Critical Assessment of Metagenome Interpretation: the second round of
+      challenges.'
+    authors:
+    - Meyer F
+    - Fritz A
+    - Deng ZL
+    - Koslicki D
+    - Lesker TR
+    - Gurevich A
+    - Robertson G
+    - Alser M
+    - Antipov D
+    - Beghini F
+    - Bertrand D
+    - Brito JJ
+    - Brown CT
+    - Buchmann J
+    - Buluç A
+    - Chen B
+    - Chikhi R
+    - Clausen PTLC
+    - Cristian A
+    - Dabrowski PW
+    - Darling AE
+    - Egan R
+    - Eskin E
+    - Georganas E
+    - Goltsman E
+    - Gray MA
+    - Hansen LH
+    - Hofmeyr S
+    - Huang P
+    - Irber L
+    - Jia H
+    - Jørgensen TS
+    - Kieser SD
+    - Klemetsen T
+    - Kola A
+    - Kolmogorov M
+    - Korobeynikov A
+    - Kwan J
+    - LaPierre N
+    - Lemaitre C
+    - Li C
+    - Limasset A
+    - Malcher-Miranda F
+    - Mangul S
+    - Marcelino VR
+    - Marchet C
+    - Marijon P
+    - Meleshko D
+    - Mende DR
+    - Milanese A
+    - Nagarajan N
+    - Nissen J
+    - Nurk S
+    - Oliker L
+    - Paoli L
+    - Peterlongo P
+    - Piro VC
+    - Porter JS
+    - Rasmussen S
+    - Rees ER
+    - Reinert K
+    - Renard B
+    - Robertsen EM
+    - Rosen GL
+    - Ruscheweyh HJ
+    - Sarwal V
+    - Segata N
+    - Seiler E
+    - Shi L
+    - Sun F
+    - Sunagawa S
+    - Sørensen SJ
+    - Thomas A
+    - Tong C
+    - Trajkovski M
+    - Tremblay J
+    - Uritskiy G
+    - Vicedomini R
+    - Wang Z
+    - Wang Z
+    - Wang Z
+    - Warren A
+    - Willassen NP
+    - Yelick K
+    - You R
+    - Zeller G
+    - Zhao Z
+    - Zhu S
+    - Zhu J
+    - Garrido-Oter R
+    - Gastmeier P
+    - Hacquard S
+    - Häußler S
+    - Khaledi A
+    - Maechler F
+    - Mesny F
+    - Radutoiu S
+    - Schulze-Lefert P
+    - Smit N
+    - Strowig T
+    - Bremges A
+    - Sczyrba A
+    - McHardy AC
+    doi: 10.1038/s41592-022-01431-4
+    journal: Nat Methods.
+    date: 2022-04
+    keywords:
+    - skin microbiome
+  - title: Metagenomics-enabled microbial surveillance.
+    authors:
+    - Ko KKK
+    - Chng KR
+    - Nagarajan N
+    doi: 10.1038/s41564-022-01089-w
+    journal: Nat Microbiol.
+    date: 2022-04
+    keywords:
+    - environmental microbiomes
+    - metagenomics
+  - title: Shared signatures and divergence in skin microbiomes of children with atopic
+      dermatitis and their caregivers.
+    authors:
+    - Chia M
+    - Naim ANM
+    - Tay ASL
+    - Lim K
+    - Chew KL
+    - Yow SJ
+    - Chen J
+    - Common JEA
+    - Nagarajan N
+    - Tham EH
+    doi: 10.1016/j.jaci.2022.01.031
+    journal: J Allergy Clin Immunol.
+    date: 2022-10
+    keywords:
+    - metagenomics
+    - microbiome analysis
+    - skin microbiome
+  - title: SARS-CoV-2 N Gene G29195T Point Mutation May Affect Diagnostic Reverse
+      Transcription-PCR Detection.
+    authors:
+    - Ko KKK
+    - Abdul Rahman NB
+    - Tan SYL
+    - Chan KXL
+    - Goh SS
+    - Sim JHC
+    - Lim KL
+    - Tan WL
+    - Chan KS
+    - Oon LLE
+    - Nagarajan N
+    - Suphavilai C
+    doi: 10.1128/spectrum.02223-21
+    journal: Microbiol Spectr.
+    date: '2022-02-23'
+    keywords: []
+- year: 2021
+  publications:
+  - title: 'CalmBelt: Rapid SARS-CoV-2 Genome Characterization for Outbreak Tracking.'
+    authors:
+    - Yingtaweesittikul H
+    - Ko K
+    - Abdul Rahman N
+    - Tan SYL
+    - Nagarajan N
+    - Suphavilai C
+    doi: 10.3389/fmed.2021.790662
+    journal: Front Med (Lausanne).
+    date: '2021-12-14'
+    keywords:
+    - environmental microbiomes
+  - title: Predicting heterogeneity in clone-specific therapeutic vulnerabilities
+      using single-cell transcriptomic signatures.
+    authors:
+    - Suphavilai C
+    - Chia S
+    - Sharma A
+    - Tu L
+    - Da Silva RP
+    - Mongia A
+    - DasGupta R
+    - Nagarajan N
+    doi: 10.1186/s13073-021-01000-y
+    journal: Genome Med.
+    date: '2021-12-16'
+    keywords:
+    - cancer genomics
+  - title: 'BEEM-Static: Accurate inference of ecological interactions from cross-sectional
+      microbiome data.'
+    authors:
+    - Li C
+    - Av-Shalom TV
+    - Tan JWG
+    - Kwah JS
+    - Chng KR
+    - Nagarajan N
+    doi: 10.1371/journal.pcbi.1009343
+    journal: PLoS Comput Biol.
+    date: '2021-09-08'
+    keywords: []
+  - title: Extended-Spectrum β-Lactamase-Producing and mcr-1-Positive Escherichia
+      coli from the Gut Microbiota of Healthy Singaporeans.
+    authors:
+    - Ding Y
+    - Saw WY
+    - Tan LWL
+    - Moong DKN
+    - Nagarajan N
+    - Teo YY
+    - Seedorf H
+    doi: 10.1128/AEM.00488-21
+    journal: Appl Environ Microbiol.
+    date: '2021-09-28'
+    keywords:
+    - environmental microbiomes
+    - gut microbiome
+    - microbiome analysis
+  - title: A global metagenomic map of urban microbiomes and antimicrobial resistance.
+    authors:
+    - Danko D
+    - Bezdan D
+    - Afshin EE
+    - Ahsanuddin S
+    - Bhattacharya C
+    - Butler DJ
+    - Chng KR
+    - Donnellan D
+    - Hecht J
+    - Jackson K
+    - Kuchin K
+    - Karasikov M
+    - Lyons A
+    - Mak L
+    - Meleshko D
+    - Mustafa H
+    - Mutai B
+    - Neches RY
+    - Ng A
+    - Nikolayeva O
+    - Nikolayeva T
+    - Png E
+    - Ryon KA
+    - Sanchez JL
+    - Shaaban H
+    - Sierra MA
+    - Thomas D
+    - Young B
+    - Abudayyeh OO
+    - Alicea J
+    - Bhattacharyya M
+    - Blekhman R
+    - Castro-Nallar E
+    - Cañas AM
+    - Chatziefthimiou AD
+    - Crawford RW
+    - De Filippis F
+    - Deng Y
+    - Desnues C
+    - Dias-Neto E
+    - Dybwad M
+    - Elhaik E
+    - Ercolini D
+    - Frolova A
+    - Gankin D
+    - Gootenberg JS
+    - Graf AB
+    - Green DC
+    - Hajirasouliha I
+    - Hastings JJA
+    - Hernandez M
+    - Iraola G
+    - Jang S
+    - Kahles A
+    - Kelly FJ
+    - Knights K
+    - Kyrpides NC
+    - Łabaj PP
+    - Lee PKH
+    - Leung MHY
+    - Ljungdahl PO
+    - Mason-Buck G
+    - McGrath K
+    - Meydan C
+    - Mongodin EF
+    - Moraes MO
+    - Nagarajan N
+    - Nieto-Caballero M
+    - Noushmehr H
+    - Oliveira M
+    - Ossowski S
+    - Osuolale OO
+    - Özcan O
+    - Paez-Espino D
+    - Rascovan N
+    - Richard H
+    - Rätsch G
+    - Schriml LM
+    - Semmler T
+    - Sezerman OU
+    - Shi L
+    - Shi T
+    - Siam R
+    - Song LH
+    - Suzuki H
+    - Court DS
+    - Tighe SW
+    - Tong X
+    - Udekwu KI
+    - Ugalde JA
+    - Valentine B
+    - Vassilev DI
+    - Vayndorf EM
+    - Velavan TP
+    - Wu J
+    - Zambrano MM
+    - Zhu J
+    - Zhu S
+    - Mason CE; International MetaSUB Consortium
+    doi: 10.1016/j.cell.2021.05.002
+    journal: Cell.
+    date: '2021-06-24'
+    keywords: []
+  - title: Evaluating the accuracy of Listeria monocytogenes assemblies from quasimetagenomic
+      samples using long and short reads.
+    authors:
+    - Commichaux S
+    - Javkar K
+    - Ramachandran P
+    - Nagarajan N
+    - Bertrand D
+    - Chen Y
+    - Reed E
+    - Gonzalez-Escalona N
+    - Strain E
+    - Rand H
+    - Pop M
+    - Ottesen A
+    doi: 10.1186/s12864-021-07702-2
+    journal: BMC Genomics.
+    date: '2021-05-26'
+    keywords:
+    - genome assembly
+    - metagenomics
+  - title: 'TUGDA: task uncertainty guided domain adaptation for robust generalization
+      of cancer drug response prediction from in vitro to in vivo settings.'
+    authors:
+    - Peres da Silva R
+    - Suphavilai C
+    - Nagarajan N
+    doi: 10.1093/bioinformatics/btab299
+    journal: Bioinformatics.
+    date: '2021-08-04'
+    keywords:
+    - cancer genomics
+  - title: Stool metagenome analysis of patients with Klebsiella pneumoniae liver
+      abscess and their domestic partners.
+    authors:
+    - Molton JS
+    - Lee IR
+    - Bertrand D
+    - Ding Y
+    - Kalimuddin S
+    - Lye DC
+    - Nagarajan N
+    - Gan YH
+    - Archuleta S
+    doi: 10.1016/j.ijid.2021.04.012
+    journal: Int J Infect Dis.
+    date: 2021-06
+    keywords:
+    - environmental microbiomes
+    - gut microbiome
+    - metagenomics
+  - title: 'Publisher Correction: Determination of isoform-specific RNA structure
+      with nanopore long reads.'
+    authors:
+    - Aw JGA
+    - Lim SW
+    - Wang JX
+    - Lambert FRP
+    - Tan WT
+    - Shen Y
+    - Zhang Y
+    - Kaewsapsak P
+    - Li C
+    - Ng SB
+    - Vardy LA
+    - Tan MH
+    - Nagarajan N
+    - Wan Y
+    doi: 10.1038/s41587-021-00889-5
+    journal: Nat Biotechnol.
+    date: 2021-04
+    keywords: []
+  - title: COVID-19 drug practices risk antimicrobial resistance evolution.
+    authors:
+    - Afshinnekoo E
+    - Bhattacharya C
+    - Burguete-García A
+    - Castro-Nallar E
+    - Deng Y
+    - Desnues C
+    - Dias-Neto E
+    - Elhaik E
+    - Iraola G
+    - Jang S
+    - Łabaj PP
+    - Mason CE
+    - Nagarajan N
+    - Poulsen M
+    - Prithiviraj B
+    - Siam R
+    - Shi T
+    - Suzuki H
+    - Werner J
+    - Zambrano MM
+    - Bhattacharyya M; MetaSUB Consortium
+    doi: 10.1016/S2666-5247(21)00039-2
+    journal: Lancet Microbe.
+    date: 2021-04
+    keywords: []
+  - title: 'Ectopic gut colonization: a metagenomic study of the oral and gut microbiome
+      in Crohn''s disease.'
+    authors:
+    - Hu S
+    - Png E
+    - Gowans M
+    - Ong DEH
+    - de Sessions PF
+    - Song J
+    - Nagarajan N
+    doi: 10.1186/s13099-021-00409-5
+    journal: Gut Pathog.
+    date: '2021-02-25'
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+  - title: 'Household transmission of carbapenemase-producing Enterobacteriaceae:
+      a prospective cohort study.'
+    authors:
+    - Marimuthu K
+    - Mo Y
+    - Ling ML
+    - Hernandez-Koutoucheva A
+    - Fenlon SN
+    - Bertrand D
+    - Lye DC
+    - Ang BSP
+    - Perencevich E
+    - Ng OT
+    - Cooper BS
+    - Nagarajan N
+    - Chen SL
+    - Barkham T
+    doi: 10.1093/jac/dkaa561
+    journal: J Antimicrob Chemother.
+    date: '2021-04-13'
+    keywords:
+    - environmental microbiomes
+    - gut microbiome
+  - title: 'Author Correction: Determination of isoform-specific RNA structure with
+      nanopore long reads.'
+    authors:
+    - Aw JGA
+    - Lim SW
+    - Wang JX
+    - Lambert FRP
+    - Tan WT
+    - Shen Y
+    - Zhang Y
+    - Kaewsapsak P
+    - Li C
+    - Ng SB
+    - Vardy LA
+    - Tan MH
+    - Nagarajan N
+    - Wan Y
+    doi: 10.1038/s41587-020-00755-w
+    journal: Nat Biotechnol.
+    date: 2021-03
+    keywords: []
+  - title: Determination of isoform-specific RNA structure with nanopore long reads.
+    authors:
+    - Aw JGA
+    - Lim SW
+    - Wang JX
+    - Lambert FRP
+    - Tan WT
+    - Shen Y
+    - Zhang Y
+    - Kaewsapsak P
+    - Li C
+    - Ng SB
+    - Vardy LA
+    - Tan MH
+    - Nagarajan N
+    - Wan Y
+    doi: 10.1038/s41587-020-0712-z
+    journal: Nat Biotechnol.
+    date: 2021-03
+    keywords: []
+  - title: Atopic dermatitis microbiomes stratify into ecologic dermotypes enabling
+      microbial virulence and disease severity.
+    authors:
+    - Tay ASL
+    - Li C
+    - Nandi T
+    - Chng KR
+    - Andiappan AK
+    - Mettu VS
+    - de Cevins C
+    - Ravikrishnan A
+    - Dutertre CA
+    - Wong XFCC
+    - Ng AHQ
+    - Matta SA
+    - Ginhoux F
+    - Rötzschke O
+    - Chew FT
+    - Tang MBY
+    - Yew YW
+    - Nagarajan N
+    - Common JEA
+    doi: 10.1016/j.jaci.2020.09.031
+    journal: J Allergy Clin Immunol.
+    date: 2021-04
+    keywords:
+    - metagenomics
+    - microbiome analysis
+    - skin microbiome
+- year: 2020
+  publications:
+  - title: Human Tumor-Infiltrating MAIT Cells Display Hallmarks of Bacterial Antigen
+      Recognition in Colorectal Cancer.
+    authors:
+    - Li S
+    - Simoni Y
+    - Becht E
+    - Loh CY
+    - Li N
+    - Lachance D
+    - Koo SL
+    - Lim TP
+    - Tan EKW
+    - Mathew R
+    - Nguyen A
+    - Golovato J
+    - Berkson JD
+    - Prlic M
+    - Lee B
+    - Minot SS
+    - Nagarajan N
+    - Dey N
+    - Tan DSW
+    - Tan IB
+    - Newell EW
+    doi: 10.1016/j.xcrm.2020.100039
+    journal: Cell Rep Med.
+    date: '2020-06-23'
+    keywords:
+    - cancer genomics
+    - gut microbiome
+    - microbiome analysis
+  - title: Emergence of tigecycline- and eravacycline-resistant Tet(X4)-producing
+      Enterobacteriaceae in the gut microbiota of healthy Singaporeans.
+    authors:
+    - Ding Y
+    - Saw WY
+    - Tan LWL
+    - Moong DKN
+    - Nagarajan N
+    - Teo YY
+    - Seedorf H
+    doi: 10.1093/jac/dkaa372
+    journal: J Antimicrob Chemother.
+    date: '2020-12-01'
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+  - title: Duration of Carbapenemase-Producing Enterobacteriaceae Carriage in Hospital
+      Patients.
+    authors:
+    - Mo Y
+    - Hernandez-Koutoucheva A
+    - Musicha P
+    - Bertrand D
+    - Lye D
+    - Ng OT
+    - Fenlon SN
+    - Chen SL
+    - Ling ML
+    - Tang WY
+    - Barkham T
+    - Nagarajan N
+    - Cooper BS
+    - Marimuthu K
+    doi: 10.3201/eid2609.190592
+    journal: Emerg Infect Dis.
+    date: 2020-09
+    keywords:
+    - gut microbiome
+  - title: Metagenome-wide association analysis identifies microbial determinants
+      of post-antibiotic ecological recovery in the gut.
+    authors:
+    - Chng KR
+    - Ghosh TS
+    - Tan YH
+    - Nandi T
+    - Lee IR
+    - Ng AHQ
+    - Li C
+    - Ravikrishnan A
+    - Lim KM
+    - Lye D
+    - Barkham T
+    - Raman K
+    - Chen SL
+    - Chai L
+    - Young B
+    - Gan YH
+    - Nagarajan N
+    doi: 10.1038/s41559-020-1236-0
+    journal: Nat Ecol Evol.
+    date: 2020-09
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+  - title: ''
+    authors: []
+    doi: 10.1038/s41591-020-0894-4
+    journal: Nat Med.
+    date: 2020-06
+    keywords: []
+  - title: 'Gut microbiota changes in children with autism spectrum disorder: a systematic
+      review.'
+    authors:
+    - Ho LKH
+    - Tong VJW
+    - Syn N
+    - Nagarajan N
+    - Tham EH
+    - Tay SK
+    - Shorey S
+    - Tambyah PA
+    - Law ECN
+    doi: 10.1186/s13099-020-0346-1
+    journal: Gut Pathog.
+    date: '2020-02-03'
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+- year: 2019
+  publications:
+  - title: Boosting natural history research via metagenomic clean-up of crowdsourced
+      feces.
+    authors:
+    - Srivathsan A
+    - Nagarajan N
+    - Meier R
+    doi: 10.1371/journal.pbio.3000517
+    journal: PLoS Biol.
+    date: '2019-11-07'
+    keywords:
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+  - title: An expectation-maximization algorithm enables accurate ecological modeling
+      using longitudinal microbiome sequencing data.
+    authors:
+    - Li C
+    - Chng KR
+    - Kwah JS
+    - Av-Shalom TV
+    - Tucker-Kellogg L
+    - Nagarajan N
+    doi: 10.1186/s40168-019-0729-z
+    journal: Microbiome.
+    date: '2019-08-22'
+    keywords:
+    - gut microbiome
+    - microbiome analysis
+  - title: Development and application of a transcriptional sensor for detection of
+      heterologous acrylic acid production in E. coli.
+    authors:
+    - Raghavan SS
+    - Chee S
+    - Li J
+    - Poschmann J
+    - Nagarajan N
+    - Jia Wei S
+    - Verma CS
+    - Ghadessy FJ
+    doi: 10.1186/s12934-019-1185-y
+    journal: Microb Cell Fact.
+    date: '2019-08-19'
+    keywords: []
+  - title: Hybrid metagenomic assembly enables high-resolution analysis of resistance
+      determinants and mobile elements in human microbiomes.
+    authors:
+    - Bertrand D
+    - Shaw J
+    - Kalathiyappan M
+    - Ng AHQ
+    - Kumar MS
+    - Li C
+    - Dvornicic M
+    - Soldo JP
+    - Koh JY
+    - Tong C
+    - Ng OT
+    - Barkham T
+    - Young B
+    - Marimuthu K
+    - Chng KR
+    - Sikic M
+    - Nagarajan N
+    doi: 10.1038/s41587-019-0191-2
+    journal: Nat Biotechnol.
+    date: 2019-08
+    keywords:
+    - genome assembly
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+  - title: Community assessment to advance computational prediction of cancer drug
+      combinations in a pharmacogenomic screen.
+    authors:
+    - Menden MP
+    - Wang D
+    - Mason MJ
+    - Szalai B
+    - Bulusu KC
+    - Guan Y
+    - Yu T
+    - Kang J
+    - Jeon M
+    - Wolfinger R
+    - Nguyen T
+    - Zaslavskiy M; AstraZeneca-Sanger Drug Combination DREAM Consortium; Jang IS
+    - Ghazoui Z
+    - Ahsen ME
+    - Vogel R
+    - Neto EC
+    - Norman T
+    - Tang EKY
+    - Garnett MJ
+    - Veroli GYD
+    - Fawell S
+    - Stolovitzky G
+    - Guinney J
+    - Dry JR
+    - Saez-Rodriguez J
+    doi: 10.1038/s41467-019-09799-2
+    journal: Nat Commun.
+    date: '2019-06-17'
+    keywords: []
+  - title: Structure mapping of dengue and Zika viruses reveals functional long-range
+      interactions.
+    authors:
+    - Huber RG
+    - Lim XN
+    - Ng WC
+    - Sim AYL
+    - Poh HX
+    - Shen Y
+    - Lim SY
+    - Sundstrom KB
+    - Sun X
+    - Aw JG
+    - Too HK
+    - Boey PH
+    - Wilm A
+    - Chawla T
+    - Choy MM
+    - Jiang L
+    - de Sessions PF
+    - Loh XJ
+    - Alonso S
+    - Hibberd M
+    - Nagarajan N
+    - Ooi EE
+    - Bond PJ
+    - Sessions OM
+    - Wan Y
+    doi: 10.1038/s41467-019-09391-8
+    journal: Nat Commun.
+    date: '2019-03-29'
+    keywords: []
+- year: 2018
+  publications:
+  - title: Understanding the microbial basis of body odor in pre-pubescent children
+      and teenagers.
+    authors:
+    - Lam TH
+    - Verzotto D
+    - Brahma P
+    - Ng AHQ
+    - Hu P
+    - Schnell D
+    - Tiesman J
+    - Kong R
+    - Ton TMU
+    - Li J
+    - Ong M
+    - Lu Y
+    - Swaile D
+    - Liu P
+    - Liu J
+    - Nagarajan N
+    doi: 10.1186/s40168-018-0588-z
+    journal: Microbiome.
+    date: '2018-11-29'
+    keywords:
+    - metagenomics
+    - microbiome analysis
+    - skin microbiome
+  - title: Comprehensive Characterization of Cancer Driver Genes and Mutations.
+    authors:
+    - Bailey MH
+    - Tokheim C
+    - Porta-Pardo E
+    - Sengupta S
+    - Bertrand D
+    - Weerasinghe A
+    - Colaprico A
+    - Wendl MC
+    - Kim J
+    - Reardon B
+    - Kwok-Shing Ng P
+    - Jeong KJ
+    - Cao S
+    - Wang Z
+    - Gao J
+    - Gao Q
+    - Wang F
+    - Liu EM
+    - Mularoni L
+    - Rubio-Perez C
+    - Nagarajan N
+    - Cortés-Ciriano I
+    - Zhou DC
+    - Liang WW
+    - Hess JM
+    - Yellapantula VD
+    - Tamborero D
+    - Gonzalez-Perez A
+    - Suphavilai C
+    - Ko JY
+    - Khurana E
+    - Park PJ
+    - Van Allen EM
+    - Liang H; MC3 Working Group; Cancer Genome Atlas Research Network; Lawrence MS
+    - Godzik A
+    - Lopez-Bigas N
+    - Stuart J
+    - Wheeler D
+    - Getz G
+    - Chen K
+    - Lazar AJ
+    - Mills GB
+    - Karchin R
+    - Ding L
+    doi: 10.1016/j.cell.2018.07.034
+    journal: Cell.
+    date: '2018-08-09'
+    keywords: []
+  - title: 'Immunological corollary of the pulmonary mycobiome in bronchiectasis:
+      the CAMEB study.'
+    authors:
+    - Mac Aogáin M
+    - Chandrasekaran R
+    - Lim AYH
+    - Low TB
+    - Tan GL
+    - Hassan T
+    - Ong TH
+    - Hui Qi Ng A
+    - Bertrand D
+    - Koh JY
+    - Pang SL
+    - Lee ZY
+    - Gwee XW
+    - Martinus C
+    - Sio YY
+    - Matta SA
+    - Chew FT
+    - Keir HR
+    - Connolly JE
+    - Abisheganaden JA
+    - Koh MS
+    - Nagarajan N
+    - Chalmers JD
+    - Chotirmall SH
+    doi: 10.1183/13993003.00766-2018
+    journal: Eur Respir J.
+    date: '2018-07-27'
+    keywords: []
+  - title: Predicting Cancer Drug Response using a Recommender System.
+    authors:
+    - Suphavilai C
+    - Bertrand D
+    - Nagarajan N
+    doi: 10.1093/bioinformatics/bty452
+    journal: Bioinformatics.
+    date: '2018-11-15'
+    keywords:
+    - cancer genomics
+  - title: A MinION™-based pipeline for fast and cost-effective DNA barcoding.
+    authors:
+    - Srivathsan A
+    - Baloğlu B
+    - Wang W
+    - Tan WX
+    - Bertrand D
+    - Ng AHQ
+    - Boey EJH
+    - Koh JJY
+    - Nagarajan N
+    - Meier R
+    doi: 10.1111/1755-0998.12890
+    journal: Mol Ecol Resour.
+    date: '2018-04-19'
+    keywords: []
+  - title: Comprehensive Characterization of Cancer Driver Genes and Mutations.
+    authors:
+    - Bailey MH
+    - Tokheim C
+    - Porta-Pardo E
+    - Sengupta S
+    - Bertrand D
+    - Weerasinghe A
+    - Colaprico A
+    - Wendl MC
+    - Kim J
+    - Reardon B
+    - Ng PK
+    - Jeong KJ
+    - Cao S
+    - Wang Z
+    - Gao J
+    - Gao Q
+    - Wang F
+    - Liu EM
+    - Mularoni L
+    - Rubio-Perez C
+    - Nagarajan N
+    - Cortés-Ciriano I
+    - Zhou DC
+    - Liang WW
+    - Hess JM
+    - Yellapantula VD
+    - Tamborero D
+    - Gonzalez-Perez A
+    - Suphavilai C
+    - Ko JY
+    - Khurana E
+    - Park PJ
+    - Van Allen EM
+    - Liang H; MC3 Working Group; Cancer Genome Atlas Research Network; Lawrence MS
+    - Godzik A
+    - Lopez-Bigas N
+    - Stuart J
+    - Wheeler D
+    - Getz G
+    - Chen K
+    - Lazar AJ
+    - Mills GB
+    - Karchin R
+    - Ding L
+    doi: 10.1016/j.cell.2018.02.060
+    journal: Cell.
+    date: '2018-04-05'
+    keywords: []
+  - title: Perspective on Oncogenic Processes at the End of the Beginning of Cancer
+      Genomics.
+    authors:
+    - Ding L
+    - Bailey MH
+    - Porta-Pardo E
+    - Thorsson V
+    - Colaprico A
+    - Bertrand D
+    - Gibbs DL
+    - Weerasinghe A
+    - Huang KL
+    - Tokheim C
+    - Cortés-Ciriano I
+    - Jayasinghe R
+    - Chen F
+    - Yu L
+    - Sun S
+    - Olsen C
+    - Kim J
+    - Taylor AM
+    - Cherniack AD
+    - Akbani R
+    - Suphavilai C
+    - Nagarajan N
+    - Stuart JM
+    - Mills GB
+    - Wyczalkowski MA
+    - Vincent BG
+    - Hutter CM
+    - Zenklusen JC
+    - Hoadley KA
+    - Wendl MC
+    - Shmulevich L
+    - Lazar AJ
+    - Wheeler DA
+    - Getz G; Cancer Genome Atlas Research Network
+    doi: 10.1016/j.cell.2018.03.033
+    journal: Cell.
+    date: '2018-04-05'
+    keywords: []
+  - title: Genome-wide identification of natural RNA aptamers in prokaryotes and eukaryotes.
+    authors:
+    - Tapsin S
+    - Sun M
+    - Shen Y
+    - Zhang H
+    - Lim XN
+    - Susanto TT
+    - Yang SL
+    - Zeng GS
+    - Lee J
+    - Lezhava A
+    - Ang EL
+    - Zhang LH
+    - Wang Y
+    - Zhao H
+    - Nagarajan N
+    - Wan Y
+    doi: 10.1038/s41467-018-03675-1
+    journal: Nat Commun.
+    date: '2018-03-29'
+    keywords: []
+  - title: ConsensusDriver Improves upon Individual Algorithms for Predicting Driver
+      Alterations in Different Cancer Types and Individual Patients.
+    authors:
+    - Bertrand D
+    - Drissler S
+    - Chia BK
+    - Koh JY
+    - Li C
+    - Suphavilai C
+    - Tan IB
+    - Nagarajan N
+    doi: 10.1158/0008-5472.CAN-17-1345
+    journal: Cancer Res.
+    date: '2018-01-01'
+    keywords:
+    - cancer genomics
+  - title: The liver-gut microbiota axis modulates hepatotoxicity of tacrine in the
+      rat.
+    authors:
+    - Yip LY
+    - Aw CC
+    - Lee SH
+    - Hong YS
+    - Ku HC
+    - Xu WH
+    - Chan JMX
+    - Cheong EJY
+    - Chng KR
+    - Ng AHQ
+    - Nagarajan N
+    - Mahendran R
+    - Lee YK
+    - Browne ER
+    - Chan ECY
+    doi: 10.1002/hep.29327
+    journal: Hepatology.
+    date: 2018-01
+    keywords:
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+- year: 2017
+  publications:
+  - title: Measurement of fetal fraction in cell-free DNA from maternal plasma using
+      a panel of insertion/deletion polymorphisms.
+    authors:
+    - Barrett AN
+    - Xiong L
+    - Tan TZ
+    - Advani HV
+    - Hua R
+    - Laureano-Asibal C
+    - Soong R
+    - Biswas A
+    - Nagarajan N
+    - Choolani M
+    doi: 10.1371/journal.pone.0186771
+    journal: PLoS One.
+    date: '2017-10-30'
+    keywords: []
+  - title: Single-virion sequencing of lamivudine-treated HBV populations reveal population
+      evolution dynamics and demographic history.
+    authors:
+    - Zhu YO
+    - Aw PPK
+    - de Sessions PF
+    - Hong S
+    - See LX
+    - Hong LZ
+    - Wilm A
+    - Li CH
+    - Hue S
+    - Lim SG
+    - Nagarajan N
+    - Burkholder WF
+    - Hibberd M
+    doi: 10.1186/s12864-017-4217-1
+    journal: BMC Genomics.
+    date: '2017-10-27'
+    keywords: []
+  - title: The draft genome of tropical fruit durian (Durio zibethinus).
+    authors:
+    - Teh BT
+    - Lim K
+    - Yong CH
+    - Ng CCY
+    - Rao SR
+    - Rajasegaran V
+    - Lim WK
+    - Ong CK
+    - Chan K
+    - Cheng VKY
+    - Soh PS
+    - Swarup S
+    - Rozen SG
+    - Nagarajan N
+    - Tan P
+    doi: 10.1038/ng.3972
+    journal: Nat Genet.
+    date: 2017-11
+    keywords:
+    - environmental microbiomes
+    - genome assembly
+  - title: ''
+    authors: []
+    doi: 10.1038/nmeth.4458
+    journal: Nat Methods.
+    date: 2017-11
+    keywords: []
+  - title: Comparative genomics of Cryptococcus neoformans var. grubii associated
+      with meningitis in HIV infected and uninfected patients in Vietnam.
+    authors:
+    - Day JN
+    - Qihui S
+    - Thanh LT
+    - Trieu PH
+    - Van AD
+    - Thu NH
+    - Chau TTH
+    - Lan NPH
+    - Chau NVV
+    - Ashton PM
+    - Thwaites GE
+    - Boni MF
+    - Wolbers M
+    - Nagarajan N
+    - Tan PBO
+    - Baker S
+    doi: 10.1371/journal.pntd.0005628
+    journal: PLoS Negl Trop Dis.
+    date: '2017-06-14'
+    keywords:
+    - genome assembly
+  - title: Mapping RNA-RNA Interactions Globally Using Biotinylated Psoralen.
+    authors:
+    - Aw JGA
+    - Shen Y
+    - Nagarajan N
+    - Wan Y
+    doi: 10.3791/55255
+    journal: J Vis Exp.
+    date: '2017-05-24'
+    keywords: []
+  - title: Mammalian Systems Biotechnology Reveals Global Cellular Adaptations in
+      a Recombinant CHO Cell Line.
+    authors:
+    - Yusufi FNK
+    - Lakshmanan M
+    - Ho YS
+    - Loo BLW
+    - Ariyaratne P
+    - Yang Y
+    - Ng SK
+    - Tan TRM
+    - Yeo HC
+    - Lim HL
+    - Ng SW
+    - Hiu AP
+    - Chow CP
+    - Wan C
+    - Chen S
+    - Teo G
+    - Song G
+    - Chin JX
+    - Ruan X
+    - Sung KWK
+    - Hu WS
+    - Yap MGS
+    - Bardor M
+    - Nagarajan N
+    - Lee DY
+    doi: 10.1016/j.cels.2017.04.009
+    journal: Cell Syst.
+    date: '2017-05-24'
+    keywords: []
+  - title: ''
+    authors: []
+    doi: 10.1016/j.joen.2017.01.020
+    journal: J Endod.
+    date: 2017-06
+    keywords: []
+  - title: Development of a genetically programed vanillin-sensing bacterium for high-throughput
+      screening of lignin-degrading enzyme libraries.
+    authors:
+    - Sana B
+    - Chia KHB
+    - Raghavan SS
+    - Ramalingam B
+    - Nagarajan N
+    - Seayad J
+    - Ghadessy FJ
+    doi: 10.1186/s13068-017-0720-5
+    journal: Biotechnol Biofuels.
+    date: '2017-02-03'
+    keywords:
+    - environmental microbiomes
+  - title: ''
+    authors: []
+    doi: 10.1101/gr.214270.116
+    journal: Genome Res.
+    date: 2017-05
+    keywords: []
+- year: 2016
+  publications:
+  - title: Whole metagenome profiling reveals skin microbiome-dependent susceptibility
+      to atopic dermatitis flare.
+    authors:
+    - Chng KR
+    - Tay AS
+    - Li C
+    - Ng AH
+    - Wang J
+    - Suri BK
+    - Matta SA
+    - McGovern N
+    - Janela B
+    - Wong XF
+    - Sio YY
+    - Au BV
+    - Wilm A
+    - De Sessions PF
+    - Lim TC
+    - Tang MB
+    - Ginhoux F
+    - Connolly JE
+    - Lane EB
+    - Chew FT
+    - Common JE
+    - Nagarajan N
+    doi: 10.1038/nmicrobiol.2016.106
+    journal: Nat Microbiol.
+    date: '2016-07-11'
+    keywords:
+    - metagenomics
+    - microbiome analysis
+    - skin microbiome
+  - title: 'INC-Seq: accurate single molecule reads using nanopore sequencing.'
+    authors:
+    - Li C
+    - Chng KR
+    - Boey EJ
+    - Ng AH
+    - Wilm A
+    - Nagarajan N
+    doi: 10.1186/s13742-016-0140-7
+    journal: Gigascience.
+    date: '2016-08-02'
+    keywords:
+    - microbiome analysis
+  - title: Tissue Microbiome Profiling Identifies an Enrichment of Specific Enteric
+      Bacteria in Opisthorchis viverrini Associated Cholangiocarcinoma.
+    authors:
+    - Chng KR
+    - Chan SH
+    - Ng AHQ
+    - Li C
+    - Jusakul A
+    - Bertrand D
+    - Wilm A
+    - Choo SP
+    - Tan DMY
+    - Lim KH
+    - Soetinko R
+    - Ong CK
+    - Duda DG
+    - Dima S
+    - Popescu I
+    - Wongkham C
+    - Feng Z
+    - Yeoh KG
+    - Teh BT
+    - Yongvanit P
+    - Wongkham S
+    - Bhudhisawasdi V
+    - Khuntikeo N
+    - Tan P
+    - Pairojkul C
+    - Ngeow J
+    - Nagarajan N
+    doi: 10.1016/j.ebiom.2016.04.034
+    journal: EBioMedicine.
+    date: 2016-06
+    keywords:
+    - cancer genomics
+    - microbiome analysis
+  - title: '@MInter: automated text-mining of microbial interactions.'
+    authors:
+    - Lim KM
+    - Li C
+    - Chng KR
+    - Nagarajan N
+    doi: 10.1093/bioinformatics/btw357
+    journal: Bioinformatics.
+    date: '2016-10-01'
+    keywords:
+    - skin microbiome
+  - title: In Vivo Mapping of Eukaryotic RNA Interactomes Reveals Principles of Higher-Order
+      Organization and Regulation.
+    authors:
+    - Aw JG
+    - Shen Y
+    - Wilm A
+    - Sun M
+    - Lim XN
+    - Boon KL
+    - Tapsin S
+    - Chan YS
+    - Tan CP
+    - Sim AY
+    - Zhang T
+    - Susanto TT
+    - Fu Z
+    - Nagarajan N
+    - Wan Y
+    doi: 10.1016/j.molcel.2016.04.028
+    journal: Mol Cell.
+    date: '2016-05-19'
+    keywords: []
+  - title: 'OPERA-LG: efficient and exact scaffolding of large, repeat-rich eukaryotic
+      genomes with performance guarantees.'
+    authors:
+    - Gao S
+    - Bertrand D
+    - Chia BK
+    - Nagarajan N
+    doi: 10.1186/s13059-016-0951-y
+    journal: Genome Biol.
+    date: '2016-05-11'
+    keywords:
+    - genome assembly
+  - title: Fast and sensitive mapping of nanopore sequencing reads with GraphMap.
+    authors:
+    - Sović I
+    - Šikić M
+    - Wilm A
+    - Fenlon SN
+    - Chen S
+    - Nagarajan N
+    doi: 10.1038/ncomms11307
+    journal: Nat Commun.
+    date: '2016-04-15'
+    keywords: []
+  - title: ''
+    authors: []
+    doi: 10.1016/j.ymeth.2016.02.019
+    journal: Methods.
+    date: '2016-06-01'
+    keywords: []
+  - title: 'OPTIMA: sensitive and accurate whole-genome alignment of error-prone genomic
+      maps by combinatorial indexing and technology-agnostic statistical analysis.'
+    authors:
+    - Verzotto D
+    - M Teo AS
+    - Hillmer AM
+    - Nagarajan N
+    doi: 10.1186/s13742-016-0110-0
+    journal: Gigascience.
+    date: '2016-01-19'
+    keywords:
+    - cancer genomics
+    - genome assembly
+  - title: Mutational spectrum of Barrett's stem cells suggests paths to initiation
+      of a precancerous lesion.
+    authors:
+    - Yamamoto Y
+    - Wang X
+    - Bertrand D
+    - Kern F
+    - Zhang T
+    - Duleba M
+    - Srivastava S
+    - Khor CC
+    - Hu Y
+    - Wilson LH
+    - Blaszyk H
+    - Rolshud D
+    - Teh M
+    - Liu J
+    - Howitt BE
+    - Vincent M
+    - Crum CP
+    - Nagarajan N
+    - Ho KY
+    - McKeon F
+    - Xian W
+    doi: 10.1038/ncomms10380
+    journal: Nat Commun.
+    date: '2016-01-19'
+    keywords:
+    - cancer genomics
+    - gut microbiome
+  - title: In vitro and in vivo correlates of physiological and neoplastic human Fallopian
+      tube stem cells.
+    authors:
+    - Yamamoto Y
+    - Ning G
+    - Howitt BE
+    - Mehra K
+    - Wu L
+    - Wang X
+    - Hong Y
+    - Kern F
+    - Wei TS
+    - Zhang T
+    - Nagarajan N
+    - Basuli D
+    - Torti S
+    - Brewer M
+    - Choolani M
+    - McKeon F
+    - Crum CP
+    - Xian W
+    doi: 10.1002/path.4649
+    journal: J Pathol.
+    date: 2016-03
+    keywords:
+    - cancer genomics
+- year: 2015
+  publications:
+  - title: Single-molecule optical genome mapping of a human HapMap and a colorectal
+      cancer cell line.
+    authors:
+    - Teo AS
+    - Verzotto D
+    - Yao F
+    - Nagarajan N
+    - Hillmer AM
+    doi: 10.1186/s13742-015-0106-1
+    journal: Gigascience.
+    date: '2015-12-29'
+    keywords:
+    - cancer genomics
+    - genome assembly
+  - title: Genus-Wide Comparative Genomics of Malassezia Delineates Its Phylogeny,
+      Physiology, and Niche Adaptation on Human Skin.
+    authors:
+    - Wu G
+    - Zhao H
+    - Li C
+    - Rajapakse MP
+    - Wong WC
+    - Xu J
+    - Saunders CW
+    - Reeder NL
+    - Reilman RA
+    - Scheynius A
+    - Sun S
+    - Billmyre BR
+    - Li W
+    - Averette AF
+    - Mieczkowski P
+    - Heitman J
+    - Theelen B
+    - Schröder MS
+    - De Sessions PF
+    - Butler G
+    - Maurer-Stroh S
+    - Boekhout T
+    - Nagarajan N
+    - Dawson TL Jr
+    doi: 10.1371/journal.pgen.1005614
+    journal: PLoS Genet.
+    date: '2015-11-05'
+    keywords:
+    - environmental microbiomes
+    - skin microbiome
+  - title: Direct whole-genome deep-sequencing of human respiratory syncytial virus
+      A and B from Vietnamese children identifies distinct patterns of inter- and
+      intra-host evolution.
+    authors:
+    - Do LAH
+    - Wilm A
+    - van Doorn HR
+    - Lam HM
+    - Sim S
+    - Sukumaran R
+    - Tran AT
+    - Nguyen BH
+    - Tran TTL
+    - Tran QH
+    - Vo QB
+    - Dac NAT
+    - Trinh HN
+    - Nguyen TTH
+    - Binh BTL
+    - Le K
+    - Nguyen MT
+    - Thai QT
+    - Vo TV
+    - Ngo NQM
+    - Dang TKH
+    - Cao NH
+    - Tran TV
+    - Ho LV
+    - Farrar J
+    - de Jong M
+    - Chen S
+    - Nagarajan N
+    - Bryant JE
+    - Hibberd ML
+    doi: 10.1099/jgv.0.000298
+    journal: J Gen Virol.
+    date: 2015-12
+    keywords:
+    - environmental microbiomes
+  - title: Analysis of Dengue Virus Genetic Diversity during Human and Mosquito Infection
+      Reveals Genetic Constraints.
+    authors:
+    - Sessions OM
+    - Wilm A
+    - Kamaraj US
+    - Choy MM
+    - Chow A
+    - Chong Y
+    - Ong XM
+    - Nagarajan N
+    - Cook AR
+    - Ooi EE
+    doi: 10.1371/journal.pntd.0004044
+    journal: PLoS Negl Trop Dis.
+    date: '2015-09-01'
+    keywords: []
+  - title: Tracking Dengue Virus Intra-host Genetic Diversity during Human-to-Mosquito
+      Transmission.
+    authors:
+    - Sim S
+    - Aw PP
+    - Wilm A
+    - Teoh G
+    - Hue KD
+    - Nguyen NM
+    - Nagarajan N
+    - Simmons CP
+    - Hibberd ML
+    doi: 10.1371/journal.pntd.0004052
+    journal: PLoS Negl Trop Dis.
+    date: '2015-09-01'
+    keywords: []
+  - title: 'Recurrent Fusion Genes in Gastric Cancer: CLDN18-ARHGAP26 Induces Loss
+      of Epithelial Integrity.'
+    authors:
+    - Yao F
+    - Kausalya JP
+    - Sia YY
+    - Teo AS
+    - Lee WH
+    - Ong AG
+    - Zhang Z
+    - Tan JH
+    - Li G
+    - Bertrand D
+    - Liu X
+    - Poh HM
+    - Guan P
+    - Zhu F
+    - Pathiraja TN
+    - Ariyaratne PN
+    - Rao J
+    - Woo XY
+    - Cai S
+    - Mulawadi FH
+    - Poh WT
+    - Veeravalli L
+    - Chan CS
+    - Lim SS
+    - Leong ST
+    - Neo SC
+    - Choi PS
+    - Chew EG
+    - Nagarajan N
+    - Jacques PÉ
+    - So JB
+    - Ruan X
+    - Yeoh KG
+    - Tan P
+    - Sung WK
+    - Hunziker W
+    - Ruan Y
+    - Hillmer AM
+    doi: 10.1016/j.celrep.2015.06.020
+    journal: Cell Rep.
+    date: '2015-07-14'
+    keywords:
+    - cancer genomics
+    - gut microbiome
+  - title: Cloning and variation of ground state intestinal stem cells.
+    authors:
+    - Wang X
+    - Yamamoto Y
+    - Wilson LH
+    - Zhang T
+    - Howitt BE
+    - Farrow MA
+    - Kern F
+    - Ning G
+    - Hong Y
+    - Khor CC
+    - Chevalier B
+    - Bertrand D
+    - Wu L
+    - Nagarajan N
+    - Sylvester FA
+    - Hyams JS
+    - Devers T
+    - Bronson R
+    - Lacy DB
+    - Ho KY
+    - Crum CP
+    - McKeon F
+    - Xian W
+    doi: 10.1038/nature14484
+    journal: Nature.
+    date: '2015-06-11'
+    keywords:
+    - gut microbiome
+  - title: Combining tumor genome simulation with crowdsourcing to benchmark somatic
+      single-nucleotide-variant detection.
+    authors:
+    - Ewing AD
+    - Houlahan KE
+    - Hu Y
+    - Ellrott K
+    - Caloian C
+    - Yamaguchi TN
+    - Bare JC
+    - P'ng C
+    - Waggott D
+    - Sabelnykova VY; ICGC-TCGA DREAM Somatic Mutation Calling Challenge participants;
+      Kellen MR
+    - Norman TC
+    - Haussler D
+    - Friend SH
+    - Stolovitzky G
+    - Margolin AA
+    - Stuart JM
+    - Boutros PC
+    doi: 10.1038/nmeth.3407
+    journal: Nat Methods.
+    date: 2015-07
+    keywords:
+    - cancer genomics
+  - title: High-depth sequencing of over 750 genes supports linear progression of
+      primary tumors and metastases in most patients with liver-limited metastatic
+      colorectal cancer.
+    authors:
+    - Tan IB
+    - Malik S
+    - Ramnarayanan K
+    - McPherson JR
+    - Ho DL
+    - Suzuki Y
+    - Ng SB
+    - Yan S
+    - Lim KH
+    - Koh D
+    - Hoe CM
+    - Chan CY
+    - Ten R
+    - Goh BK
+    - Chung AY
+    - Tan J
+    - Chan CX
+    - Tay ST
+    - Alexander L
+    - Nagarajan N
+    - Hillmer AM
+    - Tang CL
+    - Chua C
+    - Teh BT
+    - Rozen S
+    - Tan P
+    doi: 10.1186/s13059-015-0589-1
+    journal: Genome Biol.
+    date: '2015-02-12'
+    keywords:
+    - cancer genomics
+  - title: Patient-specific driver gene prediction and risk assessment through integrated
+      network analysis of cancer omics profiles.
+    authors:
+    - Bertrand D
+    - Chng KR
+    - Sherbaf FG
+    - Kiesel A
+    - Chia BK
+    - Sia YY
+    - Huang SK
+    - Hoon DS
+    - Liu ET
+    - Hillmer A
+    - Nagarajan N
+    doi: 10.1093/nar/gku1393
+    journal: Nucleic Acids Res.
+    date: '2015-04-20'
+    keywords:
+    - cancer genomics
+- year: 2014
+  publications:
+  - title: The importance of study design for detecting differentially abundant features
+      in high-throughput experiments.
+    authors:
+    - Luo H
+    - Li J
+    - Chia BK
+    - Robson P
+    - Nagarajan N
+    doi: 10.1186/s13059-014-0527-7
+    journal: Genome Biol.
+    date: '2014-12-03'
+    keywords:
+    - metagenomics
+  - title: 'BAsE-Seq: a method for obtaining long viral haplotypes from short sequence
+      reads.'
+    authors:
+    - Hong LZ
+    - Hong S
+    - Wong HT
+    - Aw PP
+    - Cheng Y
+    - Wilm A
+    - de Sessions PF
+    - Lim SG
+    - Nagarajan N
+    - Hibberd ML
+    - Quake SR
+    - Burkholder WF
+    doi: 10.1186/PREACCEPT-6768001251451949
+    journal: Genome Biol.
+    date: '2014'
+    keywords:
+    - genome assembly
+  - title: Draft Genome Sequence of Polychlorinated Biphenyl-Dechlorinating Dehalococcoides
+      mccartyi Strain SG1, Which Carries a Circular Putative Plasmid.
+    authors:
+    - Wang S
+    - Chng KR
+    - Wu C
+    - Wilm A
+    - Nagarajan N
+    - He J
+    doi: 10.1128/genomeA.00901-14
+    journal: Genome Announc.
+    date: '2014-10-02'
+    keywords: []
+  - title: ''
+    authors: []
+    doi: 10.1101/gr.164871.113
+    journal: Genome Res.
+    date: 2014-10
+    keywords: []
+  - title: Genomic characterization of three unique Dehalococcoides that respire on
+      persistent polychlorinated biphenyls.
+    authors:
+    - Wang S
+    - Chng KR
+    - Wilm A
+    - Zhao S
+    - Yang KL
+    - Nagarajan N
+    - He J
+    doi: 10.1073/pnas.1404845111
+    journal: Proc Natl Acad Sci U S A.
+    date: '2014-08-19'
+    keywords: []
+  - title: The Opisthorchis viverrini genome provides insights into life in the bile
+      duct.
+    authors:
+    - Young ND
+    - Nagarajan N
+    - Lin SJ
+    - Korhonen PK
+    - Jex AR
+    - Hall RS
+    - Safavi-Hemami H
+    - Kaewkong W
+    - Bertrand D
+    - Gao S
+    - Seet Q
+    - Wongkham S
+    - Teh BT
+    - Wongkham C
+    - Intapan PM
+    - Maleewong W
+    - Yang X
+    - Hu M
+    - Wang Z
+    - Hofmann A
+    - Sternberg PW
+    - Tan P
+    - Wang J
+    - Gasser RB
+    doi: 10.1038/ncomms5378
+    journal: Nat Commun.
+    date: '2014-07-09'
+    keywords:
+    - cancer genomics
+  - title: Next-generation whole genome sequencing of dengue virus.
+    authors:
+    - Aw PP
+    - de Sessions PF
+    - Wilm A
+    - Hoang LT
+    - Nagarajan N
+    - Sessions OM
+    - Hibberd ML
+    doi: 10.1007/978-1-4939-0348-1_12
+    journal: Methods Mol Biol.
+    date: '2014'
+    keywords: []
+- year: 2013
+  publications:
+  - title: Genome Sequencing of Four Strains of Rickettsia prowazekii, the Causative
+      Agent of Epidemic Typhus, Including One Flying Squirrel Isolate.
+    authors:
+    - Bishop-Lilly KA
+    - Ge H
+    - Butani A
+    - Osborne B
+    - Verratti K
+    - Mokashi V
+    - Nagarajan N
+    - Pop M
+    - Read TD
+    - Richards AL
+    doi: 10.1128/genomeA.00399-13
+    journal: Genome Announc.
+    date: '2013-06-27'
+    keywords: []
+  - title: Species identification and profiling of complex microbial communities using
+      shotgun Illumina sequencing of 16S rRNA amplicon sequences.
+    authors:
+    - Ong SH
+    - Kukkillaya VU
+    - Wilm A
+    - Lay C
+    - Ho EX
+    - Low L
+    - Hibberd ML
+    - Nagarajan N
+    doi: 10.1371/journal.pone.0060811
+    journal: PLoS One.
+    date: '2013-04-08'
+    keywords: []
+  - title: Sequence assembly demystified.
+    authors:
+    - Nagarajan N
+    - Pop M
+    doi: 10.1038/nrg3367
+    journal: Nat Rev Genet.
+    date: 2013-03
+    keywords:
+    - genome assembly
+    - metagenomics
+  - title: The draft genome of sweet orange (Citrus sinensis).
+    authors:
+    - Xu Q
+    - Chen LL
+    - Ruan X
+    - Chen D
+    - Zhu A
+    - Chen C
+    - Bertrand D
+    - Jiao WB
+    - Hao BH
+    - Lyon MP
+    - Chen J
+    - Gao S
+    - Xing F
+    - Lan H
+    - Chang JW
+    - Ge X
+    - Lei Y
+    - Hu Q
+    - Miao Y
+    - Wang L
+    - Xiao S
+    - Biswas MK
+    - Zeng W
+    - Guo F
+    - Cao H
+    - Yang X
+    - Xu XW
+    - Cheng YJ
+    - Xu J
+    - Liu JH
+    - Luo OJ
+    - Tang Z
+    - Guo WW
+    - Kuang H
+    - Zhang HY
+    - Roose ML
+    - Nagarajan N
+    - Deng XX
+    - Ruan Y
+    doi: 10.1038/ng.2472
+    journal: Nat Genet.
+    date: 2013-01
+    keywords:
+    - genome assembly
+  - title: A randomized, double-blind placebo controlled trial of balapiravir, a polymerase
+      inhibitor, in adult dengue patients.
+    authors:
+    - Nguyen NM
+    - Tran CN
+    - Phung LK
+    - Duong KT
+    - Huynh Hle A
+    - Farrar J
+    - Nguyen QT
+    - Tran HT
+    - Nguyen CV
+    - Merson L
+    - Hoang LT
+    - Hibberd ML
+    - Aw PP
+    - Wilm A
+    - Nagarajan N
+    - Nguyen DT
+    - Pham MP
+    - Nguyen TT
+    - Javanbakht H
+    - Klumpp K
+    - Hammond J
+    - Petric R
+    - Wolbers M
+    - Nguyen CT
+    - Simmons CP
+    doi: 10.1093/infdis/jis470
+    journal: J Infect Dis.
+    date: '2013-05-01'
+    keywords: []
+- year: 2012
+  publications:
+  - title: Whole-genome reconstruction and mutational signatures in gastric cancer.
+    authors:
+    - Nagarajan N
+    - Bertrand D
+    - Hillmer AM
+    - Zang ZJ
+    - Yao F
+    - Jacques PÉ
+    - Teo AS
+    - Cutcutache I
+    - Zhang Z
+    - Lee WH
+    - Sia YY
+    - Gao S
+    - Ariyaratne PN
+    - Ho A
+    - Woo XY
+    - Veeravali L
+    - Ong CK
+    - Deng N
+    - Desai KV
+    - Khor CC
+    - Hibberd ML
+    - Shahab A
+    - Rao J
+    - Wu M
+    - Teh M
+    - Zhu F
+    - Chin SY
+    - Pang B
+    - So JB
+    - Bourque G
+    - Soong R
+    - Sung WK
+    - Tean Teh B
+    - Rozen S
+    - Ruan X
+    - Yeoh KG
+    - Tan PB
+    - Ruan Y
+    doi: 10.1186/gb-2012-13-12-r115
+    journal: Genome Biol.
+    date: '2012-12-13'
+    keywords:
+    - cancer genomics
+    - genome assembly
+    - gut microbiome
+  - title: 'LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering
+      cell-population heterogeneity from high-throughput sequencing datasets.'
+    authors:
+    - Wilm A
+    - Aw PP
+    - Bertrand D
+    - Yeo GH
+    - Ong SH
+    - Wong CH
+    - Khor CC
+    - Petric R
+    - Hibberd ML
+    - Nagarajan N
+    doi: 10.1093/nar/gks918
+    journal: Nucleic Acids Res.
+    date: 2012-12
+    keywords:
+    - cancer genomics
+    - gut microbiome
+  - title: Long span DNA paired-end-tag (DNA-PET) sequencing strategy for the interrogation
+      of genomic structural mutations and fusion-point-guided reconstruction of amplicons.
+    authors:
+    - Yao F
+    - Ariyaratne PN
+    - Hillmer AM
+    - Lee WH
+    - Li G
+    - Teo AS
+    - Woo XY
+    - Zhang Z
+    - Chen JP
+    - Poh WT
+    - Zawack KF
+    - Chan CS
+    - Leong ST
+    - Neo SC
+    - Choi PS
+    - Gao S
+    - Nagarajan N
+    - Thoreau H
+    - Shahab A
+    - Ruan X
+    - Cacheux-Rataboul V
+    - Wei CL
+    - Bourque G
+    - Sung WK
+    - Liu ET
+    - Ruan Y
+    doi: 10.1371/journal.pone.0046152
+    journal: PLoS One.
+    date: '2012-09-28'
+    keywords:
+    - cancer genomics
+  - title: Genome mapping on nanochannel arrays for structural variation analysis
+      and sequence assembly.
+    authors:
+    - Lam ET
+    - Hastie A
+    - Lin C
+    - Ehrlich D
+    - Das SK
+    - Austin MD
+    - Deshpande P
+    - Cao H
+    - Nagarajan N
+    - Xiao M
+    - Kwok PY
+    doi: 10.1038/nbt.2303
+    journal: Nat Biotechnol.
+    date: 2012-08
+    keywords:
+    - genome assembly
+  - title: Exome sequencing of gastric adenocarcinoma identifies recurrent somatic
+      mutations in cell adhesion and chromatin remodeling genes.
+    authors:
+    - Zang ZJ
+    - Cutcutache I
+    - Poon SL
+    - Zhang SL
+    - McPherson JR
+    - Tao J
+    - Rajasegaran V
+    - Heng HL
+    - Deng N
+    - Gan A
+    - Lim KH
+    - Ong CK
+    - Huang D
+    - Chin SY
+    - Tan IB
+    - Ng CC
+    - Yu W
+    - Wu Y
+    - Lee M
+    - Wu J
+    - Poh D
+    - Wan WK
+    - Rha SY
+    - So J
+    - Salto-Tellez M
+    - Yeoh KG
+    - Wong WK
+    - Zhu YJ
+    - Futreal PA
+    - Pang B
+    - Ruan Y
+    - Hillmer AM
+    - Bertrand D
+    - Nagarajan N
+    - Rozen S
+    - Teh BT
+    - Tan P
+    doi: 10.1038/ng.2246
+    journal: Nat Genet.
+    date: 2012-05
+    keywords:
+    - cancer genomics
+    - gut microbiome
+  - title: A common BIM deletion polymorphism mediates intrinsic resistance and inferior
+      responses to tyrosine kinase inhibitors in cancer.
+    authors:
+    - Ng KP
+    - Hillmer AM
+    - Chuah CT
+    - Juan WC
+    - Ko TK
+    - Teo AS
+    - Ariyaratne PN
+    - Takahashi N
+    - Sawada K
+    - Fei Y
+    - Soh S
+    - Lee WH
+    - Huang JW
+    - Allen JC Jr
+    - Woo XY
+    - Nagarajan N
+    - Kumar V
+    - Thalamuthu A
+    - Poh WT
+    - Ang AL
+    - Mya HT
+    - How GF
+    - Yang LY
+    - Koh LP
+    - Chowbay B
+    - Chang CT
+    - Nadarajan VS
+    - Chng WJ
+    - Than H
+    - Lim LC
+    - Goh YT
+    - Zhang S
+    - Poh D
+    - Tan P
+    - Seet JE
+    - Ang MK
+    - Chau NM
+    - Ng QS
+    - Tan DS
+    - Soda M
+    - Isobe K
+    - Nöthen MM
+    - Wong TY
+    - Shahab A
+    - Ruan X
+    - Cacheux-Rataboul V
+    - Sung WK
+    - Tan EH
+    - Yatabe Y
+    - Mano H
+    - Soo RA
+    - Chin TM
+    - Lim WT
+    - Ruan Y
+    - Ong ST
+    doi: 10.1038/nm.2713
+    journal: Nat Med.
+    date: '2012-03-18'
+    keywords:
+    - cancer genomics
+- year: 2011
+  publications:
+  - title: 'Opera: reconstructing optimal genomic scaffolds with high-throughput paired-end
+      sequences.'
+    authors:
+    - Gao S
+    - Sung WK
+    - Nagarajan N
+    doi: 10.1089/cmb.2011.0170
+    journal: J Comput Biol.
+    date: 2011-11
+    keywords:
+    - genome assembly
+  - title: Comprehensive long-span paired-end-tag mapping reveals characteristic patterns
+      of structural variations in epithelial cancer genomes.
+    authors:
+    - Hillmer AM
+    - Yao F
+    - Inaki K
+    - Lee WH
+    - Ariyaratne PN
+    - Teo AS
+    - Woo XY
+    - Zhang Z
+    - Zhao H
+    - Ukil L
+    - Chen JP
+    - Zhu F
+    - So JB
+    - Salto-Tellez M
+    - Poh WT
+    - Zawack KF
+    - Nagarajan N
+    - Gao S
+    - Li G
+    - Kumar V
+    - Lim HP
+    - Sia YY
+    - Chan CS
+    - Leong ST
+    - Neo SC
+    - Choi PS
+    - Thoreau H
+    - Tan PB
+    - Shahab A
+    - Ruan X
+    - Bergh J
+    - Hall P
+    - Cacheux-Rataboul V
+    - Wei CL
+    - Yeoh KG
+    - Sung WK
+    - Bourque G
+    - Liu ET
+    - Ruan Y
+    doi: 10.1101/gr.113555.110
+    journal: Genome Res.
+    date: 2011-05
+    keywords:
+    - cancer genomics
+  - title: ''
+    authors: []
+    doi: 10.1093/nar/gkq1232
+    journal: Nucleic Acids Res.
+    date: 2011-03
+    keywords: []
+- year: 2010
+  publications:
+  - title: Sequencing and genome assembly using next-generation technologies.
+    authors:
+    - Nagarajan N
+    - Pop M
+    doi: 10.1007/978-1-60761-842-3_1
+    journal: Methods Mol Biol.
+    date: '2010'
+    keywords:
+    - genome assembly
+  - title: 'Finishing genomes with limited resources: lessons from an ensemble of
+      microbial genomes.'
+    authors:
+    - Nagarajan N
+    - Cook C
+    - Di Bonaventura M
+    - Ge H
+    - Richards A
+    - Bishop-Lilly KA
+    - DeSalle R
+    - Read TD
+    - Pop M
+    doi: 10.1186/1471-2164-11-242
+    journal: BMC Genomics.
+    date: '2010-04-16'
+    keywords:
+    - genome assembly
+  - title: Finding biologically accurate clusterings in hierarchical tree decompositions
+      using the variation of information.
+    authors:
+    - Navlakha S
+    - White J
+    - Nagarajan N
+    - Pop M
+    - Kingsford C
+    doi: 10.1089/cmb.2009.0173
+    journal: J Comput Biol.
+    date: 2010-03
+    keywords:
+    - metagenomics
+  - title: Alignment and clustering of phylogenetic markers--implications for microbial
+      diversity studies.
+    authors:
+    - White JR
+    - Navlakha S
+    - Nagarajan N
+    - Ghodsi MR
+    - Kingsford C
+    - Pop M
+    doi: 10.1186/1471-2105-11-152
+    journal: BMC Bioinformatics.
+    date: '2010-03-24'
+    keywords: []
+  - title: Genomic characterization of the Yersinia genus.
+    authors:
+    - Chen PE
+    - Cook C
+    - Stewart AC
+    - Nagarajan N
+    - Sommer DD
+    - Pop M
+    - Thomason B
+    - Thomason MP
+    - Lentz S
+    - Nolan N
+    - Sozhamannan S
+    - Sulakvelidze A
+    - Mateczun A
+    - Du L
+    - Zwick ME
+    - Read TD
+    doi: 10.1186/gb-2010-11-1-r1
+    journal: Genome Biol.
+    date: '2010-01-04'
+    keywords:
+    - environmental microbiomes
+    - gut microbiome
+- year: 2009
+  publications:
+  - title: 2009 Swine-origin influenza A (H1N1) resembles previous influenza isolates.
+    authors:
+    - Kingsford C
+    - Nagarajan N
+    - Salzberg SL
+    doi: 10.1371/journal.pone.0006402
+    journal: PLoS One.
+    date: '2009-07-28'
+    keywords: []
+  - title: 'Parametric complexity of sequence assembly: theory and applications to
+      next generation sequencing.'
+    authors:
+    - Nagarajan N
+    - Pop M
+    doi: 10.1089/cmb.2009.0005
+    journal: J Comput Biol.
+    date: 2009-07
+    keywords:
+    - genome assembly
+  - title: ''
+    authors: []
+    doi: 10.1128/JB.00447-09
+    journal: J Bacteriol.
+    date: 2009-07
+    keywords: []
+  - title: Statistical methods for detecting differentially abundant features in clinical
+      metagenomic samples.
+    authors:
+    - White JR
+    - Nagarajan N
+    - Pop M
+    doi: 10.1371/journal.pcbi.1000352
+    journal: PLoS Comput Biol.
+    date: 2009-04
+    keywords:
+    - gut microbiome
+    - metagenomics
+    - microbiome analysis
+- year: 2008
+  publications:
+  - title: The draft genome of the transgenic tropical fruit tree papaya (Carica papaya
+      Linnaeus).
+    authors:
+    - Ming R
+    - Hou S
+    - Feng Y
+    - Yu Q
+    - Dionne-Laporte A
+    - Saw JH
+    - Senin P
+    - Wang W
+    - Ly BV
+    - Lewis KL
+    - Salzberg SL
+    - Feng L
+    - Jones MR
+    - Skelton RL
+    - Murray JE
+    - Chen C
+    - Qian W
+    - Shen J
+    - Du P
+    - Eustice M
+    - Tong E
+    - Tang H
+    - Lyons E
+    - Paull RE
+    - Michael TP
+    - Wall K
+    - Rice DW
+    - Albert H
+    - Wang ML
+    - Zhu YJ
+    - Schatz M
+    - Nagarajan N
+    - Acob RA
+    - Guan P
+    - Blas A
+    - Wai CM
+    - Ackerman CM
+    - Ren Y
+    - Liu C
+    - Wang J
+    - Wang J
+    - Na JK
+    - Shakirov EV
+    - Haas B
+    - Thimmapuram J
+    - Nelson D
+    - Wang X
+    - Bowers JE
+    - Gschwend AR
+    - Delcher AL
+    - Singh R
+    - Suzuki JY
+    - Tripathi S
+    - Neupane K
+    - Wei H
+    - Irikura B
+    - Paidi M
+    - Jiang N
+    - Zhang W
+    - Presting G
+    - Windsor A
+    - Navajas-Pérez R
+    - Torres MJ
+    - Feltus FA
+    - Porter B
+    - Li Y
+    - Burroughs AM
+    - Luo MC
+    - Liu L
+    - Christopher DA
+    - Mount SM
+    - Moore PH
+    - Sugimura T
+    - Jiang J
+    - Schuler MA
+    - Friedman V
+    - Mitchell-Olds T
+    - Shippen DE
+    - dePamphilis CW
+    - Palmer JD
+    - Freeling M
+    - Paterson AH
+    - Gonsalves D
+    - Wang L
+    - Alam M
+    doi: 10.1038/nature06856
+    journal: Nature.
+    date: '2008-04-24'
+    keywords: []
+  - title: Scaffolding and validation of bacterial genome assemblies using optical
+      restriction maps.
+    authors:
+    - Nagarajan N
+    - Read TD
+    - Pop M
+    doi: 10.1093/bioinformatics/btn102
+    journal: Bioinformatics.
+    date: '2008-05-15'
+    keywords:
+    - genome assembly
+  - title: 'FAST: Fourier transform based algorithms for significance testing of ungapped
+      multiple alignments.'
+    authors:
+    - Nagarajan N
+    - Keich U
+    doi: 10.1093/bioinformatics/btm594
+    journal: Bioinformatics.
+    date: '2008-02-15'
+    keywords: []
+- year: 2006
+  publications:
+  - title: 'Apples to apples: improving the performance of motif finders and their
+      significance analysis in the Twilight Zone.'
+    authors:
+    - Ng P
+    - Nagarajan N
+    - Jones N
+    - Keich U
+    doi: 10.1093/bioinformatics/btl245
+    journal: Bioinformatics.
+    date: '2006-07-15'
+    keywords: []
+- year: 2005
+  publications:
+  - title: Computing the P-value of the information content from an alignment of multiple
+      sequences.
+    authors:
+    - Nagarajan N
+    - Jones N
+    - Keich U
+    doi: 10.1093/bioinformatics/bti1044
+    journal: Bioinformatics.
+    date: 2005-06
+    keywords: []
+- year: 2004
+  publications:
+  - title: Automatic prediction of protein domains from sequence information using
+      a hybrid learning system.
+    authors:
+    - Nagarajan N
+    - Yona G
+    doi: 10.1093/bioinformatics/bth086
+    journal: Bioinformatics.
+    date: '2004-06-12'
+    keywords: []
