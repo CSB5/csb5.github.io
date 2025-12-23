@@ -24,17 +24,14 @@ MONTHS = {
     "Sep": "09", "Oct": "10", "Nov": "11", "Dec": "12",
 }
 
-ENTRY_START_RE = re.compile(r"^\s*(\d+)\.\s", re.MULTILINE)
+ENTRY_START_RE = re.compile(r"^\n\n", re.MULTILINE)
+YEAR_CUT_OFF = 2010
 
 
 # ---------- helpers ----------
 
 def split_entries(text: str) -> List[str]:
-    starts = [m.start() for m in ENTRY_START_RE.finditer(text)]
-    blocks = []
-    for i, s in enumerate(starts):
-        e = starts[i + 1] if i + 1 < len(starts) else len(text)
-        blocks.append(text[s:e].strip())
+    blocks = re.split(ENTRY_START_RE, text)
     return blocks
 
 
@@ -54,6 +51,8 @@ def parse_journal_date_doi(field: str):
     m = re.search(r"\b(19|20)\d{2}\b", field)
     if m:
         journal = field[:m.start()].strip()
+        if journal.endswith("."):
+            journal = journal[:-1].strip()
 
     # date
     pubdate = None
@@ -126,6 +125,10 @@ def parse_entry(block: str, kwmap: Dict[str, List[str]]):
 
     journal, pubdate, doi = parse_journal_date_doi(fields[0])
     title = fields[1] if len(fields) > 1 else ""
+
+    if title.endswith("."):
+        title = title[:-1].strip()
+
     authors = clean_authors(fields[2]) if len(fields) > 2 else []
 
     # DOI may appear later
@@ -168,13 +171,65 @@ def main() -> None:
     """
 
     kwmap = {
-        "environmental microbiomes": ["hospital", "plant", "soil", "water", "environmental"],
-        "gut microbiome": ["gut", "stool", "fecal", "intestin", "colon", "gastric"],
-        "skin microbiome": ["skin", "dermat", "cutaneous"],
-        "cancer genomics": ["cancer", "tumor", "oncology", "carcinoma", "malignancy"],
-        "metagenomics": ["metagenomic", "metagenome"],
-        "genome assembly": ["assembly", "assembl", "scaffold"],
-        "microbiome analysis": ["microbiome", "microbiota", "microbial community"]
+        "Metagenomic Tech": [
+            "algorithm",
+            "assembly",
+            "binning",
+            "machine learning",
+            "deep learning",
+            "artificial intelligence",
+            "ML",
+            "AI",
+            "metagenome-assembled genome",
+            "mag",
+            "taxonomic profiling",
+            "functional profiling",
+            "strain-level",
+            "read mapping",
+            "k-mer",
+            "genome reconstruction",
+            "reference-free",
+            "variant calling"
+        ],
+
+        "Gut Microbiome": [
+            "gut",
+            "intestinal",
+            "fecal",
+            "faecal",
+            "stool",
+            "colonic",
+            "enteric",
+            "digestive",
+        ],
+
+        "Skin Microbiome": [
+            "skin",
+            "cutaneous",
+            "epidermal",
+            "dermal",
+            "sebaceous",
+            "hair follicle",
+            "acne",
+        ],
+
+        "Environmental Microbiomes": [
+            "environmental",
+            "soil",
+            "marine",
+            "ocean",
+            "freshwater",
+            "aquatic",
+            "plant",
+            "rhizosphere",
+            "phyllosphere",
+            "hospital",
+            "wastewater",
+            "sewage",
+            "air",
+            "urban",
+            "surface",
+        ]
     }
 
     with open("./publications/abstract-NiranjanNa-set.txt", "r", encoding="utf-8", errors="replace") as f:
@@ -185,7 +240,7 @@ def main() -> None:
 
     for e in entries:
         year, pub = parse_entry(e, kwmap)
-        if year is None:
+        if year is None or year < YEAR_CUT_OFF:
             continue
         grouped.setdefault(year, []).append(pub)
 
@@ -194,7 +249,7 @@ def main() -> None:
         for y in sorted(grouped, reverse=True)
     ]
 
-    with open("./publications/abstract-NiranjanNa-set.yml", "w", encoding="utf-8") as f:
+    with open("./_data/publications.yml", "w", encoding="utf-8") as f:
         if HAVE_YAML:
             yaml.safe_dump(yml, f, sort_keys=False, allow_unicode=True)
         else:

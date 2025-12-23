@@ -1,0 +1,37 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
+<div class="container">
+  <div class="tag__head">
+    <h1 class="tag__title">{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="tag__description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+  {% for year in site.data.publications %}
+  <div class="row">
+    <div class="col col-12">
+      <div class="section__info">
+        <div class="section__head__small">
+          <h1 class="section__title">{{ year.year }}</h1>
+          <a class="section__link top__link" href="#top">Return to top</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+    <div class="section__inner">
+      <div class="row">
+        {% for post in year.publications %}
+          {% if post.title != null %}
+            {% include paper.html %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  
+  {% endfor %}
+</div>
