@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the impact of antibiotics consumption on the gut microbiome
+title: Understanding the impact of antibiotic consumption on the gut microbiome
 description: Leveraging a new longitudinal cohort and novel sequencing methods, we're diving into the impact of antibiotics consumptions on the gut microbiome
 image: '/images/posts/2025-10-06-invest-teaser/antoine-dore-science-gut-microbiome-editorial-illustration.jpeg'
 image_caption: Antoine Dore - https://www.antoinedore.com/.
