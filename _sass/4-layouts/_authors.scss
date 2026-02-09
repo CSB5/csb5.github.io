@@ -153,8 +153,11 @@
     margin: 20px 0 30px;
     text-align: left;
 
-    h2 {
-      font-size: 28px;
+    h3 {
+      // xxx contributed to...
+      font-size: 26px;
+      margin-top: 50px;
+      margin-bottom: -20px;
 
       @media(max-width: $mobile) {
         font-size: 22px;
@@ -165,7 +168,7 @@
       // additional positions for the author
       font-size: 22px;
       margin-top: -30px;
-      font-weight: 500;
+      font-weight: 700;
       //font-style: italic;
       color: var(--dark-gray);
 
@@ -210,7 +213,8 @@
 
   .author__position {
     h2 {
-      font-weight: 500;
+      font-size: 30px;
+      font-weight: 700;
       //font-style: italic;
       color: var(--dark-gray);
     }

@@ -15,7 +15,7 @@ permalink: /members/
     <div class="container">
       <div class="row">
         {% for author in site.authors %}
-          {% if author.next_position == null %}
+          {% if author.is_alumni != true %}
             {% assign post_count = site.posts | where:"author", author.username %}
             <div class="col col-4 col-d-6 col-t-12">
               <div class="authors__info">

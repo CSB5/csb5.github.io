@@ -97,12 +97,12 @@ layout: default
 
     </div>
   </div>
-  <div class="container" style="margin-top: 40px; margin-bottom: 40px;">
+  <div class="container">
     {% if post_count.size > 0 %}
       {% if page.nick_name %}
-        <h2>{{ page.nick_name | escape }} contributed to ...</h2>
+        <h3>{{ page.nick_name | escape }} contributed to ...</h3>
       {% else %}
-        <h2>{{ page.name | escape }} contributed to ...</h2>
+        <h3>{{ page.name | escape }} contributed to ...</h3>
       {% endif %}
     {% endif %}
   </div>
