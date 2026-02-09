@@ -1,3 +1,23 @@
+- year: 2026
+  publications:
+  - title: High-throughput single-cell isolation of Bifidobacterium strains from the
+      human gut microbiome
+    authors:
+    - Ha LH
+    - On YY
+    - Pohan C
+    - Lee J
+    - How SHC
+    - Teo Y-Y
+    - Seedorf H
+    - Gounot J-S
+    - Nagarajan N
+    doi: 10.1128/spectrum.03033-25
+    journal: Microbiol Spectr
+    date: '2026-02-03'
+    keywords:
+    - Gut Microbiome
+    - Metagenomic Tech
 - year: 2025
   publications:
   - title: Efficient trace reconstruction in DNA storage systems using bidirectional

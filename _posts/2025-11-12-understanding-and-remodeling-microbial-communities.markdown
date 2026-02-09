@@ -1,32 +1,40 @@
 ---
 layout: post
-title: "Understanding and remodeling microbial communities"
-description: Our limited understanding of microbial community assembly and function prevents us from effectively designing them for therapeutic and biotechnological use. We are the first to propose a systematic deconstruct-model-reconstruct strategy aimed at uncovering the rules of microbial community assembly, with the goal of using this knowledge to prevent antimicrobial-resistant pathogen reservoirs.
-image: '/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/thumbnail.jpg'
+title: "Single-cell culturomics: Accelerating targeted bacterial isolation from complex communities"
+description: Traditional culturing methods are slow, labor-intensive, and costly, limiting their scalability for microbial studies. To address this challenge, we developed a workflow that leverages automated single-cell dispensing technology to enable high-throughput isolation of <em>Bifidobacterium</em> sp.
+image: '/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/thumbnail.png'
+image_caption: Created in BioRender. On, Y. Y. (2026) https://BioRender.com/tiw3kbz
+paper: https://journals.asm.org/doi/10.1128/spectrum.03033-25
+publication: Microbiology Spectrum
 date: 2025-10-08
 tags: [Metagenomic Tech]
-author: [yueyuan]
+author: [yueyuan, haiha, clarice, shaun, jsg, niranjan]
 ---
 
-# Introduction
-Microorganisms, with over a million species shaped by 4 billion years of evolution, form complex communities that are still poorly understood. Recent advances, including genome-resolved metagenomics and high-throughput single-cell isolation, offer the potential to deconstruct human and environmental microbial communities into their constituent strains and genomes. However, predictive reconstruction of microbial ecosystems to suppress pathogens has not yet been achieved. Studies have shown that microbial communities, both human and environmental, exhibit unique structures influenced by the functions of specific strains. By harnessing these strains, it may be possible to create experimental models that mimic real community dynamics, enabling the validation of in silico predictions for microbial functions that can inhibit multiple pathogenic species.
+High-throughput microbial culturomics is an exciting field—but it’s still just getting started. One big challenge is: how do we efficiently isolate individual bacterial strains out of complex microbial communities?
 
-# Objectives
+By integrating a commercial single-cell dispenser (B.SIGHT) into a culturomics workflow, we made it much faster to isolate individual *Bifidobacterium* directly from faecal samples. Could we really recover isolates efficiently—and still capture substantial genetic diversity? It turns out that this is indeed feasible. Our work opens up new possibilities for understanding microbiome diversity, identifying probiotic candidates, and uncovering what Bifidobacterium function in the human gut.
 
-We aim to understand the organization of microbial communities to restore ecological functions and reduce human and environmental reservoirs of AMR pathogens through the following three objectives in a **Deconstruct–Model–Reconstruct** framework:
+So, how well does our workflow perform?
 
-1. **Deconstruct complex microbial communities into constituent strains, genomes, and functions**
-   - Combine whole-genome sequencing from metagenomics with high-throughput microbial single-cell isolation.
-   - Aim to obtain strains, genomes, and functional data for the community members.
-   - This approach leverages our expertise in genome-resolved metagenomics, enabling the comprehensive study of microbial interactions (Aim 2).
+The B.SIGHT single-cell dispenser is highly precise, with only about 11% of microwells containing more than one cell, as measured using fluorescence signals. This means that most cultures are derived from a single parent cell as we would want. 
 
-1. **Model ecological rules of community assembly via high-throughput combinatorial culturing**
-   - Use data from equilibrium community configurations across thousands of bacterial combinations to learn models of microbial community assembly.
-   - Leverage cutting-edge tools and protocols for high-throughput combinatorial competition experiments and AI-extended models.
-   - Enable the development of personalized models for testing microbial interventions (Aim 3).
+![](/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/Fig1.svg)
 
-1. **Reconstruct stable community configurations in vitro and in vivo that inhibit multiple pathogens**
-   - Reconstruct microbial communities that mimic natural ecosystems’ ability to suppress pathogenic species (with abundance <0.1%).
-   - Identify key microbial functions and products that can predict pathogen colonization risk, leading to preventive or prophylactic biotherapeutics.
-   - Inform environmental cleaning strategies to reduce microbial burden without disrupting anti-pathogen functions.
-   - Validate these models to enable wider applications in engineering microbial communities for biotherapeutic and biotechnological purposes.
+Global diversity of a mock community was also preserved in post-dispensing cultures. When we dispensed a mixed community of nine species during their active growth phase, all species were still represented in the final culture, even though their relative proportions changed.
+
+![](/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/Fig2.svg)
+
+However, the best time to isolate bacteria depends on the species. We found that different *Bifidobacterium* species are most successfully cultured at different time points, highlighting the importance of sampling complex faecal communities at multiple timepoints to capture greater diversity.
+
+![](/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/Fig3.svg)
+
+To increase the likelihood of isolating the target species, we needed a highly selective medium for both enrichment and post-dispensing cultivation. Herein, BSM-MUP was found to be the most effective growth medium for isolating *Bifidobacterium* spp., outperforming other tested media and strongly limiting the growth of unwanted bacteria such as *Enterococcus*.
+
+![](/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/Fig4.svg)
+
+Using this approach, we readily generated over 600 bacterial cultures from faecal samples of five individuals in Singapore. These represent more than 20 distinct *Bifidobacterium* lineages—and over 60% are completely new compared to publicly available genomes!
+
+![](/images/posts/2025-11-12-understanding-and-remodeling-microbial-communities/Fig6.svg)
+
+Why does this matter? Because this scalable workflow does not have to be limited to *Bifidobacterium*. In principle, it can be applied to other microbial groups as well. By making it easier to recover microbes one strain at a time, this approach strengthens culturomics as a complement to DNA-based sequencing and brings us closer to studying what important microbes actually do—not just who’s there.

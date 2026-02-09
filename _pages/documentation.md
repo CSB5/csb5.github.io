@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-description: Guide to update the material on the website.
+description: Guide to update the material on the website for lab members.
 permalink: /documentation/
 ---
 

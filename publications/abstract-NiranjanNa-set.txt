@@ -1,3 +1,73 @@
+1. Microbiol Spectr. 2026 Feb 3;14(2):e0303325. doi: 10.1128/spectrum.03033-25. 
+Epub 2025 Dec 30.
+
+High-throughput single-cell isolation of Bifidobacterium strains from the human 
+gut microbiome.
+
+Ha LH(#)(1), On YY(#)(1), Pohan C(1), Lee J(1), How SHC(1), Teo Y-Y(2)(3)(4), 
+Seedorf H(5)(6), Gounot J-S(1), Nagarajan N(1)(7).
+
+Author information:
+(1)Genome Institute of Singapore (GIS), Agency for Science, Technology and 
+Research (A*STAR), Singapore, Singapore.
+(2)Life Sciences Institute, National University of Singapore, Singapore, 
+Singapore.
+(3)Saw Swee Hock School of Public Health, National University of Singapore, 
+Singapore, Singapore.
+(4)Department of Statistics and Applied Probability, National University of 
+Singapore, Singapore, Singapore.
+(5)Temasek Lifesciences Laboratory, Singapore, Singapore.
+(6)Department of Biological Sciences, National University of Singapore, 
+Singapore, Singapore.
+(7)Department of Biochemistry, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore, Singapore.
+(#)Contributed equally
+
+Bifidobacterium represents a diverse genus of commensal gut bacteria with key 
+roles in human health, from metabolizing indigestible fibers to protecting 
+against pathogens. While metagenomic studies have highlighted significant strain 
+diversity for Bifidobacterium species within individuals, their systematic 
+isolation and phenotypic characterization can be hampered by the significant 
+effort and biases inherent in traditional culturomics. Here, we explored the 
+utility of a high-throughput single-cell dispensing system (B.SIGHT)-based 
+workflow for accelerating the process of isolating diverse Bifidobacterium 
+strains from fecal samples. Systematic assessment of this workflow revealed a 
+high single-cell dispensing frequency (>88%) and the ability to preserve species 
+diversity when a pool of Bifidobacterium strains was dispensed. 
+Culturing-related factors including the use of an effective selection medium, 
+such as the Bifidus Selective Medium supplemented with mupirocin, and the length 
+of pre-dispensing incubation were found to be critical in determining isolation 
+success. Leveraging this workflow, we obtained a total of 622 viable isolates 
+from five Singaporean fecal samples, of which >98% were found to be from 
+Bifidobacterium species. Whole-genome sequencing of 96 isolates identified six 
+different Bifidobacterium species with both inter- and intra-subject strain and 
+lineage diversity, and the majority (>66%) were novel relative to large public 
+genomic databases. Our findings highlight the ability of this high-throughput 
+culturomics workflow to accelerate the recovery of diverse and novel 
+Bifidobacterium strains, enabling further interrogation of their functional 
+characteristics and advancing our understanding of important bacterial species 
+in the gut microbiome.
+IMPORTANCE: The field of high-throughput microbial culturomics is still in its 
+early stages. Enhancing our ability to isolate and phenotypically test bacterial 
+strains from complex communities is crucial for advancing microbiome research 
+and healthcare development. Given the time and cost inefficiencies of 
+traditional culturing methods, a more efficient, high-throughput approach to 
+obtain isolates is needed. In the present study, we assessed a single-cell 
+dispensing platform and developed a workflow to isolate diverse Bifidobacterium 
+strains from fecal samples. We demonstrated here the capability of this novel 
+technology to efficiently obtain hundreds of isolates of a targeted group, 
+covering both species and strain diversities. This generalizable and scalable 
+method can potentially allow for the high-throughput recovery of microbes from 
+other taxonomic groups, providing a fundamental step in improving the 
+culturomics framework to complement metagenomic approaches and enable 
+isolate-level functional studies of important microbes.
+
+DOI: 10.1128/spectrum.03033-25
+PMID: 41467811 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
 1. iScience. 2025 Oct 21;28(11):113791. doi: 10.1016/j.isci.2025.113791. 
 eCollection 2025 Nov 21.
 
