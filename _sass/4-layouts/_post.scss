@@ -134,6 +134,10 @@
     margin-bottom: 16px;
     font-size: inherit;
   }
+
+  @media (max-width: $mobile) {
+    text-align: left;
+  }
 }
 
 .post__meta {
@@ -289,6 +293,10 @@
   margin: 0 auto 60px;
   color: var(--text-color);
   text-align: justify;
+
+  @media (max-width: $mobile) {
+    text-align: left;
+  }
   
   a {
     font-weight: 600;
