@@ -20,7 +20,7 @@ Finding consensus of multiple DNA sequences has been an important and well-studi
 
 Current reconstruction algorithms typically rely on pairwise or multiple sequence alignment, whose results depend heavily on the chosen alignment scoring metrics.
 
-![](https://www.cell.com/cms/10.1016/j.isci.2025.113791/asset/1b181ece-49a5-4af7-9382-41b8ca041350/main.assets/gr1_lrg.jpg)
+![](/images/posts/2025-02-13-finding-consensus-sequences/alignment_example.jpg)
 *Different scoring metrics may yield different MSA.*
 
 However, it is well known that the sequencing error rate may vary within each read and across different datasets [[1]](#1). Finding the optimal scoring scheme that accommodates all these variations is not easy.
@@ -32,7 +32,7 @@ We therefore propose a new problem definition. Instead of assuming the error rat
 
 In this work, we assume the model to be a *k*-th order Markov chain, whose parameters can be easily learned via *k*-mer counting. The parameters essentially encodes the **position-specific error rates**, making the alignment highly accurate. A novel algorithm, *Bidirectional Beam Search* (BBS), is used to infer the most probable output.
 
-![](https://www.cell.com/cms/10.1016/j.isci.2025.113791/asset/09681aa6-d24d-4445-915e-8e10452b205d/main.assets/gr2_lrg.jpg)
+![](/images/posts/2025-02-13-finding-consensus-sequences/workflow.jpg)
 
 
 Our algorithm takes linear time with respect to the length of the consensus, making it asymptotically faster than the other algorithms, while achieving top-tier accuracy.
