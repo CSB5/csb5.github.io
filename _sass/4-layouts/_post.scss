@@ -109,7 +109,7 @@
 .post__title,
 .page__title {
   margin-bottom: 24px;
-  font-size: 46px;
+  font-size: 40px;
   line-height: 1.4;
 
   @media (max-width: $tablet) {
@@ -119,14 +119,14 @@
 
 
   @media (max-width: $mobile) {
-    font-size: 32px;
+    font-size: 28px;
   }
 }
 
 .post__description,
 .page__description {
   margin-bottom: 24px;
-  font-size: 24px;
+  font-size: 22px;
   text-align: justify;
   line-height: 1.4;
 

@@ -6,7 +6,7 @@ image: '/images/posts/2025-10-06-invest-teaser/antoine-dore-science-gut-microbio
 image_caption: Antoine Dore - https://www.antoinedore.com/.
 date: 2025-10-06
 tags: [Gut Microbiome]
-author: [jsg]
+author: [jean-sebastien]
 ---
 
 Antibiotics are the wonder drug of the 20th century, with billions of doses being given every year, and they underpin all of modern healthcare. But using them too often can lead to antibiotic resistance in microbes, which makes these medicines less effective over time. To protect their usefulness, we need a better understanding of how antibiotic resistance emerges and spreads, and how different types, or different ways of giving antibiotics, can lead to different outcomes. This knowledge can help doctors use antibiotics more wisely, improving patient care while also reducing unnecessary use.

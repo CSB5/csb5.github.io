@@ -8,7 +8,7 @@ tags: [Gut Microbiome]
 paper: https://www.nature.com/articles/s41467-024-52097-9
 publication: Nature Communications
 code: https://github.com/CSB5/SG90
-author: [aarthi, indrik, amanda, nazri, jsg, chenhao, niranjan]
+author: [aarthi, indrik, amanda, nazri, jean-sebastien, chenhao, niranjan]
 ---
 
 How does the gut microbiome evolve as we grow older? Are certain microbes consistently enriched or depleted with age, and do these shifts correspond to functional changes in how our microbiome works?  

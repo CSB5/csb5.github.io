@@ -39,8 +39,6 @@ menu__settings:
         title: 'Members'
       - url: '/alumni/'
         title: 'Alumni'
-      - url: '/open-positions/'
-        title: 'Join us'
 
 
 #-------------------------------

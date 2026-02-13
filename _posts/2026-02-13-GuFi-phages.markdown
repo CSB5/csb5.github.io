@@ -3,6 +3,7 @@ layout: post
 title: Globally prevalent gut phage families from long-read metagenomics
 description: Leveraging long-read metagenomics, we uncovered globally highly prevalent gut phage families, many of which infect Firmicutes hosts, have broad host range, and actively replicate in the gut.
 image: '/images/posts/2026-02-13-GuFi-phages/Fig1A.png'
+image_contain: true
 date: 2026-02-13
 tags: [Gut Microbiome]
 preprint: https://www.biorxiv.org/content/10.64898/2026.01.26.701711v1

@@ -1,5 +1,5 @@
 ---
-username: jsg
+username: jean-sebastien
 name: Jean-Sébastien Gounot
 nick_name: Jean-Sébastien
 image: '/images/members/jsg.jpg'

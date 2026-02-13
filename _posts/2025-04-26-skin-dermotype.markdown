@@ -7,7 +7,7 @@ tags: [Skin Microbiome]
 date: 2025-04-26
 preprint: https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1
 code: https://github.com/CSB5/ASMP_Dermotype
-author: [cherry, aarthi, indrik, nazri, jsg, yueyuan, qiyan, minghao, amanda, niranjan]
+author: [cherry, aarthi, indrik, nazri, jean-sebastien, yueyuan, qiyan, minghao, amanda, niranjan]
 featured: false
 ---
 Which skin microbiome type do you have 🤔 Super thrilled to share our exciting work from the Asian Skin Microbiome Program! We collected >3,500 skin samples, built metagenomic libraries w/ >70 billion reads and >10TB of data to study population heterogeneity in skin microbiome (200 adults, 18 sites). 
