@@ -2,7 +2,8 @@
 layout: post
 title: Skin Microbiome
 description: We characterized the skin’s diverse microbial communities, defined distinct dermotypes, and pinpointed key microbes linked to conditions like eczema and malodor.
-image: 'https://joyfulmicrobe.com/wp-content/uploads/2022/09/Untitled_Artwork-scaled.jpg'
+image: '/images/posts/1990-01-02-skin-microbiome/thumbnail.png'
+image_caption: Image from <a href="https://absorbine.com/pages/skin-microbiome?srsltid=AfmBOop6fvcq3XxvYKwN-cf3SNAxjjy85fbbwPWBI5ZGW4SD0sW20ze_" target="_blank">absorbine.com</a>  
 featured: true
 ---
 

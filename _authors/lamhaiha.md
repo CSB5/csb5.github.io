@@ -3,7 +3,7 @@ username: lamhaiha
 name: Lam Hai Ha
 image: '/images/members/lamhaiha.jfif'
 linkedin: https://www.linkedin.com/in/lam-hai-ha-07603a119/
-position: Intern
+position: Final Year Project Student
 is_alumni: true
 ---
 
