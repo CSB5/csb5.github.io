@@ -28,9 +28,9 @@ The **core vision** of ASMP is to **enable rational modulation of the skin micro
 
 During ASMP 1.0, our laboratory led efforts to create a suite of **analytical tools and technologies** for high-resolution studies of the skin microbiome. We focused on developing systematic methods to integrate diverse datasets, measure host and microbial responses, and study all microbial components — including **fungi**, which are often overlooked.
 
-One of our key achievements was constructing a **comprehensive skin microbiome resource** based on samples from **18 different body sites**, chosen to represent varying levels of moisture and sebum. With data from **800 individuals**, this project produced the **largest uniformly processed skin microbiome dataset in the world** — a global benchmark for exploring microbial diversity and function on healthy human skin.
+One of our key achievements was constructing a **[comprehensive skin microbiome resource]**(/skin-dermotype) based on samples from **18 different body sites**, chosen to represent varying levels of moisture and sebum. With data from **800 individuals**, this project produced the **largest uniformly processed skin microbiome dataset in the world** — a global benchmark for exploring microbial diversity and function on healthy human skin.
 
-By optimizing protocols for **low biomass samples**, we were able to capture the subtle but important microbial signals that define skin health. This dataset now serves as a powerful in silico (computational) resource for researchers worldwide, enabling new discoveries into the **structure and function** of the skin microbiome.
+By optimizing protocols for **low biomass samples** and developing methods to study **[skin microbial RNA]**(/skin-metatranscriptomics), we were able to capture the subtle but important microbial signals that define skin health. This dataset now serves as a powerful *in silico* (computational) resource for researchers worldwide, enabling new discoveries into the **structure and function** of the skin microbiome.
 
 ### ASMP 2.0: Moving from Description to Mechanism
 

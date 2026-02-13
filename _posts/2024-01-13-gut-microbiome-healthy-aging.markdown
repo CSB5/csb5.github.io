@@ -19,28 +19,34 @@ We found a progressive shift in microbiome composition with age, particularly al
 
 ![](https://pbs.twimg.com/media/GXFWo7FaQAAAZ_s?format=jpg&name=medium)
 
-This shift was driven by a reduction in microbial richness, evenness and Shannon diversity, an observation which was found only in few other cohorts.
+This shift was driven by a reduction in microbial richness, evenness and Shannon diversity.
 
 ![](https://pbs.twimg.com/media/GXFXPuKbEAQ3UDL?format=jpg&name=medium)
 
-At species level, we found major butyrate-producing species are depleted with age (*F. prausnitzii*, *Roseburia*) and instead an alternate pathway with microbial biosynthesis of lysine & conversion to butyrate (*Bacteroides* & *Alistipes* species) appears enriched.
-
+At the species level, some of the best-known butyrate producers — including Faecalibacterium prausnitzii and Roseburia — were depleted with age. These microbes are often linked to gut health and anti-inflammatory functions. At the same time, we saw enrichment of *Bacteroides* and *Alistipes* species, which appear to use an alternative metabolic route involving lysine to produce butyrate. In other words, while the usual butyrate producers decline, other microbes may step in using different biochemical pathways.
 ![](https://pbs.twimg.com/media/GXFYDK5bEAUBddN?format=png&name=900x900)
 
 Interestingly, these microbial co-occurrence networks differ quite strikingly between elderly and the young groups, with a shared pattern of cliques formed by the usual butyrate producers and Alistipes species. 
 
-![](https://pbs.twimg.com/media/GXFYVTpbEAETZVP?format=jpg&name=medium)
-
-Further, at the microbial pathway level, we observed an expansion in the metabolic potential of butyrate synthesis pathways, particularly from L-lysine precursors.
+Further, at the microbial pathway level, we observed an expansion in the metabolic potential of butyrate synthesis pathways, particularly from L-lysine precursors. Congruently, (meta)Genome assemblies further confirmed this metabolic potential expansion where it showed many genomes of *Bacteroides* and *Alistipes* species harbor complete pathways for lysine biosynthesis. This suggests that the aging microbiome may not simply lose function — it may adapt by reorganizing its metabolic capabilities.
 
 ![](https://pbs.twimg.com/media/GXFYg2fbEAQ0i9D?format=png&name=900x900)
 
-Congruently, (meta)Genome assemblies further confirmed this metabolic potential expansion where it showed many genomes of *Bacteroides* and *Alistipes* species harbor complete pathways for lysine biosynthesis & metabolic network analysis showed that lysine-to-butyrate conversion are reachable.
-
-![](https://pbs.twimg.com/media/GXFcuSgbEAM3v2m?format=jpg&name=medium)
+Surprisingly, these functional shifts were also recapitulated in mouse models of healthy aging. Although mice harbor a microbial community that is compositionally distinct from humans, we observed similar expansions in lysine-associated butyrate pathways. This suggests that the functional rewiring we see with aging may reflect a broader biological principle rather than a species-specific phenomenon.
 
 Finally, the scale and depth of our cohort allowed us to uncover several associations between specific microbial taxa and host phenotypes relevant to healthy aging—insights that could help identify microbial markers or even modulators of long-term health.
 
 ![](https://pbs.twimg.com/media/GXFZ34QasAAgwS6?format=jpg&name=medium)
 
-Our study is one of the largest gut microbiome analyses in Asian octogenarians, highlighting key microbes involved in healthy aging.
+**A New Perspective on the Aging Gut**
+
+Our study, one of the largest gut microbiome analyses in Asian octogenarians, suggests that aging is not just a story of microbial loss.
+
+Instead, it appears to be a story of restructuring and adaptation.
+
+Some familiar microbes decline. New players rise. Metabolic routes are expanded. Community networks reorganize.
+
+The aging microbiome may not just reduce in numbers and diversity — it recalibrates.
+
+Understanding this transition could help us identify microbial signatures of resilience and, eventually, ways to support healthier aging trajectories.
+
