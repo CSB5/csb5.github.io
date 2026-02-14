@@ -4,7 +4,7 @@ name: Anastasia Latypova
 image: '/images/members/anastasia.jfif'
 linkedin: https://www.linkedin.com/in/anastasia-latypova-aa4946223/
 position: Intern
-is_alumni: true
+is_intern: true
 ---
 
 <br/>

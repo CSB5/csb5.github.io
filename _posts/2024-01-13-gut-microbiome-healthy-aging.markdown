@@ -17,13 +17,16 @@ To address these questions, we performed shotgun metagenomics on one of the larg
 
 We found a progressive shift in microbiome composition with age, particularly along the y=x axis relative to the first and second principal components of variation.
 
-![](https://pbs.twimg.com/media/GXFWo7FaQAAAZ_s?format=jpg&name=medium)
+<p align="center">
+  <img src="https://pbs.twimg.com/media/GXFWo7FaQAAAZ_s?format=jpg&name=medium" />
+</p>
 
 This shift was driven by a reduction in microbial richness, evenness and Shannon diversity.
 
 ![](https://pbs.twimg.com/media/GXFXPuKbEAQ3UDL?format=jpg&name=medium)
 
 At the species level, some of the best-known butyrate producers — including Faecalibacterium prausnitzii and Roseburia — were depleted with age. These microbes are often linked to gut health and anti-inflammatory functions. At the same time, we saw enrichment of *Bacteroides* and *Alistipes* species, which appear to use an alternative metabolic route involving lysine to produce butyrate. In other words, while the usual butyrate producers decline, other microbes may step in using different biochemical pathways.
+
 ![](https://pbs.twimg.com/media/GXFYDK5bEAUBddN?format=png&name=900x900)
 
 Interestingly, these microbial co-occurrence networks differ quite strikingly between elderly and the young groups, with a shared pattern of cliques formed by the usual butyrate producers and Alistipes species. 

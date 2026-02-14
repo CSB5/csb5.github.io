@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Constructing consensus sequences, fast
+title: Fast reconstruction of consensus sequences
 description: We designed a new algorithm for finding consensus of multiple DNA sequences, which operates in linear time with respect to the length of the consensus.
 image: /images/posts/2025-02-13-finding-consensus-sequences/logo.png
 image_caption: Beam Search lights up the way.
@@ -25,7 +25,7 @@ Current reconstruction algorithms typically rely on pairwise or multiple sequenc
 
 However, it is well known that the sequencing error rate may vary within each read and across different datasets [[1]](#1). Finding the optimal scoring scheme that accommodates all these variations is not easy.
 
-We therefore propose a new problem definition. Instead of assuming the error rates and finding the optimal alignment, we imagine that the sequences are observations of an unknown generative model, and try to **predict the most probable next observation of the model**.
+We therefore propose a new problem definition. Instead of assuming the error rates and finding the optimal alignment, we assume that the sequences are observations of an unknown generative model, and try to **predict the most probable next observation of the model**.
 
 ![](/images/posts/2025-02-13-finding-consensus-sequences/problem_definition.png)
 *The most probable next observation is regarded as the consensus.*
@@ -41,7 +41,7 @@ Our algorithm takes linear time with respect to the length of the consensus, mak
 
 ![](/images/posts/2025-02-13-finding-consensus-sequences/real-datasets.png)
 
-Finally, the *k*-th order Markov chain also outputs a joint probability of observing the consensus sequence, which can be used to calculate a confidence score to judge the correctness of output consensus sequence, aiding in building a fast and reliable consensus finding workflow.
+Finally, the *k*-th order Markov chain also outputs a joint probability of observing the consensus sequence, which can be used to calculate a confidence score to judge the correctness of output consensus sequences, aiding in building a fast and reliable consensus finding workflow.
 
 ![](https://www.biorxiv.org/content/biorxiv/early/2025/04/21/2025.04.16.644694/F7.large.jpg?width=800&height=600&carousel=1)
 
