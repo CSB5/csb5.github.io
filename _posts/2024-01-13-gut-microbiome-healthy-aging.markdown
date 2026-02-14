@@ -13,7 +13,7 @@ author: [aarthi-ravikrishnan, indrik-wijaya, kern-rei-chng, amanda-ng, ahmad-naz
 
 How does the gut microbiome evolve as we grow older? Are certain microbes consistently enriched or depleted with age, and do these shifts correspond to functional changes in how our microbiome works?  
 
-To address these questions, we performed shotgun metagenomics on one of the largest healthy aging cohorts in Asia with over 200 octogenarians. The results revealed a remarkably consistent pattern of microbial change across the aging spectrum and surprising functional expansions. Sounds exciting? Read on ...
+To address these questions, we performed shotgun metagenomics on one of the largest healthy aging cohorts in Asia with over 200 octogenarians. The results revealed a remarkably consistent pattern of microbial change across the aging spectrum and surprising functional expansions.
 
 We found a progressive shift in microbiome composition with age, particularly along the y=x axis relative to the first and second principal components of variation.
 

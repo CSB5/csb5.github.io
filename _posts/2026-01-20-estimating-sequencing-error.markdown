@@ -3,7 +3,7 @@ layout: post
 title: Estimating sequencing error rates, without alignment
 description: We developed a new tool that aims to perform quality control of a set of reads, without relying on mapping results or quality scores.
 image: '/images/posts/2026-02-14-estimating-sequencing-error/thumbnail.png'
-date: 2026-02-14
+date: 2026-01-20
 tags: [Metagenomic Tech]
 preprint: https://www.biorxiv.org/content/10.64898/2026.02.12.705514v1
 code: https://github.com/GZHoffie/skiver
@@ -19,7 +19,7 @@ We therefore propose a new framework of estimating sequencing error and bias, ca
 ![](/images/posts/2026-02-14-estimating-sequencing-error/workflow.png)
 *Workflow of skiver.*
 
-The key ideas of *skiver* is to use (*k*, *v*)-mer sketches to represent the large amount of sequencing reads. A (*k*, *v*)-mer is a segment of length *k*+*v*, where the first *k* bases are the *key* and the last *v* bases are the *value*. By grouping the (*k*, *v*)-mers with the same key together, we can identify the consensus value, as well as estimate the frequency of sequencing error rates.
+The key ideas of *skiver* is to use (*k*, *v*)-mer sketches to represent the large amount of sequencing reads. A (*k*, *v*)-mer is a segment of length *k*+*v*, where the first *k* bases are the *key* and the last *v* bases are the *value*. By grouping the (*k*, *v*)-mers with the same key together, we can identify the consensus value, as well as estimate the frequency of sequencing errors.
 
 Experiments on various real datasets show that skiver is able to accurately estimate the sequencing error rate and infer the percentage of *k*-mers in the read set that are free of sequencing errors. In addition, skiver can estimate the substitution, insertion, and deletion rates, revealing the bias of various sequencing platforms.
 
