@@ -9,7 +9,7 @@ tags: [Metagenomic Tech]
 paper: https://www.cell.com/iscience/fulltext/S2589-0042(25)02052-8
 publication: iScience
 code: https://github.com/GZHoffie/bbs
-author: [zhenhao, niranjan]
+author: [gu-zhenhao, niranjan-nagarajan]
 ---
 
 

@@ -5,8 +5,9 @@ description: We developed a new tool that aims to perform quality control of a s
 image: '/images/posts/2026-02-14-estimating-sequencing-error/thumbnail.png'
 date: 2026-02-14
 tags: [Metagenomic Tech]
+preprint: https://www.biorxiv.org/content/10.64898/2026.02.12.705514v1
 code: https://github.com/GZHoffie/skiver
-author: [zhenhao, niranjan]
+author: [gu-zhenhao, niranjan-nagarajan]
 ---
 
 Given a set of sequenced reads, how to determine if the sequencing run is good or not? Finding the quality of the reads, which includes estimating sequencing error rates and bias, has been an important first step in numerous Bioinformatics pipelines.

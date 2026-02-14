@@ -8,7 +8,7 @@ tags: [Gut Microbiome]
 paper: https://www.nature.com/articles/s41467-024-52097-9
 publication: Nature Communications
 code: https://github.com/CSB5/SG90
-author: [aarthi, indrik, amanda, nazri, jean-sebastien, chenhao, niranjan]
+author: [aarthi-ravikrishnan, indrik-wijaya, kern-rei-chng, amanda-ng, ahmad-nazri-mohamed-naim, jean-sebastien-gounot, chenhao-li, niranjan-nagarajan]
 ---
 
 How does the gut microbiome evolve as we grow older? Are certain microbes consistently enriched or depleted with age, and do these shifts correspond to functional changes in how our microbiome works?  
@@ -17,9 +17,7 @@ To address these questions, we performed shotgun metagenomics on one of the larg
 
 We found a progressive shift in microbiome composition with age, particularly along the y=x axis relative to the first and second principal components of variation.
 
-<p align="center">
-  <img src="https://pbs.twimg.com/media/GXFWo7FaQAAAZ_s?format=jpg&name=medium" />
-</p>
+![](https://pbs.twimg.com/media/GXFWo7FaQAAAZ_s?format=jpg&name=medium)
 
 This shift was driven by a reduction in microbial richness, evenness and Shannon diversity.
 

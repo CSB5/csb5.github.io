@@ -8,7 +8,7 @@ tags: [Skin Microbiome]
 paper: https://www.nature.com/articles/s41587-025-02797-4
 publication: Nature Biotechnology
 code: https://github.com/CSB5/skin_metatranscriptome
-author: [minghao, amanda, aarthi, nazri, niranjan]
+author: [minghao-chia, amanda-ng, aarthi-ravikrishnan, ahmad-nazri-mohamed-naim, niranjan-nagarajan]
 ---
 
 Ever wondered what genes/pathways skin microbes are expressing in vivo? Are some microbes even transcriptionally active? While most published skin microbiome studies have focused on DNA sequencing, these approaches tell us *who is there* but not necessarily *what they are doing*.

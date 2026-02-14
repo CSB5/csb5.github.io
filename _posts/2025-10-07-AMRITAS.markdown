@@ -5,7 +5,7 @@ description: The AMRITAS collaboration is working to identify improved treatment
 image: '/images/posts/2025-10-07-AMRITAS/image.png'
 date: 2025-10-07
 tags: [Gut Microbiome]
-author: [hanrong, andrew]
+author: [hanrong-chen, andrew-ting]
 ---
 
 Antimicrobial resistance (AMR) poses a major global health threat, with South and Southeast Asia being regions that are particularly affected by the spread of resistant pathogens. Carbapenems are a class of antibiotics often used as a last-resort treatment against multidrug-resistant bacteria. Thus the emergence of carbapenem-resistant Gram-negative bacilli (CR-GNB) is of critical concern. Carbapenem-resistent Enterobacterales (CRE) — particularly *Klebsiella pneumoniae* and *Escherichia coli* — spread readily in healthcare and community settings, while carbapenem-resistant *Acinetobacter baumannii* (CRAB) is primarily confined to hospital settings, especially in intensive-care units (ICUs). Both CRE and CRAB cause severe infections opportunistically, with high mortality rates and limited treatment options. CRE often colonize healthy individuals asymptomatically and transiently, but transmission to an immunocompromised patient can result in severe infection, making it crucial to understand how a healthy gut microbiome confers colonization resistance against these opportunistic pathogens.

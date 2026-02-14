@@ -7,7 +7,7 @@ date: 2026-02-13
 tags: [Gut Microbiome]
 preprint: https://www.biorxiv.org/content/10.64898/2026.01.26.701711v1
 code: https://github.com/CSB5/SPMP_Phages
-author: [hanrong, andrew, indrik, yueyuan, jean-sebastien]
+author: [hanrong-chen, andrew-ting, indrik-wijaya, on-yue-yuan, jean-sebastien-gounot, niranjan-nagarajan]
 ---
 
 The human gut microbiome harbors an immense diversity of bacteriophages (phages) — viruses that infect bacteria — but their diversity and function remain under-characterized. For example, the most well-known gut phage families — such as crAssphage — infect the Bacteroidota phylum and are obligately lytic.

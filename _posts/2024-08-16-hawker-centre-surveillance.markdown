@@ -8,7 +8,7 @@ date: 2024-08-16
 tags: [Environmental Microbiomes]
 preprint: https://www.medrxiv.org/content/10.1101/2024.07.28.24310840v1
 code: https://github.com/CSB5/food_centre_microbiome
-author: [jon, amanda, shaun, niranjan]
+author: [jonathan-teo, amanda-ng, shaun-how, niranjan-nagarajan]
 ---
 
 Excited to share our work on city-wide metagenomic surveillance of hawker centres in Singapore!

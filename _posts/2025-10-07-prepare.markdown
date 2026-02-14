@@ -6,7 +6,7 @@ image: '/images/posts/2025-10-07-prepare/thumbnail.png'
 image_caption: Generated with Gemini.
 date: 2025-10-07
 tags: [Environmental Microbiomes, Metagenomic Tech]
-author: [rafael]
+author: [rafael-peres-da-silva]
 ---
 
 Imagine trying to **hear a single whisper in the middle of a roaring stadium**. That's what it's like searching for viruses in our environment. In a single drop of wastewater or a puff of air, the genetic information from a virus is vastly outnumbered by a loud crowd of material from bacteria, fungi, and other life. Finding that viral whisper is **critical**, but it's incredibly difficult.

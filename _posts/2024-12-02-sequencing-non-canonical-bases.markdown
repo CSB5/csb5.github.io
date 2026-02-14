@@ -9,7 +9,7 @@ tags: [Metagenomic Tech]
 paper: https://doi.org/10.1038/s41467-025-62347-z
 publication: Nature Communications
 code: https://github.com/CSB5/XNA_Basecaller/
-author: [mauricio, nok, rafael, niranjan]
+author: [mauricio-lisboa-perez, chayaporn-suphavilai, rafael-peres-da-silva, niranjan-nagarajan]
 ---
 
 &emsp;We are excited to share our latest work published in [Nature Communications](https://www.nature.com/articles/s41467-025-62347-z). In this work, we show how to achieve high-throughput sequencing of DNA containing non-canonical bases (NCBs) using nanopore sequencing and de novo basecalling enabled by splicing-based data-augmentation.

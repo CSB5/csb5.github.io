@@ -8,7 +8,7 @@ paper: https://journals.asm.org/doi/10.1128/spectrum.03033-25
 publication: Microbiology Spectrum
 date: 2025-10-08
 tags: [Metagenomic Tech]
-author: [yueyuan, lamhaiha, clarice, leejungwon, shaun, jean-sebastien, niranjan]
+author: [on-yue-yuan, lam-hai-ha, clarice-pohan, lee-jungwon, shaun-how, jean-sebastien-gounot, niranjan-nagarajan]
 ---
 
 High-throughput microbial culturomics is an exciting field—but it’s still just getting started. One big challenge is: how do we efficiently isolate individual bacterial strains out of complex microbial communities?

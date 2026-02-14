@@ -5,7 +5,7 @@ description: Our skin is more than just a protective barrier — it’s home to 
 image: '/images/posts/2025-10-08-asmp/image.png'
 date: 2025-10-08
 tags: [Skin Microbiome]
-author: [aarthi]
+author: [aarthi-ravikrishnan]
 ---
 
 Emerging research shows that microbes living on our skin constantly communicate with skin and immune cells. This intricate cross-talk helps the body in three key ways:
