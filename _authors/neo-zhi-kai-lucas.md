@@ -6,3 +6,5 @@ linkedin: https://www.linkedin.com/in/lucasneozk/
 position: Intern
 is_intern: true
 ---
+
+Helped plan and executed a protocol regarding stool storage conditions and assisted in inducing and isolating prophage from specific host bacteria.
