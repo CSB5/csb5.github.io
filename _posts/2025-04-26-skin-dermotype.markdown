@@ -2,7 +2,7 @@
 layout: post
 title: Asian skin microbiome dermotypes
 description: We present the largest- to-date skin microbiome dataset and establish dermotypes as a key organizing principle of skin microbial ecology.
-image: 'https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=4096x4096'
+image: 'https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=large'
 tags: [Skin Microbiome]
 date: 2025-04-26
 preprint: https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1
@@ -10,25 +10,26 @@ code: https://github.com/CSB5/ASMP_Dermotype
 author: [cherry-li-chengchen, aarthi-ravikrishnan, indrik-wijaya, ahmad-nazri-mohamed-naim, jean-sebastien-gounot, on-yue-yuan, eliza-ho, qi-yan-ang, minghao-chia, amanda-ng, niranjan-nagarajan]
 featured: false
 ---
-Which skin microbiome type do you have 🤔 Super thrilled to share our exciting work from the Asian Skin Microbiome Program! We collected >3,500 skin samples, built metagenomic libraries w/ >70 billion reads and >10TB of data to study population heterogeneity in skin microbiome (200 adults, 18 sites). 
+Ever wondered if you skin microbiome falls into one of a few distinct patterns 🤔, like a MBTI personality type but for microbial communities living on your skin? Most published skin microbiome studies zoom in on small groups or specific skin diseases, capturing individual variations but missing the bigger picture: how does the skin microbiome actually vary across the healthy population?
 
-Surveying this unpredecented scale of skin microbiome samples, we observed that the skin microbiome is organized into distinct "dermotypes" unique to each skin site! In the underarm alone, we identified 5 distinct dermotypes. Using machine learning, we can predict these dermotypes with just five key microbial species.
+To uncover this population-level heterogeneity, we launched the [**Asian Skin Microbiome Program**](/asmp), collecting >3,500 skin samples from 200 adults across 18 body sites. We built metagenomic libraries with >70 billion reads and >10TB of data—the largest skin microbiome dataset to date.
+
+Surveying this unprecedented scale, we discovered that skin microbiomes organize into distinct "dermotypes" unique to each body site! The underarm alone harbors 5 distinct dermotypes. Using machine learning, we can predict a person’s underarm dermotype using just 5 key microbial species.
 
    ![](https://pbs.twimg.com/media/Gph3psHa4AAVgvm?format=jpg&name=large)
 
-What’s even more fascinating? Dermotypes are highly coordinated across different parts of the body. Left and right sides mirror each other closely — pointing to systematic coordinations. 
+Even more striking? Dermotypes are highly coordinated across the body. Left and right sides mirror each other closely, pointing to systematic, whole-body patterns rather than random variation. 
 
    ![](https://pbs.twimg.com/media/Gph5Q0Oa0AAyjZU?format=jpg&name=large)
 
-
-You might ask - why do these skin microbiome dermotypes emerge and does it matter to our skin health? 🤔 We observed that microbes behave differently depending on dermotype, forming unique co-occurrence networks. Culture-based experiments further suggest oxygen gradients and nutrient availability drive these patterns. 
+Why do these dermotypes emerge, and do they matter for skin health? We observed that microbes behave differently depending on dermotype, forming unique co-occurrence networks. Culture-based experiments also suggest oxygen gradients and nutrient availability are likely drivers.
 
    ![](https://pbs.twimg.com/media/Gph57YJaYAAZLmz?format=jpg&name=large)
 
-Dermotypes aren’t just scientific curiosities — they matter for health. They’re linked to host factors like ethnicity, gender, and skincare habits. Some dermotypes even correlate with skin sensitivity, itch, and eczema risk, offering new opportunities for patient stratification and treatment innovation. 
+But dermotypes aren’t just scientific curiosities, they have clinical relevance. They're linked to host factors like ethnicity, gender, and skincare habits. And certain dermotypes, for example, Staphylococcus-enriched elbow crease dermotype, even correlate with skin sensitivity, itch, and eczema risk, offering new opportunities for patient stratification.
 
    ![](https://pbs.twimg.com/media/Gph68riboAAj9Nd?format=jpg&name=medium)
 
-Exciting times ahead as we continue unraveling how diverse factors sculpt the skin microbiome, and how dermotypes influence skin health!
+What's next? We’re continuing to explore how diverse environmental, human genetics, and lifestyle factors sculpt dermotypes, and whether dermotype could predict skin disease before symptoms appear. Imagine if we could swab your skin, and forecast your eczema risk weeks in advance!
 
    ![](https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=4096x4096)
