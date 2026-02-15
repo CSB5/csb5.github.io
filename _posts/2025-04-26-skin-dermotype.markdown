@@ -2,7 +2,7 @@
 layout: post
 title: Asian skin microbiome dermotypes
 description: We present the largest- to-date skin microbiome dataset and establish dermotypes as a key organizing principle of skin microbial ecology.
-image: 'https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=large'
+image: '/images/posts/2025-04-26-skin-dermotype/thumbnail.jpg'
 tags: [Skin Microbiome]
 date: 2025-04-26
 preprint: https://www.biorxiv.org/content/10.1101/2025.04.24.650393v1
