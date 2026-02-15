@@ -26,13 +26,7 @@ menu__settings:
     - title: 'Publications'
       url: '/publications/'
     - title: 'Resources'
-      submenu:
-      - title: 'Software'
-        url: '/software/'
-      - title: 'Pipelines'
-        url: '/pipelines/'
-      - title: 'Datasets'
-        url: '/datasets/'
+      url: '/resources/'
     - title: 'People'
       submenu:
       - url: '/members/'
