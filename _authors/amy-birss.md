@@ -2,7 +2,7 @@
 username: amy-birss
 name: Amy Birss
 nick_name: Amy
-image: '/images/members/Amy.jpeg'
+image: '/images/members/Amy.jpg'
 image_fun: '/images/members/Amy_fun.jpg'
 email: birssar@a-star.edu.sg
 linkedin: https://www.linkedin.com/in/amy-rose-birss-b443a41b8/ 
