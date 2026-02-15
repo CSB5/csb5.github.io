@@ -12,7 +12,7 @@ featured: false
 ---
 Ever wondered if you skin microbiome falls into one of a few distinct patterns 🤔, like a MBTI personality type but for microbial communities living on your skin? Most published skin microbiome studies zoom in on small groups or specific skin diseases, capturing individual variations but missing the bigger picture: how does the skin microbiome actually vary across the healthy population?
 
-To uncover this population-level heterogeneity, we launched the [**Asian Skin Microbiome Program**](/asmp), collecting >3,500 skin samples from 200 adults across 18 body sites. We built metagenomic libraries with >70 billion reads and >10TB of data—the largest skin microbiome dataset to date.
+To uncover this population-level heterogeneity, we launched the [Asian Skin Microbiome Program](/asmp), collecting >3,500 skin samples from 200 adults across 18 body sites. We built metagenomic libraries with >70 billion reads and >10TB of data—the largest skin microbiome dataset to date.
 
 Surveying this unprecedented scale, we discovered that skin microbiomes organize into distinct "dermotypes" unique to each body site! The underarm alone harbors 5 distinct dermotypes. Using machine learning, we can predict a person’s underarm dermotype using just 5 key microbial species.
 
@@ -30,6 +30,6 @@ But dermotypes aren’t just scientific curiosities, they have clinical relevanc
 
    ![](https://pbs.twimg.com/media/Gph68riboAAj9Nd?format=jpg&name=medium)
 
-What's next? We’re continuing to explore how diverse environmental, human genetics, and lifestyle factors sculpt dermotypes, and whether dermotype could predict skin disease before symptoms appear. Imagine if we could swab your skin, and forecast your eczema risk weeks in advance!
+What's next? We’re continuing to explore how diverse environmental, human genetics, and lifestyle factors sculpt dermotypes, and whether dermotype could predict skin disease before symptoms appear. Imagine if we could swab your skin, and forecast your risks for skin irritation , dandruff, or body odor！
 
    ![](https://pbs.twimg.com/media/Gph91ppbAAAfpOe?format=jpg&name=4096x4096)

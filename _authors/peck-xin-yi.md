@@ -6,7 +6,7 @@ position: Graduate Student
 email: e0036186@u.nus.edu
 image: '/images/members/Xin_Yi.JPG'
 image_fun: '/images/members/Xin_Yi_fun.jpg'
-linkedin: https://www.linkedin.com/in/phakawat-chotejaruchaiya-b22998260/
+linkedin: https://www.linkedin.com/in/peckxinyi
 ---
 
 
