@@ -9,7 +9,7 @@ tags: [Environmental Microbiomes]
 paper: https://www.nature.com/articles/s44259-025-00132-0
 publication: npj antimicrobials and resistance
 code: https://github.com/CSB5/food_centre_microbiome
-author: [jonathan-teo, amanda-ng, shaun-how, niranjan-nagarajan]
+author: [jonathan-teo, eliza-ho, amanda-ng, shaun-how, kern-rei-chng, niranjan-nagarajan]
 ---
 
 Excited to share our work on city-wide metagenomic surveillance of hawker centres in Singapore!
