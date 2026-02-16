@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Identifying gut microbial hallmarks of healthy aging
+title: Identifying Gut Microbial Hallmarks of Healthy Aging
 description: Shotgun metagenomics data for >200 healthy Asian octogenerians helped us identify key gut microbial hallmarks of healthy aging, including some that are only consistently seen in Asian cohorts!
-image: '/images/posts/2024-01-13-gut-microbiome-healthy-aging/Press_release1.jpg'
+image: '/images/posts/2024-01-13-gut-microbiome-healthy-aging/Press_release1.png'
 date: 2024-01-13
 tags: [Gut Microbiome]
 paper: https://www.nature.com/articles/s41467-024-52097-9
-publication: Nature Communications
 code: https://github.com/CSB5/SG90
 author: [aarthi-ravikrishnan, indrik-wijaya, eileen-png, kern-rei-chng, eliza-ho, amanda-ng, ahmad-nazri-mohamed-naim, jean-sebastien-gounot, chenhao-li, niranjan-nagarajan]
 ---
