@@ -3,7 +3,7 @@ username: hanrong-chen
 name: Hanrong Chen
 nick_name: Hanrong
 position: Postdoctoral Researcher
-image: '/images/members/hanrong.jpg'
+image: '/images/members/hanrong-chen.jpg'
 email: chen_hanrong@a-star.edu.sg
 linkedin: https://www.linkedin.com/in/hanrong-chen/
 ---
@@ -13,4 +13,4 @@ linkedin: https://www.linkedin.com/in/hanrong-chen/
 
 <br/>
 
-I am interested in uncovering principles governing interactions between microbes and their viruses, from phage-host coevolution to horizontal gene transfer. The growing wealth of metagenomic data offers exciting opportunities to explore these questions at unprecedented resolution.
+I study the continuous 'arms race' between microbes and their viruses. By leveraging the explosion of metagenomic data, I work to uncover the fundamental principles of phage-host coevolution and the mechanisms driving horizontal gene transfer. I'm fascinated by the opportunity to resolve these questions at a level of detail that was impossible just a few years ago. Most recently, I've focused on mapping novel, highly prevalent phage families in the human gut to understand how these viral communities shape the microbial world within us.
