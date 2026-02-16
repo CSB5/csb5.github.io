@@ -1,0 +1,3783 @@
+scholar_user: s65iHisAAAAJ
+author_name: Niranjan Nagarajan
+publications:
+- title: Fast and accurate de novo genome assembly from long uncorrected reads
+  authors:
+  - Robert Vaser
+  - Ivan Sović
+  - Niranjan Nagarajan
+  - Mile Šikić
+  keywords: []
+  doi: https://doi.org/10.1101/gr.214270.116
+- title: Comprehensive characterization of cancer driver genes and mutations
+  authors:
+  - Matthew H Bailey
+  - Collin Tokheim
+  - Eduard Porta-Pardo
+  - Sohini Sengupta
+  - Denis Bertrand
+  - Amila Weerasinghe
+  - Antonio Colaprico
+  - Michael C Wendl
+  - Jaegil Kim
+  - Brendan Reardon
+  - Patrick Kwok-Shing Ng
+  - Kang Jin Jeong
+  - Song Cao
+  - Zixing Wang
+  - Jianjiong Gao
+  - Qingsong Gao
+  - Fang Wang
+  - Eric Minwei Liu
+  - Loris Mularoni
+  - Carlota Rubio-Perez
+  - Niranjan Nagarajan
+  - Isidro Cortés-Ciriano
+  - Daniel Cui Zhou
+  - Wen-Wei Liang
+  - Julian M Hess
+  - Venkata D Yellapantula
+  - David Tamborero
+  - Abel Gonzalez-Perez
+  - Chayaporn Suphavilai
+  - Jia Yu Ko
+  - Ekta Khurana
+  - Peter J Park
+  - Eliezer M Van Allen
+  - Han Liang
+  - Samantha J Caesar-Johnson
+  - John A Demchok
+  - Ina Felau
+  - Melpomeni Kasapi
+  - Martin L Ferguson
+  - Carolyn M Hutter
+  - Heidi J Sofia
+  - Roy Tarnuzzer
+  - Zhining Wang
+  - Liming Yang
+  - Jean C Zenklusen
+  - Jiashan Julia Zhang
+  - Sudha Chudamani
+  - Jia Liu
+  - Laxmi Lolla
+  - Rashi Naresh
+  - Todd Pihl
+  - Qiang Sun
+  - Yunhu Wan
+  - Ye Wu
+  - Juok Cho
+  - Timothy DeFreitas
+  - Scott Frazer
+  - Nils Gehlenborg
+  - Gad Getz
+  - David I Heiman
+  - Michael S Lawrence
+  - Pei Lin
+  - Sam Meier
+  - Michael S Noble
+  - Gordon Saksena
+  - Doug Voet
+  - Hailei Zhang
+  - Brady Bernard
+  - Nyasha Chambwe
+  - Varsha Dhankani
+  - Theo Knijnenburg
+  - Roger Kramer
+  - Kalle Leinonen
+  - Yuexin Liu
+  - Michael Miller
+  - Sheila Reynolds
+  - Ilya Shmulevich
+  - Vesteinn Thorsson
+  - Wei Zhang
+  - Rehan Akbani
+  - Bradley M Broom
+  - Apurva M Hegde
+  - Zhenlin Ju
+  - Rupa S Kanchi
+  - Anil Korkut
+  - Jun Li
+  - Shiyun Ling
+  - Wenbin Liu
+  - Yiling Lu
+  - Gordon B Mills
+  - Kwok-Shing Ng
+  - Arvind Rao
+  - Michael Ryan
+  - Jing Wang
+  - John N Weinstein
+  - Jiexin Zhang
+  - Adam Abeshouse
+  - Joshua Armenia
+  - Debyani Chakravarty
+  - Walid K Chatila
+  - Ino de Bruijn
+  - Benjamin E Gross
+  - Zachary J Heins
+  - Ritika Kundra
+  - Konnor La
+  - Marc Ladanyi
+  - Augustin Luna
+  - Moriah G Nissan
+  - Angelica Ochoa
+  - Sarah M Phillips
+  - Ed Reznik
+  - Francisco Sanchez-Vega
+  - Chris Sander
+  - Nikolaus Schultz
+  - Robert Sheridan
+  - S Onur Sumer
+  - Yichao Sun
+  - Barry S Taylor
+  - Jioajiao Wang
+  - Hongxin Zhang
+  - Pavana Anur
+  - Myron Peto
+  - Paul Spellman
+  - Christopher Benz
+  - Joshua M Stuart
+  - Christopher K Wong
+  - Christina Yau
+  - D Neil Hayes
+  - Joel S Parker
+  - Matthew D Wilkerson
+  - Adrian Ally
+  - Miruna Balasundaram
+  - Reanne Bowlby
+  - Denise Brooks
+  - Rebecca Carlsen
+  - Eric Chuah
+  - Noreen Dhalla
+  - Robert Holt
+  - Steven JM Jones
+  - Katayoon Kasaian
+  - Darlene Lee
+  - Yussanne Ma
+  - Marco A Marra
+  - Michael Mayo
+  - Richard A Moore
+  - Andrew J Mungall
+  - Karen Mungall
+  - A Gordon Robertson
+  - Sara Sadeghi
+  - Jacqueline E Schein
+  keywords: []
+  doi: https://doi.org/10.1016/j.cell.2018.02.060
+- title: Statistical methods for detecting differentially abundant features in clinical
+    metagenomic samples
+  authors:
+  - James Robert White
+  - Niranjan Nagarajan
+  - Mihai Pop
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pcbi.1000352
+- title: 'LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering
+    cell-population heterogeneity from high-throughput sequencing datasets'
+  authors:
+  - Andreas Wilm
+  - Pauline Poh Kim Aw
+  - Denis Bertrand
+  - Grace Hui Ting Yeo
+  - Swee Hoe Ong
+  - Chang Hua Wong
+  - Chiea Chuen Khor
+  - Rosemary Petric
+  - Martin Lloyd Hibberd
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1093/nar/gks918
+- title: The draft genome of the transgenic tropical fruit tree papaya (Carica papaya
+    Linnaeus)
+  authors:
+  - Ray Ming
+  - Shaobin Hou
+  - Yun Feng
+  - Qingyi Yu
+  - Alexandre Dionne-Laporte
+  - Jimmy H Saw
+  - Pavel Senin
+  - Wei Wang
+  - Benjamin V Ly
+  - Kanako LT Lewis
+  - Steven L Salzberg
+  - Lu Feng
+  - Meghan R Jones
+  - Rachel L Skelton
+  - Jan E Murray
+  - Cuixia Chen
+  - Wubin Qian
+  - Junguo Shen
+  - Peng Du
+  - Moriah Eustice
+  - Eric Tong
+  - Haibao Tang
+  - Eric Lyons
+  - Robert E Paull
+  - Todd P Michael
+  - Kerr Wall
+  - Danny W Rice
+  - Henrik Albert
+  - Ming-Li Wang
+  - Yun J Zhu
+  - Michael Schatz
+  - Niranjan Nagarajan
+  - Ricelle A Acob
+  - Peizhu Guan
+  - Andrea Blas
+  - Ching Man Wai
+  - Christine M Ackerman
+  - Yan Ren
+  - Chao Liu
+  - Jianmei Wang
+  - Jianping Wang
+  - Jong-Kuk Na
+  - Eugene V Shakirov
+  - Brian Haas
+  - Jyothi Thimmapuram
+  - David Nelson
+  - Xiyin Wang
+  - John E Bowers
+  - Andrea R Gschwend
+  - Arthur L Delcher
+  - Ratnesh Singh
+  - Jon Y Suzuki
+  - Savarni Tripathi
+  - Kabi Neupane
+  - Hairong Wei
+  - Beth Irikura
+  - Maya Paidi
+  - Ning Jiang
+  - Wenli Zhang
+  - Gernot Presting
+  - Aaron Windsor
+  - Rafael Navajas-Pérez
+  - Manuel J Torres
+  - F Alex Feltus
+  - Brad Porter
+  - Yingjun Li
+  - A Max Burroughs
+  - Ming-Cheng Luo
+  - Lei Liu
+  - David A Christopher
+  - Stephen M Mount
+  - Paul H Moore
+  - Tak Sugimura
+  - Jiming Jiang
+  - Mary A Schuler
+  - Vikki Friedman
+  - Thomas Mitchell-Olds
+  - Dorothy E Shippen
+  - Claude W Depamphilis
+  - Jeffrey D Palmer
+  - Michael Freeling
+  - Andrew H Paterson
+  - Dennis Gonsalves
+  - Lei Wang
+  - Maqsudul Alam
+  keywords: []
+  doi: https://doi.org/10.1038/nature06856
+- title: The draft genome of sweet orange (Citrus sinensis)
+  authors:
+  - Qiang Xu
+  - Ling-Ling Chen
+  - Xiaoan Ruan
+  - Dijun Chen
+  - Andan Zhu
+  - Chunli Chen
+  - Denis Bertrand
+  - Wen-Biao Jiao
+  - Bao-Hai Hao
+  - Matthew P Lyon
+  - Jiongjiong Chen
+  - Song Gao
+  - Feng Xing
+  - Hong Lan
+  - Ji-Wei Chang
+  - Xianhong Ge
+  - Yang Lei
+  - Qun Hu
+  - Yin Miao
+  - Lun Wang
+  - Shixin Xiao
+  - Manosh Kumar Biswas
+  - Wenfang Zeng
+  - Fei Guo
+  - Hongbo Cao
+  - Xiaoming Yang
+  - Xi-Wen Xu
+  - Yun-Jiang Cheng
+  - Juan Xu
+  - Ji-Hong Liu
+  - Oscar Junhong Luo
+  - Zhonghui Tang
+  - Wen-Wu Guo
+  - Hanhui Kuang
+  - Hong-Yu Zhang
+  - Mikeal L Roose
+  - Niranjan Nagarajan
+  - Xiu-Xin Deng
+  - Yijun Ruan
+  keywords: []
+  doi: https://doi.org/10.1038/ng.2472
+- title: Critical assessment of metagenome interpretation—a benchmark of metagenomics
+    software
+  authors:
+  - Alexander Sczyrba
+  - Peter Hofmann
+  - Peter Belmann
+  - David Koslicki
+  - Stefan Janssen
+  - Johannes Dröge
+  - Ivan Gregor
+  - Stephan Majda
+  - Jessika Fiedler
+  - Eik Dahms
+  - Andreas Bremges
+  - Adrian Fritz
+  - Ruben Garrido-Oter
+  - Tue Sparholt Jørgensen
+  - Nicole Shapiro
+  - Philip D Blood
+  - Alexey Gurevich
+  - Yang Bai
+  - Dmitrij Turaev
+  - Matthew Z DeMaere
+  - Rayan Chikhi
+  - Niranjan Nagarajan
+  - Christopher Quince
+  - Fernando Meyer
+  - Monika Balvočiūtė
+  - Lars Hestbjerg Hansen
+  - Søren J Sørensen
+  - Burton KH Chia
+  - Bertrand Denis
+  - Jeff L Froula
+  - Zhong Wang
+  - Robert Egan
+  - Dongwan Don Kang
+  - Jeffrey J Cook
+  - Charles Deltel
+  - Michael Beckstette
+  - Claire Lemaitre
+  - Pierre Peterlongo
+  - Guillaume Rizk
+  - Dominique Lavenier
+  - Yu-Wei Wu
+  - Steven W Singer
+  - Chirag Jain
+  - Marc Strous
+  - Heiner Klingenberg
+  - Peter Meinicke
+  - Michael D Barton
+  - Thomas Lingner
+  - Hsin-Hung Lin
+  - Yu-Chieh Liao
+  - Genivaldo Gueiros Z Silva
+  - Daniel A Cuevas
+  - Robert A Edwards
+  - Surya Saha
+  - Vitor C Piro
+  - Bernhard Y Renard
+  - Mihai Pop
+  - Hans-Peter Klenk
+  - Markus Göker
+  - Nikos C Kyrpides
+  - Tanja Woyke
+  - Julia A Vorholt
+  - Paul Schulze-Lefert
+  - Edward M Rubin
+  - Aaron E Darling
+  - Thomas Rattei
+  - Alice C McHardy
+  keywords: []
+  doi: https://doi.org/10.1038/nmeth.4458
+- title: Genome mapping on nanochannel arrays for structural variation analysis and
+    sequence assembly
+  authors:
+  - Ernest T Lam
+  - Alex Hastie
+  - Chin Lin
+  - Dean Ehrlich
+  - Somes K Das
+  - Michael D Austin
+  - Paru Deshpande
+  - Han Cao
+  - Niranjan Nagarajan
+  - Ming Xiao
+  - Pui-Yan Kwok
+  keywords: []
+  doi: https://doi.org/10.1038/nbt.2303
+- title: Exome sequencing of gastric adenocarcinoma identifies recurrent somatic mutations
+    in cell adhesion and chromatin remodeling genes
+  authors:
+  - Zhi Jiang Zang
+  - Ioana Cutcutache
+  - Song Ling Poon
+  - Shen Li Zhang
+  - John R McPherson
+  - Jiong Tao
+  - Vikneswari Rajasegaran
+  - Hong Lee Heng
+  - Niantao Deng
+  - Anna Gan
+  - Kiat Hon Lim
+  - Choon Kiat Ong
+  - DaChuan Huang
+  - Sze Yung Chin
+  - Iain Beehuat Tan
+  - Cedric Chuan Young Ng
+  - Willie Yu
+  - Yingting Wu
+  - Minghui Lee
+  - Jeanie Wu
+  - Dianne Poh
+  - Wei Keat Wan
+  - Sun Young Rha
+  - Jimmy So
+  - Manuel Salto-Tellez
+  - Khay Guan Yeoh
+  - Wai Keong Wong
+  - Yi-Jun Zhu
+  - P Andrew Futreal
+  - Brendan Pang
+  - Yijun Ruan
+  - Axel M Hillmer
+  - Denis Bertrand
+  - Niranjan Nagarajan
+  - Steve Rozen
+  - Bin Tean Teh
+  - Patrick Tan
+  keywords: []
+  doi: https://doi.org/10.1038/ng.2246
+- title: A common BIM deletion polymorphism mediates intrinsic resistance and inferior
+    responses to tyrosine kinase inhibitors in cancer
+  authors:
+  - King Pan Ng
+  - Axel M Hillmer
+  - Charles TH Chuah
+  - Wen Chun Juan
+  - Tun Kiat Ko
+  - Audrey SM Teo
+  - Pramila N Ariyaratne
+  - Naoto Takahashi
+  - Kenichi Sawada
+  - Yao Fei
+  - Sheila Soh
+  - Wah Heng Lee
+  - John WJ Huang
+  - John C Allen Jr
+  - Xing Yi Woo
+  - Niranjan Nagarajan
+  - Vikrant Kumar
+  - Anbupalam Thalamuthu
+  - Wan Ting Poh
+  - Ai Leen Ang
+  - Hae Tha Mya
+  - Gee Fung How
+  - Li Yi Yang
+  - Liang Piu Koh
+  - Balram Chowbay
+  - Chia-Tien Chang
+  - Veera S Nadarajan
+  - Wee Joo Chng
+  - Hein Than
+  - Lay Cheng Lim
+  - Yeow Tee Goh
+  - Shenli Zhang
+  - Dianne Poh
+  - Patrick Tan
+  - Ju-Ee Seet
+  - Mei-Kim Ang
+  - Noan-Minh Chau
+  - Quan-Sing Ng
+  - Daniel SW Tan
+  - Manabu Soda
+  - Kazutoshi Isobe
+  - Markus M Nöthen
+  - Tien Y Wong
+  - Atif Shahab
+  - Xiaoan Ruan
+  - Valère Cacheux-Rataboul
+  - Wing-Kin Sung
+  - Eng Huat Tan
+  - Yasushi Yatabe
+  - Hiroyuki Mano
+  - Ross A Soo
+  - Tan Min Chin
+  - Wan-Teck Lim
+  - Yijun Ruan
+  - S Tiong Ong
+  keywords: []
+  doi: https://doi.org/10.1038/nm.2713
+- title: Sequence assembly demystified
+  authors:
+  - Niranjan Nagarajan
+  - Mihai Pop
+  keywords: []
+  doi: https://doi.org/10.1038/nrg3367
+- title: Fast and sensitive mapping of nanopore sequencing reads with GraphMap
+  authors:
+  - Ivan Sović
+  - Mile Šikić
+  - Andreas Wilm
+  - Shannon Nicole Fenlon
+  - Swaine Chen
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1038/ncomms11307
+- title: Perspective on oncogenic processes at the end of the beginning of cancer
+    genomics
+  authors:
+  - Li Ding
+  - Matthew H Bailey
+  - Eduard Porta-Pardo
+  - Vesteinn Thorsson
+  - Antonio Colaprico
+  - Denis Bertrand
+  - David L Gibbs
+  - Amila Weerasinghe
+  - Kuan-lin Huang
+  - Collin Tokheim
+  - Isidro Cortés-Ciriano
+  - Reyka Jayasinghe
+  - Feng Chen
+  - Lihua Yu
+  - Sam Sun
+  - Catharina Olsen
+  - Jaegil Kim
+  - Alison M Taylor
+  - Andrew D Cherniack
+  - Rehan Akbani
+  - Chayaporn Suphavilai
+  - Niranjan Nagarajan
+  - Joshua M Stuart
+  - Gordon B Mills
+  - Matthew A Wyczalkowski
+  - Benjamin G Vincent
+  - Carolyn M Hutter
+  - Jean Claude Zenklusen
+  - Katherine A Hoadley
+  - Michael C Wendl
+  - Alexander J Lazar
+  - David A Wheeler
+  - Gad Getz
+  - Samantha J Caesar-Johnson
+  - John A Demchok
+  - Ina Felau
+  - Melpomeni Kasapi
+  - Martin L Ferguson
+  - Heidi J Sofia
+  - Roy Tarnuzzer
+  - Zhining Wang
+  - Liming Yang
+  - Jean C Zenklusen
+  - Jiashan Julia Zhang
+  - Sudha Chudamani
+  - Jia Liu
+  - Laxmi Lolla
+  - Rashi Naresh
+  - Todd Pihl
+  - Qiang Sun
+  - Yunhu Wan
+  - Ye Wu
+  - Juok Cho
+  - Timothy DeFreitas
+  - Scott Frazer
+  - Nils Gehlenborg
+  - David I Heiman
+  - Michael S Lawrence
+  - Pei Lin
+  - Sam Meier
+  - Michael S Noble
+  - Gordon Saksena
+  - Doug Voet
+  - Hailei Zhang
+  - Brady Bernard
+  - Nyasha Chambwe
+  - Varsha Dhankani
+  - Theo Knijnenburg
+  - Roger Kramer
+  - Kalle Leinonen
+  - Yuexin Liu
+  - Michael Miller
+  - Sheila Reynolds
+  - Ilya Shmulevich
+  - Wei Zhang
+  - Bradley M Broom
+  - Apurva M Hegde
+  - Zhenlin Ju
+  - Rupa S Kanchi
+  - Anil Korkut
+  - Jun Li
+  - Han Liang
+  - Shiyun Ling
+  - Wenbin Liu
+  - Yiling Lu
+  - Kwok-Shing Ng
+  - Arvind Rao
+  - Michael Ryan
+  - Jing Wang
+  - John N Weinstein
+  - Jiexin Zhang
+  - Adam Abeshouse
+  - Joshua Armenia
+  - Debyani Chakravarty
+  - Walid K Chatila
+  - Ino de Bruijn
+  - Jianjiong Gao
+  - Benjamin E Gross
+  - Zachary J Heins
+  - Ritika Kundra
+  - Konnor La
+  - Marc Ladanyi
+  - Augustin Luna
+  - Moriah G Nissan
+  - Angelica Ochoa
+  - Sarah M Phillips
+  - Ed Reznik
+  - Francisco Sanchez-Vega
+  - Chris Sander
+  - Nikolaus Schultz
+  - Robert Sheridan
+  - S Onur Sumer
+  - Yichao Sun
+  - Barry S Taylor
+  - Jioajiao Wang
+  - Hongxin Zhang
+  - Pavana Anur
+  - Myron Peto
+  - Paul Spellman
+  - Christopher Benz
+  - Christopher K Wong
+  - Christina Yau
+  - D Neil Hayes
+  - Joel S Parker
+  - Matthew D Wilkerson
+  - Adrian Ally
+  - Miruna Balasundaram
+  - Reanne Bowlby
+  - Denise Brooks
+  - Rebecca Carlsen
+  - Eric Chuah
+  - Noreen Dhalla
+  - Robert Holt
+  - Steven JM Jones
+  - Katayoon Kasaian
+  - Darlene Lee
+  - Yussanne Ma
+  - Marco A Marra
+  - Michael Mayo
+  - Richard A Moore
+  - Andrew J Mungall
+  - Karen Mungall
+  - A Gordon Robertson
+  - Sara Sadeghi
+  - Jacqueline E Schein
+  - Payal Sipahimalani
+  - Angela Tam
+  - Nina Thiessen
+  - Kane Tse
+  - Tina Wong
+  keywords: []
+  doi: https://doi.org/10.1016/j.cell.2018.03.033
+- title: Whole metagenome profiling reveals skin microbiome-dependent susceptibility
+    to atopic dermatitis flare
+  authors:
+  - Kern Rei Chng
+  - Angeline Su Ling Tay
+  - Chenhao Li
+  - Amanda Hui Qi Ng
+  - Jingjing Wang
+  - Bani Kaur Suri
+  - Sri Anusha Matta
+  - Naomi McGovern
+  - Baptiste Janela
+  - Xuan Fei Colin C Wong
+  - Yang Yie Sio
+  - Bijin Veonice Au
+  - Andreas Wilm
+  - Paola Florez De Sessions
+  - Thiam Chye Lim
+  - Mark Boon Yang Tang
+  - Florent Ginhoux
+  - John E Connolly
+  - E Birgitte Lane
+  - Fook Tim Chew
+  - John EA Common
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1038/nmicrobiol.2016.106
+- title: In vivo mapping of eukaryotic RNA interactomes reveals principles of higher-order
+    organization and regulation
+  authors:
+  - Jong Ghut Ashley Aw
+  - Yang Shen
+  - Andreas Wilm
+  - Miao Sun
+  - Xin Ni Lim
+  - Kum-Loong Boon
+  - Sidika Tapsin
+  - Yun-Shen Chan
+  - Cheng-Peow Tan
+  - Adelene YL Sim
+  - Tong Zhang
+  - Teodorus Theo Susanto
+  - Zhiyan Fu
+  - Niranjan Nagarajan
+  - Yue Wan
+  keywords: []
+  doi: https://doi.org/10.1016/j.molcel.2016.04.028
+- title: A global metagenomic map of urban microbiomes and antimicrobial resistance
+  authors:
+  - David Danko
+  - Daniela Bezdan
+  - Evan E Afshin
+  - Sofia Ahsanuddin
+  - Chandrima Bhattacharya
+  - Daniel J Butler
+  - Kern Rei Chng
+  - Daisy Donnellan
+  - Jochen Hecht
+  - Katelyn Jackson
+  - Katerina Kuchin
+  - Mikhail Karasikov
+  - Abigail Lyons
+  - Lauren Mak
+  - Dmitry Meleshko
+  - Harun Mustafa
+  - Beth Mutai
+  - Russell Y Neches
+  - Amanda Ng
+  - Olga Nikolayeva
+  - Tatyana Nikolayeva
+  - Eileen Png
+  - Krista A Ryon
+  - Jorge L Sanchez
+  - Heba Shaaban
+  - Maria A Sierra
+  - Dominique Thomas
+  - Ben Young
+  - Omar O Abudayyeh
+  - Josue Alicea
+  - Malay Bhattacharyya
+  - Ran Blekhman
+  - Eduardo Castro-Nallar
+  - Ana M Cañas
+  - Aspassia D Chatziefthimiou
+  - Robert W Crawford
+  - Francesca De Filippis
+  - Youping Deng
+  - Christelle Desnues
+  - Emmanuel Dias-Neto
+  - Marius Dybwad
+  - Eran Elhaik
+  - Danilo Ercolini
+  - Alina Frolova
+  - Dennis Gankin
+  - Jonathan S Gootenberg
+  - Alexandra B Graf
+  - David C Green
+  - Iman Hajirasouliha
+  - Jaden JA Hastings
+  - Mark Hernandez
+  - Gregorio Iraola
+  - Soojin Jang
+  - Andre Kahles
+  - Frank J Kelly
+  - Kaymisha Knights
+  - Nikos C Kyrpides
+  - Paweł P Łabaj
+  - Patrick KH Lee
+  - Marcus HY Leung
+  - Per O Ljungdahl
+  - Gabriella Mason-Buck
+  - Ken McGrath
+  - Cem Meydan
+  - Emmanuel F Mongodin
+  - Milton Ozorio Moraes
+  - Niranjan Nagarajan
+  - Marina Nieto-Caballero
+  - Houtan Noushmehr
+  - Manuela Oliveira
+  - Stephan Ossowski
+  - Olayinka O Osuolale
+  - Orhan Özcan
+  - David Paez-Espino
+  - Nicolás Rascovan
+  - Hugues Richard
+  - Gunnar Rätsch
+  - Lynn M Schriml
+  - Torsten Semmler
+  - Osman U Sezerman
+  - Leming Shi
+  - Tieliu Shi
+  - Rania Siam
+  - Le Huu Song
+  - Haruo Suzuki
+  - Scott W Tighe
+  - Xinzhao Tong
+  - Klas I Udekwu
+  - Juan A Ugalde
+  - Brandon Valentine
+  - Dimitar I Vassilev
+  - Elena M Vayndorf
+  - Thirumalaisamy P Velavan
+  - Jun Wu
+  - María M Zambrano
+  - Jifeng Zhu
+  - Sibo Zhu
+  - Christopher E Mason
+  - Natasha Abdullah
+  - Marcos Abraao
+  - Ait-hamlat Adel
+  - Muhammad Afaq
+  - Faisal S Al-Quaddoomi
+  - Ireen Alam
+  - Gabriela E Albuquerque
+  - Alex Alexiev
+  - Kalyn Ali
+  - Lucia E Alvarado-Arnez
+  - Sarh Aly
+  - Jennifer Amachee
+  - Maria G Amorim
+  - Majelia Ampadu
+  - Muhammad Al-Fath Amran
+  - Nala An
+  - Watson Andrew
+  - Harilanto Andrianjakarivony
+  - Michael Angelov
+  - Verónica Antelo
+  - Catharine Aquino
+  - Álvaro Aranguren
+  - Luiza F Araujo
+  - Hitler Francois Vasquez Arevalo
+  - Jenny Arevalo
+  - Carme Arnan
+  - Lucia Elena Alvarado Arnez
+  - Fernanda Arredondo
+  - Matthew Arthur
+  - Freddy Asenjo
+  - Thomas Saw Aung
+  - Juliette Auvinet
+  - Nuria Aventin
+  - Sadaf Ayaz
+  - Silva Baburyan
+  - Abd-Manaaf Bakere
+  - Katrin Bakhl
+  - Thais F Bartelli
+  - Erdenetsetseg Batdelger
+  - François Baudon
+  - Kevin Becher
+  - Carla Bello
+  - Médine Benchouaia
+  - Hannah Benisty
+  - Anne-Sophie Benoiston
+  - Joseph Benson
+  - Diego Benítez
+  - Juliana Bernardes
+  - Denis Bertrand
+  - Silvia Beurmann
+  - Tristan Bitard-Feildel
+  - Lucie Bittner
+  keywords: []
+  doi: https://doi.org/10.1016/j.cell.2021.05.002
+- title: Hybrid metagenomic assembly enables high-resolution analysis of resistance
+    determinants and mobile elements in human microbiomes
+  authors:
+  - Denis Bertrand
+  - Jim Shaw
+  - Manesh Kalathiyappan
+  - Amanda Hui Qi Ng
+  - M Senthil Kumar
+  - Chenhao Li
+  - Mirta Dvornicic
+  - Janja Paliska Soldo
+  - Jia Yu Koh
+  - Chengxuan Tong
+  - Oon Tek Ng
+  - Timothy Barkham
+  - Barnaby Young
+  - Kalisvar Marimuthu
+  - Kern Rei Chng
+  - Mile Sikic
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1038/s41587-019-0191-2
+- title: Combining tumor genome simulation with crowdsourcing to benchmark somatic
+    single-nucleotide-variant detection
+  authors:
+  - Adam D Ewing
+  - Kathleen E Houlahan
+  - Yin Hu
+  - Kyle Ellrott
+  - Cristian Caloian
+  - Takafumi N Yamaguchi
+  - J Christopher Bare
+  - Christine P'ng
+  - Daryl Waggott
+  - Veronica Y Sabelnykova
+  - Michael R Kellen
+  - Thea C Norman
+  - David Haussler
+  - Stephen H Friend
+  - Gustavo Stolovitzky
+  - Adam A Margolin
+  - Joshua M Stuart
+  - Paul C Boutros
+  keywords: []
+  doi: https://doi.org/10.1038/nmeth.3407
+- title: 'Critical assessment of metagenome interpretation: the second round of challenges'
+  authors:
+  - Fernando Meyer
+  - Adrian Fritz
+  - Zhi-Luo Deng
+  - David Koslicki
+  - Till Robin Lesker
+  - Alexey Gurevich
+  - Gary Robertson
+  - Mohammed Alser
+  - Dmitry Antipov
+  - Francesco Beghini
+  - Denis Bertrand
+  - Jaqueline J Brito
+  - C Titus Brown
+  - Jan Buchmann
+  - Aydin Buluç
+  - Bo Chen
+  - Rayan Chikhi
+  - Philip TLC Clausen
+  - Alexandru Cristian
+  - Piotr Wojciech Dabrowski
+  - Aaron E Darling
+  - Rob Egan
+  - Eleazar Eskin
+  - Evangelos Georganas
+  - Eugene Goltsman
+  - Melissa A Gray
+  - Lars Hestbjerg Hansen
+  - Steven Hofmeyr
+  - Pingqin Huang
+  - Luiz Irber
+  - Huijue Jia
+  - Tue Sparholt Jørgensen
+  - Silas D Kieser
+  - Terje Klemetsen
+  - Axel Kola
+  - Mikhail Kolmogorov
+  - Anton Korobeynikov
+  - Jason Kwan
+  - Nathan LaPierre
+  - Claire Lemaitre
+  - Chenhao Li
+  - Antoine Limasset
+  - Fabio Malcher-Miranda
+  - Serghei Mangul
+  - Vanessa R Marcelino
+  - Camille Marchet
+  - Pierre Marijon
+  - Dmitry Meleshko
+  - Daniel R Mende
+  - Alessio Milanese
+  - Niranjan Nagarajan
+  - Jakob Nissen
+  - Sergey Nurk
+  - Leonid Oliker
+  - Lucas Paoli
+  - Pierre Peterlongo
+  - Vitor C Piro
+  - Jacob S Porter
+  - Simon Rasmussen
+  - Evan R Rees
+  - Knut Reinert
+  - Bernhard Renard
+  - Espen Mikal Robertsen
+  - Gail L Rosen
+  - Hans-Joachim Ruscheweyh
+  - Varuni Sarwal
+  - Nicola Segata
+  - Enrico Seiler
+  - Lizhen Shi
+  - Fengzhu Sun
+  - Shinichi Sunagawa
+  - Søren Johannes Sørensen
+  - Ashleigh Thomas
+  - Chengxuan Tong
+  - Mirko Trajkovski
+  - Julien Tremblay
+  - Gherman Uritskiy
+  - Riccardo Vicedomini
+  - Zhengyang Wang
+  - Ziye Wang
+  - Zhong Wang
+  - Andrew Warren
+  - Nils Peder Willassen
+  - Katherine Yelick
+  - Ronghui You
+  - Georg Zeller
+  - Zhengqiao Zhao
+  - Shanfeng Zhu
+  - Jie Zhu
+  - Ruben Garrido-Oter
+  - Petra Gastmeier
+  - Stephane Hacquard
+  - Susanne Häußler
+  - Ariane Khaledi
+  - Friederike Maechler
+  - Fantin Mesny
+  - Simona Radutoiu
+  - Paul Schulze-Lefert
+  - Nathiana Smit
+  - Till Strowig
+  - Andreas Bremges
+  - Alexander Sczyrba
+  - Alice Carolyn McHardy
+  keywords: []
+  doi: https://doi.org/10.1038/s41592-022-01431-4
+- title: A randomized, double-blind placebo controlled trial of balapiravir, a polymerase
+    inhibitor, in adult dengue patients
+  authors:
+  - Nguyet Minh Nguyen
+  - Chau Nguyen Bich Tran
+  - Lam Khanh Phung
+  - Kien Thi Hue Duong
+  - Huy le Anh Huynh
+  - Jeremy Farrar
+  - Quyen Than Ha Nguyen
+  - Hien Tinh Tran
+  - Chau Van Vinh Nguyen
+  - Laura Merson
+  - Long Truong Hoang
+  - Martin L Hibberd
+  - Pauline PK Aw
+  - Andreas Wilm
+  - Niranjan Nagarajan
+  - Dung Thi Nguyen
+  - Mai Phuong Pham
+  - Truong Thanh Nguyen
+  - Hassan Javanbakht
+  - Klaus Klumpp
+  - Janet Hammond
+  - Rosemary Petric
+  - Marcel Wolbers
+  - Chinh Tran Nguyen
+  - Cameron P Simmons
+  keywords: []
+  doi: https://doi.org/10.1093/infdis/jis470
+- title: Genus-Wide Comparative Genomics of Malassezia Delineates Its Phylogeny, Physiology,
+    and Niche Adaptation on Human Skin
+  authors:
+  - Guangxi Wu
+  - He Zhao
+  - Chenhao Li
+  - Menaka Priyadarsani Rajapakse
+  - Wing Cheong Wong
+  - Jun Xu
+  - Charles W Saunders
+  - Nancy L Reeder
+  - Raymond A Reilman
+  - Annika Scheynius
+  - Sheng Sun
+  - Blake Robert Billmyre
+  - Wenjun Li
+  - Anna Floyd Averette
+  - Piotr Mieczkowski
+  - Joseph Heitman
+  - Bart Theelen
+  - Markus S Schröder
+  - Paola Florez De Sessions
+  - Geraldine Butler
+  - Sebastian Maurer-Stroh
+  - Teun Boekhout
+  - Niranjan Nagarajan
+  - Thomas L Dawson Jr
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pgen.1005614
+- title: Cartography of opportunistic pathogens and antibiotic resistance genes in
+    a tertiary hospital environment
+  authors:
+  - Kern Rei Chng
+  - Chenhao Li
+  - Denis Bertrand
+  - Amanda Hui Qi Ng
+  - Junmei Samantha Kwah
+  - Hwee Meng Low
+  - Chengxuan Tong
+  - Maanasa Natrajan
+  - Michael Hongjie Zhang
+  - Licheng Xu
+  - Karrie Kwan Ki Ko
+  - Eliza Xin Pei Ho
+  - Tamar V Av-Shalom
+  - Jeanette Woon Pei Teo
+  - Chiea Chuen Khor
+  - Swaine L Chen
+  - Christopher E Mason
+  - Oon Tek Ng
+  - Kalisvar Marimuthu
+  - Brenda Ang
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/644740
+- title: 'Opera: Reconstructing Optimal Genomic Scaffolds with High-Throughput Paired-End
+    Sequences'
+  authors:
+  - Song Gao
+  - Wing-Kin Sung
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1007/978-3-642-20036-6_40
+- title: Metagenomics-enabled microbial surveillance
+  authors:
+  - Karrie KK Ko
+  - Kern Rei Chng
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1038/s41564-022-01089-w
+- title: Cloning and variation of ground state intestinal stem cells
+  authors:
+  - Xia Wang
+  - Yusuke Yamamoto
+  - Lane H Wilson
+  - Ting Zhang
+  - Brooke E Howitt
+  - Melissa A Farrow
+  - Florian Kern
+  - Gang Ning
+  - Yue Hong
+  - Chiea Chuen Khor
+  - Benoit Chevalier
+  - Denis Bertrand
+  - Lingyan Wu
+  - Niranjan Nagarajan
+  - Francisco A Sylvester
+  - Jeffrey S Hyams
+  - Thomas Devers
+  - Roderick Bronson
+  - D Borden Lacy
+  - Khek Yu Ho
+  - Christopher P Crum
+  - Frank McKeon
+  - Wa Xian
+  keywords: []
+  doi: https://doi.org/10.1038/nature14484
+- title: Genomic characterization of three unique Dehalococcoides that respire on
+    persistent polychlorinated biphenyls
+  authors:
+  - Shanquan Wang
+  - Kern Rei Chng
+  - Andreas Wilm
+  - Siyan Zhao
+  - Kun-Lin Yang
+  - Niranjan Nagarajan
+  - Jianzhong He
+  keywords: []
+  doi: https://doi.org/10.1073/pnas.1404845111
+- title: The draft genome of tropical fruit durian (Durio zibethinus)
+  authors:
+  - Bin Tean Teh
+  - Kevin Lim
+  - Chern Han Yong
+  - Cedric Chuan Young Ng
+  - Sushma Ramesh Rao
+  - Vikneswari Rajasegaran
+  - Weng Khong Lim
+  - Choon Kiat Ong
+  - Ki Chan
+  - Vincent Kin Yuen Cheng
+  - Poh Sheng Soh
+  - Sanjay Swarup
+  - Steven G Rozen
+  - Niranjan Nagarajan
+  - Patrick Tan
+  keywords: []
+  doi: https://doi.org/10.1038/ng.3972
+- title: Large-scale whole-genome sequencing of three diverse Asian populations in
+    Singapore
+  authors:
+  - Degang Wu
+  - Jinzhuang Dou
+  - Xiaoran Chai
+  - Claire Bellis
+  - Andreas Wilm
+  - Chih Chuan Shih
+  - Wendy Wei Jia Soon
+  - Nicolas Bertin
+  - Clarabelle Bitong Lin
+  - Chiea Chuen Khor
+  - Michael DeGiorgio
+  - Shanshan Cheng
+  - Li Bao
+  - Neerja Karnani
+  - William Ying Khee Hwang
+  - Sonia Davila
+  - Patrick Tan
+  - Asim Shabbir
+  - Angela Moh
+  - Eng-King Tan
+  - Jia Nee Foo
+  - Liuh Ling Goh
+  - Khai Pang Leong
+  - Roger SY Foo
+  - Carolyn Su Ping Lam
+  - Arthur Mark Richards
+  - Ching-Yu Cheng
+  - Tin Aung
+  - Tien Yin Wong
+  - Huck Hui Ng
+  - Matthew Andrew Ackers-Johnson
+  - Edita Aliwarga
+  - Kenneth Hon Kim Ban
+  - Denis Bertrand
+  - John C Chambers
+  - Dana Leng Hui Chan
+  - Cheryl Xue Li Chan
+  - Miao Li Chee
+  - Miao Ling Chee
+  - Pauline Chen
+  - Yunxin Chen
+  - Elaine Guo Yan Chew
+  - Wen Jie Chew
+  - Lynn Hui Yun Chiam
+  - Jenny Pek Ching Chong
+  - Ivan Chua
+  - Stuart A Cook
+  - Wei Dai
+  - Rajkumar Dorajoo
+  - Chuan-Sheng Foo
+  - Rick Siow Mong Goh
+  - Axel M Hillmer
+  - Ishak D Irwan
+  - Fazlur Jaufeerally
+  - Asif Javed
+  - Justin Jeyakani
+  - John Tat Hung Koh
+  - Jia Yu Koh
+  - Pavitra Krishnaswamy
+  - Jyn Ling Kuan
+  - Neelam Kumari
+  - Ai Shan Lee
+  - Seow Eng Lee
+  - Sheldon Lee
+  - Yen Ling Lee
+  - See Ting Leong
+  - Zheng Li
+  - Peter Yiqing Li
+  - Jun Xian Liew
+  - Oi Wah Liew
+  - Su Chi Lim
+  - Weng Khong Lim
+  - Chia Wei Lim
+  - Tingsen Benson Lim
+  - Choon Kiat Lim
+  - Seet Yoong Loh
+  - Au Wing Lok
+  - Calvin WL Chin
+  - Shivani Majithia
+  - Sebastian Maurer-Stroh
+  - Wee Yang Meah
+  - Shi Qi Mok
+  - Niranjan Nargarajan
+  - Pauline Ng
+  - Sarah B Ng
+  - Zhenyuan Ng
+  - Jessica Yan Xia Ng
+  - Ebonne Ng
+  - Shi Ling Ng
+  - Simon Nusinovici
+  - Chin Thing Ong
+  - Bangfen Pan
+  - Vincent Pedergnana
+  - Stanley Poh
+  - Shyam Prabhakar
+  - Kumar M Prakash
+  - Ivy Quek
+  - Charumathi Sabanayagam
+  - Wei Qiang See
+  - Yee Yen Sia
+  - Xueling Sim
+  - Wey Cheng Sim
+  - Jimmy So
+  - Dinna KN Soon
+  - E Shyong Tai
+  - Nicholas Y Tan
+  - Louis CS Tan
+  - Hong Chang Tan
+  - Wilson Lek Wen Tan
+  - Moses Tandiono
+  - Amanda Tay
+  - Sahil Thakur
+  - Yih Chung Tham
+  - Zenia Tiang
+  - Grace Li-Xian Toh
+  - Pi Kuang Tsai
+  - Lavanya Veeravalli
+  - Chandra S Verma
+  - Ling Wang
+  - Min Rui Wang
+  - Wing-Cheong Wong
+  - Zhicheng Xie
+  - Khung Keong Yeo
+  - Liang Zhang
+  - Weiwei Zhai
+  - Yi Zhao
+  - Jianjun Liu
+  - Chaolong Wang
+  keywords: []
+  doi: https://doi.org/10.1101/390070
+- title: The Opisthorchis viverrini genome provides insights into life in the bile
+    duct
+  authors:
+  - Neil D Young
+  - Niranjan Nagarajan
+  - Suling Joyce Lin
+  - Pasi K Korhonen
+  - Aaron R Jex
+  - Ross S Hall
+  - Helena Safavi-Hemami
+  - Worasak Kaewkong
+  - Denis Bertrand
+  - Song Gao
+  - Qihui Seet
+  - Sopit Wongkham
+  - Bin Tean Teh
+  - Chaisiri Wongkham
+  - Pewpan Maleewong Intapan
+  - Wanchai Maleewong
+  - Xinhua Yang
+  - Min Hu
+  - Zuo Wang
+  - Andreas Hofmann
+  - Paul W Sternberg
+  - Patrick Tan
+  - Jun Wang
+  - Robin B Gasser
+  keywords: []
+  doi: https://doi.org/10.1038/ncomms5378
+- title: 'INC-Seq: accurate single molecule reads using nanopore sequencing'
+  authors:
+  - Chenhao Li
+  - Kern Rei Chng
+  - Esther Jia Hui Boey
+  - Amanda Hui Qi Ng
+  - Andreas Wilm
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/038042
+- title: A pan-cancer analysis reveals high-frequency genetic alterations in mediators
+    of signaling by the TGF-β superfamily
+  authors:
+  - Anil Korkut
+  - Sobia Zaidi
+  - Rupa S Kanchi
+  - Shuyun Rao
+  - Nancy R Gough
+  - Andre Schultz
+  - Xubin Li
+  - Philip L Lorenzi
+  - Ashton C Berger
+  - Gordon Robertson
+  - Lawrence N Kwong
+  - Mike Datto
+  - Jason Roszik
+  - Shiyun Ling
+  - Visweswaran Ravikumar
+  - Ganiraju Manyam
+  - Arvind Rao
+  - Simon Shelley
+  - Yuexin Liu
+  - Zhenlin Ju
+  - Donna Hansel
+  - Guillermo de Velasco
+  - Arjun Pennathur
+  - Jesper B Andersen
+  - Colm J O'Rourke
+  - Kazufumi Ohshiro
+  - Wilma Jogunoori
+  - Bao-Ngoc Nguyen
+  - Shulin Li
+  - Hatice U Osmanbeyoglu
+  - Jaffer A Ajani
+  - Sendurai A Mani
+  - Andres Houseman
+  - Maciej Wiznerowicz
+  - Jian Chen
+  - Shoujun Gu
+  - Wencai Ma
+  - Jiexin Zhang
+  - Pan Tong
+  - Andrew D Cherniack
+  - Chuxia Deng
+  - Linda Resar
+  - Samantha J Caesar-Johnson
+  - John A Demchok
+  - Ina Felau
+  - Melpomeni Kasapi
+  - Martin L Ferguson
+  - Carolyn M Hutter
+  - Heidi J Sofia
+  - Roy Tarnuzzer
+  - Zhining Wang
+  - Liming Yang
+  - Jean C Zenklusen
+  - Jiashan Julia Zhang
+  - Sudha Chudamani
+  - Jia Liu
+  - Laxmi Lolla
+  - Rashi Naresh
+  - Todd Pihl
+  - Qiang Sun
+  - Yunhu Wan
+  - Ye Wu
+  - Juok Cho
+  - Timothy DeFreitas
+  - Scott Frazer
+  - Nils Gehlenborg
+  - Gad Getz
+  - David I Heiman
+  - Jaegil Kim
+  - Michael S Lawrence
+  - Pei Lin
+  - Sam Meier
+  - Michael S Noble
+  - Gordon Saksena
+  - Doug Voet
+  - Hailei Zhang
+  - Brady Bernard
+  - Nyasha Chambwe
+  - Varsha Dhankani
+  - Theo Knijnenburg
+  - Roger Kramer
+  - Kalle Leinonen
+  - Michael Miller
+  - Sheila Reynolds
+  - Ilya Shmulevich
+  - Vesteinn Thorsson
+  - Wei Zhang
+  - Rehan Akbani
+  - Bradley M Broom
+  - Apurva M Hegde
+  - Jun Li
+  - Han Liang
+  - Wenbin Liu
+  - Yiling Lu
+  - Gordon B Mills
+  - Kwok-Shing Ng
+  - Michael Ryan
+  - Jing Wang
+  - John N Weinstein
+  - Adam Abeshouse
+  - Joshua Armenia
+  - Debyani Chakravarty
+  - Walid K Chatila
+  - Ino de Bruijn
+  - Jianjiong Gao
+  - Benjamin E Gross
+  - Zachary J Heins
+  - Ritika Kundra
+  - Konnor La
+  - Marc Ladanyi
+  - Augustin Luna
+  - Moriah G Nissan
+  - Angelica Ochoa
+  - Sarah M Phillips
+  - Ed Reznik
+  - Francisco Sanchez-Vega
+  - Chris Sander
+  - Nikolaus Schultz
+  - Robert Sheridan
+  - S Onur Sumer
+  - Yichao Sun
+  - Barry S Taylor
+  - Jioajiao Wang
+  - Hongxin Zhang
+  - Pavana Anur
+  - Myron Peto
+  - Paul Spellman
+  - Christopher Benz
+  - Joshua M Stuart
+  - Christopher K Wong
+  - Christina Yau
+  - D Neil Hayes
+  - Joel S Parker
+  - Matthew D Wilkerson
+  - Adrian Ally
+  - Miruna Balasundaram
+  - Reanne Bowlby
+  - Denise Brooks
+  - Rebecca Carlsen
+  - Eric Chuah
+  - Noreen Dhalla
+  - Robert Holt
+  - Steven JM Jones
+  - Katayoon Kasaian
+  - Darlene Lee
+  - Yussanne Ma
+  - Marco A Marra
+  - Michael Mayo
+  - Richard A Moore
+  - Andrew J Mungall
+  keywords: []
+  doi: https://doi.org/10.1016/j.cels.2018.08.010
+- title: 'Parametric complexity of sequence assembly: theory and applications to next
+    generation sequencing'
+  authors:
+  - Niranjan Nagarajan
+  - Mihai Pop
+  keywords: []
+  doi: https://doi.org/10.1089/cmb.2009.0005
+- title: Predicting cancer drug response using a recommender system
+  authors:
+  - Chayaporn Suphavilai
+  - Denis Bertrand
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/215327
+- title: 'Recurrent fusion genes in gastric cancer: CLDN18-ARHGAP26 induces loss of
+    epithelial integrity'
+  authors:
+  - Fei Yao
+  - Jaya P Kausalya
+  - Yee Yen Sia
+  - Audrey SM Teo
+  - Wah Heng Lee
+  - Alicia GM Ong
+  - Zhenshui Zhang
+  - Joanna HJ Tan
+  - Guoliang Li
+  - Denis Bertrand
+  - Xingliang Liu
+  - Huay Mei Poh
+  - Peiyong Guan
+  - Feng Zhu
+  - Thushangi Nadeera Pathiraja
+  - Pramila N Ariyaratne
+  - Jaideepraj Rao
+  - Xing Yi Woo
+  - Shaojiang Cai
+  - Fabianus H Mulawadi
+  - Wan Ting Poh
+  - Lavanya Veeravalli
+  - Chee Seng Chan
+  - Seong Soo Lim
+  - See Ting Leong
+  - Say Chuan Neo
+  - Poh Sum D Choi
+  - Elaine GY Chew
+  - Niranjan Nagarajan
+  - Pierre-Etienne Jacques
+  - Jimmy BY So
+  - Xiaoan Ruan
+  - Khay Guan Yeoh
+  - Patrick Tan
+  - Wing-Kin Sung
+  - Walter Hunziker
+  - Yijun Ruan
+  - Axel M Hillmer
+  keywords: []
+  doi: https://doi.org/10.1016/j.celrep.2015.06.020
+- title: Scaffolding and validation of bacterial genome assemblies using optical restriction
+    maps
+  authors:
+  - Niranjan Nagarajan
+  - Timothy D Read
+  - Mihai Pop
+  keywords: []
+  doi: https://doi.org/10.1093/bioinformatics/btn102
+- title: Metagenome-wide association analysis identifies microbial determinants of
+    post-antibiotic ecological recovery in the gut
+  authors:
+  - Kern Rei Chng
+  - Tarini Shankar Ghosh
+  - Yi Han Tan
+  - Tannistha Nandi
+  - Ivor Russel Lee
+  - Amanda Hui Qi Ng
+  - Chenhao Li
+  - Aarthi Ravikrishnan
+  - Kar Mun Lim
+  - David Lye
+  - Timothy Barkham
+  - Karthik Raman
+  - Swaine L Chen
+  - Louis Chai
+  - Barnaby Young
+  - Yunn-Hwen Gan
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1038/s41559-020-1236-0
+- title: 'Gut microbiota changes in children with autism spectrum disorder: a systematic
+    review'
+  authors:
+  - Lucius Kang Hua Ho
+  - Valerie Jia Wei Tong
+  - Nicholas Syn
+  - Niranjan Nagarajan
+  - Elizabeth Huiwen Tham
+  - Stacey K Tay
+  - Shefaly Shorey
+  - Paul Anantharajah Tambyah
+  - Evelyn Chung Ning Law
+  keywords: []
+  doi: https://doi.org/10.1186/s13099-020-0346-1
+- title: Structure mapping of dengue and Zika viruses reveals functional long-range
+    interactions
+  authors:
+  - Roland G Huber
+  - Xin Ni Lim
+  - Wy Ching Ng
+  - Adelene YL Sim
+  - Hui Xian Poh
+  - Yang Shen
+  - Su Ying Lim
+  - Karin B Sundstrom
+  - Xuyang Sun
+  - Jong Ghut Aw
+  - Horng Khit Too
+  - Peng Hee Boey
+  - Andreas Wilm
+  - Tanu Chawla
+  - Milly M Choy
+  - Lu Jiang
+  - Paola Florez de Sessions
+  - Xian Jun Loh
+  - Sylvie Alonso
+  - Martin Hibberd
+  - Niranjan Nagarajan
+  - Eng Eong Ooi
+  - Peter J Bond
+  - October M Sessions
+  - Yue Wan
+  keywords: []
+  doi: https://doi.org/10.1038/s41467-019-09391-8
+- title: 'Immunological corollary of the pulmonary mycobiome in bronchiectasis: the
+    CAMEB study'
+  authors:
+  - Micheál Mac Aogáin
+  - Ravishankar Chandrasekaran
+  - Albert Yick Hou Lim
+  - Teck Boon Low
+  - Gan Liang Tan
+  - Tidi Hassan
+  - Thun How Ong
+  - Amanda Hui Qi Ng
+  - Denis Bertrand
+  - Jia Yu Koh
+  - Sze Lei Pang
+  - Zi Yang Lee
+  - Xiao Wei Gwee
+  - Christopher Martinus
+  - Yang Yie Sio
+  - Sri Anusha Matta
+  - Fook Tim Chew
+  - Holly R Keir
+  - John E Connolly
+  - John Arputhan Abisheganaden
+  - Mariko Siyue Koh
+  - Niranjan Nagarajan
+  - James D Chalmers
+  - Sanjay H Chotirmall
+  keywords: []
+  doi: https://doi.org/10.1183/13993003.00766-2018
+- title: The metagenomics and metadesign of the subways and urban biomes (MetaSUB)
+    international consortium inaugural meeting report
+  authors: []
+  keywords: []
+  doi: https://doi.org/10.1186/s40168-016-0168-z
+- title: Whole-genome reconstruction and mutational signatures in gastric cancer
+  authors:
+  - Niranjan Nagarajan
+  - Denis Bertrand
+  - Axel M Hillmer
+  - Zhi Jiang Zang
+  - Fei Yao
+  - Pierre-Étienne Jacques
+  - Audrey SM Teo
+  - Ioana Cutcutache
+  - Zhenshui Zhang
+  - Wah Heng Lee
+  - Yee Yen Sia
+  - Song Gao
+  - Pramila N Ariyaratne
+  - Andrea Ho
+  - Xing Yi Woo
+  - Lavanya Veeravali
+  - Choon Kiat Ong
+  - Niantao Deng
+  - Kartiki V Desai
+  - Chiea Chuen Khor
+  - Martin L Hibberd
+  - Atif Shahab
+  - Jaideepraj Rao
+  - Mengchu Wu
+  - Ming Teh
+  - Feng Zhu
+  - Sze Yung Chin
+  - Brendan Pang
+  - Jimmy BY So
+  - Guillaume Bourque
+  - Richie Soong
+  - Wing-Kin Sung
+  - Bin Tean Teh
+  - Steven Rozen
+  - Xiaoan Ruan
+  - Khay Guan Yeoh
+  - Patrick BO Tan
+  - Yijun Ruan
+  keywords: []
+  doi: https://doi.org/10.1186/gb-2012-13-12-r115
+- title: Patient-specific driver gene prediction and risk assessment through integrated
+    network analysis of cancer omics profiles
+  authors:
+  - Denis Bertrand
+  - Kern Rei Chng
+  - Faranak Ghazi Sherbaf
+  - Anja Kiesel
+  - Burton KH Chia
+  - Yee Yen Sia
+  - Sharon K Huang
+  - Dave SB Hoon
+  - Edison T Liu
+  - Axel Hillmer
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1093/nar/gku1393
+- title: A Min ION™‐based pipeline for fast and cost‐effective DNA barcoding
+  authors:
+  - Amrita Srivathsan
+  - Bilgenur Baloğlu
+  - Wendy Wang
+  - Wei X Tan
+  - Denis Bertrand
+  - Amanda HQ Ng
+  - Esther JH Boey
+  - Jayce JY Koh
+  - Niranjan Nagarajan
+  - Rudolf Meier
+  keywords: []
+  doi: https://doi.org/10.1101/253625
+- title: Genomic characterization of the Yersinia genus
+  authors:
+  - Peter E Chen
+  - Christopher Cook
+  - Andrew C Stewart
+  - Niranjan Nagarajan
+  - Dan D Sommer
+  - Mihai Pop
+  - Brendan Thomason
+  - Maureen P Kiley Thomason
+  - Shannon Lentz
+  - Nichole Nolan
+  - Shanmuga Sozhamannan
+  - Alexander Sulakvelidze
+  - Alfred Mateczun
+  - Lei Du
+  - Michael E Zwick
+  - Timothy D Read
+  keywords: []
+  doi: https://doi.org/10.1186/gb-2010-11-1-r1
+- title: No evidence for a common blood microbiome based on a population study of
+    9,770 healthy humans
+  authors:
+  - Cedric CS Tan
+  - Karrie KK Ko
+  - Hui Chen
+  - Jianjun Liu
+  - Marie Loh
+  - SG10K_Health Consortium
+  - Minghao Chia
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.52843/cassyni.lgpzmj
+- title: 'GiRaF: robust, computational identification of influenza reassortments via
+    graph mining'
+  authors:
+  - Niranjan Nagarajan
+  - Carl Kingsford
+  keywords: []
+  doi: https://doi.org/10.1093/nar/gkq1232
+- title: Tissue microbiome profiling identifies an enrichment of specific enteric
+    bacteria in Opisthorchis viverrini associated cholangiocarcinoma
+  authors:
+  - Kern Rei Chng
+  - Sock Hoai Chan
+  - Amanda Hui Qi Ng
+  - Chenhao Li
+  - Apinya Jusakul
+  - Denis Bertrand
+  - Andreas Wilm
+  - Su Pin Choo
+  - Damien Meng Yew Tan
+  - Kiat Hon Lim
+  - Roy Soetinko
+  - Choon Kiat Ong
+  - Dan G Duda
+  - Simona Dima
+  - Irinel Popescu
+  - Chaisiri Wongkham
+  - Zhu Feng
+  - Khay Guan Yeoh
+  - Bin Tean Teh
+  - Puangrat Yongvanit
+  - Sopit Wongkham
+  - Vajaraphongsa Bhudhisawasdi
+  - Narong Khuntikeo
+  - Patrick Tan
+  - Chawalit Pairojkul
+  - Joanne Ngeow
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1016/j.ebiom.2016.04.034
+- title: Species identification and profiling of complex microbial communities using
+    shotgun Illumina sequencing of 16S rRNA amplicon sequences
+  authors:
+  - Swee Hoe Ong
+  - Vinutha Uppoor Kukkillaya
+  - Andreas Wilm
+  - Christophe Lay
+  - Eliza Xin Pei Ho
+  - Louie Low
+  - Martin Lloyd Hibberd
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pone.0060811
+- title: Mammalian systems biotechnology reveals global cellular adaptations in a
+    recombinant CHO cell line
+  authors:
+  - Faraaz Noor Khan Yusufi
+  - Meiyappan Lakshmanan
+  - Ying Swan Ho
+  - Bernard Liat Wen Loo
+  - Pramila Ariyaratne
+  - Yuansheng Yang
+  - Say Kong Ng
+  - Tessa Rui Min Tan
+  - Hock Chuan Yeo
+  - Hsueh Lee Lim
+  - Sze Wai Ng
+  - Ai Ping Hiu
+  - Chung Ping Chow
+  - Corrine Wan
+  - Shuwen Chen
+  - Gavin Teo
+  - Gao Song
+  - Ju Xin Chin
+  - Xiaoan Ruan
+  - Ken Wing Kin Sung
+  - Wei-Shou Hu
+  - Miranda Gek Sim Yap
+  - Muriel Bardor
+  - Niranjan Nagarajan
+  - Dong-Yup Lee
+  keywords: []
+  doi: https://doi.org/10.1016/j.cels.2017.04.009
+- title: Alignment and clustering of phylogenetic markers-implications for microbial
+    diversity studies
+  authors:
+  - James R White
+  - Saket Navlakha
+  - Niranjan Nagarajan
+  - Mohammad-Reza Ghodsi
+  - Carl Kingsford
+  - Mihai Pop
+  keywords: []
+  doi: https://doi.org/10.1186/1471-2105-11-152
+- title: Determination of isoform-specific RNA structure with nanopore long reads
+  authors:
+  - Jong Ghut Ashley Aw
+  - Shaun W Lim
+  - Jia Xu Wang
+  - Finnlay RP Lambert
+  - Wen Ting Tan
+  - Yang Shen
+  - Yu Zhang
+  - Pornchai Kaewsapsak
+  - Chenhao Li
+  - Sarah B Ng
+  - Leah A Vardy
+  - Meng How Tan
+  - Niranjan Nagarajan
+  - Yue Wan
+  keywords: []
+  doi: https://doi.org/10.1038/s41587-020-0712-z
+- title: 'Detection and characterisation of a sixth Candida auris clade in Singapore:
+    a genomic and phenotypic study'
+  authors:
+  - Chayaporn Suphavilai
+  - Karrie Kwan Ki Ko
+  - Kar Mun Lim
+  - Mei Gie Tan
+  - Patipan Boonsimma
+  - Joash Jun Keat Chu
+  - Sui Sin Goh
+  - Prevena Rajandran
+  - Lai Chee Lee
+  - Kwee Yuen Tan
+  - Bushra Binte Shaik Ismail
+  - May Kyawt Aung
+  - Yong Yang
+  - Jean Xiang Ying Sim
+  - Indumathi Venkatachalam
+  - Benjamin Pei Zhi Cherng
+  - Bram Spruijtenburg
+  - Kian Sing Chan
+  - Lynette Lin Ean Oon
+  - Ai Ling Tan
+  - Yen Ee Tan
+  - Limin Wijaya
+  - Ban Hock Tan
+  - Moi Lin Ling
+  - Tse Hsien Koh
+  - Jacques F Meis
+  - Clement Kin Ming Tsui
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1016/s2666-5247(24)00101-0
+- title: Comprehensive long-span paired-end-tag mapping reveals characteristic patterns
+    of structural variations in epithelial cancer genomes
+  authors:
+  - Axel M Hillmer
+  - Fei Yao
+  - Koichiro Inaki
+  - Wah Heng Lee
+  - Pramila N Ariyaratne
+  - Audrey SM Teo
+  - Xing Yi Woo
+  - Zhenshui Zhang
+  - Hao Zhao
+  - Leena Ukil
+  - Jieqi P Chen
+  - Feng Zhu
+  - Jimmy BY So
+  - Manuel Salto-Tellez
+  - Wan Ting Poh
+  - Kelson FB Zawack
+  - Niranjan Nagarajan
+  - Song Gao
+  - Guoliang Li
+  - Vikrant Kumar
+  - Hui Ping J Lim
+  - Yee Yen Sia
+  - Chee Seng Chan
+  - See Ting Leong
+  - Say Chuan Neo
+  - Poh Sum D Choi
+  - Hervé Thoreau
+  - Patrick BO Tan
+  - Atif Shahab
+  - Xiaoan Ruan
+  - Jonas Bergh
+  - Per Hall
+  - Valère Cacheux-Rataboul
+  - Chia-Lin Wei
+  - Khay Guan Yeoh
+  - Wing-Kin Sung
+  - Guillaume Bourque
+  - Edison T Liu
+  - Yijun Ruan
+  keywords: []
+  doi: https://doi.org/10.1101/gr.113555.110
+- title: The liver–gut microbiota axis modulates hepatotoxicity of tacrine in the
+    rat
+  authors:
+  - Lian Yee Yip
+  - Chiu Cheong Aw
+  - Sze Han Lee
+  - Yi Shuen Hong
+  - Han Chen Ku
+  - Winston Hecheng Xu
+  - Jessalyn Mei Xuan Chan
+  - Eleanor Jing Yi Cheong
+  - Kern Rei Chng
+  - Amanda Hui Qi Ng
+  - Niranjan Nagarajan
+  - Ratha Mahendran
+  - Yuan Kun Lee
+  - Edward R Browne
+  - Eric Chun Yong Chan
+  keywords: []
+  doi: https://doi.org/10.1002/hep.29327
+- title: Automatic prediction of protein domains from sequence information using a
+    hybrid learning system
+  authors:
+  - Niranjan Nagarajan
+  - Golan Yona
+  keywords: []
+  doi: https://doi.org/10.1093/bioinformatics/bth086
+- title: Tracking dengue virus intra-host genetic diversity during human-to-mosquito
+    transmission
+  authors:
+  - Shuzhen Sim
+  - Pauline PK Aw
+  - Andreas Wilm
+  - Garrett Teoh
+  - Kien Duong Thi Hue
+  - Nguyet Minh Nguyen
+  - Niranjan Nagarajan
+  - Cameron P Simmons
+  - Martin L Hibberd
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pntd.0004052
+- title: COVID-19 drug practices risk antimicrobial resistance evolution
+  authors:
+  - Ebrahim Afshinnekoo
+  - Chandrima Bhattacharya
+  - Ana Burguete-García
+  - Eduardo Castro-Nallar
+  - Youping Deng
+  - Christelle Desnues
+  - Emmanuel Dias-Neto
+  - Eran Elhaik
+  - Gregorio Iraola
+  - Soojin Jang
+  - Paweł P Łabaj
+  - Christopher E Mason
+  - Niranjan Nagarajan
+  - Michael Poulsen
+  - Bharath Prithiviraj
+  - Rania Siam
+  - Tieliu Shi
+  - Haruo Suzuki
+  - Johannes Werner
+  - Maria Mercedes Zambrano
+  - Malay Bhattacharyya
+  keywords: []
+  doi: https://doi.org/10.1016/s2666-5247(21)00039-2
+- title: In vitro and in vivo correlates of physiological and neoplastic human Fallopian
+    tube stem cells
+  authors:
+  - Yusuke Yamamoto
+  - Gang Ning
+  - Brooke E Howitt
+  - Karishma Mehra
+  - Lingyan Wu
+  - Xia Wang
+  - Yue Hong
+  - Florian Kern
+  - Tay Seok Wei
+  - Ting Zhang
+  - Niranjan Nagarajan
+  - Debargha Basuli
+  - Suzy Torti
+  - Molly Brewer
+  - Mahesh Choolani
+  - Frank McKeon
+  - Christopher P Crum
+  - Wa Xian
+  keywords: []
+  doi: https://doi.org/10.1002/path.4649
+- title: 'OPERA-LG: efficient and exact scaffolding of large, repeat-rich eukaryotic
+    genomes with performance guarantees'
+  authors:
+  - Song Gao
+  - Denis Bertrand
+  - Burton KH Chia
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1186/s13059-016-0951-y
+- title: Understanding the microbial basis of body odor in pre-pubescent children
+    and teenagers
+  authors:
+  - Tze Hau Lam
+  - Davide Verzotto
+  - Purbita Brahma
+  - Amanda Hui Qi Ng
+  - Ping Hu
+  - Dan Schnell
+  - Jay Tiesman
+  - Rong Kong
+  - Thi My Uyen Ton
+  - Jianjun Li
+  - May Ong
+  - Yang Lu
+  - David Swaile
+  - Ping Liu
+  - Jiquan Liu
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1186/s40168-018-0588-z
+- title: 'Finishing genomes with limited resources: lessons from an ensemble of microbial
+    genomes'
+  authors:
+  - Niranjan Nagarajan
+  - Christopher Cook
+  - MariaPia Di Bonaventura
+  - Hong Ge
+  - Allen Richards
+  - Kimberly A Bishop-Lilly
+  - Robert DeSalle
+  - Timothy D Read
+  - Mihai Pop
+  keywords: []
+  doi: https://doi.org/10.1186/1471-2164-11-242
+- title: Mutational spectrum of Barrett’s stem cells suggests paths to initiation
+    of a precancerous lesion
+  authors:
+  - Yusuke Yamamoto
+  - Xia Wang
+  - Denis Bertrand
+  - Florian Kern
+  - Ting Zhang
+  - Marcin Duleba
+  - Supriya Srivastava
+  - Chiea Chuen Khor
+  - Yuanyu Hu
+  - Lane H Wilson
+  - Hagen Blaszyk
+  - Daniil Rolshud
+  - Ming Teh
+  - Jianjun Liu
+  - Brooke E Howitt
+  - Matthew Vincent
+  - Christopher P Crum
+  - Niranjan Nagarajan
+  - Khek Yu Ho
+  - Frank McKeon
+  - Wa Xian
+  keywords: []
+  doi: https://doi.org/10.1038/ncomms10380
+- title: Sequencing and genome assembly using next-generation technologies
+  authors:
+  - Niranjan Nagarajan
+  - Mihai Pop
+  keywords: []
+  doi: https://doi.org/10.1007/978-1-60761-842-3_1
+- title: Comparative genomics of Cryptococcus neoformans var. grubii associated with
+    meningitis in HIV infected and uninfected patients in Vietnam
+  authors:
+  - Jeremy N Day
+  - Seet Qihui
+  - Lam Tuan Thanh
+  - Phan Hai Trieu
+  - Anh Duong Van
+  - Nha Hoang Thu
+  - Tran Thi Hong Chau
+  - Nguyen PH Lan
+  - Nguyen Van Vinh Chau
+  - Philip M Ashton
+  - Guy E Thwaites
+  - Maciej F Boni
+  - Marcel Wolbers
+  - Niranjan Nagarajan
+  - Patrick BO Tan
+  - Stephen Baker
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pntd.0005628
+- title: Analysis of dengue virus genetic diversity during human and mosquito infection
+    reveals genetic constraints
+  authors:
+  - October M Sessions
+  - Andreas Wilm
+  - Uma Sangumathi Kamaraj
+  - Milly M Choy
+  - Angelia Chow
+  - Yuwen Chong
+  - Xin Mei Ong
+  - Niranjan Nagarajan
+  - Alex R Cook
+  - Eng Eong Ooi
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pntd.0004044
+- title: 2009 Swine-origin influenza A (H1N1) resembles previous influenza isolates
+  authors:
+  - Carl Kingsford
+  - Niranjan Nagarajan
+  - Steven L Salzberg
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pone.0006402
+- title: Human tumor-infiltrating MAIT cells display hallmarks of bacterial antigen
+    recognition in colorectal cancer
+  authors:
+  - Shamin Li
+  - Yannick Simoni
+  - Etienne Becht
+  - Chiew Yee Loh
+  - Naisi Li
+  - Daniel Lachance
+  - Si-Lin Koo
+  - Teck Por Lim
+  - Emile Kwong Wei Tan
+  - Ronnie Mathew
+  - Andrew Nguyen
+  - Justin Golovato
+  - Julia D Berkson
+  - Martin Prlic
+  - Bernett Lee
+  - Samuel S Minot
+  - Niranjan Nagarajan
+  - Neelendu Dey
+  - Daniel SW Tan
+  - Iain B Tan
+  - Evan W Newell
+  keywords: []
+  doi: https://doi.org/10.1016/j.xcrm.2020.100039
+- title: Predicting microbial interactions through computational approaches
+  authors:
+  - Chenhao Li
+  - Kun Ming Kenneth Lim
+  - Kern Rei Chng
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1016/j.ymeth.2016.02.019
+- title: Genome-centric analysis of short and long read metagenomes reveals uncharacterized
+    microbiome diversity in Southeast Asians
+  authors:
+  - Jean-Sebastien Gounot
+  - Minghao Chia
+  - Denis Bertrand
+  - Woei-Yuh Saw
+  - Aarthi Ravikrishnan
+  - Adrian Low
+  - Yichen Ding
+  - Amanda Hui Qi Ng
+  - Linda Wei Lin Tan
+  - Yik-Ying Teo
+  - Henning Seedorf
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.52843/cassyni.nxlfwt
+- title: Atopic dermatitis microbiomes stratify into ecologic dermotypes enabling
+    microbial virulence and disease severity
+  authors:
+  - Angeline SL Tay
+  - Chenhao Li
+  - Tannistha Nandi
+  - Kern Rei Chng
+  - Anand Kumar Andiappan
+  - Vijaya Saradhi Mettu
+  - Camille de Cevins
+  - Aarthi Ravikrishnan
+  - Charles-Antoine Dutertre
+  - XF Colin C Wong
+  - Amanda Hui Qi Ng
+  - Sri Anusha Matta
+  - Florent Ginhoux
+  - Olaf Rötzschke
+  - Fook Tim Chew
+  - Mark BY Tang
+  - Yik Weng Yew
+  - Niranjan Nagarajan
+  - John EA Common
+  keywords: []
+  doi: https://doi.org/10.1016/j.jaci.2020.09.031
+- title: 'BAsE-Seq: a method for obtaining long viral haplotypes from short sequence
+    reads'
+  authors:
+  - Lewis Z Hong
+  - Shuzhen Hong
+  - Han Teng Wong
+  - Pauline PK Aw
+  - Yan Cheng
+  - Andreas Wilm
+  - Paola F de Sessions
+  - Seng Gee Lim
+  - Niranjan Nagarajan
+  - Martin L Hibberd
+  - Stephen R Quake
+  - William F Burkholder
+  keywords: []
+  doi: https://doi.org/10.1186/s13059-014-0517-9
+- title: Finding biologically accurate clusterings in hierarchical tree decompositions
+    using the variation of information
+  authors:
+  - Saket Navlakha
+  - James White
+  - Niranjan Nagarajan
+  - Mihai Pop
+  - Carl Kingsford
+  keywords: []
+  doi: https://doi.org/10.1007/978-3-642-02008-7_29
+- title: High-depth sequencing of over 750 genes supports linear progression of primary
+    tumors and metastases in most patients with liver-limited metastatic colorectal
+    cancer
+  authors:
+  - Iain Beehuat Tan
+  - Simeen Malik
+  - Kalpana Ramnarayanan
+  - John R McPherson
+  - Dan Liang Ho
+  - Yuka Suzuki
+  - Sarah Boonhsui Ng
+  - Su Yan
+  - Kiat Hon Lim
+  - Dennis Koh
+  - Chew Min Hoe
+  - Chung Yip Chan
+  - Rachel Ten
+  - Brian KP Goh
+  - Alexander YF Chung
+  - Joanna Tan
+  - Cheryl Xueli Chan
+  - Su Ting Tay
+  - Lezhava Alexander
+  - Niranjan Nagarajan
+  - Axel M Hillmer
+  - Choon Leong Tang
+  - Clarinda Chua
+  - Bin Tean Teh
+  - Steve Rozen
+  - Patrick Tan
+  keywords: []
+  doi: https://doi.org/10.1186/s13059-015-0589-1
+- title: 'Ectopic gut colonization: a metagenomic study of the oral and gut microbiome
+    in Crohn’s disease'
+  authors:
+  - Shijia Hu
+  - Eileen Png
+  - Michelle Gowans
+  - David EH Ong
+  - Paola Florez de Sessions
+  - Jie Song
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1186/s13099-021-00409-5
+- title: Genome-wide identification of natural RNA aptamers in prokaryotes and eukaryotes
+  authors:
+  - Sidika Tapsin
+  - Miao Sun
+  - Yang Shen
+  - Huibin Zhang
+  - Xin Ni Lim
+  - Teodorus Theo Susanto
+  - Siwy Ling Yang
+  - Gui Sheng Zeng
+  - Jasmine Lee
+  - Alexander Lezhava
+  - Ee Lui Ang
+  - Lian Hui Zhang
+  - Yue Wang
+  - Huimin Zhao
+  - Niranjan Nagarajan
+  - Yue Wan
+  keywords: []
+  doi: https://doi.org/10.1038/s41467-018-03675-1
+- title: Computing the P-value of the information content from an alignment of multiple
+    sequences
+  authors:
+  - Niranjan Nagarajan
+  - Neil Jones
+  - Uri Keich
+  keywords: []
+  doi: https://doi.org/10.1093/bioinformatics/bti1044
+- title: Transcriptomics analysis reveals putative genes involved in biofilm formation
+    and biofilm-associated drug resistance of Enterococcus faecalis
+  authors:
+  - Chaminda J Seneviratne
+  - Tanujaa Suriyanarayanan
+  - Sanjay Swarup
+  - Kuan Hui Burton Chia
+  - Niranjan Nagarajan
+  - Chengfei Zhang
+  keywords: []
+  doi: https://doi.org/10.1016/j.joen.2017.01.020
+- title: Predicting heterogeneity in clone-specific therapeutic vulnerabilities using
+    single-cell transcriptomic signatures
+  authors:
+  - Chayaporn Suphavilai
+  - Shumei Chia
+  - Ankur Sharma
+  - Lorna Tu
+  - Rafael Peres Da Silva
+  - Aanchal Mongia
+  - Ramanuj DasGupta
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1186/s13073-021-01000-y
+- title: Emergence of tigecycline-and eravacycline-resistant Tet (X4)-producing Enterobacteriaceae
+    in the gut microbiota of healthy Singaporeans
+  authors:
+  - Yichen Ding
+  - Woei-Yuh Saw
+  - Linda Wei Lin Tan
+  - Don Kyin Nwe Moong
+  - Niranjan Nagarajan
+  - Yik Ying Teo
+  - Henning Seedorf
+  keywords: []
+  doi: https://doi.org/10.1093/jac/dkaa372
+- title: Direct whole-genome deep-sequencing of human respiratory syncytial virus
+    A and B from Vietnamese children identifies distinct patterns of inter-and intra-host
+    evolution
+  authors:
+  - Lien Anh Ha Do
+  - Andreas Wilm
+  - H Rogier van Doorn
+  - Ha Minh Lam
+  - Shuzhen Sim
+  - Rashmi Sukumaran
+  - Anh Tuan Tran
+  - Bach Hue Nguyen
+  - Thi Thu Loan Tran
+  - Quynh Huong Tran
+  - Quoc Bao Vo
+  - Nguyen Anh Tran Dac
+  - Hong Nhien Trinh
+  - Thi Thanh Hai Nguyen
+  - Bao Tinh Le Binh
+  - Khanh Le
+  - Minh Tien Nguyen
+  - Quang Tung Thai
+  - Thanh Vu Vo
+  - Ngoc Quang Minh Ngo
+  - Thi Kim Huyen Dang
+  - Ngoc Huong Cao
+  - Thu Van Tran
+  - Lu Viet Ho
+  - Jeremy Farrar
+  - Menno de Jong
+  - Swaine Chen
+  - Niranjan Nagarajan
+  - Juliet E Bryant
+  - Martin L Hibberd
+  keywords: []
+  doi: https://doi.org/10.1099/jgv.0.000298
+- title: An expectation-maximization algorithm enables accurate ecological modeling
+    using longitudinal microbiome sequencing data
+  authors:
+  - Chenhao Li
+  - Kern Rei Chng
+  - Junmei Samantha Kwah
+  - Tamar V Av-Shalom
+  - Lisa Tucker-Kellogg
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1186/s40168-019-0729-z
+- title: Systems consequences of amplicon formation in human breast cancer
+  authors:
+  - Koichiro Inaki
+  - Francesca Menghi
+  - Xing Yi Woo
+  - Joel P Wagner
+  - Pierre-Étienne Jacques
+  - Yi Fang Lee
+  - Phung Trang Shreckengast
+  - Wendy WeiJia Soon
+  - Ankit Malhotra
+  - Audrey SM Teo
+  - Axel M Hillmer
+  - Alexis Jiaying Khng
+  - Xiaoan Ruan
+  - Swee Hoe Ong
+  - Denis Bertrand
+  - Niranjan Nagarajan
+  - R Krishna Murthy Karuturi
+  - Alfredo Hidalgo Miranda
+  - Edison T Liu
+  keywords: []
+  doi: https://doi.org/10.1101/gr.164871.113
+- title: Emergence of SARS-CoV-2 spike mutations during prolonged infection in immunocompromised
+    hosts
+  authors:
+  - Karrie KK Ko
+  - Hatairat Yingtaweesittikul
+  - Thuan Tong Tan
+  - Limin Wijaya
+  - Delphine Yanhong Cao
+  - Sui Sin Goh
+  - Nurdyana Binte Abdul Rahman
+  - Kenneth XL Chan
+  - Hui Ming Tay
+  - James Heng Chiak Sim
+  - Kian Sing Chan
+  - Lynette LE Oon
+  - Niranjan Nagarajan
+  - Chayaporn Suphavilai
+  keywords: []
+  doi: https://doi.org/10.1128/spectrum.00791-22
+- title: Complete Genome Sequence of Aggregatibacter (Haemophilus) aphrophilus NJ8700
+  authors:
+  - Maria Pia Di Bonaventura
+  - Rob DeSalle
+  - Mihai Pop
+  - Niranjan Nagarajan
+  - David H Figurski
+  - Daniel H Fine
+  - Jeffrey B Kaplan
+  - Paul J Planet
+  keywords: []
+  doi: https://doi.org/10.32388/og39lh
+- title: Development of a genetically programed vanillin-sensing bacterium for high-throughput
+    screening of lignin-degrading enzyme libraries
+  authors:
+  - Barindra Sana
+  - Kuan Hui Burton Chia
+  - Sarada S Raghavan
+  - Balamurugan Ramalingam
+  - Niranjan Nagarajan
+  - Jayasree Seayad
+  - Farid J Ghadessy
+  keywords: []
+  doi: https://doi.org/10.1186/s13068-017-0720-5
+- title: '@ MInter: automated text-mining of microbial interactions'
+  authors:
+  - Kun Ming Kenneth Lim
+  - Chenhao Li
+  - Kern Rei Chng
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1093/bioinformatics/btw357
+- title: Comparative analysis of metagenomic classifiers for long-read sequencing
+    datasets
+  authors:
+  - Josip Marić
+  - Krešimir Križanović
+  - Sylvain Riondet
+  - Niranjan Nagarajan
+  - Mile Šikić
+  keywords: []
+  doi: https://doi.org/10.1186/s12859-024-05634-8
+- title: Genome-wide analysis of repetitive elements in papaya
+  authors:
+  - Niranjan Nagarajan
+  - Rafael Navajas-Pérez
+  - Mihai Pop
+  - Maqsudul Alam
+  - Ray Ming
+  - Andrew H Paterson
+  - Steven L Salzberg
+  keywords: []
+  doi: https://doi.org/10.1007/s12042-008-9015-0
+- title: Measurement of fetal fraction in cell-free DNA from maternal plasma using
+    a panel of insertion/deletion polymorphisms
+  authors:
+  - Angela N Barrett
+  - LI Xiong
+  - Tuan Z Tan
+  - Henna V Advani
+  - Rui Hua
+  - Cecille Laureano-Asibal
+  - Richie Soong
+  - Arijit Biswas
+  - Niranjan Nagarajan
+  - Mahesh Choolani
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pone.0186771
+- title: Duration of carbapenemase-producing Enterobacteriaceae carriage in hospital
+    patients
+  authors:
+  - Yin Mo
+  - Anastasia Hernandez-Koutoucheva
+  - Patrick Musicha
+  - Denis Bertrand
+  - David Lye
+  - Oon Tek Ng
+  - Shannon N Fenlon
+  - Swaine L Chen
+  - Moi Lin Ling
+  - Wen Ying Tang
+  - Timothy Barkham
+  - Niranjan Nagarajan
+  - Ben S Cooper
+  - Kalisvar Marimuthu
+  keywords: []
+  doi: https://doi.org/10.3201/eid2609.190592
+- title: Gut microbiome responses to dietary intervention with hypocholesterolemic
+    vegetable oils
+  authors:
+  - Rachel Rui Xia Lim
+  - Mi Ae Park
+  - Long Hui Wong
+  - Sumanto Haldar
+  - Kevin Junliang Lim
+  - Niranjan Nagarajan
+  - Christiani Jeyakumar Henry
+  - Yuan Rong Jiang
+  - Oleg Vladimirovich Moskvin
+  keywords: []
+  doi: https://doi.org/10.1038/s41522-022-00287-y
+- title: Next-generation whole genome sequencing of dengue virus
+  authors:
+  - Pauline Poh Kim Aw
+  - Paola Florez de Sessions
+  - Andreas Wilm
+  - Long Truong Hoang
+  - Niranjan Nagarajan
+  - October M Sessions
+  - Martin Lloyd Hibberd
+  keywords: []
+  doi: https://doi.org/10.1007/978-1-4939-0348-1_12
+- title: 'FinIS: Improved in silico Finishing Using an Exact Quadratic Programming
+    Formulation'
+  authors:
+  - Song Gao
+  - Denis Bertrand
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1007/978-3-642-33122-0_25
+- title: 'TUGDA: task uncertainty guided domain adaptation for robust generalization
+    of cancer drug response prediction from in vitro to in vivo settings'
+  authors:
+  - Rafael Peres da Silva
+  - Chayaporn Suphavilai
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1093/bioinformatics/btab299
+- title: Long-term ecological and evolutionary dynamics in the gut microbiomes of
+    carbapenemase-producing Enterobacteriaceae colonized subjects
+  authors:
+  - Jonathan TL Kang
+  - Jonathan JY Teo
+  - Denis Bertrand
+  - Amanda Ng
+  - Aarthi Ravikrishnan
+  - Melvin Yong
+  - Oon Tek Ng
+  - Kalisvar Marimuthu
+  - Swaine L Chen
+  - Kern Rei Chng
+  - Yunn-Hwen Gan
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1038/s41564-022-01221-w
+- title: Long span DNA paired-end-tag (DNA-PET) sequencing strategy for the interrogation
+    of genomic structural mutations and fusion-point-guided reconstruction of amplicons
+  authors:
+  - Fei Yao
+  - Pramila N Ariyaratne
+  - Axel M Hillmer
+  - Wah Heng Lee
+  - Guoliang Li
+  - Audrey SM Teo
+  - Xing Yi Woo
+  - Zhenshui Zhang
+  - Jieqi P Chen
+  - Wan Ting Poh
+  - Kelson FB Zawack
+  - Chee Seng Chan
+  - See Ting Leong
+  - Say Chuan Neo
+  - Poh Sum D Choi
+  - Song Gao
+  - Niranjan Nagarajan
+  - Herve Thoreau
+  - Atif Shahab
+  - Xiaoan Ruan
+  - Valere Cacheux-Rataboul
+  - Chia-Lin Wei
+  - Guillaume Bourque
+  - Wing-Kin Sung
+  - Edison T Liu
+  - Yijun Ruan
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pone.0046152
+- title: Reliability and efficiency of algorithms for computing the significance of
+    the Mann–Whitney test
+  authors:
+  - Niranjan Nagarajan
+  - Uri Keich
+  keywords: []
+  doi: https://doi.org/10.1007/s00180-009-0148-x
+- title: Shared signatures and divergence in skin microbiomes of children with atopic
+    dermatitis and their caregivers
+  authors:
+  - Minghao Chia
+  - Ahmad NM Naim
+  - Angeline SL Tay
+  - Karmun Lim
+  - Kean Lee Chew
+  - See Jie Yow
+  - John Chen
+  - John EA Common
+  - Niranjan Nagarajan
+  - Elizabeth Huiwen Tham
+  keywords: []
+  doi: https://doi.org/10.1016/j.jaci.2022.01.031
+- title: Development and application of a transcriptional sensor for detection of
+    heterologous acrylic acid production in E. coli
+  authors:
+  - Sarada S Raghavan
+  - Sharon Chee
+  - Juntao Li
+  - Jeremie Poschmann
+  - Niranjan Nagarajan
+  - Siau Jia Wei
+  - Chandra S Verma
+  - Farid J Ghadessy
+  keywords: []
+  doi: https://doi.org/10.1186/s12934-019-1185-y
+- title: Graphmap2-splice-aware RNA-seq mapper for long reads
+  authors:
+  - Josip Marić
+  - Ivan Sović
+  - Krešimir Križanović
+  - Niranjan Nagarajan
+  - Mile Šikić
+  keywords: []
+  doi: https://doi.org/10.1101/720458
+- title: Short-chain fatty acids of various lengths differentially inhibit Klebsiella
+    pneumoniae and Enterobacteriaceae species
+  authors:
+  - Kai Chirng Chang
+  - Niranjan Nagarajan
+  - Yunn-Hwen Gan
+  keywords: []
+  doi: https://doi.org/10.32545/encyclopedia202005.0006.v2
+- title: Evaluating the accuracy of Listeria monocytogenes assemblies from quasimetagenomic
+    samples using long and short reads
+  authors:
+  - Seth Commichaux
+  - Kiran Javkar
+  - Padmini Ramachandran
+  - Niranjan Nagarajan
+  - Denis Bertrand
+  - Yi Chen
+  - Elizabeth Reed
+  - Narjol Gonzalez-Escalona
+  - Errol Strain
+  - Hugh Rand
+  - Mihai Pop
+  - Andrea Ottesen
+  keywords: []
+  doi: https://doi.org/10.1186/s12864-021-07702-2
+- title: ConsensusDriver improves upon individual algorithms for predicting driver
+    alterations in different cancer types and individual patients
+  authors:
+  - Denis Bertrand
+  - Sibyl Drissler
+  - Burton K Chia
+  - Jia Yu Koh
+  - Chenhao Li
+  - Chayaporn Suphavilai
+  - Iain Beehuat Tan
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1158/0008-5472.can-17-1345
+- title: 'CREAMMIST: an integrative probabilistic database for cancer drug response
+    prediction'
+  authors:
+  - Hatairat Yingtaweesittikul
+  - Jiaxi Wu
+  - Aanchal Mongia
+  - Rafael Peres
+  - Karrie Ko
+  - Niranjan Nagarajan
+  - Chayaporn Suphavilai
+  keywords: []
+  doi: https://doi.org/10.1093/nar/gkac911
+- title: Profiling microbial communities in idiopathic granulomatous mastitis
+  authors:
+  - Seeu Si Ong
+  - Jia Xu
+  - Choon Kiat Sim
+  - Alexis Jiaying Khng
+  - Peh Joo Ho
+  - Philip Kam Weng Kwan
+  - Aarthi Ravikrishnan
+  - Kiat-Tee Benita Tan
+  - Qing Ting Tan
+  - Ern Yu Tan
+  - Su-Ming Tan
+  - Thomas Choudary Putti
+  - Swee Ho Lim
+  - Ee Ling Serene Tang
+  - Niranjan Nagarajan
+  - Neerja Karnani
+  - Jingmei Li
+  - Mikael Hartman
+  keywords: []
+  doi: https://doi.org/10.3390/ijms24021042
+- title: The skin microbiome in pediatric atopic dermatitis and food allergy
+  authors:
+  - Elizabeth Huiwen Tham
+  - Minghao Chia
+  - Carmen Riggioni
+  - Niranjan Nagarajan
+  - John EA Common
+  - Heidi H Kong
+  keywords: []
+  doi: https://doi.org/10.22541/au.169656855.51479694/v1
+- title: Dominant carbapenemase-encoding plasmids in clinical Enterobacterales isolates
+    and hypervirulent Klebsiella pneumoniae, Singapore
+  authors:
+  - Melvin Yong
+  - Yahua Chen
+  - Guodong Oo
+  - Kai Chirng Chang
+  - Wilson HW Chu
+  - Jeanette Teo
+  - Indumathi Venkatachalam
+  - Natascha May Thevasagayam
+  - Prakki S Rama Sridatta
+  - Vanessa Koh
+  - Andrés E Marcoleta
+  - Hanrong Chen
+  - Niranjan Nagarajan
+  - Marimuthu Kalisvar
+  - Oon Tek Ng
+  - Yunn-Hwen Gan
+  keywords: []
+  doi: https://doi.org/10.3201/eid2808.212542
+- title: 'OPTIMA: Sensitive and accurate whole-genome alignment of error-prone genomic
+    maps by combinatorial indexing and technology-agnostic statistical analysis'
+  authors:
+  - Davide Verzotto
+  - Audrey SM Teo
+  - Axel M Hillmer
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1186/s13742-016-0110-0
+- title: Extended-Spectrum β-Lactamase-Producing and mcr-1-Positive Escherichia coli
+    from the Gut Microbiota of Healthy Singaporeans
+  authors:
+  - Yichen Ding
+  - Woei-Yuh Saw
+  - Linda Wei Lin Tan
+  - Don Kyin Nwe Moong
+  - Niranjan Nagarajan
+  - Yik Ying Teo
+  - Henning Seedorf
+  keywords: []
+  doi: https://doi.org/10.1016/s1473-3099(20)30116-x
+- title: Mapping RNA-RNA interactions globally using biotinylated psoralen
+  authors:
+  - Jong Ghut Ashley Aw
+  - Yang Shen
+  - Niranjan Nagarajan
+  - Yue Wan
+  keywords: []
+  doi: https://doi.org/10.3791/55255-v
+- title: A fast and numerically robust method for exact multinomial goodness-of-fit
+    test
+  authors:
+  - Uri Keich
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1198/106186006x159377
+- title: Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny
+  authors:
+  - Martin Hunt
+  - Angie S Hinrichs
+  - Daniel Anderson
+  - Lily Karim
+  - Bethany L Dearlove
+  - Jeff Knaggs
+  - Bede Constantinides
+  - Philip W Fowler
+  - Gillian Rodger
+  - Teresa Street
+  - Sheila Lumley
+  - Hermione Webster
+  - Theo Sanderson
+  - Christopher Ruis
+  - Benjamin Kotzen
+  - Nicola de Maio
+  - Lucas N Amenga-Etego
+  - Dominic SY Amuzu
+  - Martin Avaro
+  - Gordon A Awandare
+  - Reuben Ayivor-Djanie
+  - Timothy Barkham
+  - Matthew Bashton
+  - Elizabeth M Batty
+  - Yaw Bediako
+  - Denise De Belder
+  - Estefania Benedetti
+  - Andreas Bergthaler
+  - Stefan A Boers
+  - Josefina Campos
+  - Rosina Afua Ampomah Carr
+  - Yuan Yi Constance Chen
+  - Facundo Cuba
+  - Maria Elena Dattero
+  - Wanwisa Dejnirattisai
+  - Alexander Dilthey
+  - Kwabena Obeng Duedu
+  - Lukas Endler
+  - Ilka Engelmann
+  - Ngiambudulu M Francisco
+  - Jonas Fuchs
+  - Etienne Z Gnimpieba
+  - Soraya Groc
+  - Jones Gyamfi
+  - Dennis Heemskerk
+  - Torsten Houwaart
+  - Nei-yuan Hsiao
+  - Matthew Huska
+  - Martin Hölzer
+  - Arash Iranzadeh
+  - Hanna Jarva
+  - Chandima Jeewandara
+  - Bani Jolly
+  - Rageema Joseph
+  - Ravi Kant
+  - Karrie Ko Kwan Ki
+  - Satu Kurkela
+  - Maija Lappalainen
+  - Marie Lataretu
+  - Jacob Lemieux
+  - Chang Liu
+  - Gathsaurie Neelika Malavige
+  - Tapfumanei Mashe
+  - Juthathip Mongkolsapaya
+  - Brigitte Montes
+  - Jose Arturo Molina Mora
+  - Collins M Morang’a
+  - Bernard Mvula
+  - Niranjan Nagarajan
+  - Andrew Nelson
+  - Joyce M Ngoi
+  - Joana Paula da Paixão
+  - Marcus Panning
+  - Tomas Poklepovich
+  - Peter K Quashie
+  - Diyanath Ranasinghe
+  - Mara Russo
+  - James Emmanuel San
+  - Nicholas D Sanderson
+  - Vinod Scaria
+  - Gavin Screaton
+  - October Michael Sessions
+  - Tarja Sironen
+  - Abay Sisay
+  - Darren Smith
+  - Teemu Smura
+  - Piyada Supasa
+  - Chayaporn Suphavilai
+  - Jeremy Swann
+  - Houriiyah Tegally
+  - Bryan Tegomoh
+  - Olli Vapalahti
+  - Andreas Walker
+  - Robert J Wilkinson
+  - Carolyn Williamson
+  - Xavier Zair
+  - Tulio de Oliveira
+  - Timothy EA Peto
+  - Derrick Crook
+  - IMSSC2 Laboratory Network Consortium
+  keywords: []
+  doi: https://doi.org/10.1101/2024.04.29.591666
+- title: The importance of study design for detecting differentially abundant features
+    in high-throughput experiments
+  authors:
+  - Huaien Luo
+  - Juntao Li
+  - Burton Kuan Hui Chia
+  - Paul Robson
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/007948
+- title: Boosting natural history research via metagenomic clean-up of crowdsourced
+    feces
+  authors:
+  - Amrita Srivathsan
+  - Niranjan Nagarajan
+  - Rudolf Meier
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pbio.3000517
+- title: Hypervirulent Klebsiella pneumoniae employs genomic island encoded toxins
+    against bacterial competitors in the gut
+  authors:
+  - Yi Han Tan
+  - Patricio Arros
+  - Camilo Berríos-Pastén
+  - Indrik Wijaya
+  - Wilson HW Chu
+  - Yahua Chen
+  - Guoxiang Cheam
+  - Ahmad Nazri Mohamed Naim
+  - Andrés E Marcoleta
+  - Aarthi Ravikrishnan
+  - Niranjan Nagarajan
+  - Rosalba Lagos
+  - Yunn-Hwen Gan
+  keywords: []
+  doi: https://doi.org/10.2147/idr.s418523
+- title: Mutual exclusion of Methanobrevibacter species in the human gut microbiota
+    facilitates directed cultivation of a Candidatus Methanobrevibacter intestini
+    representative
+  authors:
+  - Adrian Low
+  - Jolie Kar Yi Lee
+  - Jean-Sebastien Gounot
+  - Aarthi Ravikrishnan
+  - Yichen Ding
+  - Woei-Yuh Saw
+  - Linda Wei Lin Tan
+  - Don Kyin Nwe Moong
+  - Yik Ying Teo
+  - Niranjan Nagarajan
+  - Henning Seedorf
+  keywords: []
+  doi: https://doi.org/10.1128/spectrum.00849-22
+- title: SARS-CoV-2 N gene G29195T point mutation may affect diagnostic reverse transcription-PCR
+    detection
+  authors:
+  - Karrie KK Ko
+  - Nurdyana Binte Abdul Rahman
+  - Shireen Yan Ling Tan
+  - Kenneth XL Chan
+  - Sui Sin Goh
+  - James Heng Chiak Sim
+  - Kun Lee Lim
+  - Wan Loo Tan
+  - Kian Sing Chan
+  - Lynette LE Oon
+  - Niranjan Nagarajan
+  - Chayaporn Suphavilai
+  keywords: []
+  doi: https://doi.org/10.1128/spectrum.02223-21
+- title: Genome sequencing of four strains of Rickettsia prowazekii, the causative
+    agent of epidemic typhus, including one flying squirrel isolate
+  authors:
+  - Kimberly A Bishop-Lilly
+  - Hong Ge
+  - Amy Butani
+  - Brian Osborne
+  - Kathleen Verratti
+  - Vishwesh Mokashi
+  - Niranjan Nagarajan
+  - Mihai Pop
+  - Timothy D Read
+  - Allen L Richards
+  keywords: []
+  doi: https://doi.org/10.1128/genomea.00399-13
+- title: Single-molecule optical genome mapping of a human HapMap and a colorectal
+    cancer cell line
+  authors:
+  - Audrey SM Teo
+  - Davide Verzotto
+  - Fei Yao
+  - Niranjan Nagarajan
+  - Axel M Hillmer
+  keywords: []
+  doi: https://doi.org/10.1186/s13742-015-0106-1
+- title: 'Apples to apples: improving the performance of motif finders and their significance
+    analysis in the Twilight Zone'
+  authors:
+  - Patrick Ng
+  - Niranjan Nagarajan
+  - Neil Jones
+  - Uri Keich
+  keywords: []
+  doi: https://doi.org/10.1093/bioinformatics/btl245
+- title: 'CalmBelt: rapid SARS-CoV-2 genome characterization for outbreak tracking'
+  authors:
+  - Hatairat Yingtaweesittikul
+  - Karrie Ko
+  - Nurdyana Abdul Rahman
+  - Shireen Yan Ling Tan
+  - Niranjan Nagarajan
+  - Chayaporn Suphavilai
+  keywords: []
+  doi: https://doi.org/10.3389/fmed.2021.790662
+- title: Stool metagenome analysis of patients with Klebsiella pneumoniae liver abscess
+    and their domestic partners
+  authors:
+  - James S Molton
+  - I Russel Lee
+  - Denis Bertrand
+  - Ying Ding
+  - Shirin Kalimuddin
+  - David C Lye
+  - Niranjan Nagarajan
+  - Yunn-Hwen Gan
+  - Sophia Archuleta
+  keywords: []
+  doi: https://doi.org/10.1016/j.ijid.2021.04.012
+- title: Draft genome sequence of polychlorinated biphenyl-dechlorinating Dehalococcoides
+    mccartyi strain SG1, which carries a circular putative plasmid
+  authors:
+  - Shanquan Wang
+  - Kern Rei Chng
+  - Chen Wu
+  - Andreas Wilm
+  - Niranjan Nagarajan
+  - Jianzhong He
+  keywords: []
+  doi: https://doi.org/10.1128/genomea.00901-14
+- title: 'FAST: Fourier transform based algorithms for significance testing of ungapped
+    multiple alignments'
+  authors:
+  - Niranjan Nagarajan
+  - Uri Keich
+  keywords: []
+  doi: https://doi.org/10.1093/bioinformatics/btm594
+- title: Gut metagenomes of Asian octogenarians reveal metabolic potential expansion
+    and distinct microbial species associated with aging phenotypes
+  authors:
+  - Aarthi Ravikrishnan
+  - Indrik Wijaya
+  - Eileen Png
+  - Kern Rei Chng
+  - Eliza Xin Pei Ho
+  - Amanda Hui Qi Ng
+  - Ahmad Nazri Mohamed Naim
+  - Jean-Sebastien Gounot
+  - Shou Ping Guan
+  - Jasinda Lee Hanqing
+  - Lihuan Guan
+  - Chenhao Li
+  - Jia Yu Koh
+  - Paola Florez de Sessions
+  - Woon-Puay Koh
+  - Lei Feng
+  - Tze Pin Ng
+  - Anis Larbi
+  - Andrea B Maier
+  - Brian K Kennedy
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/2024.07.08.602612
+- title: 'BEEM-Static: Accurate inference of ecological interactions from cross-sectional
+    microbiome data'
+  authors:
+  - Chenhao Li
+  - Tamar V Av-Shalom
+  - Jun Wei Gerald Tan
+  - Junmei Samantha Kwah
+  - Kern Rei Chng
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1371/journal.pcbi.1009343
+- title: 'Household transmission of carbapenemase-producing Enterobacteriaceae: a
+    prospective cohort study'
+  authors:
+  - Kalisvar Marimuthu
+  - Yin Mo
+  - Moi Lin Ling
+  - Anastasia Hernandez-Koutoucheva
+  - Shannon N Fenlon
+  - Denis Bertrand
+  - David Chien Lye
+  - Brenda Sze Peng Ang
+  - Eli Perencevich
+  - Oon Tek Ng
+  - Ben S Cooper
+  - Niranjan Nagarajan
+  - Swaine L Chen
+  - Timothy Barkham
+  keywords: []
+  doi: https://doi.org/10.1093/jac/dkaa561
+- title: Genomic patterns of divergence in the early and late steps of speciation
+    of the deep-sea vent thermophilic worms of the genus Alvinella
+  authors:
+  - Camille Thomas-Bulle
+  - Denis Bertrand
+  - Niranjan Nagarajan
+  - Richard R Copley
+  - Erwan Corre
+  - Stéphane Hourdez
+  - Éric Bonnivard
+  - Adam Claridge-Chang
+  - Didier Jollivet
+  keywords: []
+  doi: https://doi.org/10.1186/s12862-022-02057-y
+- title: Single-virion sequencing of lamivudine-treated HBV populations reveal population
+    evolution dynamics and demographic history
+  authors:
+  - Yuan O Zhu
+  - Pauline PK Aw
+  - Paola Florez de Sessions
+  - Shuzhen Hong
+  - Lee Xian See
+  - Lewis Z Hong
+  - Andreas Wilm
+  - Chen Hao Li
+  - Stephane Hue
+  - Seng Gee Lim
+  - Niranjan Nagarajan
+  - William F Burkholder
+  - Martin Hibberd
+  keywords: []
+  doi: https://doi.org/10.1186/s12864-017-4217-1
+- title: Guidelines for preventing and reporting contamination in low-biomass microbiome
+    studies
+  authors:
+  - Noah Fierer
+  - Pok Man Leung
+  - Rachael Lappan
+  - Raphael Eisenhofer
+  - Francesco Ricci
+  - Sophie I Holland
+  - Nicholas Dragone
+  - Linda L Blackall
+  - Xiyang Dong
+  - Cristina Dorador
+  - Belinda C Ferrari
+  - Jacqueline Goordial
+  - Susan P Holmes
+  - Fumio Inagaki
+  - Tal Korem
+  - Simone S Li
+  - Thulani P Makhalanyane
+  - Jessica L Metcalf
+  - Niranjan Nagarajan
+  - William D Orsi
+  - Erin R Shanahan
+  - Alan W Walker
+  - Laura S Weyrich
+  - Jack A Gilbert
+  - Amy D Willis
+  - Benjamin J Callahan
+  - Ashley Shade
+  - Julian Parkhill
+  - Jillian F Banfield
+  - Chris Greening
+  keywords: []
+  doi: https://doi.org/10.1038/s41564-025-02035-2
+- title: Genome assembly and chemogenomic profiling of National Flower of Singapore
+    Papilionanthe Miss Joaquim ‘Agnes’ reveals metabolic pathways regulating floral
+    traits
+  authors:
+  - Abner Herbert Lim
+  - Zhen Jie Low
+  - Prashant Narendra Shingate
+  - Jing Han Hong
+  - Shu Chen Chong
+  - Cedric Chuan Young Ng
+  - Wei Liu
+  - Robert Vaser
+  - Mile Šikić
+  - Wing-Kin Ken Sung
+  - Niranjan Nagarajan
+  - Patrick Tan
+  - Bin Tean Teh
+  keywords: []
+  doi: https://doi.org/10.1038/s42003-022-03940-6
+- title: REFINING MOTIF FINDERS WITH -VALUE CALCULATIONS
+  authors:
+  - Niranjan Nagarajan
+  - Patrick Ng
+  - Uri Keich
+  keywords: []
+  doi: https://doi.org/10.1142/9781848162525_0018
+- title: 'Life stage impact on the human skin ecosystem: lipids and the microbial
+    community'
+  authors:
+  - Martin P Pagac
+  - Bala Davient
+  - Luca Antonio Plado
+  - Hilbert Yuen In Lam
+  - Shi Mun Lee
+  - Aarthi Ravikrishnan
+  - Wee Ling Esther Chua
+  - Sneha Muralidharan
+  - Aishwarya Sridharan
+  - Antony S Irudayaswamy
+  - Ramasamy Srinivas
+  - Stephen Wearne
+  - Ahmad Nazri Mohamed Naim
+  - Eliza Xin Pei Ho
+  - HQ Amanda Ng
+  - Junmei Samantha Kwah
+  - Eileen Png
+  - Anne K Bendt
+  - Markus R Wenk
+  - Federico Torta
+  - Niranjan Nagarajan
+  - John Common
+  - Yap Seng Chong
+  - Elizabeth Huiwen Tham
+  - Lynette Pei-Chi Shek
+  - Evelyn Xiu Ling Loo
+  - John Chambers
+  - Yik Weng Yew
+  - Marie Loh
+  - Thomas L Dawson Jr
+  keywords: []
+  doi: https://doi.org/10.1101/2024.01.03.573871
+- title: Benchmark data sets, software results and reference data for the first CAMI
+    challenge
+  authors:
+  - Alexander Sczyrba
+  - Peter Hofman
+  - Peter Belmann
+  - David Koslicki
+  - Stefan Janssen
+  - Johannes Dröge
+  - Ivan Gregor
+  - Stephan Majda
+  - Jessika Fiedler
+  - Eik Dahms
+  - Andreas Bremges
+  - Adrian Fritz
+  - Ruben Garrido-Oter
+  - Tue Sparholt Jørgensen
+  - Nicole Shapiro
+  - Philip D Blood
+  - Alexey Gurevich
+  - Yang Bai
+  - Dmitrij Turaev
+  - Matthew Z DeMaere
+  - Rayan Chikhi
+  - Niranjan Nagarajan
+  - Christopher Quince
+  - Fern Meyer
+  - Monika Balvočiūtė
+  - Lars Hestbjerg Hansen
+  - Søren J Sørensen
+  - Burton KH Chia
+  - Bertr Denis
+  - Jeff L Froula
+  - Zhong Wang
+  - Robert Egan
+  - Dongwan Don Kang
+  - Jeffrey J Cook
+  - Charles Deltel
+  - Michael Beckstette
+  - Claire Lemaitre
+  - Pierre Peterlongo
+  - Guillaume Rizk
+  - Dominique Lavenier
+  - Yu-Wei Wu
+  - Steven W Singer
+  - Chirag Jain
+  - Marc Strous
+  - Heiner Klingenberg
+  - Peter Meinicke
+  - Michael Barton
+  - Thomas Lingner
+  - Hsin-Hung Lin
+  - Yu-Chieh Liao
+  - Genivaldo Gueiros Z Silva
+  - Daniel A Cuevas
+  - Robert A Edwards
+  - Surya Saha
+  - Vitor C Piro
+  - Bernhard Y Renard
+  - Mihai Pop
+  - Hans-Peter Klenk
+  - Markus Göker
+  - Nikos C Kyrpides
+  - Tanja Woyke
+  - Julia A Vorholt
+  - Paul Schulze-Lefert
+  - Edward M Rubin
+  - Aaron E Darling
+  - Thomas Rattei
+  - Alice C McHardy
+  keywords: []
+  doi: null
+- title: 'Floria: fast and accurate strain haplotyping in metagenomes'
+  authors:
+  - Jim Shaw
+  - Jean-Sebastien Gounot
+  - Hanrong Chen
+  - Niranjan Nagarajan
+  - Yun William Yu
+  keywords: []
+  doi: https://doi.org/10.1101/2024.01.28.577669
+- title: Clonal serotype 1c multidrug-resistant Shigella flexneri detected in multiple
+    institutions by sentinel-site sequencing
+  authors:
+  - Karrie KK Ko
+  - Joash Jun Keat Chu
+  - Kar Mun Lim
+  - Hatairat Yingtaweesittikul
+  - Wenjie Huang
+  - Shireen Yan Ling Tan
+  - Kenneth Choon Meng Goh
+  - Si Huei Tan
+  - Tong Yong Ng
+  - Matthias Maiwald
+  - Jonathan Wei Zhong Chia
+  - Delphine Yanhong Cao
+  - Yen Ee Tan
+  - James Heng Chiak Sim
+  - Tse Hsien Koh
+  - Niranjan Nagarajan
+  - Chayaporn Suphavilai
+  keywords: []
+  doi: https://doi.org/10.3389/fmed.2022.964640
+- title: Skin metatranscriptomics reveals a landscape of variation in microbial activity
+    and gene expression across the human body
+  authors:
+  - Minghao Chia
+  - Amanda Hui Qi Ng
+  - Aarthi Ravikrishnan
+  - Ahmad Nazri Mohamed Naim
+  - Stephen Wearne
+  - John Common
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/2024.12.02.626500
+- title: 'MetageNN: a memory-efficient neural network taxonomic classifier robust
+    to sequencing errors and missing genomes'
+  authors:
+  - Rafael Peres da Silva
+  - Chayaporn Suphavilai
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/2023.12.01.569515
+- title: Comparison of tet(X4)-containing contigs assembled from metagenomic sequencing
+    data with plasmid sequences of isolates from a cohort of healthy subjects
+  authors:
+  - Yichen Ding
+  - Shuan Er
+  - Abel Tan
+  - Jean-Sebastien Gounot
+  - Woei-Yuh Saw
+  - Linda Wei Lin Tan
+  - Yik Ying Teo
+  - Niranjan Nagarajan
+  - Henning Seedorf
+  keywords: []
+  doi: https://doi.org/10.1128/spectrum.03969-23
+- title: Leveraging wastewater sequencing to strengthen global public health surveillance
+  authors:
+  - Victor Gordeev
+  - Martin Hölzer
+  - Daniel Desirò
+  - Iryna V Goraichuk
+  - Sergey Knyazev
+  - Helena Solo-Gabriele
+  - Pavel Skums
+  - Smruthi Karthikeyan
+  - Alexandria Evans
+  - Shelesh Agrawal
+  - Alexander G Lucaci
+  - Christopher E Mason
+  - Justin M Su
+  - Cynthia Gibas
+  - Niranjan Nagarajan
+  - Rafael Peres da Silva
+  - Nicolae Drabcinski
+  - Viorel Munteanu
+  - Lingyu Zhan
+  - Julia Rubin
+  - Nicholas C Wu
+  - Andrew Trister
+  - Dumitru Ciorba
+  - Viorel Bostan
+  - Andrei Lobiuc
+  - Mihai Covasa
+  - Roel A Ophoff
+  - Alex Zelikovsky
+  - Mihai Dimian
+  - Serghei Mangul
+  keywords: []
+  doi: https://doi.org/10.1186/s44263-025-00138-w
+- title: 'CAN-Scan: A multi-omic phenotype-driven precision oncology platform identifies
+    prognostic biomarkers of therapy response for colorectal cancer'
+  authors:
+  - Shumei Chia
+  - Justine Jia Wen Seow
+  - Rafael Peres da Silva
+  - Chayaporn Suphavilai
+  - Niranjan Shirgaonkar
+  - Maki Murata-Hori
+  - Xiaoqian Zhang
+  - Elena Yaqing Yong
+  - Jiajia Pan
+  - Matan Thangavelu Thangavelu
+  - Giridharan Periyasamy
+  - Aixin Yap
+  - Padmaja Anand
+  - Daniel Muliaditan
+  - Yun Shen Chan
+  - Wang Siyu
+  - Chua Wei Yong
+  - Nguyen Hong
+  - Gao Ran
+  - Ngak Leng Sim
+  - Yu Amanda Guo
+  - Andrea Xin Yi Teh
+  - Clarinda Chua Wei Ling
+  - Emile Kwong Wei Tan
+  - Fu Wan Pei Cherylin
+  - Meihuan Chang
+  - Shuting Han
+  - Isaac Seow-En
+  - Lionel Raphael Chen Hui
+  - Anna Hwee Hsia Gan
+  - Choon Kong Yap
+  - Huck Hui Ng
+  - Anders Jacobsen Skanderup
+  - Vitoon Chinswangwatanakul
+  - Woramin Riansuwan
+  - Atthaphorn Trakarnsanga
+  - Manop Pithukpakorn
+  - Pariyada Tanjak
+  - Amphun Chaiboonchoe
+  - Daye Park
+  - Dong Keon Kim
+  - Narayanan Gopalakrishna Iyer
+  - Petros Tsantoulis
+  - Sabine Tejpar
+  - Jung Eun Kim
+  - Tae Il Kim
+  - Somponnat Sampattavanich
+  - Iain Beehuat Tan
+  - Niranjan Nagarajan
+  - Ramanuj DasGupta
+  keywords: []
+  doi: https://doi.org/10.1016/j.xcrm.2025.102053
+- title: Task uncertainty loss reduce negative transfer in asymmetric multi-task feature
+    learning (student abstract)
+  authors:
+  - Rafael Peres Da Silva
+  - Chayaporn Suphavilai
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1609/aaai.v35i18.17930
+- title: Papaya Repeat Database
+  authors:
+  - Niranjan Nagarajan
+  - Rafael Navajas-Pérez
+  keywords: []
+  doi: https://doi.org/10.1007/978-1-4614-8087-7_13
+- title: 'Integrative genomic analyses of European intrahepatic cholangiocarcinoma:
+    Novel ROS1 fusion gene and PBX1 as prognostic marker'
+  authors:
+  - Patrick S Plum
+  - Timo Hess
+  - Denis Bertrand
+  - Isabelle Morgenstern
+  - Oscar Velazquez Camacho
+  - Christoph Jonas
+  - Christina Alidousty
+  - Britta Wagner
+  - Stephanie Roessler
+  - Thomas Albrecht
+  - Jessica Becker
+  - Vanessa Richartz
+  - Barbara Holz
+  - Sascha Hoppe
+  - Huay Mei Poh
+  - Burton Kuan Hui Chia
+  - Cheryl Xueli Chan
+  - Thushangi Pathiraja
+  - Audrey SM Teo
+  - Jens U Marquardt
+  - Alexis Khng
+  - Michael Heise
+  - Yao Fei
+  - René Thieme
+  - Sebastian Klein
+  - Jing Han Hong
+  - Simona O Dima
+  - Irinel Popescu
+  - Maria Hoppe‐Lotichius
+  - Reinhard Buettner
+  - Anja Lautem
+  - Gerd Otto
+  - Alexander Quaas
+  - Niranjan Nagarajan
+  - Steve Rozen
+  - Bin Tean Teh
+  - Benjamin Goeppert
+  - Uta Drebber
+  - Hauke Lang
+  - Patrick Tan
+  - Ines Gockel
+  - Johannes Schumacher
+  - Axel M Hillmer
+  keywords: []
+  doi: https://doi.org/10.1002/ctm2.1723
+- title: Optimizing source tracking of Listeria monocytogenes with quasimetagenomics
+    and integrated long and short read sequencing
+  authors:
+  - Seth Commichaux
+  - Kiran Javkar
+  - Padmini Ramachandran
+  - Niranjan Nagarajan
+  - Denis Bertrand
+  - Yi Chen
+  - Elizabeth Reed
+  - Narjol Gonzalez-Escalona
+  - Errol Strain
+  - Hugh Rand
+  - Mihai Pop
+  - Andrea Ottesen
+  keywords: []
+  doi: https://doi.org/10.21203/rs.3.rs-119006/v1
+- title: Statistical techniques for biological motif discovery
+  authors:
+  - Niranjan Nagarajan
+  keywords: []
+  doi: null
+- title: Challenges and Opportunities in Analyzing Cancer-Associated Microbiomes
+  authors:
+  - Minghao Chia
+  - Mihai Pop
+  - Steven L Salzberg
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1158/0008-5472.can-24-3629
+- title: Comparative Genomics of DH5α-Inhibiting Escherichia coli Isolates from Feces
+    of Healthy Individuals Reveals Common Co-Occurrence of Bacteriocin Genes with
+    Virulence Factors and Antibiotic Resistance Genes
+  authors:
+  - Shuan Er
+  - Yichen Ding
+  - Linda Wei Lin Tan
+  - Yik Ying Teo
+  - Niranjan Nagarajan
+  - Henning Seedorf
+  keywords: []
+  doi: https://doi.org/10.3390/antibiotics14090860
+- title: Assessing Zoonotic Risks of Blastocystis Infection in Singapore
+  authors:
+  - Thet Tun Aung
+  - Charlotte Kai Qi How
+  - Jean-Marc Chavatte
+  - Nazmi Bin Nazir
+  - Edgar Macabe Pena
+  - Bryan Ogden
+  - Grace Rou’en Lim
+  - Yasmina Arditi Paramastri
+  - Lois Anne Zitzow
+  - Hanrong Chen
+  - Niranjan Nagarajan
+  - Kevin Shyong Wei Tan
+  - Benoit Malleret
+  keywords: []
+  doi: https://doi.org/10.3390/pathogens14080773
+- title: Direct high-throughput deconvolution of non-canonical bases via nanopore
+    sequencing and bootstrapped learning
+  authors:
+  - Mauricio Perez
+  - Michiko Kimoto
+  - Priscilla Rajakumar
+  - Chayaporn Suphavilai
+  - Rafael Peres da Silva
+  - Hui Pen Tan
+  - Nicholas Ting Xun Ong
+  - Hannah Nicholas
+  - Ichiro Hirao
+  - Wei Leong Chew
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1038/s41467-025-62347-z
+- title: High-throughput single-cell isolation of Bifidobacterium strains from the
+    gut microbiome
+  authors:
+  - Lam Hai Ha
+  - Yue Yuan On
+  - Clarice Pohan
+  - Jungwon Lee
+  - Shaun Hong Chuen How
+  - Yik-Ying Teo
+  - Henning Seedorf
+  - Jean-Sebastien Gounot
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/2025.07.23.666462
+- title: RNA structural heterogeneity in a eukaryotic cell influences its heat shock
+    response
+  authors:
+  - Jiaxu Wang
+  - Han Jian
+  - Wen Ting Tan
+  - Anthony Cheng
+  - Jong Ghut Ashley Aw
+  - Yue Wang
+  - Guisheng Zeng
+  - Niranjan Nagarajan
+  - Yue Wan
+  keywords: []
+  doi: https://doi.org/10.1101/2025.07.06.663400
+- title: Citywide metagenomic surveillance of food centres reveals local microbial
+    signatures and antibiotic resistance gene enrichment
+  authors:
+  - Jonathan JY Teo
+  - Eliza Xin Pei Ho
+  - Amanda Hui Qi Ng
+  - Shaun Hong Chuen How
+  - Kern Rei Chng
+  - Yiğit Can Ateş
+  - Muhd Tarmidzi Fau’di
+  - Kyaw Thu Aung
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/2024.07.28.24310840
+- title: Malassezia and the Asian menopausal skin
+  authors:
+  - Bala Davient
+  - Jagpreet Kaur Rikhraj
+  - Aarthi Ravikrishnan
+  - Pritisha Rozario
+  - Cheryl Leong
+  - Ahmad Nazri Mohamed Naim
+  - Nathania Chan
+  - HELIOS Study Team
+  - John Common
+  - John Campbell Chambers
+  - Yik Weng Yew
+  - Marie Loh
+  - Niranjan Nagarajan
+  - Thomas Larry Dawson Jr
+  keywords: []
+  doi: https://doi.org/10.1007/978-3-642-03616-3
+- title: Comparative genomics of DH5α-inhibiting Escherichia coli isolates from human
+    feces reveals common co-occurrence of bacteriocin genes with virulence factors
+    and antibiotic resistance genes
+  authors:
+  - Shuan Er
+  - Yichen Ding
+  - Linda Wei Lin Tan
+  - Yik Ying Teo
+  - Niranjan Nagarajan
+  - Henning Seedorf
+  keywords: []
+  doi: https://doi.org/10.3390/antibiotics14090860
+- title: Large-scale skin metagenomics reveals extensive prevalence, coordination,
+    and functional adaptation of skin microbiome dermotypes across body sites
+  authors:
+  - Chengchen Li
+  - Aarthi Ravikrishnan
+  - Indrik Wijaya
+  - Ahmad Nazri Mohamed Naim
+  - Jean-Sebastien Gounot
+  - Stephen Wearne
+  - Yue Yuan On
+  - Eliza Xin Pei Ho
+  - Qi Yan Ang
+  - Minghao Chia
+  - Ng Hui Qi Amanda
+  - Srinivas Ramaswami
+  - Yik Weng Yew
+  - Marie Loh
+  - Ruo Yan Ong
+  - Faith Ng
+  - Sze Han Lee
+  - James Chan
+  - HELIOS Study team
+  - Viduthalai Rasheedkhan Regina
+  - Thomas Dawson
+  - John Chambers
+  - John Common
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/2025.04.24.650393
+- title: Efficient trace reconstruction in DNA storage systems using Bidirectional
+    Beam Search
+  authors:
+  - Zhenhao Gu
+  - Hongyi Xin
+  - Puru Sharma
+  - Gary Yipeng Goh
+  - Limsoon Wong
+  - Niranjan Nagarajan
+  keywords: []
+  doi: https://doi.org/10.1101/2025.04.16.644694
+- title: Bacteroides-driven metabolic remodelling suppresses Clostridioides difficile
+    toxin expression in mixed biofilm communities
+  authors:
+  - Kavana Kalea Bywater-Brenna
+  - Simran Kaur Aulakh
+  - Kiran Raosaheb Patil
+  - Niranjan Nagarajan
+  - Meera Unnikrishnan
+  keywords: []
+  doi: https://doi.org/10.1007/978-3-031-42108-2_12
+- title: Early life Skin Microbiome and Metabolome Signatures Predict Atopic Dermatitis
+    In An Asian Preconception Cohort
+  authors:
+  - Elizabeth Tham
+  - Minghao Chia
+  - Seong Soo Lim
+  - Stephen Wearne
+  - Kok Wee Chong
+  - Anne Goh
+  - Si Hui Goh
+  - Oon Hoe Teoh
+  - Zai Ru Cheng
+  - Evelyn Loo
+  - Lynette Shek
+  - Bee Wah Lee
+  - Hugo van Bever
+  - Niranjan Nagarajan
+  - John Common
+  keywords: []
+  doi: https://doi.org/10.1016/j.jaci.2023.11.907

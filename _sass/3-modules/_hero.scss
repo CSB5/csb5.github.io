@@ -1,0 +1,99 @@
+/* Hero */
+/* ---- particles.js container ---- */ 
+#particles-js{ 
+  position: absolute;
+  width: 100%;
+  height: 900px;
+  background-color: #121315;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: 50% 50%; 
+  z-index: 0;
+
+  @media (max-width: $desktop) {
+    height: 900px;
+  }
+
+  @media (max-width: $tablet) {
+    height: 900px;
+  }
+
+  @media (max-width: $mobile) {
+    height: 800px;
+  }
+} 
+  
+
+.hero {
+  padding: 80px 0 0;
+  margin-bottom: 96px;
+  color: var(--white);
+  position: relative; /* or absolute/fixed/sticky */
+  z-index: 1;
+  pointer-events: none;
+  //background-color: var(--dark);
+
+  @media (max-width: $desktop) {
+    padding: 40px 0 0;
+    margin-bottom: 80px;
+  }
+
+  @media (max-width: $desktop) {
+    padding: 16px 0 0;
+  }
+}
+
+.hero__inner {
+  align-items: center;
+  max-width: 1160px;
+  margin-bottom: 96px;
+
+
+  @media (max-width: $desktop) {
+    margin-bottom: 80px;
+  }
+
+  @media (max-width: $mobile) {
+    margin-bottom: 48px;
+  }
+}
+
+.hero__title {
+  margin-bottom: 20px;
+  font-size: 46px;
+  font-weight: 800;
+  line-height: 1.4;
+  color: var(--white);
+
+  @media (max-width: $desktop) {
+    font-size: 40px;
+  }
+
+  @media (max-width: $tablet) {
+    font-size: 32px;
+  }
+
+  @media (max-width: $mobile) {
+    font-size: 28px;
+  }
+}
+
+.hero__description {
+  margin-bottom: 0;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--dark-gray);
+
+  @media (max-width: $desktop) {
+    font-size: 28px;
+  }
+
+  @media (max-width: $tablet) {
+    font-size: 24px;
+  }
+
+  @media (max-width: $mobile) {
+    font-size: 20px;
+  }
+}

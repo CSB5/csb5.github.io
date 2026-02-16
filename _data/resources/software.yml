@@ -1,0 +1,186 @@
+
+- theme: Genome Analysis
+  image: /images/misc/resources_theme/genome_analysis.png
+  items:
+  - title: "OPERA-MS: Hybrid Metagenomic Assembler"
+    description: A hybrid metagenomic assembler which combines the advantages of short and long-read technologies to provide high quality assemblies, addressing issues of low contiguity for short-read only assemblies, and low base-pair quality for long-read only assemblies.
+    keywords:
+      - Genome Assembly
+      - Hybrid Assembly
+      - Metagenomics
+      - Illumina
+      - Nanopore
+      - PacBio
+    primary_link: https://github.com/CSB5/OPERA-MS
+    github: https://github.com/CSB5/OPERA-MS
+
+  - title: "LoFreq: High Sensitivity Variant Caller"
+    description: fast and sensitive variant-caller for inferring SNVs and indels from next-generation sequencing data. Sensitive to rare variants (<1%).
+    keywords:
+      - Variant Calling
+      - Cancer
+      - Metagenomics
+    primary_link: https://csb5.github.io/lofreq/
+    github: https://github.com/CSB5/lofreq
+    sourceforge: https://sourceforge.net/projects/lofreq/
+
+  - title: "OPERA-LG: Genome Scaffolder"
+    description: Robust & Efficient, Handles Repeats, Matepairs+Long-reads
+    keywords:
+      - Genome Assembly
+      - Metagenomics
+      - Nanopore
+      - PacBio
+    primary_link: https://sourceforge.net/p/operasf/wiki/The%20OPERA%20wiki/
+    sourceforge: https://sourceforge.net/projects/operasf/
+  
+  - title: "INC-Seq"
+    description: Accurate single molecule reads using nanopore sequencing
+    keywords:
+      - High Accuracy
+      - Rolling Circle Amplification
+      - Nanopore
+      - PacBio
+    primary_link: https://github.com/CSB5/INC-Seq
+    github: https://github.com/CSB5/INC-Seq
+  
+  - title: "GraphMap"
+    description: A highly sensitive and accurate mapper for long, error-prone reads
+    keywords:
+      - Read Mapping
+      - Nanopore
+      - PacBio
+    primary_link: https://github.com/lbcb-sci/graphmap2
+    github: https://github.com/lbcb-sci/graphmap2
+  
+  - title: "Racon"
+    description: Consensus module for raw de novo DNA assembly of long uncorrected reads.
+    keywords:
+      - Consensus
+      - De novo Assembly
+      - Nanopore
+      - PacBio
+      - GPU
+    primary_link: https://github.com/isovic/racon
+    github: https://github.com/isovic/racon
+  
+  - title: "PORE-cupine"
+    description: Chemical utilized probing interrogated using nanopores
+    keywords:
+      - Isoform-specific RNA Structures
+      - Nanopore
+    primary_link: https://github.com/awjga/PORE-cupine
+    github: https://github.com/awjga/PORE-cupine
+  
+  - title: "miniBarcoder"
+    description: A MinION-based pipeline for fast and cost-effective DNA barcoding
+    keywords:
+      - DNA Barcoding
+      - Nanopore
+      - MinION
+    primary_link: https://github.com/asrivathsan/miniBarcoder
+    github: https://github.com/asrivathsan/miniBarcoder
+  
+  - title: "GiRaF"
+    description: Robust, Computational Identification of Influenza Reassortments via Graph Mining
+    keywords:
+      - Reassortments
+      - Influenza
+    primary_link: https://github.com/CSB5/GiRaF
+    github: https://github.com/CSB5/GiRaF
+
+- theme: Metagenomic System Biology
+  image: /images/misc/resources_theme/microbe.png
+  items: 
+  - title: "BEEM: microbial community dynamics"
+    description: Modelling microbial community dynamics based on longitudinal metagenomic sequencing data (16S or shotgun-metagenomics). It is based on the commonly used generalized Lotka-Volterra modelling (gLVM) framework.
+    keywords:
+      - Microbial Interactions
+      - Metagenomics
+      - Longitudinal Data
+      - gLVM
+    primary_link: https://github.com/CSB5/BEEM
+    github: https://github.com/CSB5/BEEM
+  
+  - title: "BEEM-static"
+    description: Learning directed microbial interactions from cross-sectional microbiome profiling data based on the generalized Lotka-Volterra model (gLVM).
+    keywords:
+      - Microbial Interactions
+      - metagenomics
+      - gLVM
+    primary_link: https://github.com/CSB5/BEEM-static
+    github: https://github.com/CSB5/BEEM-static
+  
+  - title: "@MInter"
+    description: SVM/regex abstract parser for identification of microbial interactions
+    keywords:
+      - Microbial Interactions
+      - SVM
+    primary_link: https://github.com/CSB5/atminter
+    github: https://github.com/CSB5/atminter
+  
+  - title: "PLoT-ME"
+    description: Pre-classification of Long-reads for Memory Efficient Taxonomic assignment
+    keywords:
+      - Metagenomics
+      - Taxonomic Classification
+      - Memory Efficient 
+      - Nanopore 
+      - PacBio 
+    primary_link: https://github.com/CSB5/PLoT-ME
+    github: https://github.com/CSB5/PLoT-ME
+
+- theme: Cancer Genomics
+  image: /images/misc/resources_theme/cancer.png
+  items:
+  - title: "TUGDA"
+    description: Task uncertainty guided domain adaptation for robust generalization of cancer drug response prediction from in in vitro to in vivo settings
+    keywords:
+      - Cancer 
+      - Drug Response Prediction 
+      - Domain Adaptation 
+      - Gene Expression
+    primary_link: https://github.com/CSB5/TUGDA
+    github: https://github.com/CSB5/TUGDA
+  
+  - title: "OncoIMPACT"
+    description: OncoIMPACT is a first-in-class algorithmic framework that nominates patient-specific driver genes by integratively modeling genomic mutations (point, structural and copy-number) and the resulting perturbations in transcriptional programs via defined molecular networks.
+    keywords:
+      - Cancer Driver Prediction
+      - Multiomics
+      - Gene Expression
+      - Mutation 
+    primary_link: https://github.com/CSB5/OncoIMPACT
+    github: https://github.com/CSB5/OncoIMPACT
+  
+  - title: "CaDRReS"
+    description: Cancer Drug Response prediction using a Recommender System (CaDRReS) is based on the matrix factorization approach to predict which drugs are sensitive for an unseen cell line.
+    keywords:
+      - Cancer 
+      - Drug Response Prediction 
+      - Pharmacogenomic 
+      - Gene Expression 
+    primary_link: https://github.com/CSB5/CaDRReS
+    github: https://github.com/CSB5/CaDRReS
+  
+  - title: "CaDRReS-Sc"
+    description: A framework for analyzing drug response heterogeneity based on single-cell RNA-seq data
+    keywords:
+      - Tumor Heterogeneity 
+      - Drug Response Prediction
+      - Pharmacogenomic
+      - scRNA-seq 
+      - Gene Expression 
+    primary_link: https://github.com/CSB5/CaDRReS-Sc
+    github: https://github.com/CSB5/CaDRReS-Sc
+
+- theme: Others
+  image: /images/misc/resources_theme/other.png
+  items:
+    - title: "EDDA"
+      description: Experimental Design in Differential Abundance analysis (EDDA) is a tool for systematic assessment of the impact of experimental design and the statistical test used on the ability to detect differential abundance.
+      keywords:
+        - Differential Abundance 
+        - Experimental Design 
+      primary_link: https://github.com/CSB5/EDDA
+      github: https://github.com/CSB5/EDDA

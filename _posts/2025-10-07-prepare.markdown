@@ -1,0 +1,24 @@
+---
+layout: post
+title: "AI on the hunt: finding tomorrow's viruses today"
+description: Finding viruses in environmental samples is a major public health challenge. Our SurVirAR platform uses Artificial Intelligence to identify viral sequences from complex data. These sequences are then assembled into complete genomes, creating a deployable early warning system for future pandemics.
+image: '/images/posts/2025-10-07-prepare/thumbnail.png'
+image_caption: Generated with Gemini.
+date: 2025-10-07
+tags: [Environmental Microbiomes, Metagenomic Tech]
+author: [rafael-peres-da-silva]
+---
+
+Imagine trying to **hear a single whisper in the middle of a roaring stadium**. That's what it's like searching for viruses in our environment. In a single drop of wastewater or a puff of air, the genetic information from a virus is vastly outnumbered by a loud crowd of material from bacteria, fungi, and other life. Finding that viral whisper is **critical**, but it's incredibly difficult.
+
+That's where our work with **SurVirAR** comes in. We are building a high-tech platform that acts like a sophisticated listening device, using **Artificial Intelligence** to find the viral whispers and turn up their volume. Our goal is to rapidly map the entire genetic blueprint of viruses directly from the environment, creating a powerful new tool for **pandemic preparedness**.
+
+We are combining modern science with advanced technology in three key steps:
+
+- **A Smart Viral Gatekeeper:** We use portable sequencing machines to analyze genetic material in real-time. Our AI is trained to act as an expert gatekeeper, capable of **picking out the faint genetic signatures of viruses** from a sea of other microbial data. This approach has the potential to significantly boost the viral signal!
+- **An AI-Powered Sorter:** Once the viral data is identified, a second AI model acts as a master organizer. It expertly **sorts the jumbled pieces of genetic information**, attributing them to the specific viruses they came from. This allows us to track even **rare and novel viruses** with high sensitivity.
+- **The Genome Jigsaw Puzzle:** With the information now neatly organized, our platform pieces together the **complete genetic blueprint** for many of these viruses. This gives us their full instruction manual, which is essential for developing diagnostics, vaccines, and treatments.
+
+This technology is driven by exciting questions: Can we teach an AI to spot a never-before-seen virus from just a tiny piece of its DNA? How can we create a deployable, on-site system to act as an **early warning signal for public health threats**?
+
+The hunt for these invisible threats is on. By pairing the power of AI with cutting-edge genomics, we're building a **smarter, faster shield against future pandemics**. We are teaching our machines to hunt for the whispers that matter most. Keep checking back for updates on the progress of this exciting project.

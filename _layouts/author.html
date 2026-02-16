@@ -1,0 +1,124 @@
+---
+layout: default
+---
+
+<!-- begin author -->
+<section class="author">
+  {% assign post_count = site.posts | where: 'author', page.username %}
+
+
+  <div class="author-head">
+  <div class="author__content">
+  <div class="container">
+    <div class="row">
+
+      <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
+        <div class="post__info{{videoInfo}}">
+
+          {% if page.tags.size >= 1 %}
+          <div class="post__tags">
+            {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/research#{{ tag }}" class="post__tag">{{ tag }}</a>
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          <h1 class="author__name">{{ page.name | escape }}</h1>
+          <div class="author__position">
+          {% if page.position %}
+              <h2>{{ page.position }}</h2>
+          {% endif %}
+          {% if page.next_position %}
+              <p><b>Next position</b>: {{ page.next_position }}</p>
+          {% endif %}
+          </div>
+
+          <div class="author__description">{{ content }}</div>
+
+
+          <div class="author__info">
+          {% if page.location %}
+            <span class="author__social__item"><i class="ion ion-md-pin"></i></span>
+          {% endif %}
+          {% if page.email %}
+            <a class="author__social__item" href="mailto:{{ page.email }}" aria-label="EMail"><i class="ion ion-ios-mail"></i></a>
+          {% endif %}
+          {% if page.website %}
+            <a class="author__social__item" href="{{ page.website }}" target="_blank" aria-label="Website link"><i class="ion ion-ios-link"></i></a>
+          {% endif %}
+          <!-- Academic Links -->
+          {% if page.scholar %}
+            <a class="author__social__item" href="{{ page.scholar }}" target="_blank" aria-label="Scholar link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/googlescholar.svg" /></a>
+          {% endif %}
+          {% if page.research_gate %}
+            <a class="author__social__item" href="{{ page.research_gate }}" target="_blank" aria-label="Research Gate link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/researchgate.svg" /></a>
+          {% endif %}
+          {% if page.orcid %}
+            <a class="author__social__item" href="{{ page.orcid }}" target="_blank" aria-label="Orcid link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/orcid.svg" /></a>
+          {% endif %}
+          {% if page.github %}
+            <a class="author__social__item" href="{{ page.github }}" target="_blank" aria-label="GitHub link"><i class="ion ion-logo-github"></i></a>
+          {% endif %}
+          <!-- Social Links -->
+          {% if page.X %}
+            <a class="author__social__item" href="{{ page.X }}" target="_blank" aria-label="X link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" /></a>
+          {% endif %}
+          {% if page.bluesky %}
+            <a class="author__social__item" href="{{ page.bluesky }}" target="_blank" aria-label="X link"><img style="vertical-align: baseline;" height="15" width="15" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bluesky.svg" /></a>
+          {% endif %}
+          {% if page.linkedin %}
+            <a class="author__social__item" href="{{ page.linkedin }}" target="_blank" aria-label="LinkedIn link"><i class="ion ion-logo-linkedin"></i></a>
+          {% endif %}
+          </div>
+
+        </div>
+      </div>
+
+
+      {%if page.image_fun %}
+      <div class="col col-5 push-1 col-d-12 push-d-0">
+        <div class="author-image">
+          <img class="lazy" data-src="{{site.baseurl}}{{page.image_fun}}" alt="{{page.title}}">
+        </div>
+        {% if page.image_caption %}
+          <div class="post-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+        {% endif %}
+      </div>
+      {% elsif page.image %}
+      <div class="col col-5 push-1 col-d-12 push-d-0">
+        <div class="post-image">
+          <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+        </div>
+        {% if page.image_caption %}
+          <div class="post-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+        {% endif %}
+      </div>
+      {% endif %}
+
+    </div>
+  </div>
+  <div class="container">
+    {% if post_count.size > 0 %}
+      {% if page.nick_name %}
+        <h3>{{ page.nick_name | escape }} contributed to ...</h3>
+      {% else %}
+        <h3>{{ page.name | escape }} contributed to ...</h3>
+      {% endif %}
+    {% endif %}
+  </div>
+  </div>
+  </div>
+
+  
+
+  <div class="container animate">
+    <div class="row">
+      {% for post in post_count %}
+        {% include article.html %}
+      {% endfor %}
+    </div>
+  </div>
+
+
+</section>
+<!-- end author -->

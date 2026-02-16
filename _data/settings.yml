@@ -1,0 +1,118 @@
+#-------------------------------
+# Site Settings
+title: MTMS
+logo: /images/misc/MTMSlogo.png # You can add own logo. For example "/images/logo.png".
+logo_dark: /images/misc/MTMSlogo_dark.png
+logo_footer: /images/misc/ASTAR_NUS_logo.png
+description: Laboratory of Metagenomic Technologies and Microbial Systems
+
+
+#-------------------------------
+# Author Global Settings
+author:
+  author__name: Lab of Metagenomic Tech & Microbial Systems
+  author__bio: Genome Institute of Singapore, A*STAR
+  author__avatar: 'https://pbs.twimg.com/profile_images/492209283371520000/XGi7L_94_400x400.jpeg'
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Research'
+      url: '/research/'
+    - title: 'Publications'
+      url: '/publications/'
+    - title: 'Resources'
+      url: '/resources/'
+    - title: 'People'
+      submenu:
+      - url: '/members/'
+        title: 'Members'
+      - url: '/alumni/'
+        title: 'Alumni'
+      - url: '/interns/'
+        title: 'Interns'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Lab of Metagenomic Tech & Microbial Systems
+  hero__description: We develop metagenomic technologies and systems biology techniques to study the role of microbial communities in the transmission of antimicrobial resistance
+
+
+#-------------------------------
+# Blog Settings
+blog:
+  blog__title: Projects
+
+
+#-------------------------------
+# Recommended Tag Settings
+tag:
+  enable: true
+  tag__title: Group activities
+  tag__name: Group activities
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: false
+  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__title: Get interesting news
+  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+  mailchimp__input__text: Your Email Address...
+  mailchimp__button__text: Subscribe
+  mailchimp__background__image: "/images/110.jpg"
+
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Research'
+      url: '/research/'
+    - title: 'People'
+      url: '/members/'
+    - title: 'Contact'
+      url: '/contact/'
+
+
+# Social Links
+social:
+- {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://x.com/NiranjanTW"}
+- {icon: "ion-logo-github", color: "#000000", name: GitHub, link: "https://github.com/CSB5"}
+
+
+
+# Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your email for contant form
+
+# NOTE
+# Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id

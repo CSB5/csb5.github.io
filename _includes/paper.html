@@ -1,0 +1,39 @@
+<div class="article col col-12 col-d-12 col-t-12 animate grid__post">
+  <div class="article__inner">
+    <div class="article__content">
+
+      {% if post.keywords.size >= 1 %}
+      <div class="article-tags__box">
+        {% for keyword in post.keywords %}
+          <a class="article__tag">{{ keyword }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      <p class="article__excerpt">
+        {% if post.journal %}
+          <em>{{ post.journal }}.</em>
+        {% endif %}
+        {% if post.date %}
+          {{ post.date | date: "%B %d, %Y" }}.
+        {% endif %}
+        {% if post.doi %}
+          DOI: <a href="https://doi.org/{{ post.doi }}" target="_blank">{{ post.doi }}</a>.
+        {% endif %}
+      </p>
+
+      <h2 class="article__title">
+        <a href="https://doi.org/{{ post.doi }}" target="_blank">{{ post.title }}</a>
+      </h2>
+
+      <p class="article__excerpt">
+        {% if post.authors %}
+          {% for author in post.authors %}
+            {{ author }}{% if forloop.last == false %}, {% endif %}
+          {% endfor %}
+        {% endif %}
+      </p>
+    </div>
+
+  </div>
+</div>

@@ -1,0 +1,16 @@
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="section__head__small">
+        <h3 class="section__title">{{ site.data.settings.blog.blog__title }}</h3>
+        <a class="section__link" href="{{ site.baseurl }}/research/#tags_top">See all <i class="ion ion-ios-arrow-round-forward"></i></a>
+      </div>
+    </div>
+  </div>
+  <div class="row grid">
+    {% assign filtered_posts = site.posts | where_exp: "post", "post.title != null and post.featured != true and post.group_activity != true" %}
+    {% for post in filtered_posts limit:6 %}
+      {% include article.html %}
+    {% endfor %}
+  </div>
+</div>

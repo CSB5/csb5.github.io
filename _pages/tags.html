@@ -1,0 +1,66 @@
+---
+layout: default
+title: Explore Our Research Topics
+permalink: /tags/
+---
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
+
+{% if page.video_embed %} {% assign videoPost = ' post-head-video' %} {% assign videoInfo = ' post__info-video' %} {% endif %}
+
+<!-- begin tags -->
+<section class="tags">
+
+  <div class="tag__head">
+    
+    <div class="container">
+      <h1 class="tag__title">{{ page.title | escape }}</h1>
+      {% if page.description %}
+      <p class="tag__description">{{ page.description }}</p>
+      {% endif %}
+      <div class="row">
+      {% for item in (0..site.tags.size) %}
+        {% unless forloop.last %}
+          {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+            <a href="#{{ this_word | cgi_escape | url_decode }}" class="tag__link"><b>{{ this_word }}</b> &nbsp;·&nbsp; {{ site.tags[this_word].size }}</a>
+        {% endunless %}
+      {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+  {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+  <div class="tags__inner">
+
+    <div class="container">
+      <div class="section__info">
+        <div class="section__head__small">
+          <h1 class="section__title" id="{{ this_word | cgi_escape | url_decode }}">{{ this_word }}</h1>
+          <a class="section__link top__link" href="#top">Return to top</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="section__inner">
+        <div class="row">
+          <div class="col col-12"></div>
+          {% for post in site.tags[this_word] %}
+            {% if post.title != null %}
+              {% include article.html %}
+            {% endif %}
+          {% endfor %}
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+{% endunless %}
+{% endfor %}
+
+</section>
+<!-- end tags -->

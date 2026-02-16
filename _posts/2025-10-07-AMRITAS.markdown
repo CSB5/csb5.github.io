@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Antimicrobial resistance research and intervention alliance"
+description: The AMRITAS collaboration is working to identify improved treatments for severe carbapenem-resistant bacterial infections and prevent gut colonization of these opportunistic pathogens
+image: '/images/posts/2025-10-07-AMRITAS/image.png'
+date: 2025-10-07
+tags: [Gut Microbiome]
+author: [hanrong-chen, andrew-ting]
+---
+
+Antimicrobial resistance (AMR) poses a major global health threat, with South and Southeast Asia being regions that are particularly affected by the spread of resistant pathogens. Carbapenems are a class of antibiotics often used as a last-resort treatment against multidrug-resistant bacteria. Thus the emergence of carbapenem-resistant Gram-negative bacilli (CR-GNB) is of critical concern. Carbapenem-resistent Enterobacterales (CRE) — particularly *Klebsiella pneumoniae* and *Escherichia coli* — spread readily in healthcare and community settings, while carbapenem-resistant *Acinetobacter baumannii* (CRAB) is primarily confined to hospital settings, especially in intensive-care units (ICUs). Both CRE and CRAB cause severe infections opportunistically, with high mortality rates and limited treatment options. CRE often colonize healthy individuals asymptomatically and transiently, but transmission to an immunocompromised patient can result in severe infection, making it crucial to understand how a healthy gut microbiome confers colonization resistance against these opportunistic pathogens.
+
+Considering Singapore’s growing burden of CR-GNB infections, the Antimicrobial Resistance Research and Intervention Alliance Singapore (AMRITAS) programme was established to improve overall outcomes for CR-GNB infections through treatment optimization and prevention. AMRITAS encompasses two research themes:
+
+**Theme 1**: Establish a regional clinical trial platform that utilizes a novel adaptive design to identify and implement optimal treatments for severe CR-GNB infections
+
+**Theme 2**: Elucidate the factors driving CRE transmission and evolution within the human gut to develop microbiome-based strategies for preventing colonization and infection
+
+As part of Theme 2, our lab works closely with collaborators from NUS, NTU, and TTSH to:
+
+- discover key elements of carbapenem resistance spread in the gut microbiome
+- identify key species and metabolic pathways that promote resistance to CRE colonization
+- test strategies for CR-GNB colonization resistance in germ-free mice
+
+Read more:
+- [Press release](https://www.straitstimes.com/singapore/health/s-pore-research-team-gets-10m-grant-to-find-ways-of-fighting-drug-resistant-superbugs)
+- [ADVANCE-ID network](https://www.advance-id.network/)

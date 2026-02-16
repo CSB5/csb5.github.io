@@ -1,0 +1,46 @@
+---
+layout: default
+title: Group Activities
+permalink: /group_activities/
+---
+
+
+<!-- begin section-tags -->
+{% assign activity_posts = site.posts | where_exp: "post", "post.group_activity == true" %}
+
+<section class="tags">
+
+  <div class="tag__head">
+    
+    <div class="container">
+      <h1 class="tag__title">{{ page.title | escape }}</h1>
+      {% if page.description %}
+      <p class="tag__description">{{ page.description }}</p>
+      {% endif %}
+      <div class="row">
+      </div>
+    </div>
+  </div>
+
+
+  <div class="tags__inner">
+
+    <div class="container">
+      <div class="section__inner">
+        <div class="row">
+          <div class="col col-12"></div>
+          {% for post in activity_posts %}
+            {% if post.title != null %}
+              {% include article.html %}
+            {% endif %}
+          {% endfor %}
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</section>
+<!-- end tags -->
