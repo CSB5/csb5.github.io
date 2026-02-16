@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Identifying Gut Microbial Hallmarks of Healthy Aging
+title: Identifying gut microbial hallmarks of healthy aging
 description: Shotgun metagenomics data for >200 healthy Asian octogenerians helped us identify key gut microbial hallmarks of healthy aging, including some that are only consistently seen in Asian cohorts!
-image: '/images/posts/2024-01-13-gut-microbiome-healthy-aging/Press_release1.png'
+image: '/images/posts/2024-01-13-gut-microbiome-healthy-aging/Press_release1.jpg'
 date: 2024-01-13
 tags: [Gut Microbiome]
 paper: https://www.nature.com/articles/s41467-024-52097-9
@@ -25,8 +25,6 @@ This shift was driven by a reduction in microbial richness, evenness and Shannon
 At the species level, some of the best-known butyrate producers — including Faecalibacterium prausnitzii and Roseburia — were depleted with age. These microbes are often linked to gut health and anti-inflammatory functions. At the same time, we saw enrichment of *Bacteroides* and *Alistipes* species, which appear to use an alternative metabolic route involving lysine to produce butyrate. In other words, while the usual butyrate producers decline, other microbes may step in using different biochemical pathways.
 
 ![](https://pbs.twimg.com/media/GXFYDK5bEAUBddN?format=png&name=900x900)
-
-Interestingly, these microbial co-occurrence networks differ quite strikingly between elderly and the young groups, with a shared pattern of cliques formed by the usual butyrate producers and Alistipes species. 
 
 Further, at the microbial pathway level, we observed an expansion in the metabolic potential of butyrate synthesis pathways, particularly from L-lysine precursors. Congruently, (meta)Genome assemblies further confirmed this metabolic potential expansion where it showed many genomes of *Bacteroides* and *Alistipes* species harbor complete pathways for lysine biosynthesis. This suggests that the aging microbiome may not simply lose function — it may adapt by reorganizing its metabolic capabilities.
 
