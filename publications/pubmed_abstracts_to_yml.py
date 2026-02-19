@@ -105,8 +105,8 @@ def extract_abstract(fields: List[str]) -> str:
     return max(candidates, key=len) if candidates else ""
 
 
-def assign_keywords(abstract: str, kwmap: Dict[str, List[str]]) -> List[str]:
-    text = abstract.lower()
+def assign_keywords(abstract: str, title: str, kwmap: Dict[str, List[str]]) -> List[str]:
+    text = f"{title} {abstract}".lower()
     hits = []
     for k, triggers in kwmap.items():
         for t in triggers:
@@ -138,7 +138,7 @@ def parse_entry(block: str, kwmap: Dict[str, List[str]]):
             doi = m.group(1).rstrip(".")
 
     abstract = extract_abstract(fields)
-    keywords = assign_keywords(abstract, kwmap)
+    keywords = assign_keywords(abstract, title, kwmap)
 
     year = int(pubdate[:4]) if pubdate else None
 
@@ -172,24 +172,19 @@ def main() -> None:
 
     kwmap = {
         "Metagenomic Tech": [
-            "algorithm",
             "assembly",
             "binning",
-            "machine learning",
-            "deep learning",
-            "artificial intelligence",
-            "ML",
-            "AI",
+            "b.sight",
             "metagenome-assembled genome",
             "mag",
             "taxonomic profiling",
+            "taxonomic classification",
             "functional profiling",
-            "strain-level",
-            "read mapping",
-            "k-mer",
+            "mapping",
             "genome reconstruction",
-            "reference-free",
-            "variant calling"
+            "variant calling",
+            "technologies",
+            "technology"
         ],
 
         "Gut Microbiome": [

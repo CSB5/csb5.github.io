@@ -32,8 +32,7 @@
     doi: 10.1016/j.isci.2025.113791
     journal: iScience
     date: '2025-10-21'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Comparative Genomics of DH5α-Inhibiting Escherichia coli Isolates from
       Feces of Healthy Individuals Reveals Common Co-Occurrence of Bacteriocin Genes
       with Virulence Factors and Antibiotic Resistance Genes
@@ -49,7 +48,6 @@
     date: '2025-08-26'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Assessing Zoonotic Risks of Blastocystis Infection in Singapore
     authors:
     - Aung TT
@@ -70,7 +68,6 @@
     date: '2025-08-05'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Skin metatranscriptomics reveals a landscape of variation in microbial
       activity and gene expression across the human body
     authors:
@@ -86,7 +83,6 @@
     date: '2025-08-28'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
     - Skin Microbiome
   - title: Challenges and Opportunities in Analyzing Cancer-Associated Microbiomes
     authors:
@@ -118,8 +114,7 @@
     doi: 10.1038/s41467-025-62347-z
     journal: Nat Commun
     date: '2025-07-30'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Citywide metagenomic surveillance of food centres reveals local microbial
       signatures and antibiotic resistance gene enrichment
     authors:
@@ -176,7 +171,6 @@
     date: 2025-07
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: 'CAN-Scan: A multi-omic phenotype-driven precision oncology platform identifies
       prognostic biomarkers of therapy response for colorectal cancer'
     authors:
@@ -233,8 +227,7 @@
     doi: 10.1016/j.xcrm.2025.102053
     journal: Cell Rep Med
     date: '2025-04-15'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Leveraging wastewater sequencing to strengthen global public health surveillance
     authors:
     - Gordeev V
@@ -271,7 +264,7 @@
     journal: BMC Glob Public Health
     date: '2025-03-21'
     keywords:
-    - Metagenomic Tech
+    - Environmental Microbiomes
   - title: 'Life stage impact on the human skin ecosystem: lipids and the microbial
       community'
     authors:
@@ -341,7 +334,6 @@
     date: '2024-09-05'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: 'Detection and characterisation of a sixth Candida auris clade in Singapore:
       a genomic and phenotypic study'
     authors:
@@ -443,7 +435,6 @@
     date: 2024-06
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny
     authors:
     - Hunt M
@@ -583,7 +574,6 @@
     date: '2024-01-08'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Comparison of tet(X4)-containing contigs assembled from metagenomic sequencing
       data with plasmid sequences of isolates from a cohort of healthy subjects
     authors:
@@ -601,7 +591,6 @@
     date: '2024-04-02'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: The skin microbiome in pediatric atopic dermatitis and food allergy
     authors:
     - Tham EH
@@ -615,7 +604,6 @@
     date: 2024-06
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
     - Skin Microbiome
   - title: Short-chain fatty acids of various lengths differentially inhibit Klebsiella
       pneumoniae and Enterobacteriaceae species
@@ -629,7 +617,6 @@
     keywords:
     - Environmental Microbiomes
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Comparative analysis of metagenomic classifiers for long-read sequencing
       datasets
     authors:
@@ -661,7 +648,6 @@
     keywords:
     - Environmental Microbiomes
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Profiling Microbial Communities in Idiopathic Granulomatous Mastitis
     authors:
     - Ong SS
@@ -687,7 +673,6 @@
     date: '2023-01-05'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
     - Skin Microbiome
   - title: 'CREAMMIST: an integrative probabilistic database for cancer drug response
       prediction'
@@ -702,8 +687,7 @@
     doi: 10.1093/nar/gkac911
     journal: Nucleic Acids Res
     date: '2023-01-06'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
 - year: 2022
   publications:
   - title: Genome-centric analysis of short and long read metagenomes reveals uncharacterized
@@ -748,6 +732,7 @@
     journal: Commun Biol
     date: '2022-09-15'
     keywords:
+    - Metagenomic Tech
     - Skin Microbiome
   - title: Long-term ecological and evolutionary dynamics in the gut microbiomes of
       carbapenemase-producing Enterobacteriaceae colonized subjects
@@ -769,7 +754,6 @@
     date: 2022-10
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Genomic patterns of divergence in the early and late steps of speciation
       of the deep-sea vent thermophilic worms of the genus Alvinella
     authors:
@@ -785,7 +769,8 @@
     doi: 10.1186/s12862-022-02057-y
     journal: BMC Ecol Evol
     date: '2022-09-03'
-    keywords: []
+    keywords:
+    - Metagenomic Tech
   - title: Clonal serotype 1c multidrug-resistant Shigella flexneri detected in multiple
       institutions by sentinel-site sequencing
     authors:
@@ -835,7 +820,6 @@
     date: 2022-08
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Mutual Exclusion of Methanobrevibacter Species in the Human Gut Microbiota
       Facilitates Directed Cultivation of a Candidatus Methanobrevibacter Intestini
       Representative
@@ -856,7 +840,6 @@
     date: '2022-08-31'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Emergence of SARS-CoV-2 Spike Mutations during Prolonged Infection in Immunocompromised
       Hosts
     authors:
@@ -877,8 +860,7 @@
     doi: 10.1128/spectrum.00791-22
     journal: Microbiol Spectr
     date: '2022-06-29'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Gut microbiome responses to dietary intervention with hypocholesterolemic
       vegetable oils
     authors:
@@ -1006,7 +988,6 @@
     journal: Nat Methods
     date: 2022-04
     keywords:
-    - Metagenomic Tech
     - Skin Microbiome
   - title: Metagenomics-enabled microbial surveillance
     authors:
@@ -1016,7 +997,8 @@
     doi: 10.1038/s41564-022-01089-w
     journal: Nat Microbiol
     date: 2022-04
-    keywords: []
+    keywords:
+    - Metagenomic Tech
   - title: Shared signatures and divergence in skin microbiomes of children with atopic
       dermatitis and their caregivers
     authors:
@@ -1035,7 +1017,6 @@
     date: 2022-10
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
     - Skin Microbiome
   - title: SARS-CoV-2 N Gene G29195T Point Mutation May Affect Diagnostic Reverse
       Transcription-PCR Detection
@@ -1086,8 +1067,7 @@
     doi: 10.1186/s13073-021-01000-y
     journal: Genome Med
     date: '2021-12-16'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: 'BEEM-Static: Accurate inference of ecological interactions from cross-sectional
       microbiome data'
     authors:
@@ -1117,7 +1097,6 @@
     keywords:
     - Environmental Microbiomes
     - Gut Microbiome
-    - Metagenomic Tech
   - title: A global metagenomic map of urban microbiomes and antimicrobial resistance
     authors:
     - Danko D
@@ -1224,7 +1203,6 @@
     date: '2021-06-24'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Evaluating the accuracy of Listeria monocytogenes assemblies from quasimetagenomic
       samples using long and short reads
     authors:
@@ -1254,8 +1232,7 @@
     doi: 10.1093/bioinformatics/btab299
     journal: Bioinformatics
     date: '2021-08-04'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Stool metagenome analysis of patients with Klebsiella pneumoniae liver
       abscess and their domestic partners
     authors:
@@ -1274,7 +1251,6 @@
     keywords:
     - Environmental Microbiomes
     - Gut Microbiome
-    - Metagenomic Tech
   - title: 'Publisher Correction: Determination of isoform-specific RNA structure
       with nanopore long reads'
     authors:
@@ -1322,8 +1298,7 @@
     doi: 10.1016/S2666-5247(21)00039-2
     journal: Lancet Microbe
     date: 2021-04
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: 'Ectopic gut colonization: a metagenomic study of the oral and gut microbiome
       in Crohn''s disease'
     authors:
@@ -1339,7 +1314,6 @@
     date: '2021-02-25'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: 'Household transmission of carbapenemase-producing Enterobacteriaceae:
       a prospective cohort study'
     authors:
@@ -1363,7 +1337,6 @@
     keywords:
     - Environmental Microbiomes
     - Gut Microbiome
-    - Metagenomic Tech
   - title: 'Author Correction: Determination of isoform-specific RNA structure with
       nanopore long reads'
     authors:
@@ -1404,8 +1377,7 @@
     doi: 10.1038/s41587-020-0712-z
     journal: Nat Biotechnol
     date: 2021-03
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Atopic dermatitis microbiomes stratify into ecologic dermotypes enabling
       microbial virulence and disease severity
     authors:
@@ -1433,7 +1405,6 @@
     date: 2021-04
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
     - Skin Microbiome
 - year: 2020
   publications:
@@ -1466,7 +1437,6 @@
     date: '2020-06-23'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Emergence of tigecycline- and eravacycline-resistant Tet(X4)-producing
       Enterobacteriaceae in the gut microbiota of healthy Singaporeans
     authors:
@@ -1482,7 +1452,6 @@
     date: '2020-12-01'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Duration of Carbapenemase-Producing Enterobacteriaceae Carriage in Hospital
       Patients
     authors:
@@ -1503,7 +1472,8 @@
     doi: 10.3201/eid2609.190592
     journal: Emerg Infect Dis
     date: 2020-09
-    keywords: []
+    keywords:
+    - Environmental Microbiomes
   - title: Metagenome-wide association analysis identifies microbial determinants
       of post-antibiotic ecological recovery in the gut
     authors:
@@ -1558,7 +1528,6 @@
     date: 2020-06
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: 'Gut microbiota changes in children with autism spectrum disorder: a systematic
       review'
     authors:
@@ -1576,7 +1545,6 @@
     date: '2020-02-03'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
 - year: 2019
   publications:
   - title: Boosting natural history research via metagenomic clean-up of crowdsourced
@@ -1619,8 +1587,7 @@
     doi: 10.1186/s12934-019-1185-y
     journal: Microb Cell Fact
     date: '2019-08-19'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Hybrid metagenomic assembly enables high-resolution analysis of resistance
       determinants and mobile elements in human microbiomes
     authors:
@@ -1679,8 +1646,7 @@
     doi: 10.1038/s41467-019-09799-2
     journal: Nat Commun
     date: '2019-06-17'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Structure mapping of dengue and Zika viruses reveals functional long-range
       interactions
     authors:
@@ -1825,7 +1791,6 @@
     date: '2018-07-27'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Predicting Cancer Drug Response using a Recommender System
     authors:
     - Suphavilai C
@@ -1834,8 +1799,7 @@
     doi: 10.1093/bioinformatics/bty452
     journal: Bioinformatics
     date: '2018-11-15'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: A MinION™-based pipeline for fast and cost-effective DNA barcoding
     authors:
     - Srivathsan A
@@ -1851,8 +1815,7 @@
     doi: 10.1111/1755-0998.12890
     journal: Mol Ecol Resour
     date: '2018-04-19'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Comprehensive Characterization of Cancer Driver Genes and Mutations
     authors:
     - Bailey MH
@@ -1984,8 +1947,7 @@
     doi: 10.1158/0008-5472.CAN-17-1345
     journal: Cancer Res
     date: '2018-01-01'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: The liver-gut microbiota axis modulates hepatotoxicity of tacrine in the
       rat
     authors:
@@ -2027,8 +1989,7 @@
     doi: 10.1371/journal.pone.0186771
     journal: PLoS One
     date: '2017-10-30'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Single-virion sequencing of lamivudine-treated HBV populations reveal population
       evolution dynamics and demographic history
     authors:
@@ -2146,8 +2107,7 @@
     doi: 10.1038/nmeth.4458
     journal: Nat Methods
     date: 2017-11
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Comparative genomics of Cryptococcus neoformans var. grubii associated
       with meningitis in HIV infected and uninfected patients in Vietnam
     authors:
@@ -2170,8 +2130,7 @@
     doi: 10.1371/journal.pntd.0005628
     journal: PLoS Negl Trop Dis
     date: '2017-06-14'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Mapping RNA-RNA Interactions Globally Using Biotinylated Psoralen
     authors:
     - Aw JGA
@@ -2248,7 +2207,6 @@
     date: '2017-02-03'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Fast and accurate de novo genome assembly from long uncorrected reads
     authors:
     - Vaser R
@@ -2304,8 +2262,7 @@
     doi: 10.1186/s13742-016-0140-7
     journal: Gigascience
     date: '2016-08-02'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Tissue Microbiome Profiling Identifies an Enrichment of Specific Enteric
       Bacteria in Opisthorchis viverrini Associated Cholangiocarcinoma
     authors:
@@ -2342,7 +2299,6 @@
     keywords:
     - Environmental Microbiomes
     - Gut Microbiome
-    - Metagenomic Tech
   - title: '@MInter: automated text-mining of microbial interactions'
     authors:
     - Lim KM
@@ -2353,7 +2309,6 @@
     journal: Bioinformatics
     date: '2016-10-01'
     keywords:
-    - Metagenomic Tech
     - Skin Microbiome
   - title: In Vivo Mapping of Eukaryotic RNA Interactomes Reveals Principles of Higher-Order
       Organization and Regulation
@@ -2413,8 +2368,7 @@
     doi: 10.1016/j.ymeth.2016.02.019
     journal: Methods
     date: '2016-06-01'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: 'OPTIMA: sensitive and accurate whole-genome alignment of error-prone genomic
       maps by combinatorial indexing and technology-agnostic statistical analysis'
     authors:
@@ -2455,8 +2409,7 @@
     doi: 10.1038/ncomms10380
     journal: Nat Commun
     date: '2016-01-19'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: In vitro and in vivo correlates of physiological and neoplastic human Fallopian
       tube stem cells
     authors:
@@ -2483,7 +2436,6 @@
     date: 2016-03
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
 - year: 2015
   publications:
   - title: Single-molecule optical genome mapping of a human HapMap and a colorectal
@@ -2531,7 +2483,6 @@
     date: '2015-11-05'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
     - Skin Microbiome
   - title: Direct whole-genome deep-sequencing of human respiratory syncytial virus
       A and B from Vietnamese children identifies distinct patterns of inter- and
@@ -2572,7 +2523,6 @@
     date: 2015-12
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Analysis of Dengue Virus Genetic Diversity during Human and Mosquito Infection
       Reveals Genetic Constraints
     authors:
@@ -2591,7 +2541,6 @@
     date: '2015-09-01'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Tracking Dengue Virus Intra-host Genetic Diversity during Human-to-Mosquito
       Transmission
     authors:
@@ -2607,8 +2556,7 @@
     doi: 10.1371/journal.pntd.0004052
     journal: PLoS Negl Trop Dis
     date: '2015-09-01'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: 'Recurrent Fusion Genes in Gastric Cancer: CLDN18-ARHGAP26 Induces Loss
       of Epithelial Integrity'
     authors:
@@ -2655,7 +2603,6 @@
     date: '2015-07-14'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Cloning and variation of ground state intestinal stem cells
     authors:
     - Wang X
@@ -2686,7 +2633,6 @@
     date: '2015-06-11'
     keywords:
     - Gut Microbiome
-    - Metagenomic Tech
   - title: Combining tumor genome simulation with crowdsourcing to benchmark somatic
       single-nucleotide-variant detection
     authors:
@@ -2711,8 +2657,7 @@
     doi: 10.1038/nmeth.3407
     journal: Nat Methods
     date: 2015-07
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: High-depth sequencing of over 750 genes supports linear progression of
       primary tumors and metastases in most patients with liver-limited metastatic
       colorectal cancer
@@ -2746,8 +2691,7 @@
     doi: 10.1186/s13059-015-0589-1
     journal: Genome Biol
     date: '2015-02-12'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Patient-specific driver gene prediction and risk assessment through integrated
       network analysis of cancer omics profiles
     authors:
@@ -2765,8 +2709,7 @@
     doi: 10.1093/nar/gku1393
     journal: Nucleic Acids Res
     date: '2015-04-20'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
 - year: 2014
   publications:
   - title: The importance of study design for detecting differentially abundant features
@@ -2813,8 +2756,7 @@
     doi: 10.1128/genomeA.00901-14
     journal: Genome Announc
     date: '2014-10-02'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Systems consequences of amplicon formation in human breast cancer
     authors:
     - Inaki K
@@ -2841,7 +2783,6 @@
     date: 2014-10
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: Genomic characterization of three unique Dehalococcoides that respire on
       persistent polychlorinated biphenyls
     authors:
@@ -2857,7 +2798,6 @@
     date: '2014-08-19'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
   - title: The Opisthorchis viverrini genome provides insights into life in the bile
       duct
     authors:
@@ -2888,8 +2828,7 @@
     doi: 10.1038/ncomms5378
     journal: Nat Commun
     date: '2014-07-09'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Next-generation whole genome sequencing of dengue virus
     authors:
     - Aw PP
@@ -2902,8 +2841,7 @@
     doi: 10.1007/978-1-4939-0348-1_12
     journal: Methods Mol Biol
     date: '2014'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
 - year: 2013
   publications:
   - title: Genome Sequencing of Four Strains of Rickettsia prowazekii, the Causative
@@ -2922,8 +2860,7 @@
     doi: 10.1128/genomeA.00399-13
     journal: Genome Announc
     date: '2013-06-27'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Species identification and profiling of complex microbial communities using
       shotgun Illumina sequencing of 16S rRNA amplicon sequences
     authors:
@@ -2938,7 +2875,8 @@
     doi: 10.1371/journal.pone.0060811
     journal: PLoS One
     date: '2013-04-08'
-    keywords: []
+    keywords:
+    - Metagenomic Tech
   - title: Sequence assembly demystified
     authors:
     - Nagarajan N
@@ -2992,8 +2930,7 @@
     doi: 10.1038/ng.2472
     journal: Nat Genet
     date: 2013-01
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: A randomized, double-blind placebo controlled trial of balapiravir, a polymerase
       inhibitor, in adult dengue patients
     authors:
@@ -3025,8 +2962,7 @@
     doi: 10.1093/infdis/jis470
     journal: J Infect Dis
     date: '2013-05-01'
-    keywords:
-    - Metagenomic Tech
+    keywords: []
 - year: 2012
   publications:
   - title: Whole-genome reconstruction and mutational signatures in gastric cancer
@@ -3091,8 +3027,7 @@
     doi: 10.1093/nar/gks918
     journal: Nucleic Acids Res
     date: 2012-12
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Long span DNA paired-end-tag (DNA-PET) sequencing strategy for the interrogation
       of genomic structural mutations and fusion-point-guided reconstruction of amplicons
     authors:
@@ -3190,8 +3125,7 @@
     doi: 10.1038/ng.2246
     journal: Nat Genet
     date: 2012-05
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: A common BIM deletion polymorphism mediates intrinsic resistance and inferior
       responses to tyrosine kinase inhibitors in cancer
     authors:
@@ -3255,7 +3189,6 @@
     date: '2012-03-18'
     keywords:
     - Environmental Microbiomes
-    - Metagenomic Tech
     - Skin Microbiome
 - year: 2011
   publications:
@@ -3327,8 +3260,7 @@
     doi: 10.1093/nar/gkq1232
     journal: Nucleic Acids Res
     date: 2011-03
-    keywords:
-    - Metagenomic Tech
+    keywords: []
 - year: 2010
   publications:
   - title: Sequencing and genome assembly using next-generation technologies
@@ -3368,8 +3300,7 @@
     doi: 10.1089/cmb.2009.0173
     journal: J Comput Biol
     date: 2010-03
-    keywords:
-    - Metagenomic Tech
+    keywords: []
   - title: Alignment and clustering of phylogenetic markers--implications for microbial
       diversity studies
     authors:

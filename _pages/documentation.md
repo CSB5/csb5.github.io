@@ -139,7 +139,7 @@ Here is our preprint [[1](#preprint)].
 
 1. Under `_authors` folder, create a new markdown file for the person you want to add. The name of the file should be the same as the name of the person.
 
-1. Create the metadata section for the person's info. See [this](https://github.com/CSB5/csb5.github.io/blob/main/_authors/mauricio.md?plain=1) file for an example. It contains the following fields. The order of the fields doesn't matter.
+1. Create the metadata section for the person's info. See [this](https://github.com/CSB5/csb5.github.io/blob/main/_authors/mauricio-lisboa-perez.md?plain=1) file for an example. It contains the following fields. The order of the fields doesn't matter.
 
    ```yaml
 ---
@@ -158,11 +158,10 @@ X: (optional) [X page]
 bluesky: (optional) [bluesky page]
 linkedin: (optional) [LinkedIn profile]
 position: [The person's position in the lab]
-next_position: (optional) [If the person has left the lab, specify the next position]
+is_alumni: (optional) [If set to true, this person will appear in the "Alumni" page]
+is_intern: (optional) [If set to true, this person will appear in the "Interns" page]
 ---
    ```
-
-   If the `next_position` field is defined, the person would be moved to the "Alumni" page.
 
 1. Add the person's qualification and (optional) self introduction below the metadata.
 

@@ -89,7 +89,7 @@
     primary_link: https://github.com/CSB5/GiRaF
     github: https://github.com/CSB5/GiRaF
 
-- theme: Metagenomic System Biology
+- theme: Metagenomic Systems Biology
   image: /images/misc/resources_theme/microbe.png
   items: 
   - title: "BEEM: microbial community dynamics"
