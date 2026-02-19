@@ -5,7 +5,7 @@ description: List of styles that can be used in a blog post.
 permalink: /elements/
 ---
 
-**Refer to [this source file](https://github.com/csb5-page/csb5-page.github.io/blob/main/_pages/elements.md?plain=1) to see how to use those styles in a markdown file.**
+**Refer to [this source file](https://github.com/CSB5/csb5.github.io/blob/main/_pages/elements.md?plain=1) to see how to use those styles in a markdown file.**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in sem imperdiet, semper lectus nec, pharetra nibh. Vestibulum volutpat fringilla leo, nec mollis ante gravida eu. Duis et tortor a dui tristique rhoncus. Nullam vitae commodo orci. Curabitur sed nibh quis quam condimentum volutpat. Morbi orci ex, ullamcorper et consequat vitae, volutpat nec ante. Pellentesque ultricies ligula porttitor lorem aliquet suscipit. Maecenas hendrerit metus ac suscipit viverra. Duis sed fermentum lorem, ac egestas massa. Donec quis orci placerat, blandit lacus quis, ornare dolor. Morbi et luctus velit. Proin tincidunt magna a nisi ultrices fermentum. Nam dictum iaculis orci, sed ultricies nibh aliquet in. Donec eget quam dolor. Aliquam quis metus et urna finibus ultricies.
 

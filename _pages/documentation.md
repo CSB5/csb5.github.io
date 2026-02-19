@@ -25,7 +25,7 @@ Creating/editing pages can be done directly on the GitHub webpage if you are not
 
 1. You need to have a [GitHub](https://github.com/) account.
 
-1. Navigate to the [website repository](https://github.com/csb5-page/csb5-page.github.io) and click `fork` on the top right corner.
+1. Navigate to the [website repository](https://github.com/CSB5/csb5.github.io) and click `fork` on the top right corner.
 
    ![](/images/misc/documentation/GitHub_page.png)
    *On the top right there are 3 buttons. Click "fork" to create a copy.*
@@ -34,7 +34,7 @@ Creating/editing pages can be done directly on the GitHub webpage if you are not
 
 1. Navigate to your **forked repository**. You can find it in your list of repositories (click your profile picture on the top right, and select `Repositories`).
 
-   Before you commit, check if the message `This branch is up to date with csb5-page/csb5-page.github.io:main.` appears at the top of your page. If your branch is behind the main branch, click the `Sync fork` button.
+   Before you commit, check if the message `This branch is up to date with CSB5/csb5.github.io:main.` appears at the top of your page. If your branch is behind the main branch, click the `Sync fork` button.
 
 1. Go to the `_posts` folder, click `Add file` on the top right to create a new post or an existing file to edit one.
 
@@ -43,7 +43,7 @@ Creating/editing pages can be done directly on the GitHub webpage if you are not
 
    If you are adding a new file, make sure its name is in the form of `YYYY-MM-DD-your-post-title.markdown`.
 
-1. Every markdown should start with a metadata section. See [this](https://github.com/csb5-page/csb5-page.github.io/blob/main/_posts/2024-12-02-sequencing-non-canonical-bases.markdown?plain=1) file for an example. It contains the following fields. The order of the fields doesn't matter.
+1. Every markdown should start with a metadata section. See [this](https://github.com/CSB5/csb5.github.io/blob/main/_posts/2024-12-02-sequencing-non-canonical-bases.markdown?plain=1) file for an example. It contains the following fields. The order of the fields doesn't matter.
 
    ```yaml
 ---
@@ -63,7 +63,7 @@ featured: false
 ---
    ```
 
-   The list of authors should take the form `[mauricio, nok, rafael, niranjan]`, where each entry is the `username` defined in the [author page](https://github.com/csb5-page/csb5-page.github.io/blob/main/_authors/1.md?plain=1).
+   The list of authors should take the form `[mauricio, nok, rafael, niranjan]`, where each entry is the `username` defined in the [author page](https://github.com/CSB5/csb5.github.io/blob/main/_authors/1.md?plain=1).
 
 1. Add the content of the post below the metadata. Refer to [this guideline](#image_guideline) for adding images.
 
@@ -77,7 +77,7 @@ featured: false
 
    ![](/images/misc/documentation/commit.png)
 
-1. Once you've done all the commits, navigate again to the main page of your fored repository. You may notice a message that says `This branch is x commit ahead of csb5-page/csb5-page.github.io:main`. Click on `Contribute` and open a pull request (PR)!
+1. Once you've done all the commits, navigate again to the main page of your fored repository. You may notice a message that says `This branch is x commit ahead of CSB5/csb5.github.io:main`. Click on `Contribute` and open a pull request (PR)!
 
    
 
@@ -96,7 +96,7 @@ You can either add images from other websites by copying the image links (not re
 
 Under `images/posts/`, create a separate folder with the same name as the blog post markdown file, and store all images & videos used in the blog post there.
 
-Find out how to use different styles for fonts, images, and videos in your blog posts in [this demo](https://csb5-page.github.io/elements/) and its [source code](https://github.com/csb5-page/csb5-page.github.io/blob/main/_pages/elements.md?plain=1).
+Find out how to use different styles for fonts, images, and videos in your blog posts in [this demo](https://csb5.github.io/elements/) and its [source code](https://github.com/CSB5/csb5.github.io/blob/main/_pages/elements.md?plain=1).
 
 
 <a id="citation"></a>
@@ -139,7 +139,7 @@ Here is our preprint [[1](#preprint)].
 
 1. Under `_authors` folder, create a new markdown file for the person you want to add. The name of the file should be the same as the name of the person.
 
-1. Create the metadata section for the person's info. See [this](https://github.com/csb5-page/csb5-page.github.io/blob/main/_authors/mauricio.md?plain=1) file for an example. It contains the following fields. The order of the fields doesn't matter.
+1. Create the metadata section for the person's info. See [this](https://github.com/CSB5/csb5.github.io/blob/main/_authors/mauricio.md?plain=1) file for an example. It contains the following fields. The order of the fields doesn't matter.
 
    ```yaml
 ---
@@ -177,7 +177,7 @@ The following steps needs a linux command line.
 1. Clone your **forked repository** to your computer. Navigate to the folder.
 
    ```bash
-cd csb5-page.github.io/
+cd csb5.github.io/
    ```
 
 1. Build the website using
