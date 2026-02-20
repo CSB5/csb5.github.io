@@ -1,0 +1,45 @@
+---
+layout: default
+title: Join Us
+permalink: /join-us/
+---
+
+
+
+<!-- Pipelines -->
+
+<div class="container">
+  <div class="tag__head">
+    <h1 class="tag__title">Open Positions</h1>
+  </div>
+  
+    <div class="section__inner">
+      <div class="row">
+        {% for post in site.positions %}
+              {% include job-post.html %}
+        {% endfor %}
+      </div>
+    </div>
+</div>
+
+<div class="container">
+  <div class="tag__head">
+    <h2 class="tag__title__small">Nagarajan Lab</h2>
+  </div>
+  <p align="center">
+    <img src="/images/open_positions/3_group_photo.jpg"/>
+  </p>
+    <p>The laboratory of metagenomic technologies and microbial systems (MTMS) is a hybrid lab that synergizes our capabilities in wet and dry-lab research. We are based out of the <b>National University of Singapore</b> (NUS) and the <b>Genome Institute of Singapore</b> (GIS, A*STAR), leveraging the academic strengths of a globally-leading university (NUS) and the innovation and industry focus of A*STAR (GIS). At NUS, we are affiliated with the <b>School of Medicine</b> and the <b>School of Computing</b>, providing the perfect setting for exciting interdisciplinary research at the intersection of these two areas.
+      </p>
+</div>
+
+<div class="container">
+  <div class="tag__head">
+    <h2 class="tag__title__small">Why Singapore?</h2>
+  </div>
+  <p align="center">
+    <img src="/images/open_positions/1_singapore_skyline_panorama.jpg"/>
+  </p>
+    <p>Singapore is a highly cosmopolitan city-state at the cross-roads of Asia with one of the highest standards of living in the world. We provide an internationally competitive remuneration package, a world-class research environment, an opportunity to contribute to global science from an Asian perspective, and a lab environment that is welcoming to all backgrounds and nationalities.
+      </p>
+</div>

@@ -35,6 +35,8 @@ menu__settings:
         title: 'Alumni'
       - url: '/interns/'
         title: 'Interns'
+      - url: '/join-us/'
+        title: 'Join us'
 
 
 #-------------------------------

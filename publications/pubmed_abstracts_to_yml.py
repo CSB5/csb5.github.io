@@ -91,6 +91,8 @@ def extract_abstract(fields: List[str]) -> str:
     Abstract is typically the first long paragraph after affiliations.
     We heuristically take the longest paragraph that doesn't start with
     boilerplate labels.
+
+    [FIXME] Some abstracts are not detected.
     """
     candidates = []
     for f in fields:
@@ -111,6 +113,7 @@ def assign_keywords(abstract: str, title: str, kwmap: Dict[str, List[str]]) -> L
     for k, triggers in kwmap.items():
         for t in triggers:
             if t.lower() in text:
+                #print(f"Title: {title}, Keyword hit: '{k}' triggered by '{t}'")
                 hits.append(k)
                 break
     return sorted(set(hits))
@@ -184,7 +187,8 @@ def main() -> None:
             "genome reconstruction",
             "variant calling",
             "technologies",
-            "technology"
+            "technology",
+            "phylogenetic tree"
         ],
 
         "Gut Microbiome": [
@@ -216,12 +220,9 @@ def main() -> None:
             "freshwater",
             "aquatic",
             "plant",
-            "rhizosphere",
-            "phyllosphere",
             "hospital",
             "wastewater",
             "sewage",
-            "air",
             "urban",
             "surface",
         ]

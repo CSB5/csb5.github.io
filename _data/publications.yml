@@ -1,5 +1,128 @@
 - year: 2026
   publications:
+  - title: Setting higher standards for reports of microbial species in human cancers
+    authors:
+    - Salzberg SL
+    - Chia M
+    - Tay A
+    - de Miranda NFCC
+    - Smit V
+    - Wesseling J
+    - Irizarry R
+    - Marshall B
+    - Willerslev E
+    - Neefjes J
+    - Nagarajan N
+    doi: 10.1038/s43018-026-01121-6
+    journal: Nat Cancer
+    date: '2026-02-19'
+    keywords: []
+  - title: Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny
+    authors:
+    - Hunt M
+    - Hinrichs AS
+    - Anderson D
+    - Karim L
+    - Dearlove BL
+    - Knaggs J
+    - Constantinides B
+    - Fowler PW
+    - Rodger G
+    - Street T
+    - Lumley S
+    - Webster H
+    - Sanderson T
+    - Ruis C
+    - Kotzen B
+    - de Maio N
+    - Amenga-Etego LN
+    - Amuzu DSY
+    - Avaro M
+    - Awandare GA
+    - Ayivor-Djanie R
+    - Barkham T
+    - Bashton M
+    - Batty EM
+    - Bediako Y
+    - De Belder D
+    - Benedetti E
+    - Bergthaler A
+    - Boers SA
+    - Campos J
+    - Carr RAA
+    - Chen YYC
+    - Cuba F
+    - Dattero ME
+    - Dejnirattisai W
+    - Dilthey A
+    - Duedu KO
+    - Endler L
+    - Engelmann I
+    - Francisco NM
+    - Fuchs J
+    - Gnimpieba EZ
+    - Groc S
+    - Gyamfi J
+    - Heemskerk D
+    - Houwaart T
+    - Hsiao NY
+    - Huska M
+    - Hölzer M
+    - Iranzadeh A
+    - Jarva H
+    - Jeewandara C
+    - Jolly B
+    - Joseph R
+    - Kant R
+    - Ki KKK
+    - Kurkela S
+    - Lappalainen M
+    - Lataretu M
+    - Lemieux J
+    - Liu C
+    - Malavige GN
+    - Mashe T
+    - Mongkolsapaya J
+    - Montes B
+    - Mora JAM
+    - Morang'a CM
+    - Mvula B
+    - Nagarajan N
+    - Nelson A
+    - Ngoi JM
+    - da Paixão JP
+    - Panning M
+    - Poklepovich T
+    - Quashie PK
+    - Ranasinghe D
+    - Russo M
+    - San JE
+    - Sanderson ND
+    - Scaria V
+    - Screaton G
+    - Sessions OM
+    - Sironen T
+    - Sisay A
+    - Smith D
+    - Smura T
+    - Supasa P
+    - Suphavilai C
+    - Swann J
+    - Tegally H
+    - Tegomoh B
+    - Vapalahti O
+    - Walker A
+    - Wilkinson RJ
+    - Williamson C
+    - Zair X; IMSSC Laboratory Network Consortium; de Oliveira T
+    - Peto TE
+    - Crook D
+    - Corbett-Detig R
+    - Iqbal Z
+    doi: 10.1038/s41592-025-02947-1
+    journal: Nat Methods
+    date: '2026-02-09'
+    keywords: []
   - title: High-throughput single-cell isolation of Bifidobacterium strains from the
       human gut microbiome
     authors:
@@ -82,7 +205,6 @@
     journal: Nat Biotechnol
     date: '2025-08-28'
     keywords:
-    - Environmental Microbiomes
     - Skin Microbiome
   - title: Challenges and Opportunities in Analyzing Cancer-Associated Microbiomes
     authors:
@@ -672,7 +794,6 @@
     journal: Int J Mol Sci
     date: '2023-01-05'
     keywords:
-    - Environmental Microbiomes
     - Skin Microbiome
   - title: 'CREAMMIST: an integrative probabilistic database for cancer drug response
       prediction'
@@ -818,8 +939,7 @@
     doi: 10.3201/eid2808.212542
     journal: Emerg Infect Dis
     date: 2022-08
-    keywords:
-    - Environmental Microbiomes
+    keywords: []
   - title: Mutual Exclusion of Methanobrevibacter Species in the Human Gut Microbiota
       Facilitates Directed Cultivation of a Candidatus Methanobrevibacter Intestini
       Representative
@@ -1016,7 +1136,6 @@
     journal: J Allergy Clin Immunol
     date: 2022-10
     keywords:
-    - Environmental Microbiomes
     - Skin Microbiome
   - title: SARS-CoV-2 N Gene G29195T Point Mutation May Affect Diagnostic Reverse
       Transcription-PCR Detection
@@ -1612,7 +1731,6 @@
     journal: Nat Biotechnol
     date: 2019-08
     keywords:
-    - Environmental Microbiomes
     - Gut Microbiome
     - Metagenomic Tech
   - title: Community assessment to advance computational prediction of cancer drug
@@ -1679,7 +1797,6 @@
     journal: Nat Commun
     date: '2019-03-29'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
 - year: 2018
   publications:
@@ -1757,7 +1874,6 @@
     journal: Cell
     date: '2018-08-09'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: 'Immunological corollary of the pulmonary mycobiome in bronchiectasis:
       the CAMEB study'
@@ -1789,8 +1905,7 @@
     doi: 10.1183/13993003.00766-2018
     journal: Eur Respir J
     date: '2018-07-27'
-    keywords:
-    - Environmental Microbiomes
+    keywords: []
   - title: Predicting Cancer Drug Response using a Recommender System
     authors:
     - Suphavilai C
@@ -1866,7 +1981,6 @@
     journal: Cell
     date: '2018-04-05'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: Perspective on Oncogenic Processes at the End of the Beginning of Cancer
       Genomics
@@ -1909,7 +2023,6 @@
     journal: Cell
     date: '2018-04-05'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: Genome-wide identification of natural RNA aptamers in prokaryotes and eukaryotes
     authors:
@@ -2141,7 +2254,6 @@
     journal: J Vis Exp
     date: '2017-05-24'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: Mammalian Systems Biotechnology Reveals Global Cellular Adaptations in
       a Recombinant CHO Cell Line
@@ -2175,7 +2287,6 @@
     journal: Cell Syst
     date: '2017-05-24'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: Transcriptomics Analysis Reveals Putative Genes Involved in Biofilm Formation
       and Biofilm-associated Drug Resistance of Enterococcus faecalis
@@ -2297,7 +2408,6 @@
     journal: EBioMedicine
     date: 2016-06
     keywords:
-    - Environmental Microbiomes
     - Gut Microbiome
   - title: '@MInter: automated text-mining of microbial interactions'
     authors:
@@ -2332,7 +2442,6 @@
     journal: Mol Cell
     date: '2016-05-19'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: 'OPERA-LG: efficient and exact scaffolding of large, repeat-rich eukaryotic
       genomes with performance guarantees'
@@ -2380,7 +2489,6 @@
     journal: Gigascience
     date: '2016-01-19'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: Mutational spectrum of Barrett's stem cells suggests paths to initiation
       of a precancerous lesion
@@ -2539,8 +2647,7 @@
     doi: 10.1371/journal.pntd.0004044
     journal: PLoS Negl Trop Dis
     date: '2015-09-01'
-    keywords:
-    - Environmental Microbiomes
+    keywords: []
   - title: Tracking Dengue Virus Intra-host Genetic Diversity during Human-to-Mosquito
       Transmission
     authors:
@@ -2601,8 +2708,7 @@
     doi: 10.1016/j.celrep.2015.06.020
     journal: Cell Rep
     date: '2015-07-14'
-    keywords:
-    - Environmental Microbiomes
+    keywords: []
   - title: Cloning and variation of ground state intestinal stem cells
     authors:
     - Wang X
@@ -2781,8 +2887,7 @@
     doi: 10.1101/gr.164871.113
     journal: Genome Res
     date: 2014-10
-    keywords:
-    - Environmental Microbiomes
+    keywords: []
   - title: Genomic characterization of three unique Dehalococcoides that respire on
       persistent polychlorinated biphenyls
     authors:
@@ -3009,7 +3114,6 @@
     journal: Genome Biol
     date: '2012-12-13'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: 'LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering
       cell-population heterogeneity from high-throughput sequencing datasets'
@@ -3061,7 +3165,6 @@
     journal: PLoS One
     date: '2012-09-28'
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: Genome mapping on nanochannel arrays for structural variation analysis
       and sequence assembly
@@ -3188,7 +3291,6 @@
     journal: Nat Med
     date: '2012-03-18'
     keywords:
-    - Environmental Microbiomes
     - Skin Microbiome
 - year: 2011
   publications:
@@ -3202,7 +3304,6 @@
     journal: J Comput Biol
     date: 2011-11
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: Comprehensive long-span paired-end-tag mapping reveals characteristic patterns
       of structural variations in epithelial cancer genomes
@@ -3250,7 +3351,6 @@
     journal: Genome Res
     date: 2011-05
     keywords:
-    - Environmental Microbiomes
     - Metagenomic Tech
   - title: 'GiRaF: robust, computational identification of influenza reassortments
       via graph mining'

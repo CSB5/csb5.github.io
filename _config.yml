@@ -28,6 +28,9 @@ collections:
   authors:
     output: true
     permalink: /:name
+  positions:
+    output: true
+    permalink: /:name
 
 # Pages Path
 defaults:
@@ -50,6 +53,11 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "positions"
+    values:
+      layout: "position"
 
 sass:
   sass_dir: _sass
