@@ -367,6 +367,26 @@
   }
 }
 
+.post__content {
+  color: var(--text-color);
+  text-align: justify;
+
+  @media (max-width: $mobile) {
+    text-align: left;
+  }
+  
+  
+  a {
+    font-weight: 600;
+    border-bottom: 1px solid var(--border-alt-color);
+
+    &:hover {
+      color: var(--link-color);
+      border-bottom-color: var(--link-color-hover);
+    }
+  }
+}
+
 /* Post Share */
 .post__share {
   margin-top: 60px;
