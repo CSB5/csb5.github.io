@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: MTMS
+title: MTMS Lab
 logo: /images/misc/MTMSlogo.png # You can add own logo. For example "/images/logo.png".
 logo_dark: /images/misc/MTMSlogo_dark.png
 logo_footer: /images/misc/ASTAR_NUS_logo.png
@@ -90,8 +90,10 @@ footer__menu__settings:
 
 # Social Links
 social:
-- {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://x.com/NiranjanTW"}
-- {icon: "ion-logo-github", color: "#000000", name: GitHub, link: "https://github.com/CSB5"}
+- {color: "#000000", name: X, link: "https://x.com/NiranjanTW", icon_image: https://cdn.simpleicons.org/x/white}
+- {color: "#1185FE", name: Bluesky, link: "https://bsky.app/profile/niranjantw.bsky.social", icon_image: https://cdn.simpleicons.org/bluesky/white}
+- {color: "#181717", name: GitHub, link: "https://github.com/CSB5", icon_image: https://cdn.simpleicons.org/github/white}
+
 
 
 
