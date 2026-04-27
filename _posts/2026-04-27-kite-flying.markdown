@@ -3,7 +3,7 @@ layout: post
 title: Kite flying at Marina Barage
 description: Lab outing to fly some kites and spend some time outdoors all together. 
 image: 'images/activities/2026-04-27-kite-flying/group_pic.jpeg'
-date: (optional) 2026-04-27
+date: 2026-04-27
 author: amy-birss
 featured: false
 group_activity: true
