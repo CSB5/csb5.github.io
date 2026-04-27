@@ -1,0 +1,44 @@
+name: Update Publications
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # runs on the 1st of every month
+  workflow_dispatch:       # allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Fetch PubMed abstracts
+        run: |
+          # Step 1: search for all PMIDs for Niranjan Nagarajan
+          IDS=$(curl -s "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=Niranjan+Nagarajan%5BAuthor%5D&retmax=500&retmode=json" \
+            | python3 -c "import sys,json; d=json.load(sys.stdin); print(','.join(d['esearchresult']['idlist']))")
+          # Step 2: fetch abstracts in the same text format the script expects
+          curl -s "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=${IDS}&rettype=abstract&retmode=text" \
+            > publications/abstract-NiranjanNa-set.txt
+
+      - name: Generate publications YAML
+        run: python publications/pubmed_abstracts_to_yml.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add publications/abstract-NiranjanNa-set.txt _data/publications.yml
+          git diff --cached --quiet || git commit -m "chore: auto-update publications from PubMed"
+          git push

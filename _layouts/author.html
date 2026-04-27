@@ -4,7 +4,7 @@ layout: default
 
 <!-- begin author -->
 <section class="author">
-  {% assign post_count = site.posts | where: 'author', page.username %}
+  {% assign post_count = site.posts | where: 'author', page.username | where: 'group_activity', false %}
 
 
   <div class="author-head">
