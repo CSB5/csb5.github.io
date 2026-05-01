@@ -1,5 +1,22 @@
 - year: 2026
   publications:
+  - title: Direct RNA sequencing and signal alignment reveal RNA structure ensembles
+      in a eukaryotic cell
+    authors:
+    - Wang J
+    - Han J
+    - Tan WT
+    - Cheng AY
+    - Aw JGA
+    - Wang Y
+    - Zeng G
+    - Nagarajan N
+    - Wan Y
+    doi: 10.1038/s41592-026-03069-y
+    journal: Nat Methods
+    date: '2026-04-24'
+    keywords:
+    - Metagenomic Tech
   - title: Setting higher standards for reports of microbial species in human cancers
     authors:
     - Salzberg SL
@@ -15,7 +32,7 @@
     - Nagarajan N
     doi: 10.1038/s43018-026-01121-6
     journal: Nat Cancer
-    date: '2026-02-19'
+    date: 2026-03
     keywords: []
   - title: Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny
     authors:
@@ -121,7 +138,7 @@
     - Iqbal Z
     doi: 10.1038/s41592-025-02947-1
     journal: Nat Methods
-    date: '2026-02-09'
+    date: 2026-03
     keywords: []
   - title: High-throughput single-cell isolation of Bifidobacterium strains from the
       human gut microbiome
@@ -1588,35 +1605,11 @@
     - Nagarajan N
     - Cooper BS
     - Marimuthu K
-    doi: 10.3201/eid2609.190592
+    doi: 10.1038/s41559-020-1236-0
     journal: Emerg Infect Dis
     date: 2020-09
     keywords:
     - Environmental Microbiomes
-  - title: Metagenome-wide association analysis identifies microbial determinants
-      of post-antibiotic ecological recovery in the gut
-    authors:
-    - Chng KR
-    - Ghosh TS
-    - Tan YH
-    - Nandi T
-    - Lee IR
-    - Ng AHQ
-    - Li C
-    - Ravikrishnan A
-    - Lim KM
-    - Lye D
-    - Barkham T
-    - Raman K
-    - Chen SL
-    - Chai L
-    - Young B
-    - Gan YH
-    - Nagarajan N
-    doi: 10.1038/s41559-020-1236-0
-    journal: Nat Ecol Evol
-    date: 2020-09
-    keywords:
     - Gut Microbiome
     - Metagenomic Tech
   - title: Cartography of opportunistic pathogens and antibiotic resistance genes
@@ -1733,38 +1726,6 @@
     keywords:
     - Gut Microbiome
     - Metagenomic Tech
-  - title: Community assessment to advance computational prediction of cancer drug
-      combinations in a pharmacogenomic screen
-    authors:
-    - Menden MP
-    - Wang D
-    - Mason MJ
-    - Szalai B
-    - Bulusu KC
-    - Guan Y
-    - Yu T
-    - Kang J
-    - Jeon M
-    - Wolfinger R
-    - Nguyen T
-    - Zaslavskiy M; AstraZeneca-Sanger Drug Combination DREAM Consortium; Jang IS
-    - Ghazoui Z
-    - Ahsen ME
-    - Vogel R
-    - Neto EC
-    - Norman T
-    - Tang EKY
-    - Garnett MJ
-    - Veroli GYD
-    - Fawell S
-    - Stolovitzky G
-    - Guinney J
-    - Dry JR
-    - Saez-Rodriguez J
-    doi: 10.1038/s41467-019-09799-2
-    journal: Nat Commun
-    date: '2019-06-17'
-    keywords: []
   - title: Structure mapping of dengue and Zika viruses reveals functional long-range
       interactions
     authors:
@@ -2739,31 +2700,6 @@
     date: '2015-06-11'
     keywords:
     - Gut Microbiome
-  - title: Combining tumor genome simulation with crowdsourcing to benchmark somatic
-      single-nucleotide-variant detection
-    authors:
-    - Ewing AD
-    - Houlahan KE
-    - Hu Y
-    - Ellrott K
-    - Caloian C
-    - Yamaguchi TN
-    - Bare JC
-    - P'ng C
-    - Waggott D
-    - Sabelnykova VY; ICGC-TCGA DREAM Somatic Mutation Calling Challenge participants;
-      Kellen MR
-    - Norman TC
-    - Haussler D
-    - Friend SH
-    - Stolovitzky G
-    - Margolin AA
-    - Stuart JM
-    - Boutros PC
-    doi: 10.1038/nmeth.3407
-    journal: Nat Methods
-    date: 2015-07
-    keywords: []
   - title: High-depth sequencing of over 750 genes supports linear progression of
       primary tumors and metastases in most patients with liver-limited metastatic
       colorectal cancer
@@ -3032,7 +2968,7 @@
     - Nagarajan N
     - Deng XX
     - Ruan Y
-    doi: 10.1038/ng.2472
+    doi: 10.1093/nar/gks918
     journal: Nat Genet
     date: 2013-01
     keywords: []
@@ -3115,23 +3051,6 @@
     date: '2012-12-13'
     keywords:
     - Metagenomic Tech
-  - title: 'LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering
-      cell-population heterogeneity from high-throughput sequencing datasets'
-    authors:
-    - Wilm A
-    - Aw PP
-    - Bertrand D
-    - Yeo GH
-    - Ong SH
-    - Wong CH
-    - Khor CC
-    - Petric R
-    - Hibberd ML
-    - Nagarajan N
-    doi: 10.1093/nar/gks918
-    journal: Nucleic Acids Res
-    date: 2012-12
-    keywords: []
   - title: Long span DNA paired-end-tag (DNA-PET) sequencing strategy for the interrogation
       of genomic structural mutations and fusion-point-guided reconstruction of amplicons
     authors:

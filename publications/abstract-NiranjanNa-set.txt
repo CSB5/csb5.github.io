@@ -1,4 +1,58 @@
-1. Nat Cancer. 2026 Feb 19. doi: 10.1038/s43018-026-01121-6. Online ahead of print.
+1. Nat Methods. 2026 Apr 24. doi: 10.1038/s41592-026-03069-y. Online ahead of 
+print.
+
+Direct RNA sequencing and signal alignment reveal RNA structure ensembles in a 
+eukaryotic cell.
+
+Wang J(#)(1)(2), Han J(#)(3), Tan WT(3), Cheng AY(3), Aw JGA(3), Wang Y(4)(5), 
+Zeng G(4), Nagarajan N(6)(7), Wan Y(8).
+
+Author information:
+(1)Institute of Medical Genetics and Development, Key Laboratory of Reproductive 
+Genetics (Ministry of Education) and Women's Hospital, Zhejiang University 
+School of Medicine, Zhejiang, China. wangjiaxu@zju.edu.cn.
+(2)Genome Institute of Singapore, A*STAR, Singapore, Singapore. 
+wangjiaxu@zju.edu.cn.
+(3)Genome Institute of Singapore, A*STAR, Singapore, Singapore.
+(4)A*STAR Infectious Diseases Labs (A*STAR ID Labs), Agency for Science, 
+Technology and Research (A*STAR), Singapore, Singapore.
+(5)Department of Biochemistry, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore, Singapore.
+(6)Genome Institute of Singapore, A*STAR, Singapore, Singapore. 
+nagarajann@gis.a-star.edu.sg.
+(7)Department of Biochemistry, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore, Singapore. nagarajann@gis.a-star.edu.sg.
+(8)Genome Institute of Singapore, A*STAR, Singapore, Singapore. 
+wany@gis.a-star.edu.sg.
+(#)Contributed equally
+
+The extent to which an RNA folds into structure ensembles and how different 
+structures in the ensemble regulate eukaryotic gene expression is not fully 
+understood. Here, we coupled chemical probing with direct RNA sequencing to 
+identify structure modifications along a single RNA molecule (sm-PORE-cupine). 
+We used direct signal alignment in addition to base mapping to increase the 
+percentage of mappable sequences and showed that Bernoulli mixture model 
+clustering can separate structure ensembles accurately. We applied 
+sm-PORE-cupine to identify isoform-specific structure ensembles along the 
+SARS-CoV-2 genome and structure ensembles in the Candida albicans transcriptome. 
+We observed that RNAs are more structurally homogeneous in vitro, at higher 
+temperatures and in the 3' untranslated regions of C. albicans. Structure 
+ensembles are associated with changes in translation efficiency and decay in C. 
+albicans, and we validated translation changes using reporter assays. 
+sm-PORE-cupine expands the existing toolbox for studying RNA structure and 
+function in diverse transcriptomes.
+
+© 2026. The Author(s).
+
+DOI: 10.1038/s41592-026-03069-y
+PMID: 42032065
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+2. Nat Cancer. 2026 Mar;7(3):414-423. doi: 10.1038/s43018-026-01121-6. Epub 2026 
+Feb 19.
 
 Setting higher standards for reports of microbial species in human cancers.
 
@@ -56,13 +110,14 @@ the rigor and standards of tumor microbiome studies.
 © 2026. Springer Nature America, Inc.
 
 DOI: 10.1038/s43018-026-01121-6
-PMID: 41714823
+PMID: 41714823 [Indexed for MEDLINE]
 
 Conflict of interest statement: Competing interests: The authors declare no 
 competing interests.
 
 
-2. Nat Methods. 2026 Feb 9. doi: 10.1038/s41592-025-02947-1. Online ahead of print.
+3. Nat Methods. 2026 Mar;23(3):653-662. doi: 10.1038/s41592-025-02947-1. Epub
+2026  Feb 9.
 
 Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny.
 
@@ -235,7 +290,8 @@ validation of the methodology, and quantify the improvement in the phylogeny.
 © 2025. The Author(s).
 
 DOI: 10.1038/s41592-025-02947-1
-PMID: 41663577
+PMCID: PMC12982125
+PMID: 41663577 [Indexed for MEDLINE]
 
 Conflict of interest statement: Competing interests: G. Screaton is on the GSK 
 Vaccines Scientific Advisory Board, consults for AstraZeneca, and is a founding 
@@ -244,7 +300,7 @@ the Ellison Institute of Technology. B. Jolly is employed by Karkinos Healthcare
 Private Limited. The remaining authors declare no competing interests.
 
 
-3. Microbiol Spectr. 2026 Feb 3;14(2):e0303325. doi: 10.1128/spectrum.03033-25. 
+4. Microbiol Spectr. 2026 Feb 3;14(2):e0303325. doi: 10.1128/spectrum.03033-25. 
 Epub 2025 Dec 30.
 
 High-throughput single-cell isolation of Bifidobacterium strains from the human 
@@ -315,7 +371,7 @@ PMID: 41467811 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-4. iScience. 2025 Oct 21;28(11):113791. doi: 10.1016/j.isci.2025.113791. 
+5. iScience. 2025 Oct 21;28(11):113791. doi: 10.1016/j.isci.2025.113791. 
 eCollection 2025 Nov 21.
 
 Efficient trace reconstruction in DNA storage systems using bidirectional beam 
@@ -356,7 +412,7 @@ PMID: 41280695
 Conflict of interest statement: The authors declare no competing interests.
 
 
-5. Antibiotics (Basel). 2025 Aug 26;14(9):860. doi: 10.3390/antibiotics14090860.
+6. Antibiotics (Basel). 2025 Aug 26;14(9):860. doi: 10.3390/antibiotics14090860.
 
 Comparative Genomics of DH5α-Inhibiting Escherichia coli Isolates from Feces of 
 Healthy Individuals Reveals Common Co-Occurrence of Bacteriocin Genes with 
@@ -411,7 +467,7 @@ PMID: 41009839
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-6. Pathogens. 2025 Aug 5;14(8):773. doi: 10.3390/pathogens14080773.
+7. Pathogens. 2025 Aug 5;14(8):773. doi: 10.3390/pathogens14080773.
 
 Assessing Zoonotic Risks of Blastocystis Infection in Singapore.
 
@@ -459,7 +515,7 @@ Conflict of interest statement: The authors declare that they have no conflicts
 of interest.
 
 
-7. Nat Biotechnol. 2025 Aug 28. doi: 10.1038/s41587-025-02797-4. Online ahead of 
+8. Nat Biotechnol. 2025 Aug 28. doi: 10.1038/s41587-025-02797-4. Online ahead of 
 print.
 
 Skin metatranscriptomics reveals a landscape of variation in microbial activity 
@@ -512,7 +568,7 @@ Conflict of interest statement: Competing interests: The authors declare no
 competing interests.
 
 
-8. Cancer Res. 2025 Oct 1;85(19):3584-3595. doi: 10.1158/0008-5472.CAN-24-3629.
+9. Cancer Res. 2025 Oct 1;85(19):3584-3595. doi: 10.1158/0008-5472.CAN-24-3629.
 
 Challenges and Opportunities in Analyzing Cancer-Associated Microbiomes.
 
@@ -566,7 +622,7 @@ Conflict of interest statement: The authors declare no potential conflicts of
 interest
 
 
-9. Nat Commun. 2025 Jul 30;16(1):6980. doi: 10.1038/s41467-025-62347-z.
+10. Nat Commun. 2025 Jul 30;16(1):6980. doi: 10.1038/s41467-025-62347-z.
 
 Direct high-throughput deconvolution of non-canonical bases via nanopore 
 sequencing and bootstrapped learning.
@@ -620,7 +676,7 @@ Nanopore Technologies; all contributions in this study were provided prior to
 this employment. The other authors declare no competing interests.
 
 
-10. NPJ Antimicrob Resist. 2025 Jul 8;3(1):63. doi: 10.1038/s44259-025-00132-0.
+11. NPJ Antimicrob Resist. 2025 Jul 8;3(1):63. doi: 10.1038/s44259-025-00132-0.
 
 Citywide metagenomic surveillance of food centres reveals local microbial 
 signatures and antibiotic resistance gene enrichment.
@@ -683,8 +739,8 @@ Conflict of interest statement: Competing interests: The authors declare no
 competing interests.
 
 
-11. Nat Microbiol. 2025 Jul;10(7):1570-1580. doi: 10.1038/s41564-025-02035-2. Epub 
-2025 Jun 20.
+12. Nat Microbiol. 2025 Jul;10(7):1570-1580. doi: 10.1038/s41564-025-02035-2.
+Epub  2025 Jun 20.
 
 Guidelines for preventing and reporting contamination in low-biomass microbiome 
 studies.
@@ -788,7 +844,7 @@ Conflict of interest statement: Competing interests: The authors declare no
 competing interests.
 
 
-12. Cell Rep Med. 2025 Apr 15;6(4):102053. doi: 10.1016/j.xcrm.2025.102053. Epub 
+13. Cell Rep Med. 2025 Apr 15;6(4):102053. doi: 10.1016/j.xcrm.2025.102053. Epub 
 2025 Apr 4.
 
 CAN-Scan: A multi-omic phenotype-driven precision oncology platform identifies 
@@ -887,7 +943,7 @@ Conflict of interest statement: Declaration of interests The authors declare no
 competing interests.
 
 
-13. BMC Glob Public Health. 2025 Mar 21;3(1):23. doi: 10.1186/s44263-025-00138-w.
+14. BMC Glob Public Health. 2025 Mar 21;3(1):23. doi: 10.1186/s44263-025-00138-w.
 
 Leveraging wastewater sequencing to strengthen global public health 
 surveillance.
@@ -975,7 +1031,8 @@ participate: Not applicable. Consent for publication: Not applicable. Competing
 interests: The authors declare no competing interests.
 
 
-14. NPJ Biofilms Microbiomes. 2025 Jan 13;11(1):13. doi: 10.1038/s41522-025-00652-7.
+15. NPJ Biofilms Microbiomes. 2025 Jan 13;11(1):13. doi:
+10.1038/s41522-025-00652-7.
 
 Life stage impact on the human skin ecosystem: lipids and the microbial 
 community.
@@ -1057,7 +1114,7 @@ funding from Abbot Nutrition, Nestle and Danone. All other authors declare no
 competing interests.
 
 
-15. Nat Commun. 2024 Sep 5;15(1):7751. doi: 10.1038/s41467-024-52097-9.
+16. Nat Commun. 2024 Sep 5;15(1):7751. doi: 10.1038/s41467-024-52097-9.
 
 Gut metagenomes of Asian octogenarians reveal metabolic potential expansion and 
 distinct microbial species associated with aging phenotypes.
@@ -1118,8 +1175,8 @@ PMID: 39237540 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no competing interests.
 
 
-16. Lancet Microbe. 2024 Sep;5(9):100878. doi: 10.1016/S2666-5247(24)00101-0. Epub 
-2024 Jul 13.
+17. Lancet Microbe. 2024 Sep;5(9):100878. doi: 10.1016/S2666-5247(24)00101-0.
+Epub  2024 Jul 13.
 
 Detection and characterisation of a sixth Candida auris clade in Singapore: a 
 genomic and phenotypic study.
@@ -1222,7 +1279,7 @@ for a lecture delivered to the Singapore Association of Pharmaceutical
 Industries. All other authors declare no competing interests.
 
 
-17. Bioinformatics. 2024 Jun 28;40(Suppl 1):i30-i38. doi: 
+18. Bioinformatics. 2024 Jun 28;40(Suppl 1):i30-i38. doi: 
 10.1093/bioinformatics/btae252.
 
 Floria: fast and accurate strain haplotyping in metagenomes.
@@ -1273,7 +1330,7 @@ PMID: 38940183 [Indexed for MEDLINE]
 Conflict of interest statement: None declared.
 
 
-18. Clin Transl Med. 2024 Jun;14(6):e1723. doi: 10.1002/ctm2.1723.
+19. Clin Transl Med. 2024 Jun;14(6):e1723. doi: 10.1002/ctm2.1723.
 
 Integrative genomic analyses of European intrahepatic cholangiocarcinoma: Novel 
 ROS1 fusion gene and PBX1 as prognostic marker.
@@ -1379,7 +1436,7 @@ presented here. The other authors declare that they have no competing financial
 interests or personal relationships.
 
 
-19. bioRxiv [Preprint]. 2024 Nov 5:2024.04.29.591666. doi: 
+20. bioRxiv [Preprint]. 2024 Nov 5:2024.04.29.591666. doi: 
 10.1101/2024.04.29.591666.
 
 Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny.
@@ -1523,7 +1580,7 @@ University of KwaZulu-Natal, South Africa.
 (65)Milner Centre for Evolution, University of Bath, UK.
 
 Update in
-    Nat Methods. 2026 Feb 9. doi: 10.1038/s41592-025-02947-1.
+    Nat Methods. 2026 Mar;23(3):653-662. doi: 10.1038/s41592-025-02947-1.
 
 The SARS-CoV-2 genome occupies a unique place in infection biology - it is the 
 most highly sequenced genome on earth (making up over 20% of public sequencing 
@@ -1560,7 +1617,7 @@ GSK Vaccines Scientific Advisory Board, consults for AstraZeneca, and is a
 founding member of RQ Biotechnology.
 
 
-20. BMC Bioinformatics. 2024 Apr 16;25(Suppl 1):153. doi: 
+21. BMC Bioinformatics. 2024 Apr 16;25(Suppl 1):153. doi: 
 10.1186/s12859-024-05760-3.
 
 MetageNN: a memory-efficient neural network taxonomic classifier robust to 
@@ -1621,7 +1678,7 @@ PMID: 38627615 [Indexed for MEDLINE]
 Conflict of interest statement: The authors no competing interests.
 
 
-21. ISME J. 2024 Jan 8;18(1):wrae054. doi: 10.1093/ismejo/wrae054.
+22. ISME J. 2024 Jan 8;18(1):wrae054. doi: 10.1093/ismejo/wrae054.
 
 Hypervirulent Klebsiella pneumoniae employs genomic island encoded toxins 
 against bacterial competitors in the gut.
@@ -1679,7 +1736,7 @@ Conflict of interest statement: We declare that the authors do not possess any
 competing financial interests in relation to the work published.
 
 
-22. Microbiol Spectr. 2024 Apr 2;12(4):e0396923. doi: 10.1128/spectrum.03969-23. 
+23. Microbiol Spectr. 2024 Apr 2;12(4):e0396923. doi: 10.1128/spectrum.03969-23. 
 Epub 2024 Mar 5.
 
 Comparison of tet(X4)-containing contigs assembled from metagenomic sequencing 
@@ -1743,7 +1800,7 @@ PMID: 38441466 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-23. Allergy. 2024 Jun;79(6):1470-1484. doi: 10.1111/all.16044. Epub 2024 Feb 3.
+24. Allergy. 2024 Jun;79(6):1470-1484. doi: 10.1111/all.16044. Epub 2024 Feb 3.
 
 The skin microbiome in pediatric atopic dermatitis and food allergy.
 
@@ -1790,8 +1847,8 @@ Conflict of interest statement: Conflict of Interest Statement The authors
 declared no conflicts of interest
 
 
-24. mSphere. 2024 Feb 28;9(2):e0078123. doi: 10.1128/msphere.00781-23. Epub 2024 Feb 
-2.
+25. mSphere. 2024 Feb 28;9(2):e0078123. doi: 10.1128/msphere.00781-23. Epub 2024
+Feb  2.
 
 Short-chain fatty acids of various lengths differentially inhibit Klebsiella 
 pneumoniae and Enterobacteriaceae species.
@@ -1850,7 +1907,7 @@ PMID: 38305176 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-25. BMC Bioinformatics. 2024 Jan 11;25(1):15. doi: 10.1186/s12859-024-05634-8.
+26. BMC Bioinformatics. 2024 Jan 11;25(1):15. doi: 10.1186/s12859-024-05634-8.
 
 Comparative analysis of metagenomic classifiers for long-read sequencing 
 datasets.
@@ -1923,8 +1980,8 @@ diploid assembler jointly funded by AI Singapore and Oxford Nanopore
 Technologies. The other authors do not have competing interests.
 
 
-26. Nat Microbiol. 2023 May;8(5):973-985. doi: 10.1038/s41564-023-01350-w. Epub 2023 
-Mar 30.
+27. Nat Microbiol. 2023 May;8(5):973-985. doi: 10.1038/s41564-023-01350-w. Epub
+2023  Mar 30.
 
 No evidence for a common blood microbiome based on a population study of 9,770 
 healthy humans.
@@ -1981,7 +2038,7 @@ PMID: 36997797 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no competing interests.
 
 
-27. Int J Mol Sci. 2023 Jan 5;24(2):1042. doi: 10.3390/ijms24021042.
+28. Int J Mol Sci. 2023 Jan 5;24(2):1042. doi: 10.3390/ijms24021042.
 
 Profiling Microbial Communities in Idiopathic Granulomatous Mastitis.
 
@@ -2063,7 +2120,7 @@ PMID: 36674562 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-28. Nucleic Acids Res. 2023 Jan 6;51(D1):D1242-D1248. doi: 10.1093/nar/gkac911.
+29. Nucleic Acids Res. 2023 Jan 6;51(D1):D1242-D1248. doi: 10.1093/nar/gkac911.
 
 CREAMMIST: an integrative probabilistic database for cancer drug response 
 prediction.
@@ -2105,7 +2162,7 @@ PMCID: PMC9825458
 PMID: 36259664 [Indexed for MEDLINE]
 
 
-29. Nat Commun. 2022 Oct 13;13(1):6044. doi: 10.1038/s41467-022-33782-z.
+30. Nat Commun. 2022 Oct 13;13(1):6044. doi: 10.1038/s41467-022-33782-z.
 
 Genome-centric analysis of short and long read metagenomes reveals 
 uncharacterized microbiome diversity in Southeast Asians.
@@ -2169,7 +2226,7 @@ PMID: 36229545 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no competing interests.
 
 
-30. Commun Biol. 2022 Sep 15;5(1):967. doi: 10.1038/s42003-022-03940-6.
+31. Commun Biol. 2022 Sep 15;5(1):967. doi: 10.1038/s42003-022-03940-6.
 
 Genome assembly and chemogenomic profiling of National Flower of Singapore 
 Papilionanthe Miss Joaquim 'Agnes' reveals metabolic pathways regulating floral 
@@ -2236,8 +2293,8 @@ PMID: 36109650 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no competing interests.
 
 
-31. Nat Microbiol. 2022 Oct;7(10):1516-1524. doi: 10.1038/s41564-022-01221-w. Epub 
-2022 Sep 15.
+32. Nat Microbiol. 2022 Oct;7(10):1516-1524. doi: 10.1038/s41564-022-01221-w.
+Epub  2022 Sep 15.
 
 Long-term ecological and evolutionary dynamics in the gut microbiomes of 
 carbapenemase-producing Enterobacteriaceae colonized subjects.
@@ -2288,7 +2345,7 @@ PMID: 36109646 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no competing interests.
 
 
-32. BMC Ecol Evol. 2022 Sep 3;22(1):106. doi: 10.1186/s12862-022-02057-y.
+33. BMC Ecol Evol. 2022 Sep 3;22(1):106. doi: 10.1186/s12862-022-02057-y.
 
 Genomic patterns of divergence in the early and late steps of speciation of the 
 deep-sea vent thermophilic worms of the genus Alvinella.
@@ -2366,7 +2423,7 @@ PMID: 36057769 [Indexed for MEDLINE]
 Conflict of interest statement: All the authors declare no competing interests.
 
 
-33. Front Med (Lausanne). 2022 Aug 1;9:964640. doi: 10.3389/fmed.2022.964640. 
+34. Front Med (Lausanne). 2022 Aug 1;9:964640. doi: 10.3389/fmed.2022.964640. 
 eCollection 2022.
 
 Clonal serotype 1c multidrug-resistant Shigella flexneri detected in multiple 
@@ -2425,7 +2482,7 @@ conducted in the absence of any commercial or financial relationships that could
 be construed as a potential conflict of interest.
 
 
-34. Emerg Infect Dis. 2022 Aug;28(8):1578-1588. doi: 10.3201/eid2808.212542.
+35. Emerg Infect Dis. 2022 Aug;28(8):1578-1588. doi: 10.3201/eid2808.212542.
 
 Dominant Carbapenemase-Encoding Plasmids in Clinical Enterobacterales Isolates 
 and Hypervirulent Klebsiella pneumoniae, Singapore.
@@ -2456,8 +2513,8 @@ PMCID: PMC9328930
 PMID: 35876475 [Indexed for MEDLINE]
 
 
-35. Microbiol Spectr. 2022 Aug 31;10(4):e0084922. doi: 10.1128/spectrum.00849-22. 
-Epub 2022 Jun 14.
+36. Microbiol Spectr. 2022 Aug 31;10(4):e0084922. doi: 10.1128/spectrum.00849-22.
+ Epub 2022 Jun 14.
 
 Mutual Exclusion of Methanobrevibacter Species in the Human Gut Microbiota 
 Facilitates Directed Cultivation of a Candidatus Methanobrevibacter Intestini 
@@ -2515,8 +2572,8 @@ PMID: 35699469 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-36. Microbiol Spectr. 2022 Jun 29;10(3):e0079122. doi: 10.1128/spectrum.00791-22. 
-Epub 2022 May 11.
+37. Microbiol Spectr. 2022 Jun 29;10(3):e0079122. doi: 10.1128/spectrum.00791-22.
+ Epub 2022 May 11.
 
 Emergence of SARS-CoV-2 Spike Mutations during Prolonged Infection in 
 Immunocompromised Hosts.
@@ -2573,7 +2630,8 @@ PMID: 35543562 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-37. NPJ Biofilms Microbiomes. 2022 Apr 11;8(1):24. doi: 10.1038/s41522-022-00287-y.
+38. NPJ Biofilms Microbiomes. 2022 Apr 11;8(1):24. doi:
+10.1038/s41522-022-00287-y.
 
 Gut microbiome responses to dietary intervention with hypocholesterolemic 
 vegetable oils.
@@ -2633,8 +2691,8 @@ O.V.M. are either current or former employees of Wilmar International Limited.
 The authors declare no additional competing interests.
 
 
-38. Nat Methods. 2022 Apr;19(4):429-440. doi: 10.1038/s41592-022-01431-4. Epub 2022 
-Apr 8.
+39. Nat Methods. 2022 Apr;19(4):429-440. doi: 10.1038/s41592-022-01431-4. Epub
+2022  Apr 8.
 
 Critical Assessment of Metagenome Interpretation: the second round of 
 challenges.
@@ -2808,8 +2866,8 @@ Therapeutics. E. Georganas is employed by Intel Corporation. G.U. is employed by
 Amazon.com, Inc. The remaining authors declare no competing interests.
 
 
-39. Nat Microbiol. 2022 Apr;7(4):486-496. doi: 10.1038/s41564-022-01089-w. Epub 2022 
-Apr 1.
+40. Nat Microbiol. 2022 Apr;7(4):486-496. doi: 10.1038/s41564-022-01089-w. Epub
+2022  Apr 1.
 
 Metagenomics-enabled microbial surveillance.
 
@@ -2853,7 +2911,7 @@ DOI: 10.1038/s41564-022-01089-w
 PMID: 35365786 [Indexed for MEDLINE]
 
 
-40. J Allergy Clin Immunol. 2022 Oct;150(4):894-908. doi: 
+41. J Allergy Clin Immunol. 2022 Oct;150(4):894-908. doi: 
 10.1016/j.jaci.2022.01.031. Epub 2022 Mar 19.
 
 Shared signatures and divergence in skin microbiomes of children with atopic 
@@ -2917,8 +2975,8 @@ DOI: 10.1016/j.jaci.2022.01.031
 PMID: 35318044 [Indexed for MEDLINE]
 
 
-41. Microbiol Spectr. 2022 Feb 23;10(1):e0222321. doi: 10.1128/spectrum.02223-21. 
-Epub 2022 Jan 12.
+42. Microbiol Spectr. 2022 Feb 23;10(1):e0222321. doi: 10.1128/spectrum.02223-21.
+ Epub 2022 Jan 12.
 
 SARS-CoV-2 N Gene G29195T Point Mutation May Affect Diagnostic Reverse 
 Transcription-PCR Detection.
@@ -2963,7 +3021,7 @@ PMID: 35019683 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-42. Front Med (Lausanne). 2021 Dec 14;8:790662. doi: 10.3389/fmed.2021.790662. 
+43. Front Med (Lausanne). 2021 Dec 14;8:790662. doi: 10.3389/fmed.2021.790662. 
 eCollection 2021.
 
 CalmBelt: Rapid SARS-CoV-2 Genome Characterization for Outbreak Tracking.
@@ -3027,7 +3085,7 @@ conducted in the absence of any commercial or financial relationships that could
 be construed as a potential conflict of interest.
 
 
-43. Genome Med. 2021 Dec 16;13(1):189. doi: 10.1186/s13073-021-01000-y.
+44. Genome Med. 2021 Dec 16;13(1):189. doi: 10.1186/s13073-021-01000-y.
 
 Predicting heterogeneity in clone-specific therapeutic vulnerabilities using 
 single-cell transcriptomic signatures.
@@ -3076,8 +3134,8 @@ Conflict of interest statement: The authors declare that they have no competing
 interests.
 
 
-44. PLoS Comput Biol. 2021 Sep 8;17(9):e1009343. doi: 10.1371/journal.pcbi.1009343. 
-eCollection 2021 Sep.
+45. PLoS Comput Biol. 2021 Sep 8;17(9):e1009343. doi:
+10.1371/journal.pcbi.1009343.  eCollection 2021 Sep.
 
 BEEM-Static: Accurate inference of ecological interactions from cross-sectional 
 microbiome data.
@@ -3106,8 +3164,8 @@ Conflict of interest statement: The authors have declared that no competing
 interests exist.
 
 
-45. Appl Environ Microbiol. 2021 Sep 28;87(20):e0048821. doi: 10.1128/AEM.00488-21. 
-Epub 2021 Aug 4.
+46. Appl Environ Microbiol. 2021 Sep 28;87(20):e0048821. doi:
+10.1128/AEM.00488-21.  Epub 2021 Aug 4.
 
 Extended-Spectrum β-Lactamase-Producing and mcr-1-Positive Escherichia coli from 
 the Gut Microbiota of Healthy Singaporeans.
@@ -3169,8 +3227,8 @@ PMCID: PMC8478445
 PMID: 34347523 [Indexed for MEDLINE]
 
 
-46. Cell. 2021 Jun 24;184(13):3376-3393.e17. doi: 10.1016/j.cell.2021.05.002. Epub 
-2021 May 26.
+47. Cell. 2021 Jun 24;184(13):3376-3393.e17. doi: 10.1016/j.cell.2021.05.002.
+Epub  2021 May 26.
 
 A global metagenomic map of urban microbiomes and antimicrobial resistance.
 
@@ -3422,7 +3480,7 @@ Biotia and Onegevity Health. D.B. is co-founder and CSO of Poppy Health Inc. The
 other authors declare they have no competing interests that impacted this study.
 
 
-47. BMC Genomics. 2021 May 26;22(1):389. doi: 10.1186/s12864-021-07702-2.
+48. BMC Genomics. 2021 May 26;22(1):389. doi: 10.1186/s12864-021-07702-2.
 
 Evaluating the accuracy of Listeria monocytogenes assemblies from 
 quasimetagenomic samples using long and short reads.
@@ -3493,7 +3551,7 @@ Conflict of interest statement: The authors declare that they have no competing
 interests.
 
 
-48. Bioinformatics. 2021 Aug 4;37(Supplement_1):i76-i83. doi: 
+49. Bioinformatics. 2021 Aug 4;37(Supplement_1):i76-i83. doi: 
 10.1093/bioinformatics/btab299.
 
 TUGDA: task uncertainty guided domain adaptation for robust generalization of 
@@ -3541,8 +3599,8 @@ PMCID: PMC8275325
 PMID: 34000002
 
 
-49. Int J Infect Dis. 2021 Jun;107:1-4. doi: 10.1016/j.ijid.2021.04.012. Epub 2021 
-Apr 16.
+50. Int J Infect Dis. 2021 Jun;107:1-4. doi: 10.1016/j.ijid.2021.04.012. Epub
+2021  Apr 16.
 
 Stool metagenome analysis of patients with Klebsiella pneumoniae liver abscess 
 and their domestic partners.
@@ -3595,7 +3653,7 @@ DOI: 10.1016/j.ijid.2021.04.012
 PMID: 33862216 [Indexed for MEDLINE]
 
 
-50. Nat Biotechnol. 2021 Apr;39(4):520. doi: 10.1038/s41587-021-00889-5.
+51. Nat Biotechnol. 2021 Apr;39(4):520. doi: 10.1038/s41587-021-00889-5.
 
 Publisher Correction: Determination of isoform-specific RNA structure with 
 nanopore long reads.
@@ -3635,7 +3693,7 @@ DOI: 10.1038/s41587-021-00889-5
 PMID: 33758416
 
 
-51. Lancet Microbe. 2021 Apr;2(4):e135-e136. doi: 10.1016/S2666-5247(21)00039-2. 
+52. Lancet Microbe. 2021 Apr;2(4):e135-e136. doi: 10.1016/S2666-5247(21)00039-2. 
 Epub 2021 Feb 24.
 
 COVID-19 drug practices risk antimicrobial resistance evolution.
@@ -3695,7 +3753,7 @@ PMCID: PMC7906697
 PMID: 33655229 [Indexed for MEDLINE]
 
 
-52. Gut Pathog. 2021 Feb 25;13(1):13. doi: 10.1186/s13099-021-00409-5.
+53. Gut Pathog. 2021 Feb 25;13(1):13. doi: 10.1186/s13099-021-00409-5.
 
 Ectopic gut colonization: a metagenomic study of the oral and gut microbiome in 
 Crohn's disease.
@@ -3756,7 +3814,8 @@ Conflict of interest statement: The authors declare that they have no competing
 interests.
 
 
-53. J Antimicrob Chemother. 2021 Apr 13;76(5):1299-1302. doi: 10.1093/jac/dkaa561.
+54. J Antimicrob Chemother. 2021 Apr 13;76(5):1299-1302. doi:
+10.1093/jac/dkaa561.
 
 Household transmission of carbapenemase-producing Enterobacteriaceae: a 
 prospective cohort study.
@@ -3815,7 +3874,7 @@ DOI: 10.1093/jac/dkaa561
 PMID: 33417711 [Indexed for MEDLINE]
 
 
-54. Cell Rep Med. 2020 Jun 23;1(3):100039. doi: 10.1016/j.xcrm.2020.100039. 
+55. Cell Rep Med. 2020 Jun 23;1(3):100039. doi: 10.1016/j.xcrm.2020.100039. 
 eCollection 2020 Jun 23.
 
 Human Tumor-Infiltrating MAIT Cells Display Hallmarks of Bacterial Antigen 
@@ -3871,7 +3930,7 @@ of ImmunoScape Pte. Ltd. and an advisor for Neogene Therapeutics and Nanostring
 Technologies.
 
 
-55. Nat Biotechnol. 2021 Mar;39(3):387. doi: 10.1038/s41587-020-00755-w.
+56. Nat Biotechnol. 2021 Mar;39(3):387. doi: 10.1038/s41587-020-00755-w.
 
 Author Correction: Determination of isoform-specific RNA structure with nanopore 
 long reads.
@@ -3911,7 +3970,7 @@ DOI: 10.1038/s41587-020-00755-w
 PMID: 33184479
 
 
-56. Nat Biotechnol. 2021 Mar;39(3):336-346. doi: 10.1038/s41587-020-0712-z. Epub 
+57. Nat Biotechnol. 2021 Mar;39(3):336-346. doi: 10.1038/s41587-020-0712-z. Epub 
 2020 Oct 26.
 
 Determination of isoform-specific RNA structure with nanopore long reads.
@@ -3967,7 +4026,7 @@ DOI: 10.1038/s41587-020-0712-z
 PMID: 33106685 [Indexed for MEDLINE]
 
 
-57. J Allergy Clin Immunol. 2021 Apr;147(4):1329-1340. doi: 
+58. J Allergy Clin Immunol. 2021 Apr;147(4):1329-1340. doi: 
 10.1016/j.jaci.2020.09.031. Epub 2020 Oct 8.
 
 Atopic dermatitis microbiomes stratify into ecologic dermotypes enabling 
@@ -4041,7 +4100,8 @@ DOI: 10.1016/j.jaci.2020.09.031
 PMID: 33039480 [Indexed for MEDLINE]
 
 
-58. J Antimicrob Chemother. 2020 Dec 1;75(12):3480-3484. doi: 10.1093/jac/dkaa372.
+59. J Antimicrob Chemother. 2020 Dec 1;75(12):3480-3484. doi:
+10.1093/jac/dkaa372.
 
 Emergence of tigecycline- and eravacycline-resistant Tet(X4)-producing 
 Enterobacteriaceae in the gut microbiota of healthy Singaporeans.
@@ -4095,7 +4155,7 @@ DOI: 10.1093/jac/dkaa372
 PMID: 32853333 [Indexed for MEDLINE]
 
 
-59. Emerg Infect Dis. 2020 Sep;26(9):2182-2185. doi: 10.3201/eid2609.190592.
+60. Emerg Infect Dis. 2020 Sep;26(9):2182-2185. doi: 10.3201/eid2609.190592.
 
 Duration of Carbapenemase-Producing Enterobacteriaceae Carriage in Hospital 
 Patients.
@@ -4111,10 +4171,7 @@ with use of antimicrobial drugs.
 
 DOI: 10.3201/eid2609.190592
 PMCID: PMC7454053
-PMID: 32818397 [Indexed for MEDLINE]
-
-
-60. Nat Ecol Evol. 2020 Sep;4(9):1256-1267. doi: 10.1038/s41559-020-1236-0. Epub 
+PMID: 32818397 [Indexed for MEDLINE]61. Nat Ecol Evol. 2020 Sep;4(9):1256-1267. doi: 10.1038/s41559-020-1236-0. Epub 
 2020 Jul 6.
 
 Metagenome-wide association analysis identifies microbial determinants of 
@@ -4183,8 +4240,8 @@ DOI: 10.1038/s41559-020-1236-0
 PMID: 32632261 [Indexed for MEDLINE]
 
 
-61. Nat Med. 2020 Jun;26(6):941-951. doi: 10.1038/s41591-020-0894-4. Epub 2020 Jun 
-8.
+62. Nat Med. 2020 Jun;26(6):941-951. doi: 10.1038/s41591-020-0894-4. Epub 2020
+Jun  8.
 
 Cartography of opportunistic pathogens and antibiotic resistance genes in a 
 tertiary hospital environment.
@@ -4264,7 +4321,8 @@ PMID: 32514171 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no competing interests.
 
 
-62. Gut Pathog. 2020 Feb 3;12:6. doi: 10.1186/s13099-020-0346-1. eCollection 2020.
+63. Gut Pathog. 2020 Feb 3;12:6. doi: 10.1186/s13099-020-0346-1. eCollection
+2020.
 
 Gut microbiota changes in children with autism spectrum disorder: a systematic 
 review.
@@ -4320,7 +4378,7 @@ Conflict of interest statement: Competing interestsThe authors declare that they
 have no competing interests.
 
 
-63. PLoS Biol. 2019 Nov 7;17(11):e3000517. doi: 10.1371/journal.pbio.3000517. 
+64. PLoS Biol. 2019 Nov 7;17(11):e3000517. doi: 10.1371/journal.pbio.3000517. 
 eCollection 2019 Nov.
 
 Boosting natural history research via metagenomic clean-up of crowdsourced 
@@ -4358,7 +4416,7 @@ Conflict of interest statement: The authors have declared that no competing
 interests exist.
 
 
-64. Microbiome. 2019 Aug 22;7(1):118. doi: 10.1186/s40168-019-0729-z.
+65. Microbiome. 2019 Aug 22;7(1):118. doi: 10.1186/s40168-019-0729-z.
 
 An expectation-maximization algorithm enables accurate ecological modeling using 
 longitudinal microbiome sequencing data.
@@ -4414,7 +4472,7 @@ Conflict of interest statement: The authors declare that they have no competing
 interests.
 
 
-65. Microb Cell Fact. 2019 Aug 19;18(1):139. doi: 10.1186/s12934-019-1185-y.
+66. Microb Cell Fact. 2019 Aug 19;18(1):139. doi: 10.1186/s12934-019-1185-y.
 
 Development and application of a transcriptional sensor for detection of 
 heterologous acrylic acid production in E. coli.
@@ -4467,7 +4525,7 @@ therapeutic purposes; the current work has no conflict with the company. All
 other authors declare that they have no competing interests.
 
 
-66. Nat Biotechnol. 2019 Aug;37(8):937-944. doi: 10.1038/s41587-019-0191-2. Epub 
+67. Nat Biotechnol. 2019 Aug;37(8):937-944. doi: 10.1038/s41587-019-0191-2. Epub 
 2019 Jul 29.
 
 Hybrid metagenomic assembly enables high-resolution analysis of resistance 
@@ -4517,138 +4575,6 @@ resistome in human patients.
 
 DOI: 10.1038/s41587-019-0191-2
 PMID: 31359005 [Indexed for MEDLINE]
-
-
-67. Nat Commun. 2019 Jun 17;10(1):2674. doi: 10.1038/s41467-019-09799-2.
-
-Community assessment to advance computational prediction of cancer drug 
-combinations in a pharmacogenomic screen.
-
-Menden MP(1)(2)(3), Wang D(1)(4), Mason MJ(5), Szalai B(6)(7)(8), Bulusu KC(1), 
-Guan Y(9), Yu T(5), Kang J(10), Jeon M(10), Wolfinger R(11), Nguyen T(12), 
-Zaslavskiy M(13); AstraZeneca-Sanger Drug Combination DREAM Consortium; Jang 
-IS(5), Ghazoui Z(1), Ahsen ME(14), Vogel R(14), Neto EC(5), Norman T(5), Tang 
-EKY(1), Garnett MJ(15), Veroli GYD(16), Fawell S(17), Stolovitzky G(14)(18), 
-Guinney J(19), Dry JR(20), Saez-Rodriguez J(21)(22)(23).
-
-Collaborators: Abante J, Abecassis BS, Aben N, Aghamirzaie D, Aittokallio T, 
-Akhtari FS, Al-Lazikani B, Alam T, Allam A, Allen C, de Almeida MP, Altarawy D, 
-Alves V, Amadoz A, Anchang B, Antolin AA, Ash JR, Aznar VR, Ba-Alawi W, Bagheri 
-M, Bajic V, Ball G, Ballester PJ, Baptista D, Bare C, Bateson M, Bender A, 
-Bertrand D, Wijayawardena B, Boroevich KA, Bosdriesz E, Bougouffa S, Bounova G, 
-Brouwer T, Bryant B, Calaza M, Calderone A, Calza S, Capuzzi S, 
-Carbonell-Caballero J, Carlin D, Carter H, Castagnoli L, Celebi R, Cesareni G, 
-Chang H, Chen G, Chen H, Chen H, Cheng L, Chernomoretz A, Chicco D, Cho KH, Cho 
-S, Choi D, Choi J, Choi K, Choi M, Cock M, Coker E, Cortes-Ciriano I, Cserzö M, 
-Cubuk C, Curtis C, Daele DV, Dang CC, Dijkstra T, Dopazo J, Draghici S, Drosou 
-A, Dumontier M, Ehrhart F, Eid FE, ElHefnawi M, Elmarakeby H, van Engelen B, 
-Engin HB, de Esch I, Evelo C, Falcao AO, Farag S, Fernandez-Lozano C, Fisch K, 
-Flobak A, Fornari C, Foroushani ABK, Fotso DC, Fourches D, Friend S, Frigessi A, 
-Gao F, Gao X, Gerold JM, Gestraud P, Ghosh S, Gillberg J, Godoy-Lorite A, 
-Godynyuk L, Godzik A, Goldenberg A, Gomez-Cabrero D, Gonen M, de Graaf C, Gray 
-H, Grechkin M, Guimera R, Guney E, Haibe-Kains B, Han Y, Hase T, He D, He L, 
-Heath LS, Hellton KH, Helmer-Citterich M, Hidalgo MR, Hidru D, Hill SM, 
-Hochreiter S, Hong S, Hovig E, Hsueh YC, Hu Z, Huang JK, Huang RS, Hunyady L, 
-Hwang J, Hwang TH, Hwang W, Hwang Y, Isayev O, Don't Walk OB 4th, Jack J, 
-Jahandideh S, Ji J, Jo Y, Kamola PJ, Kanev GK, Karacosta L, Karimi M, Kaski S, 
-Kazanov M, Khamis AM, Khan SA, Kiani NA, Kim A, Kim J, Kim J, Kim K, Kim K, Kim 
-S, Kim Y, Kim Y, Kirk PDW, Kitano H, Klambauer G, Knowles D, Ko M, Kohn-Luque A, 
-Kooistra AJ, Kuenemann MA, Kuiper M, Kurz C, Kwon M, van Laarhoven T, Laegreid 
-A, Lederer S, Lee H, Lee J, Lee YW, Lepp Aho E, Lewis R, Li J, Li L, Liley J, 
-Lim WK, Lin C, Liu Y, Lopez Y, Low J, Lysenko A, Machado D, Madhukar N, Maeyer 
-D, Malpartida AB, Mamitsuka H, Marabita F, Marchal K, Marttinen P, Mason D, 
-Mazaheri A, Mehmood A, Mehreen A, Michaut M, Miller RA, Mitsopoulos C, Modos D, 
-Moerbeke MV, Moo K, Motsinger-Reif A, Movva R, Muraru S, Muratov E, Mushthofa M, 
-Nagarajan N, Nakken S, Nath A, Neuvial P, Newton R, Ning Z, Niz C, Oliva B, 
-Olsen C, Palmeri A, Panesar B, Papadopoulos S, Park J, Park S, Park S, Pawitan 
-Y, Peluso D, Pendyala S, Peng J, Perfetto L, Pirro S, Plevritis S, Politi R, 
-Poon H, Porta E, Prellner I, Preuer K, Pujana MA, Ramnarine R, Reid JE, Reyal F, 
-Richardson S, Ricketts C, Rieswijk L, Rocha M, Rodriguez-Gonzalvez C, Roell K, 
-Rotroff D, de Ruiter JR, Rukawa P, Sadacca B, Safikhani Z, Safitri F, 
-Sales-Pardo M, Sauer S, Schlichting M, Seoane JA, Serra J, Shang MM, Sharma A, 
-Sharma H, Shen Y, Shiga M, Shin M, Shkedy Z, Shopsowitz K, Sinai S, Skola D, 
-Smirnov P, Soerensen IF, Soerensen P, Song JH, Song SO, Soufan O, Spitzmueller 
-A, Steipe B, Suphavilai C, Tamayo SP, Tamborero D, Tang J, Tanoli ZU, 
-Tarres-Deulofeu M, Tegner J, Thommesen L, Tonekaboni SAM, Tran H, Troyer E, 
-Truong A, Tsunoda T, Turu G, Tzeng GY, Verbeke L, Videla S, Vis D, Voronkov A, 
-Votis K, Wang A, Wang HH, Wang PW, Wang S, Wang W, Wang X, Wang X, Wennerberg K, 
-Wernisch L, Wessels L, van Westen GJP, Westerman BA, White SR, Willighagen E, 
-Wurdinger T, Xie L, Xie S, Xu H, Yadav B, Yau C, Yeerna H, Yin JW, Yu M, Yu M, 
-Yun SJ, Zakharov A, Zamichos A, Zanin M, Zeng L, Zenil H, Zhang F, Zhang P, 
-Zhang W, Zhao H, Zhao L, Zheng W, Zoufir A, Zucknick M.
-
-Author information:
-(1)Oncology, IMED Biotech Unit, AstraZeneca, Cambridge, SG8 6EH, UK.
-(2)European Bioinformatics Institute, European Molecular Biology Laboratory, 
-Cambridge, CB10 1SD, UK.
-(3)Institute of Computational Biology, Helmholtz Zentrum München - German 
-Research Center for Environmental Health, Munich, D-85764, Germany.
-(4)Sheffield Institute for Translational Neuroscience, University of Sheffield, 
-Sheffield, S10 2TN, UK.
-(5)Sage Bionetworks, Seattle, WA, 98121, USA.
-(6)Department of Physiology, Faculty of Medicine, Semmelweis University, 
-Budapest, 1085, Hungary.
-(7)Laboratory of Molecular Physiology, Hungarian Academy of Sciences and 
-Semmelweis University (MTA-SE), Budapest, 1085, Hungary.
-(8)RWTH Aachen University, Faculty of Medicine, Joint Research Center for 
-Computational Biomedicine, Aachen, 52062, Germany.
-(9)Department of Computational Medicine and Bioinformatics, University of 
-Michigan, Ann Arbor, 48109, USA.
-(10)Department of Computer Science and Engineering, Korea University, Seoul, 
-02841, Korea.
-(11)SAS Institute, Inc, Cary, NC, 27513, USA.
-(12)Department of Computer Science and Engineering, University of Nevada, Reno, 
-89557, USA.
-(13)Independent Consultant in Computational Biology, Owkin, Inc., New York, NY, 
-10022, USA.
-(14)IBM Thomas J. Watson Research Center, Yorktown Heights, New York, 10598, 
-USA.
-(15)Wellcome Trust Sanger Institute, Hinxton, CB10 1SA, UK.
-(16)Early Clinical Development, IMED Biotech Unit, AstraZeneca, Cambridge, SG8 
-6EH, UK.
-(17)Oncology, IMED Biotech Unit, AstraZeneca, R&D Boston, Waltham, MA, 02451, 
-USA.
-(18)Department of Genetics and Genomic Sciences, Icahn School of Medicine at 
-Mount Sinai, New York, 10029, USA.
-(19)Sage Bionetworks, Seattle, WA, 98121, USA. 
-justin.guinney@sagebionetworks.org.
-(20)Oncology, IMED Biotech Unit, AstraZeneca, R&D Boston, Waltham, MA, 02451, 
-USA. jonathan.dry@astrazeneca.com.
-(21)European Bioinformatics Institute, European Molecular Biology Laboratory, 
-Cambridge, CB10 1SD, UK. julio.saez@bioquant.uni-heidelberg.de.
-(22)RWTH Aachen University, Faculty of Medicine, Joint Research Center for 
-Computational Biomedicine, Aachen, 52062, Germany. 
-julio.saez@bioquant.uni-heidelberg.de.
-(23)Heidelberg University, Faculty of Medicine, Institute for Computational 
-Biomedicine, Bioquant, 69120, Heidelberg, Germany. 
-julio.saez@bioquant.uni-heidelberg.de.
-
-The effectiveness of most cancer targeted therapies is short-lived. Tumors often 
-develop resistance that might be overcome with drug combinations. However, the 
-number of possible combinations is vast, necessitating data-driven approaches to 
-find optimal patient-specific treatments. Here we report AstraZeneca's large 
-drug combination dataset, consisting of 11,576 experiments from 910 combinations 
-across 85 molecularly characterized cancer cell lines, and results of a DREAM 
-Challenge to evaluate computational strategies for predicting synergistic drug 
-pairs and biomarkers. 160 teams participated to provide a comprehensive 
-methodological development and benchmarking. Winning methods incorporate prior 
-knowledge of drug-target interactions. Synergy is predicted with an accuracy 
-matching biological replicates for >60% of combinations. However, 20% of drug 
-combinations are poorly predicted by all methods. Genomic rationale for synergy 
-predictions are identified, including ADAM17 inhibitor antagonism when combined 
-with PIK3CB/D inhibition contrasting to synergy when combined with other 
-PI3K-pathway inhibitors in PIK3CA mutant cells.
-
-DOI: 10.1038/s41467-019-09799-2
-PMCID: PMC6572829
-PMID: 31209238 [Indexed for MEDLINE]
-
-Conflict of interest statement: K.C.B., Z.G., G.Y.D., E.K.Y.T., S.F., and J.R.D. 
-are AstraZeneca employees. K.C.B., Z.G., E.K.Y.T., S.F., and J.R.D. are 
-AstraZeneca shareholders. Y.G. receives personal compensation from Eli Lilly and 
-Company, is a shareholder of Cleerly, Inc., and Ann Arbor Algorithms, Inc. M.G. 
-receives research funding from AstraZeneca and has performed consultancy for 
-Sanofi. The remaining authors declare no competing interests.
 
 
 68. Nat Commun. 2019 Mar 29;10(1):1408. doi: 10.1038/s41467-019-09391-8.
@@ -4922,8 +4848,8 @@ PMCID: PMC8045146
 PMID: 30096302
 
 
-71. Eur Respir J. 2018 Jul 27;52(1):1800766. doi: 10.1183/13993003.00766-2018. Print 
-2018 Jul.
+71. Eur Respir J. 2018 Jul 27;52(1):1800766. doi: 10.1183/13993003.00766-2018.
+Print  2018 Jul.
 
 Immunological corollary of the pulmonary mycobiome in bronchiectasis: the CAMEB 
 study.
@@ -5531,8 +5457,8 @@ PMID: 29599443 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no competing interests.
 
 
-77. Cancer Res. 2018 Jan 1;78(1):290-301. doi: 10.1158/0008-5472.CAN-17-1345. Epub 
-2017 Dec 19.
+77. Cancer Res. 2018 Jan 1;78(1):290-301. doi: 10.1158/0008-5472.CAN-17-1345.
+Epub  2017 Dec 19.
 
 ConsensusDriver Improves upon Individual Algorithms for Predicting Driver 
 Alterations in Different Cancer Types and Individual Patients.
@@ -5747,8 +5673,8 @@ DOI: 10.1038/ng.3972
 PMID: 28991254 [Indexed for MEDLINE]
 
 
-81. Nat Methods. 2017 Nov;14(11):1063-1071. doi: 10.1038/nmeth.4458. Epub 2017 Oct 
-2.
+81. Nat Methods. 2017 Nov;14(11):1063-1071. doi: 10.1038/nmeth.4458. Epub 2017
+Oct  2.
 
 Critical Assessment of Metagenome Interpretation-a benchmark of metagenomics 
 software.
@@ -6070,8 +5996,8 @@ DOI: 10.1016/j.cels.2017.04.009
 PMID: 28544881 [Indexed for MEDLINE]
 
 
-86. J Endod. 2017 Jun;43(6):949-955. doi: 10.1016/j.joen.2017.01.020. Epub 2017 Apr 
-27.
+86. J Endod. 2017 Jun;43(6):949-955. doi: 10.1016/j.joen.2017.01.020. Epub 2017
+Apr  27.
 
 Transcriptomics Analysis Reveals Putative Genes Involved in Biofilm Formation 
 and Biofilm-associated Drug Resistance of Enterococcus faecalis.
@@ -6179,8 +6105,8 @@ PMCID: PMC5291986
 PMID: 28174601
 
 
-88. Genome Res. 2017 May;27(5):737-746. doi: 10.1101/gr.214270.116. Epub 2017 Jan 
-18.
+88. Genome Res. 2017 May;27(5):737-746. doi: 10.1101/gr.214270.116. Epub 2017 Jan
+ 18.
 
 Fast and accurate de novo genome assembly from long uncorrected reads.
 
@@ -6295,8 +6221,8 @@ PMCID: PMC4970289
 PMID: 27485345 [Indexed for MEDLINE]
 
 
-91. EBioMedicine. 2016 Jun;8:195-202. doi: 10.1016/j.ebiom.2016.04.034. Epub 2016 
-May 6.
+91. EBioMedicine. 2016 Jun;8:195-202. doi: 10.1016/j.ebiom.2016.04.034. Epub 2016
+ May 6.
 
 Tissue Microbiome Profiling Identifies an Enrichment of Specific Enteric 
 Bacteria in Opisthorchis viverrini Associated Cholangiocarcinoma.
@@ -6376,8 +6302,8 @@ PMCID: PMC4919562
 PMID: 27428430 [Indexed for MEDLINE]
 
 
-92. Bioinformatics. 2016 Oct 1;32(19):2981-7. doi: 10.1093/bioinformatics/btw357. 
-Epub 2016 Jun 16.
+92. Bioinformatics. 2016 Oct 1;32(19):2981-7. doi: 10.1093/bioinformatics/btw357.
+ Epub 2016 Jun 16.
 
 @MInter: automated text-mining of microbial interactions.
 
@@ -6424,8 +6350,8 @@ DOI: 10.1093/bioinformatics/btw357
 PMID: 27312413 [Indexed for MEDLINE]
 
 
-93. Mol Cell. 2016 May 19;62(4):603-17. doi: 10.1016/j.molcel.2016.04.028. Epub 2016 
-May 12.
+93. Mol Cell. 2016 May 19;62(4):603-17. doi: 10.1016/j.molcel.2016.04.028. Epub
+2016  May 12.
 
 In Vivo Mapping of Eukaryotic RNA Interactomes Reveals Principles of 
 Higher-Order Organization and Regulation.
@@ -6544,8 +6470,8 @@ PMCID: PMC4835549
 PMID: 27079541 [Indexed for MEDLINE]
 
 
-96. Methods. 2016 Jun 1;102:12-9. doi: 10.1016/j.ymeth.2016.02.019. Epub 2016 Mar 
-26.
+96. Methods. 2016 Jun 1;102:12-9. doi: 10.1016/j.ymeth.2016.02.019. Epub 2016 Mar
+ 26.
 
 Predicting microbial interactions through computational approaches.
 
@@ -6581,7 +6507,8 @@ DOI: 10.1016/j.ymeth.2016.02.019
 PMID: 27025964 [Indexed for MEDLINE]
 
 
-97. Gigascience. 2016 Jan 19;5:2. doi: 10.1186/s13742-016-0110-0. eCollection 2016.
+97. Gigascience. 2016 Jan 19;5:2. doi: 10.1186/s13742-016-0110-0. eCollection
+2016.
 
 OPTIMA: sensitive and accurate whole-genome alignment of error-prone genomic 
 maps by combinatorial indexing and technology-agnostic statistical analysis.
@@ -6681,7 +6608,8 @@ PMCID: PMC4735693
 PMID: 26783136 [Indexed for MEDLINE]
 
 
-99. Gigascience. 2015 Dec 29;4:65. doi: 10.1186/s13742-015-0106-1. eCollection 2015.
+99. Gigascience. 2015 Dec 29;4:65. doi: 10.1186/s13742-015-0106-1. eCollection
+2015.
 
 Single-molecule optical genome mapping of a human HapMap and a colorectal cancer 
 cell line.
@@ -6898,8 +6826,8 @@ PMCID: PMC4804761
 PMID: 26407694 [Indexed for MEDLINE]
 
 
-103. PLoS Negl Trop Dis. 2015 Sep 1;9(9):e0004044. doi: 10.1371/journal.pntd.0004044. 
-eCollection 2015.
+103. PLoS Negl Trop Dis. 2015 Sep 1;9(9):e0004044. doi:
+10.1371/journal.pntd.0004044.  eCollection 2015.
 
 Analysis of Dengue Virus Genetic Diversity during Human and Mosquito Infection 
 Reveals Genetic Constraints.
@@ -6945,8 +6873,8 @@ Conflict of interest statement: The authors have declared that no competing
 interests exist.
 
 
-104. PLoS Negl Trop Dis. 2015 Sep 1;9(9):e0004052. doi: 10.1371/journal.pntd.0004052. 
-eCollection 2015.
+104. PLoS Negl Trop Dis. 2015 Sep 1;9(9):e0004052. doi:
+10.1371/journal.pntd.0004052.  eCollection 2015.
 
 Tracking Dengue Virus Intra-host Genetic Diversity during Human-to-Mosquito 
 Transmission.
@@ -6997,8 +6925,8 @@ Conflict of interest statement: The authors have declared that no competing
 interests exist.
 
 
-105. Cell Rep. 2015 Jul 14;12(2):272-85. doi: 10.1016/j.celrep.2015.06.020. Epub 2015 
-Jul 2.
+105. Cell Rep. 2015 Jul 14;12(2):272-85. doi: 10.1016/j.celrep.2015.06.020. Epub
+2015  Jul 2.
 
 Recurrent Fusion Genes in Gastric Cancer: CLDN18-ARHGAP26 Induces Loss of 
 Epithelial Integrity.
@@ -7091,7 +7019,8 @@ DOI: 10.1016/j.celrep.2015.06.020
 PMID: 26146084 [Indexed for MEDLINE]
 
 
-106. Nature. 2015 Jun 11;522(7555):173-8. doi: 10.1038/nature14484. Epub 2015 Jun 3.
+106. Nature. 2015 Jun 11;522(7555):173-8. doi: 10.1038/nature14484. Epub 2015 Jun
+3.
 
 Cloning and variation of ground state intestinal stem cells.
 
@@ -7161,68 +7090,7 @@ PMCID: PMC4853906
 PMID: 26040716 [Indexed for MEDLINE]
 
 
-107. Nat Methods. 2015 Jul;12(7):623-30. doi: 10.1038/nmeth.3407. Epub 2015 May 18.
-
-Combining tumor genome simulation with crowdsourcing to benchmark somatic 
-single-nucleotide-variant detection.
-
-Ewing AD(1), Houlahan KE(2), Hu Y(3), Ellrott K(4), Caloian C(2), Yamaguchi 
-TN(2), Bare JC(3), P'ng C(2), Waggott D(2), Sabelnykova VY(2); ICGC-TCGA DREAM 
-Somatic Mutation Calling Challenge participants; Kellen MR(3), Norman TC(3), 
-Haussler D(4), Friend SH(3), Stolovitzky G(5), Margolin AA(6), Stuart JM(4), 
-Boutros PC(7).
-
-Collaborators: Xi L, Dewal N, Fan Y, Wang W, Wheeler D, Wilm A, Ting GH, Li C, 
-Bertrand D, Nagarajan N, Chen QR, Hsu CH, Hu Y, Yan C, Kibbe W, Meerzaman D, 
-Cibulskis K, Rosenberg M, Bergelson L, Kiezun A, Radenbaugh A, Sertier AS, 
-Ferrari A, Tonton L, Bhutani K, Hansen NF, Wang D, Song L, Lai Z, Liao Y, Shi W, 
-Carbonell-Caballero J, Dopazo J, Lau CC, Guinney J.
-
-Author information:
-(1)1] Department of Biomolecular Engineering, University of California, Santa 
-Cruz, Santa Cruz, California, USA. [2] Mater Research Institute, University of 
-Queensland, Woolloongabba, Queensland, Australia.
-(2)Informatics and Biocomputing Program, Ontario Institute for Cancer Research, 
-Toronto, Ontario, Canada.
-(3)Sage Bionetworks, Seattle, Washington, USA.
-(4)Department of Biomolecular Engineering, University of California, Santa Cruz, 
-Santa Cruz, California, USA.
-(5)IBM Computational Biology Center, T.J. Watson Research Center, Yorktown 
-Heights, New York, USA.
-(6)1] Sage Bionetworks, Seattle, Washington, USA. [2] Computational Biology 
-Program, Oregon Health &Science University, Portland, Oregon, USA. [3] 
-Department of Biomedical Engineering, Oregon Health &Science University, 
-Portland, Oregon, USA.
-(7)1] Informatics and Biocomputing Program, Ontario Institute for Cancer 
-Research, Toronto, Ontario, Canada. [2] Department of Medical Biophysics, 
-University of Toronto, Toronto, Ontario, Canada. [3] Department of Pharmacology 
-&Toxicology, University of Toronto, Toronto, Ontario, Canada.
-
-The detection of somatic mutations from cancer genome sequences is key to 
-understanding the genetic basis of disease progression, patient survival and 
-response to therapy. Benchmarking is needed for tool assessment and improvement 
-but is complicated by a lack of gold standards, by extensive resource 
-requirements and by difficulties in sharing personal genomic information. To 
-resolve these issues, we launched the ICGC-TCGA DREAM Somatic Mutation Calling 
-Challenge, a crowdsourced benchmark of somatic mutation detection algorithms. 
-Here we report the BAMSurgeon tool for simulating cancer genomes and the results 
-of 248 analyses of three in silico tumors created with it. Different algorithms 
-exhibit characteristic error profiles, and, intriguingly, false positives show a 
-trinucleotide profile very similar to one found in human tumors. Although the 
-three simulated tumors differ in sequence contamination (deviation from normal 
-cell sequence) and in subclonality, an ensemble of pipelines outperforms the 
-best individual pipeline in all cases. BAMSurgeon is available at 
-https://github.com/adamewing/bamsurgeon/.
-
-DOI: 10.1038/nmeth.3407
-PMCID: PMC4856034
-PMID: 25984700 [Indexed for MEDLINE]
-
-Conflict of interest statement: COMPETING FINANCIAL INTERESTS The authors 
-declare no competing financial interests.
-
-
-108. Genome Biol. 2015 Feb 12;16(1):32. doi: 10.1186/s13059-015-0589-1.
+107. Genome Biol. 2015 Feb 12;16(1):32. doi: 10.1186/s13059-015-0589-1.
 
 High-depth sequencing of over 750 genes supports linear progression of primary 
 tumors and metastases in most patients with liver-limited metastatic colorectal 
@@ -7261,8 +7129,8 @@ PMCID: PMC4365969
 PMID: 25808843 [Indexed for MEDLINE]
 
 
-109. Nucleic Acids Res. 2015 Apr 20;43(7):e44. doi: 10.1093/nar/gku1393. Epub 2015 
-Jan 8.
+108. Nucleic Acids Res. 2015 Apr 20;43(7):e44. doi: 10.1093/nar/gku1393. Epub
+2015  Jan 8.
 
 Patient-specific driver gene prediction and risk assessment through integrated 
 network analysis of cancer omics profiles.
@@ -7312,7 +7180,7 @@ PMCID: PMC4402507
 PMID: 25572314 [Indexed for MEDLINE]
 
 
-110. Genome Biol. 2014 Dec 3;15(12):527. doi: 10.1186/s13059-014-0527-7.
+109. Genome Biol. 2014 Dec 3;15(12):527. doi: 10.1186/s13059-014-0527-7.
 
 The importance of study design for detecting differentially abundant features in 
 high-throughput experiments.
@@ -7335,7 +7203,7 @@ PMCID: PMC4253014
 PMID: 25517037 [Indexed for MEDLINE]
 
 
-111. Genome Biol. 2014;15(11):517. doi: 10.1186/PREACCEPT-6768001251451949.
+110. Genome Biol. 2014;15(11):517. doi: 10.1186/PREACCEPT-6768001251451949.
 
 BAsE-Seq: a method for obtaining long viral haplotypes from short sequence 
 reads.
@@ -7360,7 +7228,7 @@ PMCID: PMC4269956
 PMID: 25406369 [Indexed for MEDLINE]
 
 
-112. Genome Announc. 2014 Oct 2;2(5):e00901-14. doi: 10.1128/genomeA.00901-14.
+111. Genome Announc. 2014 Oct 2;2(5):e00901-14. doi: 10.1128/genomeA.00901-14.
 
 Draft Genome Sequence of Polychlorinated Biphenyl-Dechlorinating Dehalococcoides 
 mccartyi Strain SG1, Which Carries a Circular Putative Plasmid.
@@ -7386,8 +7254,8 @@ PMCID: PMC4183867
 PMID: 25278523
 
 
-113. Genome Res. 2014 Oct;24(10):1559-71. doi: 10.1101/gr.164871.113. Epub 2014 Sep 
-3.
+112. Genome Res. 2014 Oct;24(10):1559-71. doi: 10.1101/gr.164871.113. Epub 2014
+Sep  3.
 
 Systems consequences of amplicon formation in human breast cancer.
 
@@ -7455,7 +7323,7 @@ PMCID: PMC4199368
 PMID: 25186909 [Indexed for MEDLINE]
 
 
-114. Proc Natl Acad Sci U S A. 2014 Aug 19;111(33):12103-8. doi: 
+113. Proc Natl Acad Sci U S A. 2014 Aug 19;111(33):12103-8. doi: 
 10.1073/pnas.1404845111. Epub 2014 Jul 15.
 
 Genomic characterization of three unique Dehalococcoides that respire on 
@@ -7511,7 +7379,7 @@ PMID: 25028492 [Indexed for MEDLINE]
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-115. Nat Commun. 2014 Jul 9;5:4378. doi: 10.1038/ncomms5378.
+114. Nat Commun. 2014 Jul 9;5:4378. doi: 10.1038/ncomms5378.
 
 The Opisthorchis viverrini genome provides insights into life in the bile duct.
 
@@ -7573,7 +7441,7 @@ PMCID: PMC4104445
 PMID: 25007141 [Indexed for MEDLINE]
 
 
-116. Methods Mol Biol. 2014;1138:175-95. doi: 10.1007/978-1-4939-0348-1_12.
+115. Methods Mol Biol. 2014;1138:175-95. doi: 10.1007/978-1-4939-0348-1_12.
 
 Next-generation whole genome sequencing of dengue virus.
 
@@ -7599,7 +7467,7 @@ DOI: 10.1007/978-1-4939-0348-1_12
 PMID: 24696338 [Indexed for MEDLINE]
 
 
-117. Genome Announc. 2013 Jun 27;1(3):e00399-13. doi: 10.1128/genomeA.00399-13.
+116. Genome Announc. 2013 Jun 27;1(3):e00399-13. doi: 10.1128/genomeA.00399-13.
 
 Genome Sequencing of Four Strains of Rickettsia prowazekii, the Causative Agent 
 of Epidemic Typhus, Including One Flying Squirrel Isolate.
@@ -7619,7 +7487,8 @@ PMCID: PMC3695431
 PMID: 23814035
 
 
-118. PLoS One. 2013 Apr 8;8(4):e60811. doi: 10.1371/journal.pone.0060811. Print 2013.
+117. PLoS One. 2013 Apr 8;8(4):e60811. doi: 10.1371/journal.pone.0060811. Print
+2013.
 
 Species identification and profiling of complex microbial communities using 
 shotgun Illumina sequencing of 16S rRNA amplicon sequences.
@@ -7654,7 +7523,8 @@ Conflict of interest statement: Competing Interests: The authors have declared
 that no competing interests exist.
 
 
-119. Nat Rev Genet. 2013 Mar;14(3):157-67. doi: 10.1038/nrg3367. Epub 2013 Jan 29.
+118. Nat Rev Genet. 2013 Mar;14(3):157-67. doi: 10.1038/nrg3367. Epub 2013 Jan
+29.
 
 Sequence assembly demystified.
 
@@ -7678,7 +7548,7 @@ DOI: 10.1038/nrg3367
 PMID: 23358380 [Indexed for MEDLINE]
 
 
-120. Genome Biol. 2012 Dec 13;13(12):R115. doi: 10.1186/gb-2012-13-12-r115.
+119. Genome Biol. 2012 Dec 13;13(12):R115. doi: 10.1186/gb-2012-13-12-r115.
 
 Whole-genome reconstruction and mutational signatures in gastric cancer.
 
@@ -7714,7 +7584,7 @@ PMCID: PMC4056366
 PMID: 23237666 [Indexed for MEDLINE]
 
 
-121. Nat Genet. 2013 Jan;45(1):59-66. doi: 10.1038/ng.2472. Epub 2012 Nov 25.
+120. Nat Genet. 2013 Jan;45(1):59-66. doi: 10.1038/ng.2472. Epub 2012 Nov 25.
 
 The draft genome of sweet orange (Citrus sinensis).
 
@@ -7747,11 +7617,8 @@ resource for understanding and improving many important citrus traits in the
 future.
 
 DOI: 10.1038/ng.2472
-PMID: 23179022 [Indexed for MEDLINE]
-
-
-122. Nucleic Acids Res. 2012 Dec;40(22):11189-201. doi: 10.1093/nar/gks918. Epub 2012 
-Oct 12.
+PMID: 23179022 [Indexed for MEDLINE]121. Nucleic Acids Res. 2012 Dec;40(22):11189-201. doi: 10.1093/nar/gks918. Epub
+2012  Oct 12.
 
 LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering 
 cell-population heterogeneity from high-throughput sequencing datasets.
@@ -7784,7 +7651,8 @@ PMCID: PMC3526318
 PMID: 23066108 [Indexed for MEDLINE]
 
 
-123. PLoS One. 2012;7(9):e46152. doi: 10.1371/journal.pone.0046152. Epub 2012 Sep 28.
+122. PLoS One. 2012;7(9):e46152. doi: 10.1371/journal.pone.0046152. Epub 2012 Sep
+28.
 
 Long span DNA paired-end-tag (DNA-PET) sequencing strategy for the interrogation 
 of genomic structural mutations and fusion-point-guided reconstruction of 
@@ -7828,8 +7696,8 @@ Conflict of interest statement: Competing Interests: The authors have declared
 that no competing interests exist.
 
 
-124. J Infect Dis. 2013 May 1;207(9):1442-50. doi: 10.1093/infdis/jis470. Epub 2012 
-Jul 17.
+123. J Infect Dis. 2013 May 1;207(9):1442-50. doi: 10.1093/infdis/jis470. Epub
+2012  Jul 17.
 
 A randomized, double-blind placebo controlled trial of balapiravir, a polymerase 
 inhibitor, in adult dengue patients.
@@ -7869,7 +7737,7 @@ PMCID: PMC3610419
 PMID: 22807519 [Indexed for MEDLINE]
 
 
-125. Nat Biotechnol. 2012 Aug;30(8):771-6. doi: 10.1038/nbt.2303.
+124. Nat Biotechnol. 2012 Aug;30(8):771-6. doi: 10.1038/nbt.2303.
 
 Genome mapping on nanochannel arrays for structural variation analysis and 
 sequence assembly.
@@ -7906,7 +7774,7 @@ PMCID: PMC3817024
 PMID: 22797562 [Indexed for MEDLINE]
 
 
-126. Nat Genet. 2012 May;44(5):570-4. doi: 10.1038/ng.2246.
+125. Nat Genet. 2012 May;44(5):570-4. doi: 10.1038/ng.2246.
 
 Exome sequencing of gastric adenocarcinoma identifies recurrent somatic 
 mutations in cell adhesion and chromatin remodeling genes.
@@ -7943,7 +7811,7 @@ DOI: 10.1038/ng.2246
 PMID: 22484628 [Indexed for MEDLINE]
 
 
-127. Nat Med. 2012 Mar 18;18(4):521-8. doi: 10.1038/nm.2713.
+126. Nat Med. 2012 Mar 18;18(4):521-8. doi: 10.1038/nm.2713.
 
 A common BIM deletion polymorphism mediates intrinsic resistance and inferior 
 responses to tyrosine kinase inhibitors in cancer.
@@ -7991,8 +7859,8 @@ DOI: 10.1038/nm.2713
 PMID: 22426421 [Indexed for MEDLINE]
 
 
-128. J Comput Biol. 2011 Nov;18(11):1681-91. doi: 10.1089/cmb.2011.0170. Epub 2011 
-Sep 19.
+127. J Comput Biol. 2011 Nov;18(11):1681-91. doi: 10.1089/cmb.2011.0170. Epub
+2011  Sep 19.
 
 Opera: reconstructing optimal genomic scaffolds with high-throughput paired-end 
 sequences.
@@ -8022,7 +7890,8 @@ PMCID: PMC3216105
 PMID: 21929371 [Indexed for MEDLINE]
 
 
-129. Genome Res. 2011 May;21(5):665-75. doi: 10.1101/gr.113555.110. Epub 2011 Apr 5.
+128. Genome Res. 2011 May;21(5):665-75. doi: 10.1101/gr.113555.110. Epub 2011 Apr
+5.
 
 Comprehensive long-span paired-end-tag mapping reveals characteristic patterns 
 of structural variations in epithelial cancer genomes.
@@ -8061,8 +7930,8 @@ PMCID: PMC3083083
 PMID: 21467267 [Indexed for MEDLINE]
 
 
-130. Nucleic Acids Res. 2011 Mar;39(6):e34. doi: 10.1093/nar/gkq1232. Epub 2010 Dec 
-21.
+129. Nucleic Acids Res. 2011 Mar;39(6):e34. doi: 10.1093/nar/gkq1232. Epub 2010
+Dec  21.
 
 GiRaF: robust, computational identification of influenza reassortments via graph 
 mining.
@@ -8099,7 +7968,7 @@ PMCID: PMC3064795
 PMID: 21177643 [Indexed for MEDLINE]
 
 
-131. Methods Mol Biol. 2010;673:1-17. doi: 10.1007/978-1-60761-842-3_1.
+130. Methods Mol Biol. 2010;673:1-17. doi: 10.1007/978-1-60761-842-3_1.
 
 Sequencing and genome assembly using next-generation technologies.
 
@@ -8123,7 +7992,7 @@ DOI: 10.1007/978-1-60761-842-3_1
 PMID: 20835789 [Indexed for MEDLINE]
 
 
-132. BMC Genomics. 2010 Apr 16;11:242. doi: 10.1186/1471-2164-11-242.
+131. BMC Genomics. 2010 Apr 16;11:242. doi: 10.1186/1471-2164-11-242.
 
 Finishing genomes with limited resources: lessons from an ensemble of microbial 
 genomes.
@@ -8155,7 +8024,7 @@ PMCID: PMC2864248
 PMID: 20398345 [Indexed for MEDLINE]
 
 
-133. J Comput Biol. 2010 Mar;17(3):503-16. doi: 10.1089/cmb.2009.0173.
+132. J Comput Biol. 2010 Mar;17(3):503-16. doi: 10.1089/cmb.2009.0173.
 
 Finding biologically accurate clusterings in hierarchical tree decompositions 
 using the variation of information.
@@ -8183,7 +8052,7 @@ DOI: 10.1089/cmb.2009.0173
 PMID: 20377460 [Indexed for MEDLINE]
 
 
-134. BMC Bioinformatics. 2010 Mar 24;11:152. doi: 10.1186/1471-2105-11-152.
+133. BMC Bioinformatics. 2010 Mar 24;11:152. doi: 10.1186/1471-2105-11-152.
 
 Alignment and clustering of phylogenetic markers--implications for microbial 
 diversity studies.
@@ -8219,7 +8088,7 @@ PMCID: PMC2859756
 PMID: 20334679 [Indexed for MEDLINE]
 
 
-135. Genome Biol. 2010 Jan 4;11(1):R1. doi: 10.1186/gb-2010-11-1-r1.
+134. Genome Biol. 2010 Jan 4;11(1):R1. doi: 10.1186/gb-2010-11-1-r1.
 
 Genomic characterization of the Yersinia genus.
 
@@ -8261,7 +8130,7 @@ PMCID: PMC2847712
 PMID: 20047673 [Indexed for MEDLINE]
 
 
-136. PLoS One. 2009 Jul 28;4(7):e6402. doi: 10.1371/journal.pone.0006402.
+135. PLoS One. 2009 Jul 28;4(7):e6402. doi: 10.1371/journal.pone.0006402.
 
 2009 Swine-origin influenza A (H1N1) resembles previous influenza isolates.
 
@@ -8293,7 +8162,7 @@ Conflict of interest statement: Competing Interests: The authors have declared
 that no competing interests exist.
 
 
-137. J Comput Biol. 2009 Jul;16(7):897-908. doi: 10.1089/cmb.2009.0005.
+136. J Comput Biol. 2009 Jul;16(7):897-908. doi: 10.1089/cmb.2009.0005.
 
 Parametric complexity of sequence assembly: theory and applications to next 
 generation sequencing.
@@ -8322,8 +8191,8 @@ DOI: 10.1089/cmb.2009.0005
 PMID: 19580519 [Indexed for MEDLINE]
 
 
-138. J Bacteriol. 2009 Jul;191(14):4693-4. doi: 10.1128/JB.00447-09. Epub 2009 May 
-15.
+137. J Bacteriol. 2009 Jul;191(14):4693-4. doi: 10.1128/JB.00447-09. Epub 2009
+May  15.
 
 Complete genome sequence of Aggregatibacter (Haemophilus) aphrophilus NJ8700.
 
@@ -8346,8 +8215,8 @@ PMCID: PMC2704734
 PMID: 19447908 [Indexed for MEDLINE]
 
 
-139. PLoS Comput Biol. 2009 Apr;5(4):e1000352. doi: 10.1371/journal.pcbi.1000352. 
-Epub 2009 Apr 10.
+138. PLoS Comput Biol. 2009 Apr;5(4):e1000352. doi: 10.1371/journal.pcbi.1000352.
+ Epub 2009 Apr 10.
 
 Statistical methods for detecting differentially abundant features in clinical 
 metagenomic samples.
@@ -8397,7 +8266,7 @@ Conflict of interest statement: The authors have declared that no competing
 interests exist.
 
 
-140. Nature. 2008 Apr 24;452(7190):991-6. doi: 10.1038/nature06856.
+139. Nature. 2008 Apr 24;452(7190):991-6. doi: 10.1038/nature06856.
 
 The draft genome of the transgenic tropical fruit tree papaya (Carica papaya 
 Linnaeus).
@@ -8441,8 +8310,8 @@ PMCID: PMC2836516
 PMID: 18432245 [Indexed for MEDLINE]
 
 
-141. Bioinformatics. 2008 May 15;24(10):1229-35. doi: 10.1093/bioinformatics/btn102. 
-Epub 2008 Mar 20.
+140. Bioinformatics. 2008 May 15;24(10):1229-35. doi:
+10.1093/bioinformatics/btn102.  Epub 2008 Mar 20.
 
 Scaffolding and validation of bacterial genome assemblies using optical 
 restriction maps.
@@ -8474,8 +8343,8 @@ PMCID: PMC2373919
 PMID: 18356192 [Indexed for MEDLINE]
 
 
-142. Bioinformatics. 2008 Feb 15;24(4):577-8. doi: 10.1093/bioinformatics/btm594. 
-Epub 2008 Jan 6.
+141. Bioinformatics. 2008 Feb 15;24(4):577-8. doi: 10.1093/bioinformatics/btm594.
+ Epub 2008 Jan 6.
 
 FAST: Fourier transform based algorithms for significance testing of ungapped 
 multiple alignments.
@@ -8500,7 +8369,8 @@ DOI: 10.1093/bioinformatics/btm594
 PMID: 18180239 [Indexed for MEDLINE]
 
 
-143. Bioinformatics. 2006 Jul 15;22(14):e393-401. doi: 10.1093/bioinformatics/btl245.
+142. Bioinformatics. 2006 Jul 15;22(14):e393-401. doi:
+10.1093/bioinformatics/btl245.
 
 Apples to apples: improving the performance of motif finders and their 
 significance analysis in the Twilight Zone.
@@ -8528,7 +8398,8 @@ DOI: 10.1093/bioinformatics/btl245
 PMID: 16873498 [Indexed for MEDLINE]
 
 
-144. Bioinformatics. 2005 Jun;21 Suppl 1:i311-8. doi: 10.1093/bioinformatics/bti1044.
+143. Bioinformatics. 2005 Jun;21 Suppl 1:i311-8. doi:
+10.1093/bioinformatics/bti1044.
 
 Computing the P-value of the information content from an alignment of multiple 
 sequences.
@@ -8557,8 +8428,8 @@ DOI: 10.1093/bioinformatics/bti1044
 PMID: 15961473 [Indexed for MEDLINE]
 
 
-145. Bioinformatics. 2004 Jun 12;20(9):1335-60. doi: 10.1093/bioinformatics/bth086. 
-Epub 2004 Feb 12.
+144. Bioinformatics. 2004 Jun 12;20(9):1335-60. doi:
+10.1093/bioinformatics/bth086.  Epub 2004 Feb 12.
 
 Automatic prediction of protein domains from sequence information using a hybrid 
 learning system.
