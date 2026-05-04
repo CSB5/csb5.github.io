@@ -1605,11 +1605,35 @@
     - Nagarajan N
     - Cooper BS
     - Marimuthu K
-    doi: 10.1038/s41559-020-1236-0
+    doi: 10.3201/eid2609.190592
     journal: Emerg Infect Dis
     date: 2020-09
     keywords:
     - Environmental Microbiomes
+  - title: Metagenome-wide association analysis identifies microbial determinants
+      of post-antibiotic ecological recovery in the gut
+    authors:
+    - Chng KR
+    - Ghosh TS
+    - Tan YH
+    - Nandi T
+    - Lee IR
+    - Ng AHQ
+    - Li C
+    - Ravikrishnan A
+    - Lim KM
+    - Lye D
+    - Barkham T
+    - Raman K
+    - Chen SL
+    - Chai L
+    - Young B
+    - Gan YH
+    - Nagarajan N
+    doi: 10.1038/s41559-020-1236-0
+    journal: Nat Ecol Evol
+    date: 2020-09
+    keywords:
     - Gut Microbiome
     - Metagenomic Tech
   - title: Cartography of opportunistic pathogens and antibiotic resistance genes
@@ -2968,7 +2992,7 @@
     - Nagarajan N
     - Deng XX
     - Ruan Y
-    doi: 10.1093/nar/gks918
+    doi: 10.1038/ng.2472
     journal: Nat Genet
     date: 2013-01
     keywords: []
@@ -3051,6 +3075,23 @@
     date: '2012-12-13'
     keywords:
     - Metagenomic Tech
+  - title: 'LoFreq: a sequence-quality aware, ultra-sensitive variant caller for uncovering
+      cell-population heterogeneity from high-throughput sequencing datasets'
+    authors:
+    - Wilm A
+    - Aw PP
+    - Bertrand D
+    - Yeo GH
+    - Ong SH
+    - Wong CH
+    - Khor CC
+    - Petric R
+    - Hibberd ML
+    - Nagarajan N
+    doi: 10.1093/nar/gks918
+    journal: Nucleic Acids Res
+    date: 2012-12
+    keywords: []
   - title: Long span DNA paired-end-tag (DNA-PET) sequencing strategy for the interrogation
       of genomic structural mutations and fusion-point-guided reconstruction of amplicons
     authors:

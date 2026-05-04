@@ -24,15 +24,18 @@ MONTHS = {
     "Sep": "09", "Oct": "10", "Nov": "11", "Dec": "12",
 }
 
-ENTRY_START_RE = re.compile(r"^\n\n", re.MULTILINE)
+ENTRY_START_RE = re.compile(r"(?m)(?=^\s*\d+\.\s+[A-Za-z][^\n]*\b(?:19|20)\d{2}\b)")
+GLUED_ENTRY_RE = re.compile(
+    r"(\[Indexed for MEDLINE\]|\bPMID:\s*\d+)(?=\d+\.\s+[A-Za-z])"
+)
 YEAR_CUT_OFF = 2010
 
 
 # ---------- helpers ----------
 
 def split_entries(text: str) -> List[str]:
-    blocks = re.split(ENTRY_START_RE, text)
-    return blocks
+    text = GLUED_ENTRY_RE.sub(r"\1\n\n", text)
+    return [block for block in re.split(ENTRY_START_RE, text) if block.strip()]
 
 
 def normalize_field(s: str) -> str:
