@@ -1,5 +1,5 @@
-1. Nat Methods. 2026 Apr 24. doi: 10.1038/s41592-026-03069-y. Online ahead of 
-print.
+1. Nat Methods. 2026 May;23(5):914-923. doi: 10.1038/s41592-026-03069-y. Epub
+2026  Apr 24.
 
 Direct RNA sequencing and signal alignment reveal RNA structure ensembles in a 
 eukaryotic cell.
@@ -45,7 +45,8 @@ function in diverse transcriptomes.
 © 2026. The Author(s).
 
 DOI: 10.1038/s41592-026-03069-y
-PMID: 42032065
+PMCID: PMC13167473
+PMID: 42032065 [Indexed for MEDLINE]
 
 Conflict of interest statement: Competing interests: The authors declare no 
 competing interests.
@@ -110,6 +111,7 @@ the rigor and standards of tumor microbiome studies.
 © 2026. Springer Nature America, Inc.
 
 DOI: 10.1038/s43018-026-01121-6
+PMCID: PMC13180263
 PMID: 41714823 [Indexed for MEDLINE]
 
 Conflict of interest statement: Competing interests: The authors declare no 
