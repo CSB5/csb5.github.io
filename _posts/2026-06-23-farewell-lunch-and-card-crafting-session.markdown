@@ -21,7 +21,6 @@ After our delicious lunch, we gathered in the seminar room for a card-crafting s
     <img src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/card-crafting-4.jpeg" loading="lazy">
     <img src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/card-crafting-5.jpeg" loading="lazy">
   </div>
-  <em>Working together to create the farewell cards.</em>
 </div>
 
 Thank you to Sarah for organising the farewell lunch, and to Amanda and Kar Mun for hosting the card-crafting session.
