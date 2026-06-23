@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farewell lunch and card-crafting session
+title: Farewell lunch and card-crafting
 description: We gathered for a farewell lunch and card-crafting session to celebrate the four members leaving GIS
 image: '/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/farewell-lunch.jpeg'
 date: 2026-06-23
@@ -20,10 +20,18 @@ After our delicious lunch, we gathered in the seminar room for a card-crafting s
     <img src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/card-crafting-3.jpeg" loading="lazy">
     <img src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/card-crafting-4.jpeg" loading="lazy">
     <img src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/card-crafting-5.jpeg" loading="lazy">
+    <img src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/card-crafting-all.jfif" loading="lazy">
+    <img src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/rafael-cherry.jfif" loading="lazy">
   </div>
 </div>
 
 Thank you to Sarah for organising the farewell lunch, and to Amanda and Kar Mun for hosting the card-crafting session.
+
+
+<video width="100%" controls>
+  <source src="/images/posts/2026-06-23-farewell-lunch-and-card-crafting-session/card-crafting.mp4" type="video/mp4">
+</video>
+
 
 We wish Ming Hao, Rafael, Cherry, and Clarice all the best in their next journey as they leave GIS!
 
