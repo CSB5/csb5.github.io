@@ -34,4 +34,4 @@ Thank you to Sarah for organising the farewell lunch, and to Amanda and Kar Mun 
 <br>
 We wish Ming Hao, Rafael, Cherry, and Clarice all the best in their next journey as they leave GIS!
 
-![](/images/activities/2026-06-10-farewell-lunch-and-card-crafting-session/card-crafting-1.jpeg)
+![](/images/activities/2026-06-10-farewell-lunch-and-card-crafting-session/card-crafting-1.jpeg#wide)
