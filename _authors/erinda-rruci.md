@@ -7,7 +7,7 @@ email: erindarruci@biomed.au.dk
 linkedin: https://www.linkedin.com/in/erinda-rruci-10531a16a/?skipRedirect=true
 ---
 
-**MSc**  &nbsp;&nbsp; / &nbsp;&nbsp; Molecular Biology (University of Padua, Italy)
+**MSc**  &nbsp;&nbsp; / &nbsp;&nbsp; University of Padua, Italy
 
 <br/>
 

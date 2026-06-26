@@ -8,4 +8,4 @@ email: xzhan185@student.ubc.ca
 linkedin: https://www.linkedin.com/in/dylanz13/
 ---
 
-**BSc**  &nbsp;&nbsp; / &nbsp;&nbsp; Computer Science (University of British Columbia)
+**BSc**  &nbsp;&nbsp; / &nbsp;&nbsp; University of British Columbia
