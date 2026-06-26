@@ -1,5 +1,5 @@
 ---
-username: Erinda-Rruci
+username: erinda-rruci
 name: Erinda Rruci
 position: Visiting PhD Student
 image: '/images/members/Erinda_Rruci.jpeg'
