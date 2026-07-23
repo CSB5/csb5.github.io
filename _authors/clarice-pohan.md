@@ -6,6 +6,7 @@ position: Research Officer
 image: '/images/members/Clarice_enlarge.jpg'
 image_fun: '/images/members/Clarice_fun.jpg'
 linkedin: http://linkedin.com/in/clarice-pohan-9a26661ab
+is_alumni: true
 ---
 
 **BSc** &nbsp;&nbsp; / &nbsp;&nbsp; Nanyang Technological University
