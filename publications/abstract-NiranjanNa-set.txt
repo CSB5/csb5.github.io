@@ -517,8 +517,8 @@ Conflict of interest statement: The authors declare that they have no conflicts
 of interest.
 
 
-8. Nat Biotechnol. 2025 Aug 28. doi: 10.1038/s41587-025-02797-4. Online ahead of 
-print.
+8. Nat Biotechnol. 2026 Jul;44(7):1178-1189. doi: 10.1038/s41587-025-02797-4.
+Epub  2025 Aug 28.
 
 Skin metatranscriptomics reveals a landscape of variation in microbial activity 
 and gene expression across the human body.
@@ -564,7 +564,8 @@ identifies active species and microbial functions in situ.
 © 2025. The Author(s).
 
 DOI: 10.1038/s41587-025-02797-4
-PMID: 40877570
+PMCID: PMC13368582
+PMID: 40877570 [Indexed for MEDLINE]
 
 Conflict of interest statement: Competing interests: The authors declare no 
 competing interests.

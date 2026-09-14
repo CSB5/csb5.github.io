@@ -3,6 +3,7 @@ layout: post
 title: Barbecue at Pasir Ris Park
 description: We had a memorable barbeque at the Pasir Ris park! But traditions must be upheld...
 image: '/images/activities/2025-04-25-barbecue/bbq_in_rain.jpg'
+author: sarah-catherine-geiger
 featured: false
 group_activity: true
 ---

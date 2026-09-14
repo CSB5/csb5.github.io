@@ -9,6 +9,7 @@ github: https://github.com/Chiamh
 linkedin: https://www.linkedin.com/in/minghao-chia-ab825114b
 scholar: https://scholar.google.com/citations?user=0Yv4QTIAAAAJ&hl=en
 position: GIS-BII Fellow
+is_alumni: true
 ---
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; Francis Crick Institute<br>

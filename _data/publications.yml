@@ -158,6 +158,21 @@
     keywords:
     - Gut Microbiome
     - Metagenomic Tech
+  - title: Skin metatranscriptomics reveals a landscape of variation in microbial
+      activity and gene expression across the human body
+    authors:
+    - Chia M
+    - Ng AHQ
+    - Ravikrishnan A
+    - Mohamed Naim AN
+    - Wearne S
+    - Common J
+    - Nagarajan N
+    doi: 10.1038/s41587-025-02797-4
+    journal: Nat Biotechnol
+    date: 2026-07
+    keywords:
+    - Skin Microbiome
 - year: 2025
   publications:
   - title: Efficient trace reconstruction in DNA storage systems using bidirectional
@@ -208,21 +223,6 @@
     date: '2025-08-05'
     keywords:
     - Gut Microbiome
-  - title: Skin metatranscriptomics reveals a landscape of variation in microbial
-      activity and gene expression across the human body
-    authors:
-    - Chia M
-    - Ng AHQ
-    - Ravikrishnan A
-    - Mohamed Naim AN
-    - Wearne S
-    - Common J
-    - Nagarajan N
-    doi: 10.1038/s41587-025-02797-4
-    journal: Nat Biotechnol
-    date: '2025-08-28'
-    keywords:
-    - Skin Microbiome
   - title: Challenges and Opportunities in Analyzing Cancer-Associated Microbiomes
     authors:
     - Chia M

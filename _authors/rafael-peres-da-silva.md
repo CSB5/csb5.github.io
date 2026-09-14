@@ -9,6 +9,7 @@ X: https://x.com/rafaelperes
 bluesky: https://bsky.app/profile/rafaelperes.bsky.social 
 scholar: https://scholar.google.com/citations?user=w12iyzIAAAAJ"
 position: Postdoctoral Researcher
+is_alumni: true
 ---
 
 **PhD** &nbsp;&nbsp; / &nbsp;&nbsp; National University of Singapore
