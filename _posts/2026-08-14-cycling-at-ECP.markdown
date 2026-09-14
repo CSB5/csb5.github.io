@@ -27,6 +27,6 @@ The lab recently headed to East Coast Park for a cycling outing along the coast.
   </div>
 </div>
 
-Thank you to Yukkei for organising this outing and to Jonathan for capturing the moments!
+Thank you to Yukkei for organising the outing, and to Jonathan for capturing the moments!
 
 ![](/images/activities/2026-08-14-cycling-at-ECP/ecp-cycling-2.jpeg)
