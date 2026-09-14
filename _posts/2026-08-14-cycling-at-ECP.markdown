@@ -2,7 +2,7 @@
 layout: post
 title: Cycling at East Coast Park
 description: Lab outing spent at East Coast Park cycling and enjoying the views
-image: '/images/activities/2026-08-14-cycling-at-ECP/ecp-cycling-4.jpeg'
+image: '/images/activities/2026-08-14-cycling-at-ECP/ecp-cycling-1.jpeg'
 date: 2026-08-14
 author: ryan-jaya
 featured: false
@@ -11,7 +11,7 @@ group_activity: true
 
 The lab recently headed to East Coast Park for a cycling outing along the coast. It was a nice break from the office and experiments, and we spent the afternoon cycling, chatting, sharing some laughs, and enjoying the views along the way.
 
-![](/images/activities/2026-08-14-cycling-at-ECP/ecp-cycling-1.jpeg)
+![](/images/activities/2026-08-14-cycling-at-ECP/ecp-cycling-4.jpeg)
 
 <div class="gallery-box">
   <div class="gallery">
