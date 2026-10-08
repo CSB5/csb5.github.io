@@ -1,5 +1,65 @@
 - year: 2026
   publications:
+  - title: '"Swab-and-Stain" Nanoparticle Assay for Detection of PBP2a-Expressing
+      Methicillin-Resistant Staphylococcus aureus Toward Point-of-Need Environmental
+      Surveillance'
+    authors:
+    - Sutarlie L
+    - Ow SY
+    - Ko KKK
+    - Suphavilai C
+    - Lim KM
+    - Boonsimma P
+    - Tan DW
+    - Nagarajan N
+    - Su XD
+    doi: 10.3390/microorganisms14091940
+    journal: Microorganisms
+    date: '2026-09-02'
+    keywords:
+    - Environmental Microbiomes
+    - Metagenomic Tech
+  - title: Different gut microbiome dysbioses impact the evolutionary fate of hypervirulent
+      Klebsiella pneumoniae
+    authors:
+    - Lim C
+    - Zheng J
+    - Cheam G
+    - Yong M
+    - Chen H
+    - Ting A
+    - Chen Y
+    - Wang Q
+    - Nagarajan N
+    - Gan YH
+    doi: 10.1002/imt2.70175
+    journal: Imeta
+    date: '2026-09-23'
+    keywords:
+    - Gut Microbiome
+  - title: Microbiome features associated with persistent intestinal carriages of
+      Escherichia coli ST131 in a Southeast Asian cohort study
+    authors:
+    - Low A
+    - Yang Z
+    - Anantaya KT
+    - Zhao S
+    - Tan WC
+    - Perez RL
+    - Chung The H
+    - Lim SZY
+    - Liu L
+    - Gounot JS
+    - Kwah JS
+    - Ong RT
+    - Nagarajan N
+    - Lee JWJ
+    - Mo Y
+    doi: 10.1038/s41467-026-75524-5
+    journal: Nat Commun
+    date: '2026-07-31'
+    keywords:
+    - Gut Microbiome
   - title: Direct RNA sequencing and signal alignment reveal RNA structure ensembles
       in a eukaryotic cell
     authors:
@@ -2937,18 +2997,9 @@
     - Low L
     - Hibberd ML
     - Nagarajan N
-    doi: 10.1371/journal.pone.0060811
+    doi: 10.1038/nrg3367
     journal: PLoS One
     date: '2013-04-08'
-    keywords:
-    - Metagenomic Tech
-  - title: Sequence assembly demystified
-    authors:
-    - Nagarajan N
-    - Pop M
-    doi: 10.1038/nrg3367
-    journal: Nat Rev Genet
-    date: 2013-03
     keywords:
     - Metagenomic Tech
   - title: The draft genome of sweet orange (Citrus sinensis)
