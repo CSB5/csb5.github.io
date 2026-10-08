@@ -9,6 +9,7 @@ email: andrew_ting_chung_jie@a-star.edu.sg
 linkedin: https://www.linkedin.com/in/andrew-ting-26363a10a/
 research_gate: https://www.researchgate.net/profile/Andrew-Ting-3?ev=hdr_xprf
 orcid: https://orcid.org/0000-0003-4202-6199
+is_alumni: true
 ---
 
 **MSc** &nbsp;&nbsp; / &nbsp;&nbsp; Universiti Sains Malaysia<br>
