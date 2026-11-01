@@ -45,7 +45,7 @@ PMID: 42795522
 Conflict of interest statement: The authors declare no conflict of interest.
 
 
-2. Imeta. 2026 Sep 23:e70175. doi: 10.1002/imt2.70175. Online ahead of print.
+2. Imeta. 2026 Sep 23;5(5):e70175. doi: 10.1002/imt2.70175. eCollection 2026 Oct.
 
 Different gut microbiome dysbioses impact the evolutionary fate of hypervirulent 
 Klebsiella pneumoniae.
